@@ -3,1504 +3,705 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>Boutique</title>
+  <title></title>
   <link rel="stylesheet" href="css/style.css" />
 
   <style>
     :root{
-      --vr-bg:
-        radial-gradient(circle at top, rgba(246,231,207,.34) 0, rgba(27,102,136,.22) 28%, rgba(4,12,34,.96) 76%),
-        linear-gradient(180deg, #08101f 0%, #050912 100%);
-      --vr-overlay:none;
+      --vr-bg: radial-gradient(circle at top, #f6e7cf 0, #1b6688 62%, #03279e 100%);
+      --vr-overlay: none;
 
-      --shop-border: rgba(255,255,255,.12);
-      --shop-border-strong: rgba(255,255,255,.18);
-      --shop-glass: rgba(255,255,255,.06);
-      --shop-glass-2: rgba(255,255,255,.08);
-      --shop-deep: rgba(0,0,0,.28);
-      --shop-shadow: 0 18px 40px rgba(0,0,0,.30);
-      --shop-shadow-soft: 0 10px 24px rgba(0,0,0,.24);
-      --shop-radius: 20px;
-      --shop-radius-sm: 14px;
-      --shop-text: rgba(255,255,255,.96);
-      --shop-sub: rgba(255,255,255,.72);
-      --shop-accent: #f6d18c;
-      --shop-accent-2: #ffda98;
-      --shop-active: rgba(255,255,255,.14);
-      --shop-chip: rgba(255,255,255,.08);
-      --shop-buy: linear-gradient(180deg, rgba(255,232,189,.24), rgba(255,203,112,.10));
+      /* compact shop */
+      --shop-card-r: 16px;
+      --shop-card-pad: 12px;
+      --shop-gap: 10px;
+      --shop-icon: 54px;
+      --shop-qty: 16px;
+      --shop-btn-r: 14px;
+      --shop-btn-h: 40px;
+
+      /* cosmetics */
+      --cos-card: 74px;
+      --cos-r: 16px;
+      --cos-gap: 10px;
+      --cos-border: rgba(255,255,255,.10);
+      --cos-bg: rgba(0,0,0,.18);
+      --cos-bg2: rgba(0,0,0,.24);
+      --cos-shadow: 0 14px 28px rgba(0,0,0,.28);
     }
 
-    html, body{
-      min-height:100%;
+    /* =========================
+       TOPBAR (copié du settings qui marche)
+    ========================= */
+    .vr-header{
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      display:block !important;
     }
 
-    body.page-shop-custom{
-      margin:0;
-      color:var(--shop-text);
-      background: var(--vr-bg);
-      overflow-x:hidden;
-    }
-
-    body.page-shop-custom::before{
-      content:"";
-      position:fixed;
-      inset:0;
-      pointer-events:none;
-      background:
-        radial-gradient(700px 260px at 50% -5%, rgba(255,255,255,.12), transparent 55%),
-        radial-gradient(500px 220px at 10% 16%, rgba(255,216,156,.08), transparent 60%),
-        radial-gradient(500px 260px at 90% 12%, rgba(133,197,255,.08), transparent 60%);
-      opacity:.9;
-      z-index:0;
-    }
-
-    .shop-shell{
-      position:relative;
-      z-index:1;
-      width:min(100%, 980px);
-      margin:0 auto;
-      padding:
-        calc(6px + env(safe-area-inset-top))
-        14px
-        calc(20px + env(safe-area-inset-bottom));
-    }
-
-    .shop-header{
-      display:grid;
-      grid-template-columns: 44px 1fr 44px;
+    .vr-top-actions{
+      width:100%;
+      display:flex;
       align-items:center;
+      justify-content:space-between;
       gap:10px;
-      margin-bottom: 6px;
+      padding: calc(8px + env(safe-area-inset-top)) 12px 6px; /* ✅ moins haut */
     }
 
-    .shop-icon-btn{
+    .vr-top-slot{
+      flex:1 1 0;
+      display:flex;
+      align-items:center;
+    }
+
+    .vr-top-left{ justify-content:flex-start; }
+    .vr-top-center{ justify-content:center; }
+    .vr-top-right{ justify-content:flex-end; }
+
+    .vr-icon-button{
       width:44px;
       height:44px;
       border-radius:999px;
-      border:1px solid var(--shop-border);
-      background:rgba(255,255,255,.06);
-      display:flex;
+      border: 1px solid rgba(255,255,255,0.18);
+      background: rgba(0,0,0,0.26);
+      box-shadow: 0 10px 22px rgba(0,0,0,0.22);
+      padding:0;
+      display:inline-flex;
       align-items:center;
       justify-content:center;
+      cursor:pointer;
       text-decoration:none;
-      box-shadow: var(--shop-shadow-soft);
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
+      -webkit-tap-highlight-color: transparent;
     }
 
-    .shop-icon-btn img,
-    .shop-icon-btn svg{
-      width:26px;
-      height:26px;
+    .vr-icon-button:active{ transform: scale(.98); }
+
+    .vr-icon-button img{
+      width:30px;
+      height:30px;
       object-fit:contain;
       display:block;
-      filter: drop-shadow(0 2px 8px rgba(0,0,0,.5));
+      pointer-events:none;
+      user-select:none;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,0.65)) contrast(1.15) brightness(1.08);
     }
 
-    .shop-topline{
-      display:grid;
-      grid-template-columns: minmax(90px, 128px) 1fr minmax(90px, 128px);
-      align-items:center;
-      gap:10px;
-      margin-bottom: 10px;
-    }
-
-    .shop-balance{
-      min-height:46px;
-      border-radius:999px;
-      border:1px solid var(--shop-border);
-      background:rgba(255,255,255,.07);
-      box-shadow: var(--shop-shadow-soft);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      gap:8px;
-      padding:8px 12px;
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
-    }
-
-    .shop-balance img{
+    .vr-back-ico{
       width:24px;
       height:24px;
-      object-fit:contain;
-      filter: drop-shadow(0 4px 10px rgba(0,0,0,.45));
-      flex:0 0 auto;
-    }
-
-    .shop-balance strong{
-      font-size:15px;
-      line-height:1;
-      letter-spacing:.2px;
-      color:var(--shop-text);
-      font-weight:900;
-    }
-
-    .shop-title-wrap{
-      text-align:center;
-      padding-top: 0;
-    }
-
-    .shop-title{
-      margin:0;
-      font-size: clamp(28px, 4vw, 40px);
-      line-height:1;
-      letter-spacing:.4px;
-      color:#f3ead9;
-      text-shadow: 0 10px 20px rgba(0,0,0,.35);
-    }
-
-    .shop-title-decor{
-      width: min(220px, 80%);
-      height: 14px;
-      margin: 4px auto 0;
       display:block;
+      opacity:.98;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,0.65));
+    }
+
+    /* =========================
+       SHOP — compact + petits carrés
+    ========================= */
+
+    /* Titres centrés */
+    .vr-section-title,
+    .vr-profile-title{
+      text-align:center !important;
+      color: rgba(255,255,255,.96) !important;
+      margin-left:auto !important;
+      margin-right:auto !important;
+    }
+
+    /* ✅ réduit espace au-dessus de Boutique */
+    #view-shop .vr-section-title{
+      margin-top: 8px !important;
+      margin-bottom: 10px !important;
+    }
+
+    /* Espacement sections (sans grosse card autour) */
+    .vr-shop-block{
+      margin: 8px 0 14px; /* ✅ plus compact */
+    }
+
+    /* grid 2 colonnes */
+    .vr-shop-grid{
+      display:grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: var(--shop-gap);
+    }
+
+    /* petites cartes OFFRE */
+    .vr-shop-item{
+      position: relative;
+      overflow: hidden;
+      border-radius: var(--shop-card-r);
+      padding: var(--shop-card-pad);
+      border: 1px solid rgba(255,255,255,.10);
+      background: rgba(0,0,0,.22);
+      box-shadow: 0 18px 34px rgba(0,0,0,.30);
+    }
+
+    .vr-shop-item::before{
+      content:"";
+      position:absolute;
+      inset:-1px;
+      pointer-events:none;
+      background:
+        radial-gradient(420px 180px at 20% 12%, rgba(255,255,255,.08), transparent 60%),
+        radial-gradient(420px 220px at 75% 18%, rgba(255,59,59,.10), transparent 60%),
+        linear-gradient(180deg, rgba(255,255,255,.04), transparent 45%);
       opacity:.9;
     }
 
-    .shop-subtitle{
-      margin: 0 0 12px;
-      text-align:center;
-      color: var(--shop-sub);
-      font-size:13px;
-    }
-
-    .shop-panel{
-      border:1px solid var(--shop-border);
-      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.04));
-      border-radius: 24px;
-      box-shadow: var(--shop-shadow);
-      padding: 12px;
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-    }
-
-    .shop-section-head{
+    /* top line: icon + qty */
+    .vr-shop-top{
+      position: relative;
+      z-index: 1;
       display:flex;
       align-items:center;
       justify-content:space-between;
-      gap:10px;
-      margin-bottom:10px;
+      gap: 10px;
+      min-height: 66px;  /* ✅ plus petit */
+      margin-bottom: 10px;
     }
 
-    .shop-section-title{
-      margin:0;
-      font-size:14px;
-      font-weight:900;
-      letter-spacing:.3px;
-      color: rgba(255,255,255,.94);
+    .vr-shop-icon{
+      width: var(--shop-icon);
+      height: var(--shop-icon);
+      max-width: var(--shop-icon);
+      max-height: var(--shop-icon);
+      object-fit: contain;
+      flex: 0 0 auto;
+      filter: drop-shadow(0 16px 26px rgba(0,0,0,.55));
+      user-select:none;
+      pointer-events:none;
     }
 
-    .shop-section-note{
-      font-size:12px;
-      color:var(--shop-sub);
+    .vr-shop-qty{
+      position: relative;
+      z-index: 1;
+      font-weight: 950;
+      font-size: var(--shop-qty);
+      letter-spacing: .2px;
+      color: rgba(255,255,255,.96);
+      text-shadow: 0 12px 24px rgba(0,0,0,.55);
+      line-height: 1;
+      text-align:right;
     }
 
-    .shop-scroll{
+    /* ✅ Boutons : texte BLANC + CENTRÉ */
+    .vr-shop-item .vr-choice-button{
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      border-radius: var(--shop-btn-r);
+      padding: 10px 10px;
+      min-height: var(--shop-btn-h);
+      border: 1px solid rgba(255,255,255,.14);
+      background: rgba(0,0,0,.22);
+      box-shadow: 0 10px 22px rgba(0,0,0,.22);
+
       display:flex;
-      gap:10px;
-      overflow-x:auto;
-      padding-bottom:4px;
-      scrollbar-width:none;
-    }
-
-    .shop-scroll::-webkit-scrollbar{
-      display:none;
-    }
-
-    .universe-card{
-      min-width:122px;
-      max-width:122px;
-      border-radius:18px;
-      padding:10px;
-      border:1px solid var(--shop-border);
-      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.04));
-      box-shadow: var(--shop-shadow-soft);
-      display:flex;
-      flex-direction:column;
       align-items:center;
       justify-content:center;
-      gap:8px;
-      cursor:pointer;
-      transition: transform .16s ease, border-color .16s ease, background .16s ease;
-      user-select:none;
-    }
-
-    .universe-card.active{
-      border-color: rgba(255,230,173,.46);
-      background: linear-gradient(180deg, rgba(255,230,173,.14), rgba(255,255,255,.06));
-      transform: translateY(-1px);
-    }
-
-    .universe-card img{
-      width:48px;
-      height:48px;
-      object-fit:contain;
-      filter: drop-shadow(0 6px 12px rgba(0,0,0,.35));
-      pointer-events:none;
-    }
-
-    .universe-card .u-name{
-      font-size:13px;
-      font-weight:800;
       text-align:center;
-      line-height:1.15;
-      color:var(--shop-text);
-      pointer-events:none;
+
+      color: rgba(255,255,255,.96) !important;
     }
 
-    .category-tabs{
-      display:flex;
-      gap:8px;
-      margin: 12px 0 12px;
-      overflow-x:auto;
-      padding-bottom:2px;
-      scrollbar-width:none;
+    .vr-shop-item .vr-choice-button span{
+      color: inherit !important;
+      opacity: 1 !important;
     }
 
-    .category-tabs::-webkit-scrollbar{
-      display:none;
+    .vr-shop-item .vr-choice-button:active{
+      transform: translateY(1px);
     }
 
-    .category-tab{
-      min-width:108px;
-      height:40px;
-      border-radius:999px;
-      border:1px solid var(--shop-border);
-      background: var(--shop-chip);
-      color: var(--shop-text);
-      font-weight:800;
-      font-size:13px;
-      letter-spacing:.2px;
-      padding:0 14px;
-      cursor:pointer;
-      box-shadow: var(--shop-shadow-soft);
+    /* sécurité: aucune image ne peut dépasser */
+    .vr-shop-item img,
+    .vr-shop-item svg{
+      max-width: 100%;
+      height: auto;
     }
 
-    .category-tab.active{
-      border-color: rgba(255,230,173,.44);
-      background: linear-gradient(180deg, rgba(255,228,175,.20), rgba(255,255,255,.06));
+    /* No Ads + Diamond: image seule centrée */
+    .vr-shop-item[data-sku="vrealms_no_ads"] .vr-shop-top,
+    .vr-shop-item[data-sku="vrealms_diamond"] .vr-shop-top{
+      justify-content: center;
     }
 
-    .shop-layout{
-      display:grid;
-      grid-template-columns: 1.15fr .85fr;
-      gap:12px;
+    /* Status align */
+    #shop-status, #store-status{
+      text-align:center;
+      color: rgba(255,255,255,.86);
     }
 
-    .item-rail{
-      min-width:0;
+    /* ✅ espace plus propre entre Store titre et contenu */
+    .vr-profile-title{
+      margin-top: 10px !important;
+      margin-bottom: 10px !important;
     }
 
-    .item-card{
-      min-width:136px;
-      max-width:136px;
-      border-radius:18px;
-      border:1px solid var(--shop-border);
-      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.04));
-      box-shadow: var(--shop-shadow-soft);
-      padding:10px;
+    /* =========================
+       COSMETICS — sous Store
+       Structure demandée:
+       Store
+       Enfers
+         Fond (scroll)
+         Carte message (scroll)
+         Choix (scroll)
+       Paradis ...
+    ========================= */
+
+    .vr-cosmetics{
+      margin-top: 10px;
       display:flex;
       flex-direction:column;
-      gap:9px;
-      cursor:pointer;
-      transition: transform .16s ease, border-color .16s ease;
+      gap: 16px;
     }
 
-    .item-card.active{
-      border-color: rgba(255,230,173,.44);
-      transform: translateY(-1px);
-    }
-
-    .item-preview{
-      height:82px;
-      border-radius:14px;
-      border:1px solid rgba(255,255,255,.12);
+    .vr-universe-block{
+      border: 1px solid rgba(255,255,255,.10);
+      background: rgba(0,0,0,.18);
+      border-radius: 18px;
+      padding: 12px 12px 10px;
+      box-shadow: 0 18px 34px rgba(0,0,0,.26);
       overflow:hidden;
       position:relative;
-      background:#101828;
     }
 
-    .item-preview.bg-hell-1{
-      background:
-        linear-gradient(180deg, rgba(0,0,0,.12), rgba(0,0,0,.55)),
-        url("assets/img/backgrounds/hell_king_bg.webp") center/cover no-repeat;
-    }
-
-    .item-preview.bg-hell-2{
-      background:
-        linear-gradient(180deg, rgba(0,0,0,.16), rgba(0,0,0,.42)),
-        radial-gradient(circle at 20% 15%, rgba(255,113,64,.35), transparent 36%),
-        linear-gradient(135deg, #1a0808, #4d1711 45%, #210909);
-    }
-
-    .item-preview.bg-hell-3{
-      background:
-        linear-gradient(180deg, rgba(0,0,0,.20), rgba(0,0,0,.46)),
-        radial-gradient(circle at 70% 20%, rgba(255,202,121,.18), transparent 30%),
-        linear-gradient(135deg, #15090e, #28111b 48%, #0b0a18);
-    }
-
-    .item-preview.bg-heaven-1{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,.18)),
-        url("assets/img/backgrounds/heaven_king_bg.png") center/cover no-repeat;
-    }
-
-    .item-preview.bg-heaven-2{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,.12)),
-        radial-gradient(circle at 20% 10%, rgba(255,255,255,.35), transparent 32%),
-        linear-gradient(135deg, #7fd4ff, #5c8eff 50%, #5147d1);
-    }
-
-    .item-preview.bg-heaven-3{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.12), rgba(0,0,0,.18)),
-        radial-gradient(circle at 82% 10%, rgba(255,243,205,.34), transparent 28%),
-        linear-gradient(135deg, #93e2ff, #76c5ff 45%, #7e7cff);
-    }
-
-    .item-preview.bg-west-1{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.22)),
-        url("assets/img/backgrounds/western_president_bg.webp") center/cover no-repeat;
-    }
-
-    .item-preview.bg-west-2{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.05), rgba(0,0,0,.20)),
-        linear-gradient(135deg, #ba8a53, #8e5d35 45%, #3b261c);
-    }
-
-    .item-preview.bg-west-3{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.22)),
-        radial-gradient(circle at 15% 15%, rgba(255,230,181,.22), transparent 35%),
-        linear-gradient(135deg, #c9a173, #865738 50%, #2c1914);
-    }
-
-    .item-preview.msg-hell-1::before,
-    .item-preview.msg-hell-2::before,
-    .item-preview.msg-hell-3::before,
-    .item-preview.msg-heaven-1::before,
-    .item-preview.msg-heaven-2::before,
-    .item-preview.msg-heaven-3::before,
-    .item-preview.choice-hell-1::before,
-    .item-preview.choice-hell-2::before,
-    .item-preview.choice-hell-3::before,
-    .item-preview.choice-heaven-1::before,
-    .item-preview.choice-heaven-2::before,
-    .item-preview.choice-heaven-3::before,
-    .item-preview.choice-west-1::before,
-    .item-preview.choice-west-2::before,
-    .item-preview.choice-west-3::before{
+    .vr-universe-block::before{
       content:"";
       position:absolute;
-      inset:0;
+      inset:-2px;
+      pointer-events:none;
+      background:
+        radial-gradient(520px 220px at 15% 12%, rgba(255,255,255,.08), transparent 60%),
+        radial-gradient(520px 260px at 85% 18%, rgba(255,214,156,.08), transparent 60%),
+        linear-gradient(180deg, rgba(255,255,255,.03), transparent 40%);
+      opacity:.9;
+    }
+
+    .vr-universe-title{
+      position:relative;
+      z-index:1;
+      text-align:center;
+      font-weight: 950;
+      font-size: 18px;
+      letter-spacing:.2px;
+      color: rgba(255,255,255,.96);
+      margin: 2px 0 10px;
+      text-shadow: 0 12px 24px rgba(0,0,0,.55);
+    }
+
+    .vr-cos-row{
+      position:relative;
+      z-index:1;
+      margin: 10px 0 12px;
+    }
+
+    .vr-cos-row:last-child{
+      margin-bottom: 6px;
+    }
+
+    .vr-cos-subtitle{
+      text-align:center;
+      font-weight: 900;
+      font-size: 13px;
+      color: rgba(255,255,255,.92);
+      margin: 0 0 8px;
+      letter-spacing:.15px;
+      opacity:.95;
+    }
+
+    .vr-cos-scroll{
+      display:flex;
+      gap: var(--cos-gap);
+      overflow-x:auto;
+      padding: 2px 2px 6px;
+      -webkit-overflow-scrolling: touch;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: none;
+    }
+
+    .vr-cos-scroll::-webkit-scrollbar{ display:none; }
+
+    .vr-cos-card{
+      flex: 0 0 auto;
+      width: var(--cos-card);
+      height: var(--cos-card);
+      border-radius: var(--cos-r);
+      border: 1px solid var(--cos-border);
+      background: var(--cos-bg2);
+      box-shadow: var(--cos-shadow);
+      position:relative;
+      overflow:hidden;
+      scroll-snap-align: start;
+      cursor:pointer;
+    }
+
+    .vr-cos-card::before{
+      content:"";
+      position:absolute;
+      inset:-1px;
+      pointer-events:none;
+      background:
+        radial-gradient(160px 80px at 20% 18%, rgba(255,255,255,.10), transparent 62%),
+        linear-gradient(180deg, rgba(255,255,255,.05), transparent 55%);
+      opacity:.95;
+    }
+
+    .vr-cos-thumb{
+      position:absolute;
+      inset: 0;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding: 10px;
+      z-index:1;
+    }
+
+    .vr-cos-thumb img{
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      filter: drop-shadow(0 14px 18px rgba(0,0,0,.55));
+      user-select:none;
       pointer-events:none;
     }
 
-    .item-preview.msg-hell-1{
-      background:#0e0d15;
-    }
-
-    .item-preview.msg-hell-1::before{
-      inset:14px 18px;
-      border-radius:14px;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.02)),
-        url("assets/img/ui/hell_card.webp") center/cover no-repeat;
-      border:1px solid rgba(255,255,255,.10);
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,.05);
-    }
-
-    .item-preview.msg-hell-2{
-      background:#120d14;
-    }
-
-    .item-preview.msg-hell-2::before{
-      inset:14px 18px;
-      border-radius:14px;
-      background:
-        linear-gradient(135deg, #2b1116, #5b1818 45%, #180b10);
-      border:1px solid rgba(255,223,167,.18);
-      box-shadow: 0 0 0 1px rgba(255,255,255,.05) inset;
-    }
-
-    .item-preview.msg-hell-3{
-      background:#110f18;
-    }
-
-    .item-preview.msg-hell-3::before{
-      inset:14px 18px;
-      border-radius:14px;
-      background:
-        linear-gradient(135deg, #0e111f, #2f1838 45%, #140f22);
-      border:1px solid rgba(202,176,255,.18);
-    }
-
-    .item-preview.msg-heaven-1{
-      background:#cbe9ff;
-    }
-
-    .item-preview.msg-heaven-1::before{
-      inset:14px 18px;
-      border-radius:14px;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.22), rgba(255,255,255,.12)),
-        url("assets/img/ui/heaven_card.webp") center/cover no-repeat;
-      border:1px solid rgba(255,255,255,.36);
-    }
-
-    .item-preview.msg-heaven-2{
-      background:#d9f3ff;
-    }
-
-    .item-preview.msg-heaven-2::before{
-      inset:14px 18px;
-      border-radius:14px;
-      background: linear-gradient(135deg, #ffffff, #daefff 55%, #bdd8ff);
-      border:1px solid rgba(255,255,255,.65);
-    }
-
-    .item-preview.msg-heaven-3{
-      background:#d8edff;
-    }
-
-    .item-preview.msg-heaven-3::before{
-      inset:14px 18px;
-      border-radius:14px;
-      background: linear-gradient(135deg, #fffdf6, #f2edff 55%, #d7e2ff);
-      border:1px solid rgba(255,255,255,.70);
-    }
-
-    .item-preview.choice-hell-1{
-      background:#0f0d12;
-    }
-
-    .item-preview.choice-hell-1::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02)),
-        url("assets/img/ui/hell_choice.webp") center/cover no-repeat;
-      border:1px solid rgba(255,255,255,.08);
-    }
-
-    .item-preview.choice-hell-2{
-      background:#110e14;
-    }
-
-    .item-preview.choice-hell-2::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background: linear-gradient(180deg, #3e1414, #1f0909);
-      border:1px solid rgba(255,214,156,.16);
-    }
-
-    .item-preview.choice-hell-3{
-      background:#0f0f19;
-    }
-
-    .item-preview.choice-hell-3::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background: linear-gradient(180deg, #2e1a48, #140d20);
-      border:1px solid rgba(212,185,255,.16);
-    }
-
-    .item-preview.choice-heaven-1{
-      background:#def4ff;
-    }
-
-    .item-preview.choice-heaven-1::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.22), rgba(255,255,255,.10)),
-        url("assets/img/ui/heaven_choice.webp") center/cover no-repeat;
-      border:1px solid rgba(255,255,255,.42);
-    }
-
-    .item-preview.choice-heaven-2{
-      background:#e2f6ff;
-    }
-
-    .item-preview.choice-heaven-2::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background: linear-gradient(180deg, #ffffff, #d8efff);
-      border:1px solid rgba(255,255,255,.72);
-    }
-
-    .item-preview.choice-heaven-3{
-      background:#dfefff;
-    }
-
-    .item-preview.choice-heaven-3::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background: linear-gradient(180deg, #fffef7, #e1e7ff);
-      border:1px solid rgba(255,255,255,.72);
-    }
-
-    .item-preview.choice-west-1{
-      background:#1b1512;
-    }
-
-    .item-preview.choice-west-1::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.08), rgba(0,0,0,.08)),
-        url("assets/img/ui/western_choice.webp") center/cover no-repeat;
-      border:1px solid rgba(255,255,255,.10);
-    }
-
-    .item-preview.choice-west-2{
-      background:#211714;
-    }
-
-    .item-preview.choice-west-2::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background: linear-gradient(180deg, #8d5c3a, #5a3321);
-      border:1px solid rgba(255,225,190,.18);
-    }
-
-    .item-preview.choice-west-3{
-      background:#251914;
-    }
-
-    .item-preview.choice-west-3::before{
-      inset:18px 14px;
-      border-radius:999px;
-      background: linear-gradient(180deg, #c28c5e, #73482e);
-      border:1px solid rgba(255,233,206,.18);
-    }
-
-    .item-name{
-      font-size:13px;
-      font-weight:800;
-      line-height:1.15;
-      color:var(--shop-text);
-    }
-
-    .item-meta{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:8px;
-    }
-
-    .item-rarity{
-      font-size:11px;
-      font-weight:800;
-      color: var(--shop-sub);
-      text-transform: uppercase;
-      letter-spacing:.35px;
-    }
-
-    .item-price{
+    .vr-cos-price{
+      position:absolute;
+      right: 6px;
+      bottom: 6px;
+      z-index:2;
       display:inline-flex;
       align-items:center;
       gap:6px;
-      height:28px;
-      padding:0 10px;
-      border-radius:999px;
-      border:1px solid rgba(255,255,255,.12);
-      background: rgba(255,255,255,.06);
-      font-size:12px;
-      font-weight:900;
-      color: var(--shop-text);
+      padding: 6px 8px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,.14);
+      background: rgba(0,0,0,.30);
+      box-shadow: 0 10px 18px rgba(0,0,0,.22);
+      font-weight: 950;
+      font-size: 12px;
+      color: rgba(255,255,255,.96);
+      line-height:1;
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
     }
 
-    .item-price img{
-      width:16px;
-      height:16px;
-      object-fit:contain;
-      filter: drop-shadow(0 2px 6px rgba(0,0,0,.4));
+    .vr-cos-price img{
+      width: 16px;
+      height: 16px;
+      object-fit: contain;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,.55));
     }
 
-    .shop-side{
-      border-radius:20px;
-      border:1px solid var(--shop-border);
-      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.04));
-      box-shadow: var(--shop-shadow-soft);
-      padding:12px;
-      min-width:0;
-    }
-
-    .preview-head{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:10px;
-      margin-bottom:10px;
-    }
-
-    .preview-title{
-      margin:0;
-      font-size:14px;
-      font-weight:900;
-      color: var(--shop-text);
-    }
-
-    .preview-tag{
-      font-size:11px;
-      font-weight:800;
-      color: var(--shop-sub);
-      text-transform: uppercase;
-      letter-spacing:.35px;
-    }
-
-    .preview-stage{
-      min-height: 250px;
-      border-radius:18px;
-      border:1px solid rgba(255,255,255,.12);
-      overflow:hidden;
-      position:relative;
-      background:
-        linear-gradient(180deg, rgba(0,0,0,.10), rgba(0,0,0,.36)),
-        linear-gradient(135deg, #120d15, #241219 45%, #0e0c16);
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,.04);
-    }
-
-    .preview-stage.bg-hell_king{
-      background:
-        linear-gradient(180deg, rgba(0,0,0,.10), rgba(0,0,0,.46)),
-        url("assets/img/backgrounds/hell_king_bg.webp") center/cover no-repeat;
-    }
-
-    .preview-stage.bg-heaven_king{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.08), rgba(0,0,0,.18)),
-        url("assets/img/backgrounds/heaven_king_bg.png") center/cover no-repeat;
-    }
-
-    .preview-stage.bg-western_president{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.22)),
-        url("assets/img/backgrounds/western_president_bg.webp") center/cover no-repeat;
-    }
-
-    .preview-card{
-      position:absolute;
-      left:16px;
-      right:16px;
-      top:20px;
-      min-height:116px;
-      border-radius:18px;
-      padding:16px;
-      border:1px solid rgba(255,255,255,.14);
-      background: rgba(8,10,16,.46);
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
-      box-shadow: 0 14px 26px rgba(0,0,0,.26);
-    }
-
-    .preview-card.theme-msg-hell-1{
-      background:
-        linear-gradient(180deg, rgba(12,7,10,.64), rgba(15,9,11,.60)),
-        url("assets/img/ui/hell_card.webp") center/cover no-repeat;
-      border-color: rgba(255,255,255,.10);
-    }
-
-    .preview-card.theme-msg-hell-2{
-      background: linear-gradient(135deg, rgba(44,16,18,.82), rgba(88,22,22,.72) 48%, rgba(24,10,14,.80));
-      border-color: rgba(255,223,167,.18);
-    }
-
-    .preview-card.theme-msg-hell-3{
-      background: linear-gradient(135deg, rgba(15,16,29,.82), rgba(48,24,57,.72) 48%, rgba(19,15,33,.80));
-      border-color: rgba(201,177,255,.18);
-    }
-
-    .preview-card.theme-msg-heaven-1{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.38), rgba(255,255,255,.18)),
-        url("assets/img/ui/heaven_card.webp") center/cover no-repeat;
-      border-color: rgba(255,255,255,.50);
-      color:#1d2947;
-    }
-
-    .preview-card.theme-msg-heaven-2{
-      background: linear-gradient(135deg, rgba(255,255,255,.92), rgba(223,240,255,.78) 50%, rgba(191,215,255,.68));
-      border-color: rgba(255,255,255,.70);
-      color:#1d2947;
-    }
-
-    .preview-card.theme-msg-heaven-3{
-      background: linear-gradient(135deg, rgba(255,251,240,.92), rgba(236,236,255,.78) 50%, rgba(214,225,255,.68));
-      border-color: rgba(255,255,255,.74);
-      color:#28304b;
-    }
-
-    .preview-card.theme-msg-west-1{
-      background:
-        linear-gradient(180deg, rgba(22,16,12,.62), rgba(35,22,14,.62)),
-        url("assets/img/ui/western_card.webp") center/cover no-repeat;
-      border-color: rgba(255,255,255,.14);
-    }
-
-    .preview-card.theme-msg-west-2{
-      background: linear-gradient(135deg, rgba(92,61,39,.84), rgba(143,96,59,.74) 48%, rgba(57,34,22,.80));
-      border-color: rgba(255,225,190,.18);
-    }
-
-    .preview-card.theme-msg-west-3{
-      background: linear-gradient(135deg, rgba(110,70,44,.84), rgba(194,140,89,.74) 48%, rgba(69,40,25,.80));
-      border-color: rgba(255,235,212,.18);
-    }
-
-    .preview-card h4{
-      margin:0 0 8px;
-      font-size:20px;
-      line-height:1.05;
-    }
-
-    .preview-card p{
-      margin:0;
-      font-size:13px;
-      line-height:1.35;
-      color:inherit;
-      opacity:.92;
-    }
-
-    .preview-choices{
-      position:absolute;
-      left:16px;
-      right:16px;
-      bottom:16px;
-      display:flex;
-      flex-direction:column;
-      gap:10px;
-    }
-
-    .preview-choice{
-      min-height:42px;
-      border-radius:999px;
-      border:1px solid rgba(255,255,255,.14);
-      background: rgba(8,10,16,.52);
-      box-shadow: 0 8px 18px rgba(0,0,0,.20);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      padding:0 12px;
-      font-size:13px;
-      font-weight:800;
-      text-align:center;
-      color:var(--shop-text);
-    }
-
-    .preview-choice.theme-choice-hell-1{
-      background:
-        linear-gradient(180deg, rgba(10,7,9,.68), rgba(20,10,11,.62)),
-        url("assets/img/ui/hell_choice.webp") center/cover no-repeat;
-      border-color: rgba(255,255,255,.10);
-    }
-
-    .preview-choice.theme-choice-hell-2{
-      background: linear-gradient(180deg, rgba(61,20,20,.88), rgba(30,10,10,.88));
-      border-color: rgba(255,223,167,.18);
-    }
-
-    .preview-choice.theme-choice-hell-3{
-      background: linear-gradient(180deg, rgba(48,26,72,.88), rgba(20,13,32,.88));
-      border-color: rgba(201,177,255,.18);
-    }
-
-    .preview-choice.theme-choice-heaven-1{
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.42), rgba(255,255,255,.18)),
-        url("assets/img/ui/heaven_choice.webp") center/cover no-repeat;
-      border-color: rgba(255,255,255,.54);
-      color:#20304c;
-    }
-
-    .preview-choice.theme-choice-heaven-2{
-      background: linear-gradient(180deg, rgba(255,255,255,.96), rgba(224,241,255,.90));
-      border-color: rgba(255,255,255,.74);
-      color:#20304c;
-    }
-
-    .preview-choice.theme-choice-heaven-3{
-      background: linear-gradient(180deg, rgba(255,251,242,.96), rgba(231,237,255,.90));
-      border-color: rgba(255,255,255,.74);
-      color:#2a3551;
-    }
-
-    .preview-choice.theme-choice-west-1{
-      background:
-        linear-gradient(180deg, rgba(22,16,12,.66), rgba(34,21,13,.66)),
-        url("assets/img/ui/western_choice.webp") center/cover no-repeat;
-      border-color: rgba(255,255,255,.14);
-    }
-
-    .preview-choice.theme-choice-west-2{
-      background: linear-gradient(180deg, rgba(143,96,59,.92), rgba(88,51,31,.92));
-      border-color: rgba(255,225,190,.18);
-    }
-
-    .preview-choice.theme-choice-west-3{
-      background: linear-gradient(180deg, rgba(194,140,89,.92), rgba(114,73,44,.92));
-      border-color: rgba(255,235,212,.18);
-    }
-
-    .preview-footer{
-      margin-top:12px;
-      display:flex;
-      flex-direction:column;
-      gap:10px;
-    }
-
-    .selected-name{
-      font-size:14px;
-      font-weight:900;
-      color:var(--shop-text);
-    }
-
-    .selected-desc{
-      font-size:12px;
-      line-height:1.4;
-      color:var(--shop-sub);
-    }
-
-    .preview-actions{
-      display:grid;
-      grid-template-columns: 1fr 1fr;
-      gap:10px;
-    }
-
-    .shop-btn{
-      min-height:44px;
-      border-radius:14px;
-      border:1px solid var(--shop-border-strong);
-      background: rgba(255,255,255,.08);
-      color:var(--shop-text);
-      font-size:13px;
-      font-weight:900;
-      cursor:pointer;
-      box-shadow: var(--shop-shadow-soft);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      gap:8px;
-      text-align:center;
-      padding:0 12px;
-    }
-
-    .shop-btn.primary{
-      background: var(--shop-buy);
-      border-color: rgba(255,221,169,.24);
-    }
-
-    .shop-btn img{
-      width:18px;
-      height:18px;
-      object-fit:contain;
-      filter: drop-shadow(0 2px 6px rgba(0,0,0,.35));
-    }
-
-    .shop-help{
-      margin-top:12px;
-      font-size:12px;
-      color:var(--shop-sub);
-      text-align:center;
-    }
-
-    @media (max-width: 840px){
-      .shop-layout{
-        grid-template-columns: 1fr;
-      }
-    }
-
-    @media (max-width: 560px){
-      .shop-shell{
-        padding-left:10px;
-        padding-right:10px;
-      }
-
-      .shop-topline{
-        grid-template-columns: 92px 1fr 92px;
-        gap:8px;
-      }
-
-      .shop-title{
-        font-size: 30px;
-      }
-
-      .shop-balance{
-        min-height:42px;
-        padding:8px 10px;
-      }
-
-      .shop-balance strong{
-        font-size:14px;
-      }
-
-      .universe-card{
-        min-width:114px;
-        max-width:114px;
-      }
-
-      .item-card{
-        min-width:128px;
-        max-width:128px;
-      }
-
-      .preview-stage{
-        min-height:230px;
-      }
-
-      .preview-card h4{
-        font-size:18px;
+    /* ✅ petits écrans: cartes encore plus compactes */
+    @media (max-width: 380px){
+      :root{
+        --shop-card-pad: 11px;
+        --shop-gap: 9px;
+        --shop-icon: 50px;
+        --shop-qty: 15px;
+        --cos-card: 70px;
       }
     }
   </style>
 </head>
 
-<body class="vr-body page-shop-custom" data-page="shop-custom-demo">
+<body class="vr-body page-shop" data-page="shop">
 
-  <main class="shop-shell">
-
-    <div class="shop-header">
-      <a class="shop-icon-btn" href="index.html" aria-label="Retour">
-        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-          <path fill="white" d="M15.5 5.5a1 1 0 0 1 0 1.4L10.4 12l5.1 5.1a1 1 0 1 1-1.4 1.4l-5.8-5.8a1.2 1.2 0 0 1 0-1.4l5.8-5.8a1 1 0 0 1 1.4 0z"/>
-        </svg>
-      </a>
-
-      <div></div>
-
-      <a class="shop-icon-btn" href="profile.html" aria-label="Profil">
-        <img src="assets/img/ui/btn_profile.webp" alt="" draggable="false">
-      </a>
-    </div>
-
-    <div class="shop-topline">
-      <div class="shop-balance" aria-label="VCoins">
-        <img src="assets/img/ui/vcoins.webp" alt="" draggable="false">
-        <strong id="demo-vcoins">3250</strong>
+  <!-- ✅ HEADER complet : retour index + profil -->
+  <header class="vr-header" aria-label="" data-i18n-aria="shop.aria_top">
+    <div class="vr-top-actions">
+      <div class="vr-top-slot vr-top-left">
+        <a id="btn-back" class="vr-icon-button" href="index.html" aria-label="" data-i18n-aria="common.back">
+          <svg class="vr-back-ico" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path fill="white" d="M15.5 5.5a1 1 0 0 1 0 1.4L10.4 12l5.1 5.1a1 1 0 1 1-1.4 1.4l-5.8-5.8a1.2 1.2 0 0 1 0-1.4l5.8-5.8a1 1 0 0 1 1.4 0z"/>
+          </svg>
+        </a>
       </div>
 
-      <div class="shop-title-wrap">
-        <h1 class="shop-title" data-i18n="shop.title">Boutique</h1>
-        <svg class="shop-title-decor" viewBox="0 0 240 18" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <path d="M7 9H93" stroke="rgba(255,240,214,.7)" stroke-width="1.4" stroke-linecap="round"/>
-          <path d="M147 9H233" stroke="rgba(255,240,214,.7)" stroke-width="1.4" stroke-linecap="round"/>
-          <circle cx="120" cy="9" r="4.3" fill="rgba(255,226,173,.72)"/>
-        </svg>
-      </div>
+      <div class="vr-top-slot vr-top-center"></div>
 
-      <div class="shop-balance" aria-label="Jetons">
-        <strong id="demo-jetons">14</strong>
-        <img src="assets/img/ui/jeton.webp" alt="" draggable="false">
+      <div class="vr-top-slot vr-top-right">
+        <a id="btn-profile" class="vr-icon-button" href="profile.html" aria-label="" data-i18n-aria="shop.aria_profile">
+          <img src="assets/img/ui/btn_profile.webp" alt="" draggable="false" />
+        </a>
       </div>
     </div>
+  </header>
 
-    <p class="shop-subtitle" data-i18n="shop.customize_hint">
-      Choisis un univers, puis débloque des fonds, cartes message et boutons de choix.
-    </p>
+  <main class="vr-main">
+    <section id="view-shop" class="vr-view vr-view-active">
 
-    <section class="shop-panel">
-      <div class="shop-section-head">
-        <h2 class="shop-section-title" data-i18n="shop.universes">Univers</h2>
-        <div class="shop-section-note">Scroll horizontal</div>
-      </div>
+      <!-- ✅ BOUTIQUE centré -->
+      <h2 class="vr-section-title" data-i18n="shop.title"></h2>
 
-      <div class="shop-scroll" id="universe-scroll"></div>
+      <!-- ✅ Rewarded (SANS gros encadré) -->
+      <div class="vr-shop-block">
+        <div class="vr-shop-grid" id="reward-grid">
 
-      <div class="category-tabs" id="category-tabs">
-        <button class="category-tab active" type="button" data-category="background" data-i18n="shop.cat.background">Fond</button>
-        <button class="category-tab" type="button" data-category="message" data-i18n="shop.cat.message">Message</button>
-        <button class="category-tab" type="button" data-category="choice" data-i18n="shop.cat.choice">Choix</button>
-      </div>
-
-      <div class="shop-layout">
-        <div class="item-rail">
-          <div class="shop-section-head" style="margin-bottom:8px;">
-            <h3 class="shop-section-title" id="rail-title">Enfers — Fonds</h3>
-            <div class="shop-section-note" id="rail-note">Objets cosmétiques</div>
+          <div class="vr-shop-item">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/jeton.webp" alt="" draggable="false">
+              <div class="vr-shop-qty" data-i18n="shop.reward_jeton_x1"></div>
+            </div>
+            <button class="vr-choice-button" id="btn-reward-jeton" type="button">
+              <span data-i18n="shop.watch"></span>
+            </button>
           </div>
 
-          <div class="shop-scroll" id="items-scroll"></div>
+          <div class="vr-shop-item">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/vcoins.webp" alt="" draggable="false">
+              <div class="vr-shop-qty" data-i18n="shop.reward_vcoins_x100"></div>
+            </div>
+            <button class="vr-choice-button" id="btn-reward-coins" type="button">
+              <span data-i18n="shop.watch"></span>
+            </button>
+          </div>
+
         </div>
 
-        <aside class="shop-side">
-          <div class="preview-head">
-            <h3 class="preview-title" data-i18n="shop.preview">Aperçu</h3>
-            <span class="preview-tag" id="preview-universe-tag">Enfers</span>
-          </div>
-
-          <div class="preview-stage bg-hell_king" id="preview-stage">
-            <div class="preview-card theme-msg-hell-1" id="preview-card">
-              <h4>Audience de minuit</h4>
-              <p>
-                Les légions attendent ta décision. Une faveur demandée aujourd’hui
-                peut coûter bien plus cher demain.
-              </p>
-            </div>
-
-            <div class="preview-choices">
-              <div class="preview-choice theme-choice-hell-1" id="preview-choice-a">Accorder une faveur risquée</div>
-              <div class="preview-choice theme-choice-hell-1" id="preview-choice-b">Refuser et imposer l’ordre</div>
-            </div>
-          </div>
-
-          <div class="preview-footer">
-            <div class="selected-name" id="selected-name">Fosse royale</div>
-            <div class="selected-desc" id="selected-desc">
-              Variante plus sombre et plus premium pour l’univers sélectionné.
-            </div>
-
-            <div class="preview-actions">
-              <button class="shop-btn" type="button" id="btn-equip-demo">
-                Équiper
-              </button>
-
-              <button class="shop-btn primary" type="button" id="btn-buy-demo">
-                <img src="assets/img/ui/vcoins.webp" alt="" draggable="false">
-                <span id="buy-price-label">650</span>
-              </button>
-            </div>
-          </div>
-        </aside>
+        <p class="vr-profile-text" id="shop-status" style="opacity:.9;margin-top:10px;"></p>
       </div>
 
-      <p class="shop-help">
-        Démo visuelle placeholder. Les achats et l’équipement réel ne sont pas encore branchés dans cette version.
-      </p>
+      <!-- ✅ STORE centré -->
+      <h3 class="vr-profile-title" data-i18n="shop.store_title"></h3>
+
+      <!-- ✅ STORE packs (SANS gros encadré) -->
+      <div class="vr-shop-block">
+        <div class="vr-shop-grid" id="store-grid">
+
+          <div class="vr-shop-item" data-sku="vrealms_jetons_12">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/jeton.webp" alt="" draggable="false">
+              <div class="vr-shop-qty" data-i18n="shop.pack_jetons_12"></div>
+            </div>
+            <button class="vr-choice-button vr-iap-button" type="button" data-iap="vrealms_jetons_12">
+              <span class="vr-iap-label" data-i18n="shop.loading"></span>
+            </button>
+          </div>
+
+          <div class="vr-shop-item" data-sku="vrealms_jetons_30">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/jeton.webp" alt="" draggable="false">
+              <div class="vr-shop-qty" data-i18n="shop.pack_jetons_30"></div>
+            </div>
+            <button class="vr-choice-button vr-iap-button" type="button" data-iap="vrealms_jetons_30">
+              <span class="vr-iap-label" data-i18n="shop.loading"></span>
+            </button>
+          </div>
+
+          <div class="vr-shop-item" data-sku="vrealms_vcoins_500">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/vcoins.webp" alt="" draggable="false">
+              <div class="vr-shop-qty" data-i18n="shop.pack_vcoins_500"></div>
+            </div>
+            <button class="vr-choice-button vr-iap-button" type="button" data-iap="vrealms_vcoins_500">
+              <span class="vr-iap-label" data-i18n="shop.unavailable"></span>
+            </button>
+          </div>
+
+          <div class="vr-shop-item" data-sku="vrealms_vcoins_3000">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/vcoins.webp" alt="" draggable="false">
+              <div class="vr-shop-qty" data-i18n="shop.pack_vcoins_3000"></div>
+            </div>
+            <button class="vr-choice-button vr-iap-button" type="button" data-iap="vrealms_vcoins_3000">
+              <span class="vr-iap-label" data-i18n="shop.loading"></span>
+            </button>
+          </div>
+
+          <div class="vr-shop-item" data-sku="vrealms_no_ads">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/noads.webp" alt="" draggable="false">
+            </div>
+            <button class="vr-choice-button vr-iap-button" type="button" data-iap="vrealms_no_ads">
+              <span class="vr-iap-label" data-i18n="shop.loading"></span>
+            </button>
+          </div>
+
+          <div class="vr-shop-item" data-sku="vrealms_diamond">
+            <div class="vr-shop-top">
+              <img class="vr-shop-icon" src="assets/img/ui/diamond.webp" alt="" draggable="false">
+            </div>
+            <button class="vr-choice-button vr-iap-button" type="button" data-iap="vrealms_diamond">
+              <span class="vr-iap-label" data-i18n="shop.loading"></span>
+            </button>
+          </div>
+
+        </div>
+
+        <p class="vr-profile-text" id="store-status" style="opacity:.9;margin-top:10px;"></p>
+
+        <!-- ✅ NOUVEAU : Personnalisation par univers (placeholders) -->
+        <div class="vr-cosmetics" id="cosmetics-block">
+
+          <!-- ENFERS -->
+          <div class="vr-universe-block" data-universe="hell_king">
+            <div class="vr-universe-title" data-i18n="shop.universe.hell">Enfers</div>
+
+            <div class="vr-cos-row" data-category="background">
+              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.background">Fond</div>
+              <div class="vr-cos-scroll">
+                <div class="vr-cos-card" data-item="hell_bg_01">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>250</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_bg_02">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>400</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_bg_03">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>650</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_bg_04">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>900</span></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="vr-cos-row" data-category="message">
+              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.message">Carte message</div>
+              <div class="vr-cos-scroll">
+                <div class="vr-cos-card" data-item="hell_msg_01">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>200</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_msg_02">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>350</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_msg_03">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>550</span></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="vr-cos-row" data-category="choice">
+              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.choice">Choix</div>
+              <div class="vr-cos-scroll">
+                <div class="vr-cos-card" data-item="hell_choice_01">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>150</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_choice_02">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>250</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="hell_choice_03">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>400</span></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- PARADIS -->
+          <div class="vr-universe-block" data-universe="heaven_king">
+            <div class="vr-universe-title" data-i18n="shop.universe.heaven">Paradis</div>
+
+            <div class="vr-cos-row" data-category="background">
+              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.background">Fond</div>
+              <div class="vr-cos-scroll">
+                <div class="vr-cos-card" data-item="heaven_bg_01">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>250</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="heaven_bg_02">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>450</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="heaven_bg_03">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>700</span></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="vr-cos-row" data-category="message">
+              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.message">Carte message</div>
+              <div class="vr-cos-scroll">
+                <div class="vr-cos-card" data-item="heaven_msg_01">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>220</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="heaven_msg_02">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>360</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="heaven_msg_03">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>580</span></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="vr-cos-row" data-category="choice">
+              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.choice">Choix</div>
+              <div class="vr-cos-scroll">
+                <div class="vr-cos-card" data-item="heaven_choice_01">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>160</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="heaven_choice_02">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>260</span></div>
+                </div>
+                <div class="vr-cos-card" data-item="heaven_choice_03">
+                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
+                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>420</span></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Ajoute autant d’univers que tu veux en copiant le bloc vr-universe-block -->
+        </div>
+
+      </div>
+
     </section>
   </main>
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script src="js/supabaseBootstrap.js"></script>
+
   <script>
     (function () {
-      const DATA = {
-        hell_king: {
-          label: "Enfers",
-          icon: "assets/img/ui/universes/hell_king.webp",
-          previewBgClass: "bg-hell_king",
-          previewMsgDefault: "theme-msg-hell-1",
-          previewChoiceDefault: "theme-choice-hell-1",
-          items: {
-            background: [
-              {
-                id: "hell_bg_01",
-                name: "Fosse royale",
-                rarity: "Rare",
-                price: 650,
-                previewClass: "bg-hell-1",
-                desc: "Fond infernal principal, fort et lisible.",
-                apply: { stageBg: "bg-hell_king" }
-              },
-              {
-                id: "hell_bg_02",
-                name: "Lave obscure",
-                rarity: "Epic",
-                price: 900,
-                previewClass: "bg-hell-2",
-                desc: "Version plus chaude, plus rouge, plus dramatique.",
-                apply: { stageBg: "bg-hell_king" }
-              },
-              {
-                id: "hell_bg_03",
-                name: "Trône du vide",
-                rarity: "Epic",
-                price: 1200,
-                previewClass: "bg-hell-3",
-                desc: "Ambiance nuit violette, plus premium et mystérieuse.",
-                apply: { stageBg: "bg-hell_king" }
-              }
-            ],
-            message: [
-              {
-                id: "hell_msg_01",
-                name: "Carte infernale classique",
-                rarity: "Base",
-                price: 400,
-                previewClass: "msg-hell-1",
-                desc: "La carte message principale des Enfers.",
-                apply: { cardTheme: "theme-msg-hell-1" }
-              },
-              {
-                id: "hell_msg_02",
-                name: "Carte braise rouge",
-                rarity: "Rare",
-                price: 700,
-                previewClass: "msg-hell-2",
-                desc: "Carte message plus chaude, plus noble, plus agressive.",
-                apply: { cardTheme: "theme-msg-hell-2" }
-              },
-              {
-                id: "hell_msg_03",
-                name: "Carte nuit pourpre",
-                rarity: "Epic",
-                price: 1000,
-                previewClass: "msg-hell-3",
-                desc: "Version plus sombre et plus premium pour les textes.",
-                apply: { cardTheme: "theme-msg-hell-3" }
-              }
-            ],
-            choice: [
-              {
-                id: "hell_choice_01",
-                name: "Choix infernal classique",
-                rarity: "Base",
-                price: 350,
-                previewClass: "choice-hell-1",
-                desc: "Boutons de choix dans le style actuel infernal.",
-                apply: { choiceTheme: "theme-choice-hell-1" }
-              },
-              {
-                id: "hell_choice_02",
-                name: "Choix braise rouge",
-                rarity: "Rare",
-                price: 520,
-                previewClass: "choice-hell-2",
-                desc: "Boutons plus chauds avec meilleure présence visuelle.",
-                apply: { choiceTheme: "theme-choice-hell-2" }
-              },
-              {
-                id: "hell_choice_03",
-                name: "Choix nuit pourpre",
-                rarity: "Epic",
-                price: 780,
-                previewClass: "choice-hell-3",
-                desc: "Boutons plus premium avec ambiance violette sombre.",
-                apply: { choiceTheme: "theme-choice-hell-3" }
-              }
-            ]
+      async function ensureBootstrap() {
+        if (window.__vr_bootstrap_ready) return;
+        try {
+          if (typeof window.bootstrapAuthAndProfile === "function") {
+            await window.bootstrapAuthAndProfile();
           }
-        },
+        } catch (_) {}
+        window.__vr_bootstrap_ready = true;
+      }
 
-        heaven_king: {
-          label: "Paradis",
-          icon: "assets/img/ui/universes/heaven_king.webp",
-          previewBgClass: "bg-heaven_king",
-          previewMsgDefault: "theme-msg-heaven-1",
-          previewChoiceDefault: "theme-choice-heaven-1",
-          items: {
-            background: [
-              {
-                id: "heaven_bg_01",
-                name: "Cieux sacrés",
-                rarity: "Rare",
-                price: 650,
-                previewClass: "bg-heaven-1",
-                desc: "Fond céleste lumineux et propre.",
-                apply: { stageBg: "bg-heaven_king" }
-              },
-              {
-                id: "heaven_bg_02",
-                name: "Aube divine",
-                rarity: "Epic",
-                price: 940,
-                previewClass: "bg-heaven-2",
-                desc: "Ciel plus clair avec un rendu plus noble.",
-                apply: { stageBg: "bg-heaven_king" }
-              },
-              {
-                id: "heaven_bg_03",
-                name: "Voile d’ivoire",
-                rarity: "Epic",
-                price: 1180,
-                previewClass: "bg-heaven-3",
-                desc: "Version très premium, douce et lumineuse.",
-                apply: { stageBg: "bg-heaven_king" }
-              }
-            ],
-            message: [
-              {
-                id: "heaven_msg_01",
-                name: "Carte céleste classique",
-                rarity: "Base",
-                price: 400,
-                previewClass: "msg-heaven-1",
-                desc: "Carte message claire et élégante.",
-                apply: { cardTheme: "theme-msg-heaven-1" }
-              },
-              {
-                id: "heaven_msg_02",
-                name: "Carte cristal",
-                rarity: "Rare",
-                price: 720,
-                previewClass: "msg-heaven-2",
-                desc: "Carte lumineuse très lisible pour les longues scènes.",
-                apply: { cardTheme: "theme-msg-heaven-2" }
-              },
-              {
-                id: "heaven_msg_03",
-                name: "Carte ivoire noble",
-                rarity: "Epic",
-                price: 980,
-                previewClass: "msg-heaven-3",
-                desc: "Une version haut de gamme, plus douce et plus premium.",
-                apply: { cardTheme: "theme-msg-heaven-3" }
-              }
-            ],
-            choice: [
-              {
-                id: "heaven_choice_01",
-                name: "Choix céleste classique",
-                rarity: "Base",
-                price: 350,
-                previewClass: "choice-heaven-1",
-                desc: "Boutons clairs du Paradis.",
-                apply: { choiceTheme: "theme-choice-heaven-1" }
-              },
-              {
-                id: "heaven_choice_02",
-                name: "Choix cristal",
-                rarity: "Rare",
-                price: 540,
-                previewClass: "choice-heaven-2",
-                desc: "Version plus nette, plus chic et plus premium.",
-                apply: { choiceTheme: "theme-choice-heaven-2" }
-              },
-              {
-                id: "heaven_choice_03",
-                name: "Choix ivoire",
-                rarity: "Epic",
-                price: 790,
-                previewClass: "choice-heaven-3",
-                desc: "Look très propre pour les choix de l’univers céleste.",
-                apply: { choiceTheme: "theme-choice-heaven-3" }
-              }
-            ]
-          }
-        },
+      ensureBootstrap();
 
-        western_president: {
-          label: "Western",
-          icon: "assets/img/ui/universes/western_president.webp",
-          previewBgClass: "bg-western_president",
-          previewMsgDefault: "theme-msg-west-1",
-          previewChoiceDefault: "theme-choice-west-1",
-          items: {
-            background: [
-              {
-                id: "west_bg_01",
-                name: "Capitole poussière",
-                rarity: "Rare",
-                price: 620,
-                previewClass: "bg-west-1",
-                desc: "Fond western principal avec beaucoup plus de caractère.",
-                apply: { stageBg: "bg-western_president" }
-              },
-              {
-                id: "west_bg_02",
-                name: "Bois brûlé",
-                rarity: "Rare",
-                price: 860,
-                previewClass: "bg-west-2",
-                desc: "Palette plus chaude et plus dure.",
-                apply: { stageBg: "bg-western_president" }
-              },
-              {
-                id: "west_bg_03",
-                name: "Or désert",
-                rarity: "Epic",
-                price: 1120,
-                previewClass: "bg-west-3",
-                desc: "Version western premium très lisible.",
-                apply: { stageBg: "bg-western_president" }
-              }
-            ],
-            message: [
-              {
-                id: "west_msg_01",
-                name: "Carte western classique",
-                rarity: "Base",
-                price: 420,
-                previewClass: "msg-west-1",
-                desc: "Carte message dans le style western actuel.",
-                apply: { cardTheme: "theme-msg-west-1" }
-              },
-              {
-                id: "west_msg_02",
-                name: "Carte cuir brun",
-                rarity: "Rare",
-                price: 700,
-                previewClass: "msg-west-2",
-                desc: "Version plus chaude et plus haut de gamme.",
-                apply: { cardTheme: "theme-msg-west-2" }
-              },
-              {
-                id: "west_msg_03",
-                name: "Carte or désert",
-                rarity: "Epic",
-                price: 970,
-                previewClass: "msg-west-3",
-                desc: "Carte premium pour une ambiance plus noble.",
-                apply: { cardTheme: "theme-msg-west-3" }
-              }
-            ],
-            choice: [
-              {
-                id: "west_choice_01",
-                name: "Choix western classique",
-                rarity: "Base",
-                price: 360,
-                previewClass: "choice-west-1",
-                desc: "Boutons de choix standard western.",
-                apply: { choiceTheme: "theme-choice-west-1" }
-              },
-              {
-                id: "west_choice_02",
-                name: "Choix cuir brun",
-                rarity: "Rare",
-                price: 540,
-                previewClass: "choice-west-2",
-                desc: "Version plus travaillée et plus visible.",
-                apply: { choiceTheme: "theme-choice-west-2" }
-              },
-              {
-                id: "west_choice_03",
-                name: "Choix or désert",
-                rarity: "Epic",
-                price: 790,
-                previewClass: "choice-west-3",
-                desc: "Look premium chaud pour les boutons de décision.",
-                apply: { choiceTheme: "theme-choice-west-3" }
-              }
-            ]
-          }
+      window.vrWaitBootstrap = async function () {
+        if (window.__vr_bootstrap_ready) return true;
+        var t0 = Date.now();
+        while (!window.__vr_bootstrap_ready && (Date.now() - t0) < 3000) {
+          await new Promise(function (r) { setTimeout(r, 50); });
         }
+        return !!window.__vr_bootstrap_ready;
       };
-
-      const universeScroll = document.getElementById("universe-scroll");
-      const itemsScroll = document.getElementById("items-scroll");
-      const tabs = Array.from(document.querySelectorAll(".category-tab"));
-      const railTitle = document.getElementById("rail-title");
-      const previewUniverseTag = document.getElementById("preview-universe-tag");
-      const selectedName = document.getElementById("selected-name");
-      const selectedDesc = document.getElementById("selected-desc");
-      const buyPriceLabel = document.getElementById("buy-price-label");
-      const previewStage = document.getElementById("preview-stage");
-      const previewCard = document.getElementById("preview-card");
-      const previewChoiceA = document.getElementById("preview-choice-a");
-      const previewChoiceB = document.getElementById("preview-choice-b");
-
-      let currentUniverse = "hell_king";
-      let currentCategory = "background";
-      let currentItemId = null;
-
-      function clearClasses(el, prefix) {
-        el.className = Array.from(el.classList).filter(c => !c.startsWith(prefix)).join(" ");
-      }
-
-      function renderUniverses() {
-        universeScroll.innerHTML = "";
-        Object.entries(DATA).forEach(([key, uni]) => {
-          const btn = document.createElement("button");
-          btn.type = "button";
-          btn.className = "universe-card" + (key === currentUniverse ? " active" : "");
-          btn.dataset.universe = key;
-          btn.innerHTML = `
-            <img src="${uni.icon}" alt="" draggable="false">
-            <div class="u-name">${uni.label}</div>
-          `;
-          btn.addEventListener("click", () => {
-            currentUniverse = key;
-            currentItemId = null;
-            renderUniverses();
-            renderItems();
-          });
-          universeScroll.appendChild(btn);
-        });
-      }
-
-      function renderItems() {
-        const uni = DATA[currentUniverse];
-        const items = uni.items[currentCategory] || [];
-        railTitle.textContent = `${uni.label} — ${currentCategory === "background" ? "Fonds" : currentCategory === "message" ? "Messages" : "Choix"}`;
-        previewUniverseTag.textContent = uni.label;
-        itemsScroll.innerHTML = "";
-
-        if (!currentItemId && items[0]) {
-          currentItemId = items[0].id;
-        }
-
-        items.forEach((item) => {
-          const card = document.createElement("button");
-          card.type = "button";
-          card.className = "item-card" + (item.id === currentItemId ? " active" : "");
-          card.dataset.itemId = item.id;
-          card.innerHTML = `
-            <div class="item-preview ${item.previewClass}"></div>
-            <div class="item-name">${item.name}</div>
-            <div class="item-meta">
-              <div class="item-rarity">${item.rarity}</div>
-              <div class="item-price">
-                <img src="assets/img/ui/vcoins.webp" alt="" draggable="false">
-                <span>${item.price}</span>
-              </div>
-            </div>
-          `;
-          card.addEventListener("click", () => {
-            currentItemId = item.id;
-            renderItems();
-          });
-          itemsScroll.appendChild(card);
-        });
-
-        applyPreview();
-      }
-
-      function applyPreview() {
-        const uni = DATA[currentUniverse];
-        const item = (uni.items[currentCategory] || []).find(x => x.id === currentItemId) || (uni.items[currentCategory] || [])[0];
-        if (!item) return;
-
-        selectedName.textContent = item.name;
-        selectedDesc.textContent = item.desc;
-        buyPriceLabel.textContent = item.price;
-
-        previewStage.className = "preview-stage " + uni.previewBgClass;
-        previewCard.className = "preview-card " + uni.previewMsgDefault;
-        previewChoiceA.className = "preview-choice " + uni.previewChoiceDefault;
-        previewChoiceB.className = "preview-choice " + uni.previewChoiceDefault;
-
-        if (item.apply.stageBg) {
-          previewStage.className = "preview-stage " + item.apply.stageBg;
-        }
-        if (item.apply.cardTheme) {
-          previewCard.className = "preview-card " + item.apply.cardTheme;
-        }
-        if (item.apply.choiceTheme) {
-          previewChoiceA.className = "preview-choice " + item.apply.choiceTheme;
-          previewChoiceB.className = "preview-choice " + item.apply.choiceTheme;
-        }
-      }
-
-      tabs.forEach((tab) => {
-        tab.addEventListener("click", () => {
-          tabs.forEach(t => t.classList.remove("active"));
-          tab.classList.add("active");
-          currentCategory = tab.dataset.category;
-          currentItemId = null;
-          renderItems();
-        });
-      });
-
-      document.getElementById("btn-equip-demo").addEventListener("click", () => {
-        const item = DATA[currentUniverse].items[currentCategory].find(x => x.id === currentItemId);
-        if (!item) return;
-        alert("Démo visuelle : " + item.name + " équipé.");
-      });
-
-      document.getElementById("btn-buy-demo").addEventListener("click", () => {
-        const item = DATA[currentUniverse].items[currentCategory].find(x => x.id === currentItemId);
-        if (!item) return;
-        alert("Démo visuelle : achat de " + item.name + " pour " + item.price + " VCoins.");
-      });
-
-      renderUniverses();
-      renderItems();
     })();
   </script>
+
+  <script src="js/userData.js"></script>
+  <script src="js/ads.js"></script>
+  <script src="js/purchases.js"></script>
+  <script src="js/shop.js"></script>
+  <script src="js/i18n.js"></script>
 </body>
 </html>

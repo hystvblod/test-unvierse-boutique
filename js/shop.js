@@ -1,6 +1,6 @@
 // VRealms — shop.js
 // ✅ Boutique uniquement (rewarded + store IAP via purchases.js)
-// ✅ Aucun univers/scénario ici
+// ✅ Ajout placeholders cosmetics (sans toucher à purchases.js)
 
 (function () {
   "use strict";
@@ -19,18 +19,41 @@
     el.textContent = keyOrText || "";
   }
 
+  function wireCosmeticsPlaceholders() {
+    const root = document.getElementById("cosmetics-block");
+    if (!root) return;
+
+    // ✅ Placeholder: click = affiche dans store-status (sans casser IAP)
+    root.addEventListener("click", (e) => {
+      const card = e.target && e.target.closest ? e.target.closest(".vr-cos-card") : null;
+      if (!card) return;
+
+      const universeBlock = card.closest(".vr-universe-block");
+      const row = card.closest(".vr-cos-row");
+
+      const universe = universeBlock ? (universeBlock.getAttribute("data-universe") || "") : "";
+      const category = row ? (row.getAttribute("data-category") || "") : "";
+      const item = card.getAttribute("data-item") || "";
+
+      // ✅ on affiche un statut simple (tu pourras remplacer par achat + equip plus tard)
+      // Pas de texte en dur critique: on laisse juste un message neutre.
+      setStatus("store-status", ""); // reset
+      setStatus("shop-status", "");  // reset
+      setStatus("store-status", universe + " / " + category + " / " + item);
+    }, { passive: true });
+  }
+
   async function boot() {
     try { await window.vrWaitBootstrap?.(); } catch (_) {}
     try { await window.VUserData?.init?.(); } catch (_) {}
     try { await window.VUserData?.refresh?.(); } catch (_) {}
 
-    // Nav boutons (pas de texte en dur)
+    // Nav boutons
     const back = $("btn-back");
     const profile = $("btn-profile");
 
     if (back) {
       back.addEventListener("click", () => {
-        // retour logique : si tu as une page index, on y va, sinon history
         try {
           const ref = document.referrer || "";
           if (ref && ref.includes(location.origin)) history.back();
@@ -52,9 +75,11 @@
     // - iap buttons (data-iap="SKU") + label .vr-iap-label
     // Ici on ne duplique pas la logique pour éviter les conflits.
 
-    // Petit clean des statuts au chargement
     setStatus("shop-status", "");
     setStatus("store-status", "");
+
+    // ✅ cosmetics placeholders
+    wireCosmeticsPlaceholders();
   }
 
   document.addEventListener("DOMContentLoaded", boot);
