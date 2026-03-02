@@ -11,27 +11,23 @@
       --vr-bg: radial-gradient(circle at top, #f6e7cf 0, #1b6688 62%, #03279e 100%);
       --vr-overlay: none;
 
-      /* compact shop */
-      --shop-card-r: 16px;
-      --shop-card-pad: 12px;
       --shop-gap: 10px;
+      --shop-item-radius: 18px;
+      --shop-item-pad: 12px;
       --shop-icon: 54px;
-      --shop-qty: 16px;
-      --shop-btn-r: 14px;
-      --shop-btn-h: 40px;
+      --shop-btn-h: 42px;
 
-      /* cosmetics */
-      --cos-card: 74px;
-      --cos-r: 16px;
-      --cos-gap: 10px;
-      --cos-border: rgba(255,255,255,.10);
-      --cos-bg: rgba(0,0,0,.18);
-      --cos-bg2: rgba(0,0,0,.24);
-      --cos-shadow: 0 14px 28px rgba(0,0,0,.28);
+      --u-gap: 14px;
+      --u-radius: 20px;
+
+      --cos-row-gap: 10px;
+      --cos-arrow: 38px;
+      --cos-card-r: 18px;
+      --cos-card-h: 118px;
     }
 
     /* =========================
-       TOPBAR (copié du settings qui marche)
+       TOPBAR
     ========================= */
     .vr-header{
       position: sticky;
@@ -48,7 +44,7 @@
       align-items:center;
       justify-content:space-between;
       gap:10px;
-      padding: calc(8px + env(safe-area-inset-top)) 12px 6px; /* ✅ moins haut */
+      padding: calc(8px + env(safe-area-inset-top)) 12px 6px;
     }
 
     .vr-top-slot{
@@ -98,10 +94,8 @@
     }
 
     /* =========================
-       SHOP — compact + petits carrés
+       TITRES
     ========================= */
-
-    /* Titres centrés */
     .vr-section-title,
     .vr-profile-title{
       text-align:center !important;
@@ -110,30 +104,34 @@
       margin-right:auto !important;
     }
 
-    /* ✅ réduit espace au-dessus de Boutique */
     #view-shop .vr-section-title{
-      margin-top: 8px !important;
+      margin-top: 4px !important;
       margin-bottom: 10px !important;
     }
 
-    /* Espacement sections (sans grosse card autour) */
-    .vr-shop-block{
-      margin: 8px 0 14px; /* ✅ plus compact */
+    .vr-profile-title{
+      margin-top: 10px !important;
+      margin-bottom: 10px !important;
     }
 
-    /* grid 2 colonnes */
+    /* =========================
+       SHOP / STORE ACTUEL
+    ========================= */
+    .vr-shop-block{
+      margin: 8px 0 12px;
+    }
+
     .vr-shop-grid{
       display:grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: var(--shop-gap);
     }
 
-    /* petites cartes OFFRE */
     .vr-shop-item{
       position: relative;
       overflow: hidden;
-      border-radius: var(--shop-card-r);
-      padding: var(--shop-card-pad);
+      border-radius: var(--shop-item-radius);
+      padding: var(--shop-item-pad);
       border: 1px solid rgba(255,255,255,.10);
       background: rgba(0,0,0,.22);
       box-shadow: 0 18px 34px rgba(0,0,0,.30);
@@ -151,7 +149,6 @@
       opacity:.9;
     }
 
-    /* top line: icon + qty */
     .vr-shop-top{
       position: relative;
       z-index: 1;
@@ -159,7 +156,7 @@
       align-items:center;
       justify-content:space-between;
       gap: 10px;
-      min-height: 66px;  /* ✅ plus petit */
+      min-height: 64px;
       margin-bottom: 10px;
     }
 
@@ -179,7 +176,7 @@
       position: relative;
       z-index: 1;
       font-weight: 950;
-      font-size: var(--shop-qty);
+      font-size: 18px;
       letter-spacing: .2px;
       color: rgba(255,255,255,.96);
       text-shadow: 0 12px 24px rgba(0,0,0,.55);
@@ -187,23 +184,20 @@
       text-align:right;
     }
 
-    /* ✅ Boutons : texte BLANC + CENTRÉ */
     .vr-shop-item .vr-choice-button{
       position: relative;
       z-index: 1;
       width: 100%;
-      border-radius: var(--shop-btn-r);
+      border-radius: 14px;
       padding: 10px 10px;
       min-height: var(--shop-btn-h);
       border: 1px solid rgba(255,255,255,.14);
       background: rgba(0,0,0,.22);
       box-shadow: 0 10px 22px rgba(0,0,0,.22);
-
       display:flex;
       align-items:center;
       justify-content:center;
       text-align:center;
-
       color: rgba(255,255,255,.96) !important;
     }
 
@@ -216,57 +210,42 @@
       transform: translateY(1px);
     }
 
-    /* sécurité: aucune image ne peut dépasser */
     .vr-shop-item img,
     .vr-shop-item svg{
       max-width: 100%;
       height: auto;
     }
 
-    /* No Ads + Diamond: image seule centrée */
     .vr-shop-item[data-sku="vrealms_no_ads"] .vr-shop-top,
     .vr-shop-item[data-sku="vrealms_diamond"] .vr-shop-top{
       justify-content: center;
     }
 
-    /* Status align */
-    #shop-status, #store-status{
-      text-align:center;
-      color: rgba(255,255,255,.86);
-    }
-
-    /* ✅ espace plus propre entre Store titre et contenu */
-    .vr-profile-title{
-      margin-top: 10px !important;
-      margin-bottom: 10px !important;
+    /* ✅ on garde les statuts pour compat, mais invisibles */
+    #shop-status,
+    #store-status{
+      display:none !important;
     }
 
     /* =========================
-       COSMETICS — sous Store
-       Structure demandée:
-       Store
-       Enfers
-         Fond (scroll)
-         Carte message (scroll)
-         Choix (scroll)
-       Paradis ...
+       COSMETICS SOUS STORE
     ========================= */
-
     .vr-cosmetics{
-      margin-top: 10px;
       display:flex;
       flex-direction:column;
-      gap: 16px;
+      gap: var(--u-gap);
+      margin-top: 14px;
+      padding-bottom: 10px;
     }
 
     .vr-universe-block{
+      position:relative;
+      overflow:hidden;
+      border-radius: var(--u-radius);
       border: 1px solid rgba(255,255,255,.10);
       background: rgba(0,0,0,.18);
-      border-radius: 18px;
-      padding: 12px 12px 10px;
       box-shadow: 0 18px 34px rgba(0,0,0,.26);
-      overflow:hidden;
-      position:relative;
+      padding: 14px 12px 12px;
     }
 
     .vr-universe-block::before{
@@ -285,58 +264,95 @@
       position:relative;
       z-index:1;
       text-align:center;
-      font-weight: 950;
-      font-size: 18px;
-      letter-spacing:.2px;
+      font-weight:950;
+      font-size: 19px;
+      line-height:1.1;
       color: rgba(255,255,255,.96);
-      margin: 2px 0 10px;
+      margin: 0 0 12px;
       text-shadow: 0 12px 24px rgba(0,0,0,.55);
     }
 
     .vr-cos-row{
       position:relative;
       z-index:1;
-      margin: 10px 0 12px;
+      margin: 0 0 14px;
     }
 
     .vr-cos-row:last-child{
-      margin-bottom: 6px;
+      margin-bottom: 0;
     }
 
     .vr-cos-subtitle{
       text-align:center;
-      font-weight: 900;
-      font-size: 13px;
+      font-weight:900;
+      font-size:13px;
       color: rgba(255,255,255,.92);
       margin: 0 0 8px;
       letter-spacing:.15px;
-      opacity:.95;
     }
 
-    .vr-cos-scroll{
+    .vr-cos-carousel{
+      display:grid;
+      grid-template-columns: var(--cos-arrow) minmax(0, 1fr) var(--cos-arrow);
+      align-items:center;
+      gap: 8px;
+    }
+
+    .vr-cos-arrow{
+      width: var(--cos-arrow);
+      height: var(--cos-arrow);
+      border-radius:999px;
+      border: 1px solid rgba(255,255,255,.14);
+      background: rgba(0,0,0,.22);
+      box-shadow: 0 10px 18px rgba(0,0,0,.22);
       display:flex;
-      gap: var(--cos-gap);
-      overflow-x:auto;
-      padding: 2px 2px 6px;
-      -webkit-overflow-scrolling: touch;
-      scroll-snap-type: x mandatory;
-      scrollbar-width: none;
+      align-items:center;
+      justify-content:center;
+      cursor:pointer;
+      padding:0;
+      color: rgba(255,255,255,.96);
+      font-size: 18px;
+      font-weight: 900;
+      line-height:1;
+      user-select:none;
+      -webkit-tap-highlight-color: transparent;
     }
 
-    .vr-cos-scroll::-webkit-scrollbar{ display:none; }
+    .vr-cos-arrow:active{
+      transform: scale(.97);
+    }
+
+    .vr-cos-arrow[disabled]{
+      opacity:.42;
+      cursor:default;
+    }
+
+    .vr-cos-viewport{
+      min-width:0;
+      overflow:hidden;
+      touch-action: pan-y;
+    }
+
+    .vr-cos-track{
+      display:flex;
+      transition: transform .24s ease;
+      will-change: transform;
+    }
+
+    .vr-cos-slide{
+      min-width:100%;
+      width:100%;
+      box-sizing:border-box;
+    }
 
     .vr-cos-card{
-      flex: 0 0 auto;
-      width: var(--cos-card);
-      height: var(--cos-card);
-      border-radius: var(--cos-r);
-      border: 1px solid var(--cos-border);
-      background: var(--cos-bg2);
-      box-shadow: var(--cos-shadow);
       position:relative;
       overflow:hidden;
-      scroll-snap-align: start;
-      cursor:pointer;
+      border-radius: var(--cos-card-r);
+      height: var(--cos-card-h);
+      border: 1px solid rgba(255,255,255,.10);
+      background: rgba(0,0,0,.24);
+      box-shadow: 0 16px 28px rgba(0,0,0,.28);
     }
 
     .vr-cos-card::before{
@@ -345,66 +361,115 @@
       inset:-1px;
       pointer-events:none;
       background:
-        radial-gradient(160px 80px at 20% 18%, rgba(255,255,255,.10), transparent 62%),
+        radial-gradient(260px 120px at 18% 12%, rgba(255,255,255,.10), transparent 62%),
         linear-gradient(180deg, rgba(255,255,255,.05), transparent 55%);
       opacity:.95;
-    }
-
-    .vr-cos-thumb{
-      position:absolute;
-      inset: 0;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      padding: 10px;
       z-index:1;
     }
 
-    .vr-cos-thumb img{
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-      filter: drop-shadow(0 14px 18px rgba(0,0,0,.55));
+    .vr-cos-card img{
+      position:absolute;
+      inset:0;
+      width:100%;
+      height:100%;
+      object-fit: cover;
+      display:block;
+      z-index:0;
       user-select:none;
       pointer-events:none;
     }
 
-    .vr-cos-price{
+    .vr-cos-card.is-ui img{
+      object-fit: contain;
+      padding: 14px;
+      background:
+        radial-gradient(circle at 50% 40%, rgba(255,255,255,.10), transparent 46%),
+        linear-gradient(180deg, rgba(255,255,255,.03), rgba(0,0,0,.08));
+    }
+
+    .vr-cos-overlay{
       position:absolute;
-      right: 6px;
-      bottom: 6px;
+      inset:auto 0 0 0;
       z-index:2;
+      padding: 28px 10px 10px;
+      background: linear-gradient(180deg, transparent, rgba(0,0,0,.68));
+    }
+
+    .vr-cos-name{
+      text-align:center;
+      font-weight:900;
+      font-size:13px;
+      color: rgba(255,255,255,.96);
+      line-height:1.15;
+      margin-bottom: 8px;
+      text-shadow: 0 8px 18px rgba(0,0,0,.45);
+    }
+
+    .vr-cos-bottom{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap: 8px;
+    }
+
+    .vr-cos-price{
       display:inline-flex;
       align-items:center;
-      gap:6px;
-      padding: 6px 8px;
+      gap: 6px;
+      padding: 6px 10px;
       border-radius: 999px;
       border: 1px solid rgba(255,255,255,.14);
       background: rgba(0,0,0,.30);
       box-shadow: 0 10px 18px rgba(0,0,0,.22);
-      font-weight: 950;
-      font-size: 12px;
       color: rgba(255,255,255,.96);
+      font-weight:950;
+      font-size:12px;
       line-height:1;
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
     }
 
     .vr-cos-price img{
-      width: 16px;
-      height: 16px;
-      object-fit: contain;
-      filter: drop-shadow(0 2px 8px rgba(0,0,0,.55));
+      position:static;
+      width:16px;
+      height:16px;
+      object-fit:contain;
+      padding:0;
+      background:none;
+      filter: drop-shadow(0 2px 6px rgba(0,0,0,.45));
     }
 
-    /* ✅ petits écrans: cartes encore plus compactes */
-    @media (max-width: 380px){
+    .vr-cos-count{
+      color: rgba(255,255,255,.86);
+      font-size:12px;
+      font-weight:900;
+      text-shadow: 0 8px 18px rgba(0,0,0,.45);
+    }
+
+    .vr-cos-dots{
+      display:flex;
+      justify-content:center;
+      gap:6px;
+      margin-top: 8px;
+    }
+
+    .vr-cos-dot{
+      width:7px;
+      height:7px;
+      border-radius:999px;
+      background: rgba(255,255,255,.28);
+      box-shadow: 0 4px 10px rgba(0,0,0,.22);
+    }
+
+    .vr-cos-dot.active{
+      background: rgba(255,255,255,.92);
+    }
+
+    @media (max-width: 390px){
       :root{
-        --shop-card-pad: 11px;
-        --shop-gap: 9px;
         --shop-icon: 50px;
-        --shop-qty: 15px;
-        --cos-card: 70px;
+        --cos-card-h: 110px;
+        --cos-arrow: 36px;
       }
     }
   </style>
@@ -412,7 +477,6 @@
 
 <body class="vr-body page-shop" data-page="shop">
 
-  <!-- ✅ HEADER complet : retour index + profil -->
   <header class="vr-header" aria-label="" data-i18n-aria="shop.aria_top">
     <div class="vr-top-actions">
       <div class="vr-top-slot vr-top-left">
@@ -436,10 +500,8 @@
   <main class="vr-main">
     <section id="view-shop" class="vr-view vr-view-active">
 
-      <!-- ✅ BOUTIQUE centré -->
       <h2 class="vr-section-title" data-i18n="shop.title"></h2>
 
-      <!-- ✅ Rewarded (SANS gros encadré) -->
       <div class="vr-shop-block">
         <div class="vr-shop-grid" id="reward-grid">
 
@@ -465,13 +527,11 @@
 
         </div>
 
-        <p class="vr-profile-text" id="shop-status" style="opacity:.9;margin-top:10px;"></p>
+        <p class="vr-profile-text" id="shop-status"></p>
       </div>
 
-      <!-- ✅ STORE centré -->
       <h3 class="vr-profile-title" data-i18n="shop.store_title"></h3>
 
-      <!-- ✅ STORE packs (SANS gros encadré) -->
       <div class="vr-shop-block">
         <div class="vr-shop-grid" id="store-grid">
 
@@ -535,136 +595,9 @@
 
         </div>
 
-        <p class="vr-profile-text" id="store-status" style="opacity:.9;margin-top:10px;"></p>
+        <p class="vr-profile-text" id="store-status"></p>
 
-        <!-- ✅ NOUVEAU : Personnalisation par univers (placeholders) -->
-        <div class="vr-cosmetics" id="cosmetics-block">
-
-          <!-- ENFERS -->
-          <div class="vr-universe-block" data-universe="hell_king">
-            <div class="vr-universe-title" data-i18n="shop.universe.hell">Enfers</div>
-
-            <div class="vr-cos-row" data-category="background">
-              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.background">Fond</div>
-              <div class="vr-cos-scroll">
-                <div class="vr-cos-card" data-item="hell_bg_01">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>250</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_bg_02">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>400</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_bg_03">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>650</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_bg_04">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>900</span></div>
-                </div>
-              </div>
-            </div>
-
-            <div class="vr-cos-row" data-category="message">
-              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.message">Carte message</div>
-              <div class="vr-cos-scroll">
-                <div class="vr-cos-card" data-item="hell_msg_01">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>200</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_msg_02">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>350</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_msg_03">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>550</span></div>
-                </div>
-              </div>
-            </div>
-
-            <div class="vr-cos-row" data-category="choice">
-              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.choice">Choix</div>
-              <div class="vr-cos-scroll">
-                <div class="vr-cos-card" data-item="hell_choice_01">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>150</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_choice_02">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>250</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="hell_choice_03">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>400</span></div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- PARADIS -->
-          <div class="vr-universe-block" data-universe="heaven_king">
-            <div class="vr-universe-title" data-i18n="shop.universe.heaven">Paradis</div>
-
-            <div class="vr-cos-row" data-category="background">
-              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.background">Fond</div>
-              <div class="vr-cos-scroll">
-                <div class="vr-cos-card" data-item="heaven_bg_01">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>250</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="heaven_bg_02">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>450</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="heaven_bg_03">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_bg.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>700</span></div>
-                </div>
-              </div>
-            </div>
-
-            <div class="vr-cos-row" data-category="message">
-              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.message">Carte message</div>
-              <div class="vr-cos-scroll">
-                <div class="vr-cos-card" data-item="heaven_msg_01">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>220</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="heaven_msg_02">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>360</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="heaven_msg_03">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_card.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>580</span></div>
-                </div>
-              </div>
-            </div>
-
-            <div class="vr-cos-row" data-category="choice">
-              <div class="vr-cos-subtitle" data-i18n="shop.cosmetics.choice">Choix</div>
-              <div class="vr-cos-scroll">
-                <div class="vr-cos-card" data-item="heaven_choice_01">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>160</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="heaven_choice_02">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>260</span></div>
-                </div>
-                <div class="vr-cos-card" data-item="heaven_choice_03">
-                  <div class="vr-cos-thumb"><img src="assets/img/ui/placeholder_choice.webp" alt="" draggable="false"></div>
-                  <div class="vr-cos-price"><img src="assets/img/ui/vcoins.webp" alt="" draggable="false"><span>420</span></div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Ajoute autant d’univers que tu veux en copiant le bloc vr-universe-block -->
-        </div>
-
+        <div class="vr-cosmetics" id="cosmetics-block"></div>
       </div>
 
     </section>
