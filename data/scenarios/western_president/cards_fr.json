@@ -1,0 +1,4057 @@
+{
+  "wp_001": {
+    "title": "Grève des transports",
+    "body": "Les syndicats annoncent une grève nationale des transports dès lundi. Les caméras sont déjà braquées sur toi.",
+    "choices": {
+      "A": "Négocier et lâcher du lest.",
+      "B": "Tenir bon : service minimum et fermeté.",
+      "C": "Débloquer des bus militaires pour assurer le pays."
+    }
+  },
+  "wp_002": {
+    "title": "Sommet climatique",
+    "body": "Un sommet international sur le climat se tient chez toi. Tout le monde attend une annonce forte.",
+    "choices": {
+      "A": "Annoncer un plan ambitieux avec investissements verts.",
+      "B": "Fixer des objectifs graduels, avec clauses de revoyure.",
+      "C": "Faire une grande déclaration symbolique, sans chiffres."
+    }
+  },
+  "wp_003": {
+    "title": "Cyberattaque sur les hôpitaux",
+    "body": "Des hôpitaux voient leurs systèmes bloqués. Une rançon est demandée et les médias parlent de chaos.",
+    "choices": {
+      "A": "Payer discrètement pour rétablir vite.",
+      "B": "Refuser de payer et mobiliser une cellule cyber.",
+      "C": "Accuser un pays rival (sans preuves publiques)."
+    }
+  },
+  "wp_004": {
+    "title": "Match historique",
+    "body": "L’équipe nationale atteint une finale historique. Le pays est en transe, et on t’invite à prendre la parole.",
+    "choices": {
+      "A": "Soutenir la fête et investir dans le sport amateur.",
+      "B": "Rester sobre : discours court, pas de dépense.",
+      "C": "Organiser un défilé gigantesque dès demain."
+    }
+  },
+  "wp_005": {
+    "title": "Grippe saisonnière sévère",
+    "body": "Une grippe particulièrement virulente surcharge les urgences. Les experts recommandent des mesures rapides.",
+    "choices": {
+      "A": "Lancer une campagne de vaccination et prévention.",
+      "B": "Attendre : 'on ne panique pas'.",
+      "C": "Décréter des restrictions temporaires ciblées."
+    }
+  },
+  "wp_006": {
+    "title": "Baisse brutale de la monnaie",
+    "body": "La monnaie chute sur les marchés. Les importations coûtent plus cher, l’opposition crie à l’amateurisme.",
+    "choices": {
+      "A": "Annoncer un plan de stabilité et réduire les dépenses.",
+      "B": "Injecter massivement des aides et rassurer.",
+      "C": "Chercher un accord de soutien avec des alliés."
+    }
+  },
+  "wp_007": {
+    "title": "Catastrophe naturelle",
+    "body": "Une tempête exceptionnelle frappe la côte. Des villes demandent des secours immédiats.",
+    "choices": {
+      "A": "Envoyer l’armée pour l’aide d’urgence.",
+      "B": "Débloquer un fonds spécial et aides directes.",
+      "C": "Laisser les régions gérer, l’État coordonne seulement."
+    }
+  },
+  "wp_008": {
+    "title": "Scandale de corruption (mineur mais viral)",
+    "body": "Une vidéo montre un conseiller accepter un 'cadeau'. Les réseaux s’enflamment.",
+    "choices": {
+      "A": "Le renvoyer immédiatement et ouvrir une enquête.",
+      "B": "Le défendre : 'montage et exagération'.",
+      "C": "Faire diversion avec une réforme surprise."
+    }
+  },
+  "wp_009": {
+    "title": "Demande d’adhésion à une alliance",
+    "body": "Un petit État voisin demande à rejoindre ton alliance de défense. Cela peut fâcher certains partenaires.",
+    "choices": {
+      "A": "Soutenir l’adhésion rapidement.",
+      "B": "Reporter : étude et conditions strictes.",
+      "C": "Refuser pour éviter les tensions."
+    }
+  },
+  "wp_010": {
+    "title": "Pénurie de café",
+    "body": "Une pénurie de café fait grimper les prix. Les cafés affichent 'rationnement' et le pays râle fort.",
+    "choices": {
+      "A": "Baisser temporairement les taxes à l’import.",
+      "B": "Lancer une campagne : 'thé national' (humour officiel).",
+      "C": "Stock stratégique : acheter en masse maintenant."
+    }
+  },
+  "wp_011": {
+    "title": "Fuite de données fiscales",
+    "body": "Des données fiscales circulent en ligne. Beaucoup accusent l’État de négligence.",
+    "choices": {
+      "A": "Transparence : reconnaître et réparer vite.",
+      "B": "Minimiser : 'rien de grave'.",
+      "C": "Créer une agence cyber nationale renforcée."
+    }
+  },
+  "wp_012": {
+    "title": "Investissement d’une méga-usine",
+    "body": "Un industriel propose une méga-usine créatrice d’emplois… mais énergivore.",
+    "choices": {
+      "A": "Accepter avec normes écologiques strictes.",
+      "B": "Accepter sans condition pour aller vite.",
+      "C": "Refuser : miser sur des PME locales."
+    }
+  },
+  "wp_013": {
+    "title": "Incident frontalier",
+    "body": "Un incident non mortel survient à la frontière maritime. Les médias parlent d’humiliation.",
+    "choices": {
+      "A": "Répondre fermement par une patrouille accrue.",
+      "B": "Proposer une commission d’enquête bilatérale.",
+      "C": "Ignorer pour calmer le jeu."
+    }
+  },
+  "wp_014": {
+    "title": "Hack d’un satellite météo",
+    "body": "Un satellite météo tombe en panne après une intrusion. Les prévisions deviennent floues.",
+    "choices": {
+      "A": "Investir dans un nouveau satellite rapidement.",
+      "B": "S’appuyer sur les données alliées temporairement.",
+      "C": "Transformer l’incident en projet spatial ambitieux."
+    }
+  },
+  "wp_015": {
+    "title": "Réforme des retraites",
+    "body": "Une réforme des retraites est sur la table. Impossible de contenter tout le monde.",
+    "choices": {
+      "A": "Réforme douce et progressive.",
+      "B": "Réforme rapide et stricte.",
+      "C": "Reporter d’un an et ouvrir des concertations."
+    }
+  },
+  "wp_016": {
+    "title": "Prix de l’énergie en hausse",
+    "body": "Les factures d’énergie grimpent. Les ménages demandent un geste, les entreprises menacent de délocaliser.",
+    "choices": {
+      "A": "Bouclier tarifaire temporaire.",
+      "B": "Aides ciblées seulement aux plus fragiles.",
+      "C": "Accord d’importation énergétique avec des partenaires."
+    }
+  },
+  "wp_017": {
+    "title": "Panne géante du réseau",
+    "body": "Une panne géante coupe internet pendant des heures. On te demande 'qui protège le pays ?'.",
+    "choices": {
+      "A": "Plan de résilience numérique national.",
+      "B": "Sanctionner l’opérateur publiquement.",
+      "C": "Militariser une partie des infrastructures critiques."
+    }
+  },
+  "wp_018": {
+    "title": "Festival culturel mondial",
+    "body": "Un festival culturel mondial veut s’installer chez toi. Rayonnement garanti, coûts énormes.",
+    "choices": {
+      "A": "Financer fortement pour briller.",
+      "B": "Soutien modéré + partenariats privés.",
+      "C": "Refuser : priorité aux urgences nationales."
+    }
+  },
+  "wp_019": {
+    "title": "Afflux de réfugiés climatiques (fictionnel)",
+    "body": "Une île lointaine est ravagée par une montée des eaux. Des réfugiés demandent asile. Sujet sensible.",
+    "choices": {
+      "A": "Accueillir avec plan d’intégration et aides.",
+      "B": "Accueillir temporairement, puis relocalisation internationale.",
+      "C": "Refuser et envoyer une aide sur place."
+    }
+  },
+  "wp_020": {
+    "title": "Démonstration technologique",
+    "body": "Une start-up propose un réseau de drones-livreurs. Ça peut booster l’économie, mais effrayer le public.",
+    "choices": {
+      "A": "Autoriser avec règles strictes et zones test.",
+      "B": "Autoriser partout : 'on innove !'.",
+      "C": "Interdire : priorité au calme et à la sécurité."
+    }
+  },
+  "wp_021": {
+    "title": "Crise des logements",
+    "body": "Les loyers explosent. Les jeunes manifestent : 'on ne vit plus'.",
+    "choices": {
+      "A": "Plan de construction massif et aides.",
+      "B": "Réguler fortement les loyers.",
+      "C": "Laisser le marché s’ajuster avec incitations fiscales."
+    }
+  },
+  "wp_022": {
+    "title": "Incident diplomatique au dîner d’État",
+    "body": "Lors d’un dîner d’État, ton ministre plaisante mal et froisse un invité. C’est déjà en une des journaux.",
+    "choices": {
+      "A": "Excuses officielles immédiates.",
+      "B": "Minimiser : 'humour mal compris'.",
+      "C": "Remanier : remplacer le ministre sur-le-champ."
+    }
+  },
+  "wp_023": {
+    "title": "Piraterie au large",
+    "body": "Des cargos sont menacés par des pirates dans une zone maritime. Les armateurs exigent une réponse.",
+    "choices": {
+      "A": "Envoyer une frégate en escorte.",
+      "B": "Négocier une coalition internationale de surveillance.",
+      "C": "Payer une protection privée subventionnée."
+    }
+  },
+  "wp_024": {
+    "title": "Grève des profs",
+    "body": "Les enseignants menacent de bloquer les examens. Les parents paniquent.",
+    "choices": {
+      "A": "Augmenter les salaires et alléger la réforme.",
+      "B": "Maintenir la réforme, promesse de primes plus tard.",
+      "C": "Remplacer par des cours en ligne d’urgence."
+    }
+  },
+  "wp_025": {
+    "title": "IA dans l’administration",
+    "body": "On te propose d’utiliser une IA pour accélérer les démarches administratives. Efficace, mais inquiétudes sur les erreurs.",
+    "choices": {
+      "A": "Déployer en pilote avec contrôle humain obligatoire.",
+      "B": "Déployer à grande échelle pour gagner du temps.",
+      "C": "Refuser : 'on garde l’humain'."
+    }
+  },
+  "wp_026": {
+    "title": "Exercice militaire médiatisé",
+    "body": "Un exercice militaire géant est proposé pour montrer la force du pays. Les voisins observent.",
+    "choices": {
+      "A": "Le faire, mais inviter des observateurs étrangers.",
+      "B": "Le faire sans inviter personne : message clair.",
+      "C": "Annuler pour éviter les tensions."
+    }
+  },
+  "wp_027": {
+    "title": "Championne scientifique",
+    "body": "Une chercheuse nationale remporte un prix mondial. On te demande d’augmenter le budget de la recherche.",
+    "choices": {
+      "A": "Augmenter fortement : bourses + labos.",
+      "B": "Augmenter un peu, mais communiquer beaucoup.",
+      "C": "Féliciter et passer à autre chose."
+    }
+  },
+  "wp_028": {
+    "title": "Crise des déchets",
+    "body": "Les décharges saturent. Les maires menacent de fermer les sites. Tout le monde veut une solution… ailleurs.",
+    "choices": {
+      "A": "Investir dans recyclage et centres modernes.",
+      "B": "Exporter temporairement les déchets via accord.",
+      "C": "Rationner et augmenter les amendes immédiatement."
+    }
+  },
+  "wp_029": {
+    "title": "Série d’incendies",
+    "body": "Une série d’incendies ravage des forêts. Les images tournent en boucle.",
+    "choices": {
+      "A": "Renforcer les moyens des pompiers et prévention.",
+      "B": "Mobiliser l’armée pour appuyer les secours.",
+      "C": "Réquisitionner des moyens privés (controversé)."
+    }
+  },
+  "wp_030": {
+    "title": "Accord commercial tentant",
+    "body": "Un accord commercial promet des emplois, mais impose des concessions réglementaires.",
+    "choices": {
+      "A": "Signer avec clauses de sauvegarde.",
+      "B": "Signer tout de suite, sans modifier.",
+      "C": "Refuser et protéger le marché intérieur."
+    }
+  },
+  "wp_031": {
+    "title": "Lancement spatial",
+    "body": "Une mission spatiale nationale peut être lancée. Succès = prestige, échec = moqueries mondiales.",
+    "choices": {
+      "A": "Lancer avec sécurité maximale, même plus cher.",
+      "B": "Lancer vite pour être les premiers.",
+      "C": "Reporter et coopérer avec un partenaire."
+    }
+  },
+  "wp_032": {
+    "title": "Scandale du stade",
+    "body": "Un nouveau stade est accusé d’avoir coûté le double. Les photos de fauteuils 'en or' font rire tout le pays.",
+    "choices": {
+      "A": "Audit public et sanctions.",
+      "B": "Assumer : 'c’est un investissement'.",
+      "C": "Transformer en musée national du sport pour sauver l’image."
+    }
+  },
+  "wp_033": {
+    "title": "Tension sur les chaînes d’approvisionnement",
+    "body": "Un composant essentiel manque. Plusieurs usines risquent l’arrêt.",
+    "choices": {
+      "A": "Subventionner une production locale.",
+      "B": "Négocier une priorité d’accès avec des partenaires.",
+      "C": "Constituer des stocks stratégiques coûteux."
+    }
+  },
+  "wp_034": {
+    "title": "Fuite d’un projet de loi",
+    "body": "Un projet de loi fuit avant l’annonce. Les rumeurs prennent le dessus.",
+    "choices": {
+      "A": "Publier le texte complet et expliquer.",
+      "B": "Dire que c’est faux et ouvrir une enquête interne.",
+      "C": "Accélérer et déposer le texte demain."
+    }
+  },
+  "wp_035": {
+    "title": "Affaire de drones inconnus",
+    "body": "Des drones inconnus survolent des sites sensibles. Les théories complotistes explosent.",
+    "choices": {
+      "A": "Communication transparente + enquête technique.",
+      "B": "Interdire les drones civils temporairement.",
+      "C": "Silence total : opération discrète."
+    }
+  },
+  "wp_036": {
+    "title": "Prix du pain",
+    "body": "Le prix du pain monte soudainement. Les boulangers parlent de coûts, les citoyens parlent d’injustice.",
+    "choices": {
+      "A": "Aide ciblée aux artisans + contrôle anti-spéculation.",
+      "B": "Laisser faire : 'marché libre'.",
+      "C": "Subvention générale pour baisser les prix."
+    }
+  },
+  "wp_037": {
+    "title": "Crise du tourisme",
+    "body": "Le tourisme s’effondre après une série de mauvaises images virales. Les hôtels appellent à l’aide.",
+    "choices": {
+      "A": "Campagne internationale + baisse de taxes touristiques.",
+      "B": "Soutien national uniquement, pas d’image externe.",
+      "C": "Ne rien faire : 'ça remontera'."
+    }
+  },
+  "wp_038": {
+    "title": "Programme de service civique",
+    "body": "On propose un service civique élargi : utile, mais certains y voient une contrainte.",
+    "choices": {
+      "A": "Volontariat très encouragé avec avantages.",
+      "B": "Obligation courte pour tout le monde.",
+      "C": "Abandonner et financer des associations à la place."
+    }
+  },
+  "wp_039": {
+    "title": "Crise de l’eau",
+    "body": "Une sécheresse menace plusieurs régions. Les agriculteurs réclament des décisions rapides.",
+    "choices": {
+      "A": "Restrictions + investissements dans l’irrigation.",
+      "B": "Priorité à l’industrie pour préserver l’économie.",
+      "C": "Acheter de l’eau via accords internationaux (temporaire)."
+    }
+  },
+  "wp_040": {
+    "title": "Débat sur la surveillance",
+    "body": "Les services demandent plus de moyens de surveillance contre des menaces floues. Les citoyens craignent une dérive.",
+    "choices": {
+      "A": "Augmenter les moyens avec contrôle indépendant.",
+      "B": "Augmenter sans contrôle : efficacité d’abord.",
+      "C": "Refuser et miser sur la prévention sociale."
+    }
+  },
+  "wp_041": {
+    "title": "Salon mondial de l’armement",
+    "body": "Un salon mondial de l’armement veut s’installer dans ta capitale. Économie + défense… mais image délicate.",
+    "choices": {
+      "A": "Accueillir avec charte éthique stricte.",
+      "B": "Accueillir sans conditions : gros contrats.",
+      "C": "Refuser : privilégier une image pacifique."
+    }
+  },
+  "wp_042": {
+    "title": "Réforme fiscale",
+    "body": "Une réforme fiscale est proposée. Simple sur le papier, explosive dans la rue.",
+    "choices": {
+      "A": "Baisser les impôts modestes, compenser ailleurs.",
+      "B": "Baisser pour tous et couper dans les dépenses.",
+      "C": "Augmenter les impôts sur les plus hauts revenus."
+    }
+  },
+  "wp_043": {
+    "title": "Épidémie de fausses infos",
+    "body": "Une vague de fausses infos sème la confusion avant une grande annonce. Certains demandent des restrictions.",
+    "choices": {
+      "A": "Créer une cellule de vérification publique indépendante.",
+      "B": "Loi rapide contre la désinformation (forte).",
+      "C": "Laisser circuler : 'liberté d’expression'."
+    }
+  },
+  "wp_044": {
+    "title": "Coupure d’électricité à l’ambassade",
+    "body": "Une ambassade amie subit une coupure étrange chez toi. L’allié demande des garanties.",
+    "choices": {
+      "A": "Enquête immédiate + protection renforcée.",
+      "B": "Excuses diplomatiques + compensation.",
+      "C": "Dire que c’est un incident banal, sans plus."
+    }
+  },
+  "wp_045": {
+    "title": "Grand projet ferroviaire",
+    "body": "Un projet ferroviaire relie deux régions en difficulté. Cher, mais symbolique.",
+    "choices": {
+      "A": "Lancer le projet, financement public.",
+      "B": "Lancer en PPP avec investisseurs privés.",
+      "C": "Annuler et rénover seulement l’existant."
+    }
+  },
+  "wp_046": {
+    "title": "Crise du recrutement militaire",
+    "body": "L’armée peine à recruter. Les généraux parlent d’un 'trou' à venir.",
+    "choices": {
+      "A": "Augmenter soldes et conditions.",
+      "B": "Campagne patriotique massive.",
+      "C": "Réduire l’ambition militaire et investir ailleurs."
+    }
+  },
+  "wp_047": {
+    "title": "Polémique sur une statue",
+    "body": "Une statue ancienne divise les habitants : tradition vs modernité. Les médias adorent le feuilleton.",
+    "choices": {
+      "A": "Organiser un référendum local.",
+      "B": "Déplacer la statue discrètement au musée.",
+      "C": "Ignorer et parler d’autre chose."
+    }
+  },
+  "wp_048": {
+    "title": "Incident dans un consulat",
+    "body": "Un consulat national à l’étranger est ciblé par des vandales. L’opinion réclame une réaction.",
+    "choices": {
+      "A": "Protester officiellement et demander réparation.",
+      "B": "Envoyer une équipe de sécurité renforcée.",
+      "C": "Rester discret pour éviter l’escalade."
+    }
+  },
+  "wp_049": {
+    "title": "Crise des médicaments",
+    "body": "Une rupture de stock sur un médicament courant inquiète. Les pharmacies affichent 'rupture'.",
+    "choices": {
+      "A": "Subventionner une production nationale rapide.",
+      "B": "Acheter en urgence à l’étranger.",
+      "C": "Rationner et réserver aux cas prioritaires."
+    }
+  },
+  "wp_050": {
+    "title": "Discours de fin d’année",
+    "body": "Ton discours de fin d’année approche. Le pays veut du concret… et un peu d’espoir.",
+    "choices": {
+      "A": "Discours très factuel : chiffres et plan clair.",
+      "B": "Discours rassembleur et humoristique.",
+      "C": "Discours martial : 'temps difficiles, unité'."
+    }
+  },
+  "wp_051": {
+    "title": "Scandale de micro",
+    "body": "En sortant d’une réunion, ton micro reste ouvert. Une phrase maladroite sur 'les réunions inutiles' devient virale.",
+    "choices": {
+      "A": "Assumer et rire de toi-même publiquement.",
+      "B": "Dire que c’était hors contexte et attaquer les médias.",
+      "C": "Annoncer une réforme anti-bureaucratie pour reprendre la main."
+    }
+  },
+  "wp_052": {
+    "title": "Port stratégique saturé",
+    "body": "Le plus grand port du pays est saturé. Des milliers de conteneurs bloquent l’approvisionnement.",
+    "choices": {
+      "A": "Investir en urgence dans la logistique et les quais.",
+      "B": "Réquisitionner temporairement des moyens militaires.",
+      "C": "Négocier des routes alternatives avec des partenaires."
+    }
+  },
+  "wp_053": {
+    "title": "Banque au bord du malaise",
+    "body": "Une banque importante montre des signes de faiblesse. Les rumeurs suffisent à créer une panique.",
+    "choices": {
+      "A": "Garantir les dépôts et sauver la banque.",
+      "B": "Laisser tomber : 'le marché tranche'.",
+      "C": "Fusion forcée avec un acteur solide."
+    }
+  },
+  "wp_054": {
+    "title": "Conférence internationale de paix",
+    "body": "On te demande d’accueillir une conférence de paix entre deux pays qui se détestent cordialement… et bruyamment.",
+    "choices": {
+      "A": "Accepter et proposer une médiation active.",
+      "B": "Accepter mais rester neutre et discret.",
+      "C": "Refuser : trop risqué politiquement."
+    }
+  },
+  "wp_055": {
+    "title": "Prix des carburants",
+    "body": "Les carburants montent. Les automobilistes menacent de bloquer les routes. Les transports applaudissent… en silence.",
+    "choices": {
+      "A": "Baisser temporairement les taxes.",
+      "B": "Aides ciblées + plan transports publics.",
+      "C": "Ne rien faire : 'transition nécessaire'."
+    }
+  },
+  "wp_056": {
+    "title": "Série noire d’accidents",
+    "body": "Plusieurs accidents graves frappent les infrastructures. Les gens parlent de 'pays qui se fissure'.",
+    "choices": {
+      "A": "Plan national de rénovation des infrastructures.",
+      "B": "Audit + sanctions + communication de crise.",
+      "C": "Mobiliser l’armée du génie pour réparer vite."
+    }
+  },
+  "wp_057": {
+    "title": "Crise des visas",
+    "body": "Les délais de visas explosent. Les entreprises se plaignent, les touristes aussi, les diplomates soupirent.",
+    "choices": {
+      "A": "Simplifier les procédures avec un portail numérique.",
+      "B": "Durcir : 'sécurité d’abord'.",
+      "C": "Accords de réciprocité accélérée avec quelques pays."
+    }
+  },
+  "wp_058": {
+    "title": "Fuite d’eau géante",
+    "body": "Une fuite d’eau majeure prive une métropole d’eau potable. Les images de bouteilles vides font paniquer.",
+    "choices": {
+      "A": "Débloquer un plan d’urgence et distribution massive.",
+      "B": "Imposer des restrictions strictes immédiates.",
+      "C": "Demander de l’aide logistique à des alliés."
+    }
+  },
+  "wp_059": {
+    "title": "Campagne anti-tabac choc",
+    "body": "Le ministère propose une campagne anti-tabac ultra choquante. Efficace… ou contre-productive ?",
+    "choices": {
+      "A": "Lancer la campagne + aides au sevrage.",
+      "B": "Version soft : moins choquante, plus éducative.",
+      "C": "Abandonner : trop de plaintes attendues."
+    }
+  },
+  "wp_060": {
+    "title": "Industrie de défense à relancer",
+    "body": "Tes usines de défense tournent au ralenti. Les experts disent qu’un pays puissant doit produire.",
+    "choices": {
+      "A": "Investir pour relancer la production nationale.",
+      "B": "Acheter à l’étranger : plus rapide et moins cher.",
+      "C": "Coopération industrielle avec des alliés."
+    }
+  },
+  "wp_061": {
+    "title": "Censure d’un humoriste",
+    "body": "Un humoriste se moque du gouvernement et la TV publique veut annuler son passage. Tout le monde attend ta réaction.",
+    "choices": {
+      "A": "Laisser faire : liberté d’expression.",
+      "B": "Annuler : préserver l’autorité.",
+      "C": "Inviter l’humoriste à un débat (risqué)."
+    }
+  },
+  "wp_062": {
+    "title": "Bourse en montagnes russes",
+    "body": "La bourse fait des vagues. Les petites épargnes paniquent, les gros investisseurs sourient trop fort.",
+    "choices": {
+      "A": "Rassurer + mesures de stabilité financière.",
+      "B": "Taxer une partie des opérations spéculatives.",
+      "C": "Ne pas intervenir : 'marchés libres'."
+    }
+  },
+  "wp_063": {
+    "title": "Équipement des policiers",
+    "body": "Les forces de l’ordre demandent du matériel moderne. Les associations s’inquiètent d’un 'virage sécuritaire'.",
+    "choices": {
+      "A": "Moderniser avec formation et contrôle indépendant.",
+      "B": "Moderniser à fond, sans débat : efficacité.",
+      "C": "Reporter et investir dans médiation/prévention."
+    }
+  },
+  "wp_064": {
+    "title": "Déficit qui gonfle",
+    "body": "Le déficit dépasse les prévisions. Les partenaires économiques demandent une trajectoire crédible.",
+    "choices": {
+      "A": "Plan d’économies progressif + investissements ciblés.",
+      "B": "Coupes rapides et strictes.",
+      "C": "Négocier des délais et un soutien extérieur."
+    }
+  },
+  "wp_065": {
+    "title": "Alerte sur une technologie importée",
+    "body": "Des experts signalent qu’un équipement importé pourrait contenir des failles. Peur d’espionnage.",
+    "choices": {
+      "A": "Remplacer par une solution nationale.",
+      "B": "Interdire immédiatement l’équipement suspect.",
+      "C": "Négocier des garanties et audits avec le fournisseur."
+    }
+  },
+  "wp_066": {
+    "title": "Crise du rail",
+    "body": "Le réseau ferroviaire tombe en panne à répétition. Les memes parlent de 'train fantôme'.",
+    "choices": {
+      "A": "Grand plan de modernisation.",
+      "B": "Privatiser partiellement pour accélérer.",
+      "C": "Acheter des trains à l’étranger en urgence."
+    }
+  },
+  "wp_067": {
+    "title": "Débat sur la conscription (fiction)",
+    "body": "Certains proposent une conscription courte 'citoyenne'. D’autres crient à l’archaïsme.",
+    "choices": {
+      "A": "Version volontaire avec avantages.",
+      "B": "Obligation courte pour renforcer la défense.",
+      "C": "Refuser et investir dans une armée professionnelle."
+    }
+  },
+  "wp_068": {
+    "title": "Crise agricole",
+    "body": "Une mauvaise saison met les agriculteurs en difficulté. Les prix montent, la colère aussi.",
+    "choices": {
+      "A": "Aides directes + plan de transition agricole.",
+      "B": "Ouvrir les importations pour baisser les prix.",
+      "C": "Négocier un accord commercial pour soutenir l’export."
+    }
+  },
+  "wp_069": {
+    "title": "Fuite d’un rapport secret",
+    "body": "Un rapport interne critique ta stratégie. Il fuite. Ton opposition jubile.",
+    "choices": {
+      "A": "Transparence : reconnaître et ajuster.",
+      "B": "Chasse à la taupe et fermeté.",
+      "C": "Contre-attaque : publier un rapport plus flatteur."
+    }
+  },
+  "wp_070": {
+    "title": "Décollage d’un avion national",
+    "body": "Un avion conçu localement doit faire son vol inaugural. Succès = fierté, échec = honte planétaire.",
+    "choices": {
+      "A": "Sécurité maximale, même si retard.",
+      "B": "Lancer vite : la symbolique d’abord.",
+      "C": "Coopérer avec un partenaire pour réduire le risque."
+    }
+  },
+  "wp_071": {
+    "title": "Manifestation géante",
+    "body": "Une manifestation géante est prévue. Les leaders demandent à te rencontrer avant samedi.",
+    "choices": {
+      "A": "Recevoir les leaders et concéder un compromis.",
+      "B": "Maintenir la ligne et sécuriser le centre-ville.",
+      "C": "Proposer un grand débat public national."
+    }
+  },
+  "wp_072": {
+    "title": "Accord de défense régionale",
+    "body": "On te propose un accord de défense régionale renforcé. Certains disent 'provocation', d’autres 'nécessité'.",
+    "choices": {
+      "A": "Signer : dissuasion renforcée.",
+      "B": "Signer mais avec clauses de désescalade.",
+      "C": "Refuser et privilégier la diplomatie."
+    }
+  },
+  "wp_073": {
+    "title": "Fuite radioactive mineure (fiction)",
+    "body": "Une fuite mineure est signalée sur un site énergétique. Rien de dramatique… mais l’opinion panique.",
+    "choices": {
+      "A": "Transparence totale + inspections renforcées.",
+      "B": "Communication minimale pour éviter la panique.",
+      "C": "Fermer temporairement le site."
+    }
+  },
+  "wp_074": {
+    "title": "Boom des loyers",
+    "body": "Les loyers explosent dans les grandes villes. Les jeunes disent 'on paie pour respirer'.",
+    "choices": {
+      "A": "Encadrement des loyers + construction.",
+      "B": "Incitations fiscales aux bailleurs + construction.",
+      "C": "Ne pas intervenir : 'marché'."
+    }
+  },
+  "wp_075": {
+    "title": "Tournoi e-sport mondial",
+    "body": "Un tournoi e-sport veut s’installer dans ta capitale. Certains crient au génie, d’autres au 'jeu vidéo d’État'.",
+    "choices": {
+      "A": "Soutenir et promouvoir l’innovation numérique.",
+      "B": "Soutien privé uniquement, pas d’argent public.",
+      "C": "Refuser : priorités ailleurs."
+    }
+  },
+  "wp_076": {
+    "title": "Chômage qui remonte",
+    "body": "Le chômage remonte. Les médias demandent un plan clair, et vite.",
+    "choices": {
+      "A": "Plan de formation + investissement public.",
+      "B": "Baisse des charges pour les entreprises.",
+      "C": "Grand plan de réindustrialisation (long terme)."
+    }
+  },
+  "wp_077": {
+    "title": "Alliance froissée",
+    "body": "Un allié historique estime que tu l’as ignoré. Il menace de 'réévaluer la relation'.",
+    "choices": {
+      "A": "Appel direct + geste symbolique fort.",
+      "B": "Rester ferme : 'on ne quémande pas'.",
+      "C": "Compensation économique (accord commercial)."
+    }
+  },
+  "wp_078": {
+    "title": "Trafic de drogue en hausse",
+    "body": "Les chiffres du trafic montent. La population veut des résultats, pas des discours.",
+    "choices": {
+      "A": "Renforcer police + coopération internationale.",
+      "B": "Approche santé publique + prévention.",
+      "C": "Opération massive et spectaculaire."
+    }
+  },
+  "wp_079": {
+    "title": "Évasion de prison",
+    "body": "Une évasion spectaculaire a lieu. Les gens disent : 'si même les prisons fuient, où va le pays ?'",
+    "choices": {
+      "A": "Réforme sécurité pénitentiaire + moyens.",
+      "B": "Sanctions et remaniement immédiat.",
+      "C": "Plan de réinsertion renforcé (controversé)."
+    }
+  },
+  "wp_080": {
+    "title": "Proposition de pacte technologique",
+    "body": "Un pays partenaire propose un pacte technologique : échanges de brevets et recherche commune.",
+    "choices": {
+      "A": "Signer : accélérer l’innovation.",
+      "B": "Signer mais protéger les secteurs sensibles.",
+      "C": "Refuser : souveraineté totale."
+    }
+  },
+  "wp_081": {
+    "title": "Crise des compagnies aériennes",
+    "body": "Une compagnie aérienne nationale est en difficulté. Sauver = coûteux. Laisser tomber = symbolique terrible.",
+    "choices": {
+      "A": "Sauver avec contreparties strictes.",
+      "B": "Laisser tomber : concurrence.",
+      "C": "Nationaliser temporairement."
+    }
+  },
+  "wp_082": {
+    "title": "Fêtes nationales sous tension",
+    "body": "Les fêtes nationales approchent. Risque de débordements, mais interdiction = colère.",
+    "choices": {
+      "A": "Maintenir avec sécurité renforcée.",
+      "B": "Annuler par prudence.",
+      "C": "Maintenir mais limiter et encadrer fortement."
+    }
+  },
+  "wp_083": {
+    "title": "Désaccord sur un traité",
+    "body": "Un traité économique est contesté au parlement. Ton camp se divise.",
+    "choices": {
+      "A": "Renégocier des points pour rassembler.",
+      "B": "Forcer le passage : autorité.",
+      "C": "Retirer le texte et repartir à zéro."
+    }
+  },
+  "wp_084": {
+    "title": "Crise des dons de sang",
+    "body": "Les stocks de sang sont bas. Les hôpitaux alertent. Situation sérieuse, mais mobilisable.",
+    "choices": {
+      "A": "Grande campagne nationale + incitations.",
+      "B": "Appel sobre, sans incitations.",
+      "C": "Demander une aide logistique à des alliés."
+    }
+  },
+  "wp_085": {
+    "title": "Tension dans une zone maritime",
+    "body": "Des navires se toisent dans une zone maritime stratégique. Chacun teste l’autre.",
+    "choices": {
+      "A": "Patrouilles renforcées et dissuasion.",
+      "B": "Discussion immédiate et désescalade.",
+      "C": "Coalition avec alliés pour présence commune."
+    }
+  },
+  "wp_086": {
+    "title": "Réforme de la justice",
+    "body": "La justice est jugée trop lente. Les uns veulent plus de moyens, les autres plus de sévérité.",
+    "choices": {
+      "A": "Plus de moyens + simplification des procédures.",
+      "B": "Sévérité accrue + peines plus rapides.",
+      "C": "Grand chantier participatif (long)."
+    }
+  },
+  "wp_087": {
+    "title": "Boycott culturel",
+    "body": "Un mouvement appelle au boycott d’un événement culturel lié à un partenaire étranger. Dilemme diplomatique.",
+    "choices": {
+      "A": "Maintenir l’événement : culture au-dessus des tensions.",
+      "B": "Annuler : éviter les polémiques.",
+      "C": "Transformer en événement international plus large."
+    }
+  },
+  "wp_088": {
+    "title": "Crise des pêcheurs",
+    "body": "Les pêcheurs protestent : quotas, coûts, concurrence. Ils menacent de bloquer les ports.",
+    "choices": {
+      "A": "Aides + négociations internationales sur les quotas.",
+      "B": "Subventions temporaires sans négocier.",
+      "C": "Durcir : contrôles et sanctions sur la pêche illégale."
+    }
+  },
+  "wp_089": {
+    "title": "Pénurie de médecins",
+    "body": "Certaines régions manquent de médecins. Les habitants disent : 'on vit loin, on meurt vite'.",
+    "choices": {
+      "A": "Primes + centres de santé publics.",
+      "B": "Téléconsultation massive + incitations.",
+      "C": "Obligation de service temporaire pour nouveaux diplômés."
+    }
+  },
+  "wp_090": {
+    "title": "Fuite d’un prototype militaire",
+    "body": "Un prototype militaire apparaît sur des forums. Des détails techniques circulent. Embarrassant.",
+    "choices": {
+      "A": "Enquête discrète + renforcer la sécurité interne.",
+      "B": "Communiquer : minimiser et brouiller les pistes.",
+      "C": "Accélérer le programme : 'on ne nous ralentit pas'."
+    }
+  },
+  "wp_091": {
+    "title": "Crise du cinéma national",
+    "body": "Le cinéma national perd du terrain. Certains demandent un plan pour préserver la culture.",
+    "choices": {
+      "A": "Soutien public + exportation culturelle.",
+      "B": "Aides limitées, priorité à l’économie.",
+      "C": "Partenariats avec plateformes étrangères."
+    }
+  },
+  "wp_092": {
+    "title": "Budget de la défense contesté",
+    "body": "Ton budget défense augmente. Une partie de la population estime que l’argent devrait aller ailleurs.",
+    "choices": {
+      "A": "Maintenir + expliquer la stratégie et transparence.",
+      "B": "Réduire et investir dans le social.",
+      "C": "Maintenir mais compenser par un plan économique."
+    }
+  },
+  "wp_093": {
+    "title": "Crise de confiance scientifique",
+    "body": "Une polémique sur un médicament (pas mortelle) fait chuter la confiance. Les experts s’énervent, le public doute.",
+    "choices": {
+      "A": "Créer une commission indépendante publique.",
+      "B": "Défendre les institutions sans concession.",
+      "C": "Changer les règles et durcir les validations."
+    }
+  },
+  "wp_094": {
+    "title": "Une île veut l’autonomie (fiction)",
+    "body": "Une île du pays réclame plus d’autonomie. Les débats s’enflamment, mais tu veux éviter la fracture.",
+    "choices": {
+      "A": "Négocier un statut plus autonome.",
+      "B": "Refuser net : unité nationale.",
+      "C": "Proposer un référendum encadré."
+    }
+  },
+  "wp_095": {
+    "title": "Diplomatie du sport",
+    "body": "Un match amical avec un rival pourrait détendre les relations. Ou déclencher un scandale au premier tacle.",
+    "choices": {
+      "A": "Organiser le match et encadrer la sécurité.",
+      "B": "Refuser : trop risqué.",
+      "C": "Faire un événement culturel commun à la place."
+    }
+  },
+  "wp_096": {
+    "title": "Crise des startups",
+    "body": "Les startups se plaignent : taxes, lourdeurs, manque d’investisseurs. Elles menacent de partir.",
+    "choices": {
+      "A": "Simplifier + crédit d’impôt innovation.",
+      "B": "Aides ciblées aux secteurs stratégiques.",
+      "C": "Laisser faire : seules les meilleures survivent."
+    }
+  },
+  "wp_097": {
+    "title": "Incident dans un aéroport",
+    "body": "Un incident de sécurité retarde des milliers de vols. L’opinion est furieuse, les diplomates aussi.",
+    "choices": {
+      "A": "Renforcer sécurité + excuses officielles.",
+      "B": "Sanctionner publiquement la direction.",
+      "C": "Déléguer à une agence spécialisée privée."
+    }
+  },
+  "wp_098": {
+    "title": "Sommet économique",
+    "body": "Un sommet économique mondial veut que tu annonces une direction claire : croissance, redistribution, ou prudence.",
+    "choices": {
+      "A": "Annoncer un plan pro-investissement massif.",
+      "B": "Annoncer une discipline budgétaire ferme.",
+      "C": "Annoncer un compromis équilibré (modéré)."
+    }
+  },
+  "wp_099": {
+    "title": "Programme nucléaire civil (fiction)",
+    "body": "Un programme nucléaire civil est proposé pour l’indépendance énergétique. Sujet sensible mais stratégique.",
+    "choices": {
+      "A": "Lancer avec transparence et contrôles stricts.",
+      "B": "Lancer vite et fort : souveraineté d’abord.",
+      "C": "Renoncer et investir dans d’autres énergies."
+    }
+  },
+  "wp_100": {
+    "title": "Cadeau diplomatique maladroit",
+    "body": "Un partenaire t’offre un cadeau gigantesque. L’opinion crie à la propagande, mais refuser serait insultant.",
+    "choices": {
+      "A": "Accepter et offrir un cadeau culturel en retour.",
+      "B": "Refuser poliment : 'merci, mais non'.",
+      "C": "Accepter et exposer le cadeau au public."
+    }
+  },
+  
+  "wp_101": {
+    "title": "Panne des cartes bancaires",
+    "body": "Les paiements par carte tombent en panne pendant des heures. Les files s’allongent, les commerçants fulminent.",
+    "choices": {
+      "A": "Garantir des compensations aux commerçants.",
+      "B": "Réquisitionner l’opérateur pour rétablir en urgence.",
+      "C": "Laisser la banque centrale gérer sans communication."
+    }
+  },
+  "wp_102": {
+    "title": "Sommet des océans",
+    "body": "Un sommet sur la protection des océans veut une annonce forte. Les pêcheurs et les ONG te regardent.",
+    "choices": {
+      "A": "Créer des zones marines protégées ambitieuses.",
+      "B": "Mesures progressives + aides aux filières.",
+      "C": "Discours symbolique, aucune contrainte."
+    }
+  },
+  "wp_103": {
+    "title": "Incident d’avion civil",
+    "body": "Un incident technique force un avion à atterrir d’urgence. Rien de grave, mais la peur se répand.",
+    "choices": {
+      "A": "Audit sécurité aérienne + transparence totale.",
+      "B": "Renforcer la sécurité, communication minimale.",
+      "C": "Sanctionner la compagnie publiquement."
+    }
+  },
+  "wp_104": {
+    "title": "Réforme des permis",
+    "body": "Le permis de conduire est jugé trop cher et trop long. Les jeunes réclament un changement immédiat.",
+    "choices": {
+      "A": "Baisser les coûts via aides et simplification.",
+      "B": "Numériser et durcir : moins d’échecs, plus de contrôle.",
+      "C": "Ne toucher à rien : 'priorités ailleurs'."
+    }
+  },
+  "wp_105": {
+    "title": "Quasi-crise sanitaire",
+    "body": "Un virus bénin mais très contagieux se propage. Les entreprises craignent l’absentéisme massif.",
+    "choices": {
+      "A": "Prévention + télétravail recommandé.",
+      "B": "Aucune consigne : 'vie normale'.",
+      "C": "Mesures temporaires strictes dans les lieux clos."
+    }
+  },
+  "wp_106": {
+    "title": "Dérive d’un budget régional",
+    "body": "Une région dépasse son budget et demande à l’État de combler. Les autres régions crient à l’injustice.",
+    "choices": {
+      "A": "Aider, mais avec conditions et audit.",
+      "B": "Refuser : responsabilité locale.",
+      "C": "Créer un fonds national pour éviter les crises."
+    }
+  },
+  "wp_107": {
+    "title": "Débat sur la langue officielle",
+    "body": "Un mouvement veut renforcer l’usage de la langue nationale dans les administrations. D’autres parlent d’exclusion.",
+    "choices": {
+      "A": "Renforcer avec pédagogie et exceptions.",
+      "B": "Imposer strictement, sans exceptions.",
+      "C": "Refuser : priorité à l’ouverture."
+    }
+  },
+  "wp_108": {
+    "title": "Route commerciale menacée",
+    "body": "Une route commerciale internationale devient instable. Les assureurs augmentent les tarifs.",
+    "choices": {
+      "A": "Escorter les cargos avec la marine.",
+      "B": "Coalition internationale de sécurisation.",
+      "C": "Contourner : nouvelles routes, même plus chères."
+    }
+  },
+  "wp_109": {
+    "title": "Crise des cours particuliers",
+    "body": "Les cours particuliers explosent et creusent les inégalités. Les parents demandent une solution.",
+    "choices": {
+      "A": "Soutien scolaire public renforcé.",
+      "B": "Chèque éducation pour les familles modestes.",
+      "C": "Laisser faire : 'liberté de choix'."
+    }
+  },
+  "wp_110": {
+    "title": "Fuite d’un plan de défense",
+    "body": "Un document interne sur la défense fuite. Rien de classifié, mais l’image de maîtrise prend un coup.",
+    "choices": {
+      "A": "Enquête + modernisation des procédures.",
+      "B": "Accuser un acteur étranger sans preuve publique.",
+      "C": "Minimiser et passer à autre chose."
+    }
+  },
+  "wp_111": {
+    "title": "Crise des déchets électroniques",
+    "body": "Les déchets électroniques s’empilent. Les médias appellent ça 'la montagne de vieux téléphones'.",
+    "choices": {
+      "A": "Plan recyclage + prime à la reprise.",
+      "B": "Taxe sur les appareils neufs pour financer le tri.",
+      "C": "Accord international d’exportation temporaire."
+    }
+  },
+  "wp_112": {
+    "title": "Duel de chefs d’État",
+    "body": "Un chef d’État rival te provoque gentiment en public. Les caméras attendent ta réplique.",
+    "choices": {
+      "A": "Répondre avec humour et désamorcer.",
+      "B": "Répondre fermement pour marquer l’autorité.",
+      "C": "Ignorer et publier un communiqué sobre."
+    }
+  },
+  "wp_113": {
+    "title": "Crise des embouteillages",
+    "body": "Les embouteillages atteignent un niveau record. Les entreprises parlent de pertes énormes.",
+    "choices": {
+      "A": "Investir dans transports publics et covoiturage.",
+      "B": "Déployer péage urbain (impopulaire).",
+      "C": "Construire des voies supplémentaires rapidement."
+    }
+  },
+  "wp_114": {
+    "title": "Record de chaleur",
+    "body": "Une vague de chaleur inhabituelle frappe le pays. Les hôpitaux alertent sur les personnes fragiles.",
+    "choices": {
+      "A": "Plan canicule + centres de rafraîchissement.",
+      "B": "Laisser les villes gérer seules.",
+      "C": "Mesures exceptionnelles : horaires adaptés, restrictions."
+    }
+  },
+  "wp_115": {
+    "title": "Industrie culturelle en chute",
+    "body": "Les salles de spectacle se vident. Les artistes demandent un plan de soutien.",
+    "choices": {
+      "A": "Soutien public + export culturel.",
+      "B": "Partenariats privés + aides ciblées.",
+      "C": "Refuser : 'le marché décidera'."
+    }
+  },
+  "wp_116": {
+    "title": "Réforme du service public",
+    "body": "On te propose de fusionner plusieurs agences publiques pour économiser. Les syndicats préparent déjà les pancartes.",
+    "choices": {
+      "A": "Fusion progressive avec garanties sociales.",
+      "B": "Fusion rapide et stricte.",
+      "C": "Annuler et investir pour améliorer plutôt."
+    }
+  },
+  "wp_117": {
+    "title": "Crise de l’assurance habitation",
+    "body": "Les assurances habitation explosent dans certaines zones. Les gens disent : 'on ne peut plus se couvrir'.",
+    "choices": {
+      "A": "Créer un mécanisme public de réassurance.",
+      "B": "Aides ciblées aux zones les plus touchées.",
+      "C": "Ne pas intervenir : concurrence."
+    }
+  },
+  "wp_118": {
+    "title": "Fuite d’un scandale de favoritisme",
+    "body": "Un appel d’offres public semble avoir favorisé un ami d’un ministre. Ça sent le feuilleton.",
+    "choices": {
+      "A": "Annuler l’appel d’offres + enquête.",
+      "B": "Défendre la procédure : 'tout est légal'.",
+      "C": "Remplacer le ministre et tourner la page."
+    }
+  },
+  "wp_119": {
+    "title": "Débat sur les uniformes scolaires",
+    "body": "Des écoles veulent imposer l’uniforme. On parle d’égalité… ou de nostalgie.",
+    "choices": {
+      "A": "Autoriser localement, expérimentation.",
+      "B": "Imposer nationalement.",
+      "C": "Refuser, liberté individuelle."
+    }
+  },
+  "wp_120": {
+    "title": "Accord sur l’espace",
+    "body": "Un partenaire propose un accord spatial : partage de données, missions communes. Les militaires veulent leur mot à dire.",
+    "choices": {
+      "A": "Signer : coopération ouverte.",
+      "B": "Signer mais classer une partie stratégique.",
+      "C": "Refuser : souveraineté totale."
+    }
+  },
+  "wp_121": {
+    "title": "Crise du logement étudiant",
+    "body": "Les logements étudiants manquent. Les universités craignent une année chaotique.",
+    "choices": {
+      "A": "Plan express : résidences modulaires.",
+      "B": "Aides financières aux étudiants, pas de construction.",
+      "C": "Partenariat avec privé pour construire vite."
+    }
+  },
+  "wp_122": {
+    "title": "Pénurie de pièces détachées",
+    "body": "Les garages manquent de pièces détachées. Les délais explosent, les taxis râlent, tout le monde râle.",
+    "choices": {
+      "A": "Relocaliser une partie de la production.",
+      "B": "Accord d’importation prioritaire.",
+      "C": "Stocks stratégiques, coûteux mais sûrs."
+    }
+  },
+  "wp_123": {
+    "title": "Crise des policiers municipaux",
+    "body": "Les maires demandent plus de moyens de sécurité locale. Les associations craignent une escalade.",
+    "choices": {
+      "A": "Plus de moyens + contrôle et formation.",
+      "B": "Plus de moyens sans débat.",
+      "C": "Investir dans prévention et médiation."
+    }
+  },
+  "wp_124": {
+    "title": "Traité de coopération scientifique",
+    "body": "Un traité scientifique promet des avancées, mais implique de partager des données sensibles.",
+    "choices": {
+      "A": "Signer avec garde-fous stricts.",
+      "B": "Signer immédiatement : confiance.",
+      "C": "Refuser : risque trop grand."
+    }
+  },
+  "wp_125": {
+    "title": "Crise des artistes de rue",
+    "body": "Les artistes de rue se plaignent de règlements trop stricts. Ils menacent une grève… de jonglage.",
+    "choices": {
+      "A": "Assouplir les règles et créer des zones dédiées.",
+      "B": "Maintenir : ordre public d’abord.",
+      "C": "Créer un permis payant (controversé)."
+    }
+  },
+  "wp_126": {
+    "title": "Alerte sur un pont",
+    "body": "Un pont majeur montre des signes de fatigue. Fermer = chaos, ne pas fermer = risque.",
+    "choices": {
+      "A": "Fermer partiellement et réparer vite.",
+      "B": "Laisser ouvert et surveiller fortement.",
+      "C": "Construire une alternative en urgence."
+    }
+  },
+  "wp_127": {
+    "title": "Conflit sur les quotas d’import",
+    "body": "Des industriels veulent limiter des importations jugées 'déloyales'. Tes partenaires menacent de riposter.",
+    "choices": {
+      "A": "Limiter avec exceptions et négociations.",
+      "B": "Limiter brutalement.",
+      "C": "Refuser et compenser par aides internes."
+    }
+  },
+  "wp_128": {
+    "title": "Festival national de la gastronomie",
+    "body": "Un grand festival gastronomique pourrait doper le tourisme. Mais il coûte une fortune… en beurre.",
+    "choices": {
+      "A": "Financer : vitrine mondiale.",
+      "B": "Soutien modéré + sponsors privés.",
+      "C": "Refuser : pas prioritaire."
+    }
+  },
+  "wp_129": {
+    "title": "Crise des incendies urbains",
+    "body": "Des incendies d’origine inconnue touchent plusieurs quartiers. Les rumeurs partent dans tous les sens.",
+    "choices": {
+      "A": "Enquête + renforts pompiers et prévention.",
+      "B": "Opération sécurité massive et visible.",
+      "C": "Communication minimale pour éviter panique."
+    }
+  },
+  "wp_130": {
+    "title": "Rumeur de pénurie d’essence",
+    "body": "Une simple rumeur déclenche des queues aux stations. Rien n’est confirmé… mais c’est déjà la panique.",
+    "choices": {
+      "A": "Communiquer immédiatement et ouvrir des stocks.",
+      "B": "Laisser passer : ça va retomber.",
+      "C": "Limiter l’achat par véhicule temporairement."
+    }
+  },
+  "wp_131": {
+    "title": "Grand chantier de fibre",
+    "body": "Un plan fibre national est prêt. Il peut booster l’économie, mais coûte cher et dérange les routes.",
+    "choices": {
+      "A": "Lancer le plan complet maintenant.",
+      "B": "Lancer par étapes pour lisser les coûts.",
+      "C": "Laisser le privé faire sans soutien."
+    }
+  },
+  "wp_132": {
+    "title": "Accord de non-agression",
+    "body": "Un pays rival propose un accord de non-agression. Certains y voient une ruse, d’autres une opportunité.",
+    "choices": {
+      "A": "Signer avec vérifications et mécanismes.",
+      "B": "Refuser : faiblesse perçue.",
+      "C": "Signer vite pour calmer les marchés."
+    }
+  },
+  "wp_133": {
+    "title": "Réforme des douanes",
+    "body": "Les douanes sont accusées d’être trop lentes. Les entreprises parlent de pertes, les citoyens de contrebande.",
+    "choices": {
+      "A": "Moderniser avec technologies et recrutement.",
+      "B": "Durcir les contrôles au maximum.",
+      "C": "Simplifier en réduisant certains contrôles."
+    }
+  },
+  "wp_134": {
+    "title": "Crise des taxis",
+    "body": "Les taxis protestent contre une nouvelle appli de mobilité. Les usagers veulent juste arriver à l’heure.",
+    "choices": {
+      "A": "Négocier un compromis et règles équitables.",
+      "B": "Soutenir l’innovation : laisser l’appli.",
+      "C": "Bloquer l’appli temporairement."
+    }
+  },
+  "wp_135": {
+    "title": "Cyberbullying à l’école",
+    "body": "Un scandale de harcèlement en ligne secoue le pays. Les parents demandent des mesures concrètes.",
+    "choices": {
+      "A": "Plan prévention + cellules d’aide.",
+      "B": "Lois plus strictes + sanctions rapides.",
+      "C": "Responsabiliser les plateformes par accord."
+    }
+  },
+  "wp_136": {
+    "title": "Incident en mer",
+    "body": "Un navire national est contrôlé de manière agressive par une puissance étrangère. Les images tournent en boucle.",
+    "choices": {
+      "A": "Protester et envoyer une escorte.",
+      "B": "Négocier calmement par voie diplomatique.",
+      "C": "Réagir par sanctions économiques."
+    }
+  },
+  "wp_137": {
+    "title": "Crise des bibliothèques",
+    "body": "Les bibliothèques ferment plus tôt faute de budget. Les citoyens lancent le hashtag #LivreOuRien.",
+    "choices": {
+      "A": "Augmenter le budget culturel local.",
+      "B": "Numériser massivement et réduire les horaires.",
+      "C": "Chercher des sponsors privés."
+    }
+  },
+  "wp_138": {
+    "title": "Tourisme spatial (fiction)",
+    "body": "Une entreprise veut lancer du tourisme spatial depuis ton territoire. Prestige énorme, risques et débats aussi.",
+    "choices": {
+      "A": "Autoriser avec normes ultra strictes.",
+      "B": "Autoriser pour attirer investissements.",
+      "C": "Refuser : trop risqué."
+    }
+  },
+  "wp_139": {
+    "title": "Crise des contrefaçons",
+    "body": "Les contrefaçons explosent. Les marques crient, les consommateurs se font piéger.",
+    "choices": {
+      "A": "Renforcer douanes + coopération internationale.",
+      "B": "Loi rapide et sanctions lourdes.",
+      "C": "Campagne d’éducation + action ciblée."
+    }
+  },
+  "wp_140": {
+    "title": "Réforme des horaires de travail",
+    "body": "On propose de rendre le travail plus flexible. Les uns applaudissent, les autres crient à la précarité.",
+    "choices": {
+      "A": "Flexibilité avec protections fortes.",
+      "B": "Flexibilité large pour booster l’économie.",
+      "C": "Refuser : préserver le modèle actuel."
+    }
+  },
+  "wp_141": {
+    "title": "Incident d’ambassade",
+    "body": "Un manifestant jette de la peinture sur une ambassade étrangère. L’allié exige des excuses.",
+    "choices": {
+      "A": "Excuses officielles + renfort de sécurité.",
+      "B": "Dire que c’est isolé : pas d’excuses.",
+      "C": "Sanctionner fort pour montrer l’exemplarité."
+    }
+  },
+  "wp_142": {
+    "title": "Crise des prix des médicaments",
+    "body": "Le prix de certains médicaments augmente. Les associations demandent une régulation immédiate.",
+    "choices": {
+      "A": "Plafonner temporairement certains prix.",
+      "B": "Aides ciblées aux plus fragiles.",
+      "C": "Négocier avec l’industrie contre des avantages."
+    }
+  },
+  "wp_143": {
+    "title": "Échange de prisonniers (fiction)",
+    "body": "Un partenaire propose un échange de prisonniers dans une affaire sensible. Humanitaire ou faiblesse ?",
+    "choices": {
+      "A": "Accepter avec discrétion et garanties.",
+      "B": "Refuser : principe d’autorité.",
+      "C": "Accepter publiquement comme geste de paix."
+    }
+  },
+  "wp_144": {
+    "title": "Grand plan de reforestation",
+    "body": "Un plan de reforestation peut améliorer l’image du pays et l’environnement, mais certains industriels râlent.",
+    "choices": {
+      "A": "Plan ambitieux + emplois verts.",
+      "B": "Plan modéré et volontaire.",
+      "C": "Abandon : priorité à l’économie."
+    }
+  },
+  "wp_145": {
+    "title": "Crise des embauches dans la santé",
+    "body": "Les hôpitaux peinent à recruter. Les soignants demandent du concret, pas des applaudissements.",
+    "choices": {
+      "A": "Augmenter salaires et conditions.",
+      "B": "Prime unique + réorganisation.",
+      "C": "Recruter à l’international via accords."
+    }
+  },
+  "wp_146": {
+    "title": "Débat sur les caméras",
+    "body": "Des maires veulent plus de caméras dans les rues. D’autres craignent une surveillance généralisée.",
+    "choices": {
+      "A": "Déployer avec contrôle indépendant et transparence.",
+      "B": "Déployer massivement : sécurité d’abord.",
+      "C": "Refuser et financer prévention sociale."
+    }
+  },
+  "wp_147": {
+    "title": "Crise des profs de science",
+    "body": "On manque de profs de science. Les élèves décrochent, l’industrie s’inquiète.",
+    "choices": {
+      "A": "Plan de recrutement + primes.",
+      "B": "Cours en ligne nationaux en renfort.",
+      "C": "Partenariat entreprises-universités."
+    }
+  },
+  "wp_148": {
+    "title": "Incident au sommet économique",
+    "body": "Au sommet économique, un traducteur se trompe et crée un malentendu. L’autre délégation est vexée.",
+    "choices": {
+      "A": "S’excuser immédiatement et corriger.",
+      "B": "Minimiser : 'détail technique'.",
+      "C": "Offrir une concession économique pour apaiser."
+    }
+  },
+  "wp_149": {
+    "title": "Crise de l’eau minérale",
+    "body": "Une marque d’eau minérale populaire est suspectée de problème de qualité. Les réseaux s’affolent.",
+    "choices": {
+      "A": "Retrait préventif + enquête transparente.",
+      "B": "Contrôles discrets, pas d’annonce.",
+      "C": "Sanction immédiate et communication ferme."
+    }
+  },
+  "wp_150": {
+    "title": "Grand discours sur la puissance",
+    "body": "On te demande un discours sur la 'puissance' du pays. Certains veulent du rêve, d’autres du pragmatisme.",
+    "choices": {
+      "A": "Mettre l’accent sur la diplomatie et la stabilité.",
+      "B": "Mettre l’accent sur la défense et la souveraineté.",
+      "C": "Mettre l’accent sur l’économie et l’innovation."
+    }
+  },
+
+  "wp_151": {
+    "title": "Discours trop long",
+    "body": "Ton discours dure tellement que le prompteur affiche 'mode veille'. Les memes parlent de 'sieste nationale'.",
+    "choices": {
+      "A": "Faire un discours court et auto-dérisoire le lendemain.",
+      "B": "Accuser le prompteur : 'sabotage technique'.",
+      "C": "Lancer une réforme : 'moins de blabla, plus d’action'."
+    }
+  },
+  "wp_152": {
+    "title": "Sommet… de cuisine",
+    "body": "Un sommet international est organisé… par une émission de cuisine. Les chefs veulent une photo avec toi.",
+    "choices": {
+      "A": "Y aller et signer un 'pacte gastronomique' symbolique.",
+      "B": "Envoyer ton ministre : toi, tu bosses (officiellement).",
+      "C": "Refuser : 'la diplomatie ne se fait pas à la louche'."
+    }
+  },
+  "wp_153": {
+    "title": "Drones sur la parade",
+    "body": "Des drones amateurs survolent une parade officielle. Sécurité stressée, public fasciné.",
+    "choices": {
+      "A": "Interdire strictement et renforcer la surveillance.",
+      "B": "Créer des zones autorisées + enregistrement simple.",
+      "C": "Inviter les clubs de drones à un programme national tech."
+    }
+  },
+  "wp_154": {
+    "title": "Panne de paiement",
+    "body": "Un bug bloque les paiements électroniques pendant 6 heures. Les gens redécouvrent… les pièces.",
+    "choices": {
+      "A": "Plan d’urgence cyber + compensation ciblée.",
+      "B": "Minimiser : 'incident mineur', et passer à autre chose.",
+      "C": "Investir massivement dans une infrastructure nationale résiliente."
+    }
+  },
+  "wp_155": {
+    "title": "Ambassadeur maladroit",
+    "body": "Un ambassadeur sort une blague qui tombe à plat. Très à plat. Niveau géopolitique : carrelage.",
+    "choices": {
+      "A": "Excuses officielles + geste diplomatique.",
+      "B": "Le rappeler immédiatement : tolérance zéro.",
+      "C": "Transformer en opération 'culture et humour' avec un événement commun."
+    }
+  },
+  "wp_156": {
+    "title": "Train présidentiel en retard",
+    "body": "Ton train officiel arrive en retard. Le slogan 'ponctualité' de ta campagne ressort des archives.",
+    "choices": {
+      "A": "Assumer publiquement et annoncer un plan rail sérieux.",
+      "B": "Accuser les syndicats : bras de fer immédiat.",
+      "C": "Privatiser partiellement l’exploitation pour accélérer."
+    }
+  },
+  "wp_157": {
+    "title": "Musée en grève",
+    "body": "Les musées ferment pour protester. Les touristes photographient… les portes.",
+    "choices": {
+      "A": "Augmenter le budget culture et négocier vite.",
+      "B": "Rester ferme : priorité à l’économie.",
+      "C": "Créer un fonds privé-public et une réforme de gouvernance."
+    }
+  },
+  "wp_158": {
+    "title": "Robot-tondeuse national",
+    "body": "Un programme d’innovation propose un robot-tondeuse 'made in country'. Tout le monde juge… la pelouse.",
+    "choices": {
+      "A": "Subventionner : vitrine techno.",
+      "B": "Annuler : ça ressemble trop à un gadget.",
+      "C": "Recentrer sur des robots utiles (hôpitaux, logistique)."
+    }
+  },
+  "wp_159": {
+    "title": "Pénurie de chocolat",
+    "body": "Une crise logistique provoque une pénurie de chocolat. Les citoyens parlent de 'ligne rouge morale'.",
+    "choices": {
+      "A": "Sécuriser l’approvisionnement par des accords rapides.",
+      "B": "Lancer une production locale accélérée (coûteuse).",
+      "C": "Rationner temporairement et miser sur la transparence."
+    }
+  },
+  "wp_160": {
+    "title": "Festival sous protection",
+    "body": "Un grand festival est menacé par des risques de sécurité. Les organisateurs veulent une décision demain.",
+    "choices": {
+      "A": "Maintenir avec sécurité renforcée et plan clair.",
+      "B": "Annuler : 'zéro risque'.",
+      "C": "Maintenir mais réduire la jauge et coordonner avec des alliés."
+    }
+  },
+  "wp_161": {
+    "title": "Startups en exil",
+    "body": "Les startups disent : 'on part'. Elles ont même fait des t-shirts. Très mauvais signe.",
+    "choices": {
+      "A": "Simplifier massivement et baisser certaines taxes.",
+      "B": "Aides ciblées uniquement aux secteurs stratégiques.",
+      "C": "Rester ferme : 'on ne gouverne pas au chantage'."
+    }
+  },
+  "wp_162": {
+    "title": "Frontière de trolls",
+    "body": "Une vague de désinformation vise ton pays. Les trolls sont plus organisés que ton agenda.",
+    "choices": {
+      "A": "Créer une cellule anti-infox indépendante + transparence.",
+      "B": "Réponse musclée cyber et sanctions diplomatiques.",
+      "C": "Campagne d’éducation aux médias + partenariat plateformes."
+    }
+  },
+  "wp_163": {
+    "title": "Grève des livraisons",
+    "body": "Les livreurs stoppent. Les citoyens redécouvrent le mot 'marcher'.",
+    "choices": {
+      "A": "Médiation + accords sociaux rapides.",
+      "B": "Réquisition limitée pour les biens essentiels.",
+      "C": "Accélérer l’automatisation logistique (impopulaire)."
+    }
+  },
+  "wp_164": {
+    "title": "Budget qui fuit",
+    "body": "Une erreur comptable fait apparaître un trou budgétaire. Un conseiller murmure : 'oups, zéro de trop'.",
+    "choices": {
+      "A": "Plan d’économies progressif + audit public.",
+      "B": "Coupes immédiates et fortes.",
+      "C": "Relance économique pour compenser par la croissance."
+    }
+  },
+  "wp_165": {
+    "title": "Incident en mer",
+    "body": "Un navire militaire étranger s’approche trop près. Les marins se saluent… un peu trop froidement.",
+    "choices": {
+      "A": "Renforcer la présence navale et la dissuasion.",
+      "B": "Appel direct et désescalade diplomatique.",
+      "C": "Coalition avec alliés pour patrouilles communes."
+    }
+  },
+  "wp_166": {
+    "title": "Opération 'Ville propre'",
+    "body": "Des villes se plaignent de déchets. Les médias lancent le hashtag #PoubelleNationale.",
+    "choices": {
+      "A": "Plan national propreté + emplois locaux.",
+      "B": "Sanctions et contrôles renforcés.",
+      "C": "Partenariat privé pour moderniser la collecte."
+    }
+  },
+  "wp_167": {
+    "title": "Refonte des passeports",
+    "body": "Ton passeport actuel est 'trop facile à falsifier'. Et 'trop moche', ajoute internet.",
+    "choices": {
+      "A": "Nouveau passeport biométrique national (coûteux).",
+      "B": "Solution rapide achetée à l’étranger.",
+      "C": "Co-développement avec alliés + standards communs."
+    }
+  },
+  "wp_168": {
+    "title": "Stade en ruine",
+    "body": "Un grand stade doit accueillir une finale. Inspection : 'ça tient par la foi'.",
+    "choices": {
+      "A": "Rénovation express financée par l’État.",
+      "B": "Déplacer l’événement à l’étranger (humiliation).",
+      "C": "Partenariat public-privé + travaux rapides."
+    }
+  },
+  "wp_169": {
+    "title": "Diplomatie du selfie",
+    "body": "Un chef d’État veut absolument un selfie avec toi. Ton staff dit : 'piège à buzz'.",
+    "choices": {
+      "A": "Accepter et cadrer le message sur l’amitié.",
+      "B": "Refuser poliment : protocole strict.",
+      "C": "Accepter mais en échange d’un accord concret."
+    }
+  },
+  "wp_170": {
+    "title": "Inflation des souvenirs",
+    "body": "Les prix des souvenirs touristiques explosent. Les touristes repartent avec… des photos.",
+    "choices": {
+      "A": "Alléger taxes locales temporairement.",
+      "B": "Contrôles et plafonds sur certaines zones.",
+      "C": "Soutenir l’artisanat local pour augmenter l’offre."
+    }
+  },
+  "wp_171": {
+    "title": "Cyber-attaque sur hôpital",
+    "body": "Un hôpital est touché par une cyber-attaque. Le directeur dit : 'on note sur papier… comme en 1998'.",
+    "choices": {
+      "A": "Plan cyber santé + investissement massif.",
+      "B": "Riposte cyber + sanctions internationales.",
+      "C": "Externaliser la sécurité à un acteur spécialisé."
+    }
+  },
+  "wp_172": {
+    "title": "Pénurie d’enseignants",
+    "body": "Certaines écoles manquent d’enseignants. Les parents improvisent des cours… de bricolage.",
+    "choices": {
+      "A": "Primes + recrutement + formation accélérée.",
+      "B": "Numérique massif en renfort (impopulaire).",
+      "C": "Réforme long terme : carrière revalorisée, coût élevé."
+    }
+  },
+  "wp_173": {
+    "title": "Sommet sur la paix… virtuelle",
+    "body": "Une plateforme propose un sommet diplomatique en réalité virtuelle. Avantages : pas de jetlag. Risque : avatars ridicules.",
+    "choices": {
+      "A": "Tester : innovation diplomatique.",
+      "B": "Refuser : trop gadget, trop risqué en image.",
+      "C": "Accepter mais en format hybride et sécurisé."
+    }
+  },
+  "wp_174": {
+    "title": "Coupure d’électricité",
+    "body": "Une coupure touche plusieurs régions. Les gens ressortent les bougies et les théories.",
+    "choices": {
+      "A": "Plan réseau + modernisation (cher).",
+      "B": "Mesures d’économie d’énergie immédiates (impopulaire).",
+      "C": "Accords d’import d’énergie temporaire avec partenaires."
+    }
+  },
+  "wp_175": {
+    "title": "Grève des contrôleurs aériens",
+    "body": "Les contrôleurs aériens menacent de grève. Le pays se prépare à redécouvrir le train. Encore.",
+    "choices": {
+      "A": "Négocier et investir dans modernisation.",
+      "B": "Réquisition minimale pour vols essentiels.",
+      "C": "Automatiser partiellement à moyen terme."
+    }
+  },
+  "wp_176": {
+    "title": "Bulle immobilière",
+    "body": "Les prix immobiliers montent trop vite. On dit que même les pigeons veulent un prêt.",
+    "choices": {
+      "A": "Construire + aides ciblées aux primo-accédants.",
+      "B": "Encadrement plus strict des loyers et transactions.",
+      "C": "Laisser le marché respirer : moins d’intervention."
+    }
+  },
+  "wp_177": {
+    "title": "Base militaire à moderniser",
+    "body": "Une base stratégique est vieillissante. Un soldat dit : 'la cafetière est notre arme principale'.",
+    "choices": {
+      "A": "Moderniser vite, budget défense en hausse.",
+      "B": "Coopérer avec alliés pour mutualiser.",
+      "C": "Reporter et investir d’abord dans l’économie."
+    }
+  },
+  "wp_178": {
+    "title": "Contrat d’export sensible",
+    "body": "Une entreprise veut exporter une technologie sensible. Ça rapporte gros… mais ça inquiète.",
+    "choices": {
+      "A": "Autoriser avec contrôles stricts et clauses.",
+      "B": "Refuser : souveraineté et sécurité d’abord.",
+      "C": "Autoriser uniquement vers alliés choisis."
+    }
+  },
+  "wp_179": {
+    "title": "Journal télévisé agressif",
+    "body": "Une grande chaîne te prépare une interview 'sans gants'. Ton staff cherche déjà un casque.",
+    "choices": {
+      "A": "Y aller : transparence et pédagogie.",
+      "B": "Refuser : tu parles au peuple autrement.",
+      "C": "Proposer un format long, plus calme, ailleurs."
+    }
+  },
+  "wp_180": {
+    "title": "Accident de satellite (fiction)",
+    "body": "Un petit satellite national tombe en panne. Les médias : 'défaite spatiale'.",
+    "choices": {
+      "A": "Relancer le programme spatial (cher).",
+      "B": "Acheter des services à l’étranger (rapide).",
+      "C": "Coopération internationale + partage de coûts."
+    }
+  },
+  "wp_181": {
+    "title": "Pénurie de médicaments",
+    "body": "Des médicaments courants manquent. Les gens stockent. Les pharmacies soupirent en chœur.",
+    "choices": {
+      "A": "Relocaliser une partie de la production (coûteux).",
+      "B": "Accords d’import d’urgence + stocks stratégiques.",
+      "C": "Contrôle des prix + priorité hôpitaux."
+    }
+  },
+  "wp_182": {
+    "title": "Hack du ministère",
+    "body": "Le site d’un ministère affiche une bannière : 'bonjour'. Pas 'bonjour' officiel.",
+    "choices": {
+      "A": "Audit total + formation cyber des agents.",
+      "B": "Riposte cyber + communication ferme.",
+      "C": "Externaliser l’infra critique à un opérateur certifié."
+    }
+  },
+  "wp_183": {
+    "title": "Relance du tourisme",
+    "body": "Le tourisme baisse. Un conseiller propose : 'mettre un panda géant sur les affiches'.",
+    "choices": {
+      "A": "Plan tourisme + simplification visas.",
+      "B": "Grand événement international (risqué mais visible).",
+      "C": "Campagne sobre + amélioration infrastructures."
+    }
+  },
+  "wp_184": {
+    "title": "Échange universitaire",
+    "body": "Un pays propose 10 000 bourses d’échange. Gagnant-gagnant… sauf pour ton budget.",
+    "choices": {
+      "A": "Accepter et cofinancer : soft power.",
+      "B": "Accepter mais réduire le volume et cibler.",
+      "C": "Refuser : priorité aux finances internes."
+    }
+  },
+  "wp_185": {
+    "title": "Crise des embouteillages",
+    "body": "Les embouteillages deviennent légendaires. Un maire dit : 'on va ouvrir un musée de la voiture immobile'.",
+    "choices": {
+      "A": "Investir transports publics + incitations.",
+      "B": "Mesures fortes : péage urbain (impopulaire).",
+      "C": "Plan route et parkings : solution rapide."
+    }
+  },
+  "wp_186": {
+    "title": "Conférence climatique fictive",
+    "body": "On te propose d’accueillir une conférence sur l’air et l’eau. Très consensuel… jusqu’au financement.",
+    "choices": {
+      "A": "Accueillir et investir : image internationale.",
+      "B": "Accueillir sans dépenses publiques.",
+      "C": "Refuser : priorités nationales d’abord."
+    }
+  },
+  "wp_187": {
+    "title": "Protestation de vétérans",
+    "body": "Des vétérans demandent une meilleure prise en charge. Les médias titrent : 'respect ou oubli ?'",
+    "choices": {
+      "A": "Augmenter les moyens et services dédiés.",
+      "B": "Réforme administrative sans budget supplémentaire.",
+      "C": "Programme avec partenaires et mécénat encadré."
+    }
+  },
+  "wp_188": {
+    "title": "Loterie nationale en débat",
+    "body": "La loterie finance des projets publics. Certains crient au 'budget par grattage'.",
+    "choices": {
+      "A": "Garder mais mieux encadrer et afficher la transparence.",
+      "B": "Réduire fortement : éthique d’abord.",
+      "C": "Étendre : financer infrastructures rapidement."
+    }
+  },
+  "wp_189": {
+    "title": "Sommet des villes jumelées",
+    "body": "Des villes jumelées veulent un grand sommet. L’un des maires veut 'un drapeau géant'.",
+    "choices": {
+      "A": "Soutenir : diplomatie locale et échanges.",
+      "B": "Soutenir mais sans budget : symbole uniquement.",
+      "C": "Refuser : recentrer sur diplomatie nationale."
+    }
+  },
+  "wp_190": {
+    "title": "Fuite de données sportives",
+    "body": "Les données d’un programme sportif public fuitent. On découvre que le budget 'ballons' est énorme.",
+    "choices": {
+      "A": "Transparence + audit + correction.",
+      "B": "Sanctions immédiates et communication ferme.",
+      "C": "Réforme numérique + investissements sécurité."
+    }
+  },
+  "wp_191": {
+    "title": "Pacte de défense cyber",
+    "body": "Un allié propose un pacte de défense cyber. Avantage : protection. Inconvénient : dépendance.",
+    "choices": {
+      "A": "Signer : sécurité renforcée.",
+      "B": "Signer mais garder une autonomie nationale forte.",
+      "C": "Refuser : souveraineté totale."
+    }
+  },
+  "wp_192": {
+    "title": "Journal satirique",
+    "body": "Un journal satirique te caricature en pingouin. Très élégant, très humiliant.",
+    "choices": {
+      "A": "Rire et inviter le dessinateur (calme).",
+      "B": "Attaquer en justice (tendu).",
+      "C": "Ignorer et lancer une action populaire concrète."
+    }
+  },
+  "wp_193": {
+    "title": "Pont stratégique fissuré",
+    "body": "Un pont majeur montre des fissures. Les camionneurs inventent des prières spontanées.",
+    "choices": {
+      "A": "Réparer vite : gros budget, sécurité.",
+      "B": "Dévier le trafic et faire un plan long terme.",
+      "C": "Aide d’alliés + ingénieurs militaires pour accélérer."
+    }
+  },
+  "wp_194": {
+    "title": "Coup de froid commercial",
+    "body": "Un partenaire annonce des barrières commerciales. Officiellement : 'ajustement'. Officieusement : pique.",
+    "choices": {
+      "A": "Négocier calmement et proposer un compromis.",
+      "B": "Répondre par des mesures de rétorsion.",
+      "C": "Diversifier rapidement vers d’autres partenaires."
+    }
+  },
+  "wp_195": {
+    "title": "Crise des files d’attente",
+    "body": "Les administrations ont des files d’attente monstrueuses. Un citoyen dit : 'j’ai grandi ici'.",
+    "choices": {
+      "A": "Numériser vite + embauches temporaires.",
+      "B": "Contrôles et objectifs stricts, façon 'commando'.",
+      "C": "Externaliser une partie des démarches (risqué)."
+    }
+  },
+  "wp_196": {
+    "title": "Défilé militaire contesté",
+    "body": "Un défilé militaire est prévu. Certains veulent de la fierté, d’autres un budget social.",
+    "choices": {
+      "A": "Maintenir mais réduire le coût et expliquer.",
+      "B": "Annuler et réallouer aux services publics.",
+      "C": "Maintenir et inviter des partenaires pour un message d’alliance."
+    }
+  },
+  "wp_197": {
+    "title": "Incident à l’aéroport VIP",
+    "body": "Un incident dans le salon VIP fait le tour du net. Même les tapis roulants ont une opinion.",
+    "choices": {
+      "A": "Excuses + audit sécurité + améliorations rapides.",
+      "B": "Sanctionner la direction publiquement.",
+      "C": "Confier la gestion à une agence spécialisée."
+    }
+  },
+  "wp_198": {
+    "title": "Syndrome du 'tout gratuit'",
+    "body": "Une rumeur annonce la gratuité totale des transports. C’est faux… mais très populaire.",
+    "choices": {
+      "A": "Démentir + proposer une aide ciblée réelle.",
+      "B": "Tester la gratuité le week-end (cher).",
+      "C": "Ignorer la rumeur et renforcer les contrôles."
+    }
+  },
+  "wp_199": {
+    "title": "Câble sous-marin coupé",
+    "body": "Un câble internet sous-marin est coupé. Le pays ralentit. Les réunions redeviennent… physiques.",
+    "choices": {
+      "A": "Réparer en urgence + sécuriser les infrastructures.",
+      "B": "Accuser publiquement un acteur et hausser le ton.",
+      "C": "Créer une redondance via partenaires et satellites."
+    }
+  },
+  "wp_200": {
+    "title": "Le chien du palais",
+    "body": "Le chien du palais s’échappe et entre dans une réunion officielle. Il s’assoit sur un dossier secret. Très calme.",
+    "choices": {
+      "A": "En rire et en faire un moment de communication humain.",
+      "B": "Réagir sévèrement : protocole renforcé.",
+      "C": "Transformer l’incident en campagne 'sécurité et discipline'."
+    }
+  },
+
+  "wp_201": {
+    "title": "Incident du drone perdu",
+    "body": "Un drone de surveillance s’est 'égaré' et a fini sa course… sur le toit d’un barbecue d’ambassade. Photos partout.",
+    "choices": {
+      "A": "Présenter des excuses + lancer une enquête transparente.",
+      "B": "Dire que c’était un drone météo et passer à autre chose.",
+      "C": "Proposer un accord commun sur les vols de drones."
+    }
+  },
+  "wp_202": {
+    "title": "Exercice militaire… trop réaliste",
+    "body": "Un exercice militaire a été si réaliste que la population a cru à une invasion. Les supermarchés sont vides.",
+    "choices": {
+      "A": "S’excuser + améliorer l’alerte civile et la com’.",
+      "B": "Assumer : 'c’est la preuve qu’on est prêts'.",
+      "C": "Réduire ces exercices et investir dans la diplomatie."
+    }
+  },
+  "wp_203": {
+    "title": "Le voisin fait 'boum'",
+    "body": "Un pays voisin teste une nouvelle arme (fiction). Ton peuple veut une réponse… et ton ministre veut un café.",
+    "choices": {
+      "A": "Sanctions + coalition diplomatique.",
+      "B": "Renforcer la défense et montrer les muscles.",
+      "C": "Proposer des inspections et une désescalade."
+    }
+  },
+  "wp_204": {
+    "title": "Budget défense vs. chaises de bureau",
+    "body": "Le ministère de la Défense demande plus de budget… mais une fuite révèle qu’ils ont commandé 4 000 chaises 'anti-stress'.",
+    "choices": {
+      "A": "Accorder une hausse, mais audit public strict.",
+      "B": "Geler le budget et réorienter vers l’économie.",
+      "C": "Hausse ciblée uniquement sur les capacités critiques."
+    }
+  },
+  "wp_205": {
+    "title": "Alliance au réveil difficile",
+    "body": "Un allié t’appelle à 4h du matin : 'On a un problème'. Ton conseiller propose de répondre par SMS.",
+    "choices": {
+      "A": "Soutien immédiat et visible.",
+      "B": "Soutien discret et conditionnel.",
+      "C": "Refuser : pas notre conflit."
+    }
+  },
+  "wp_206": {
+    "title": "Manœuvre navale… et mouette héroïque",
+    "body": "Une mouette se pose sur un radar durant une manœuvre navale. Les médias titrent : 'défaite face à l’oiseau'.",
+    "choices": {
+      "A": "Rire et renforcer la maintenance (sérieusement).",
+      "B": "Communiquer ferme : 'capacité intacte' + exercice renforcé.",
+      "C": "Inviter des alliés à une démonstration commune."
+    }
+  },
+  "wp_207": {
+    "title": "Cyber-guerre des photocopieurs",
+    "body": "Une cyber-attaque (fiction) bloque… les photocopieurs des administrations. Le chaos est total, surtout pour les tampons.",
+    "choices": {
+      "A": "Plan cyber national + budget sécurité.",
+      "B": "Accuser publiquement un acteur étranger et sanctionner.",
+      "C": "Accords internationaux de cyber-désescalade."
+    }
+  },
+  "wp_208": {
+    "title": "Soldats en bottes… de pluie",
+    "body": "Une photo officielle montre des soldats équipés de bottes de pluie. Le public rit, l’opposition jubile.",
+    "choices": {
+      "A": "Moderniser l’équipement vite (coûteux) + excuses.",
+      "B": "Assumer : 'pragmatisme' et redorer l’image par une action.",
+      "C": "Mutualiser achats avec alliés pour baisser les coûts."
+    }
+  },
+  "wp_209": {
+    "title": "Sommet de paix et buffet trop bon",
+    "body": "Tu accueilles un sommet de paix. Tout se passe bien… jusqu’à une guerre froide pour le dernier canapé du buffet.",
+    "choices": {
+      "A": "Médiation active et engagement public.",
+      "B": "Neutralité totale : tu offres la salle, pas le sermon.",
+      "C": "Reporter : trop instable, trop risqué."
+    }
+  },
+  "wp_210": {
+    "title": "Espion capturé… cosplay",
+    "body": "Un espion présumé est arrêté… déguisé en mascotte de parc d’attractions. Ça devient un mème mondial.",
+    "choices": {
+      "A": "Procès discret + canal diplomatique en parallèle.",
+      "B": "Exposer publiquement : 'regardez qui ils envoient'.",
+      "C": "Échange négocié contre concessions."
+    }
+  },
+  "wp_211": {
+    "title": "Frontière et tournoi de pétanque",
+    "body": "Une zone frontalière s’échauffe. Un maire propose une 'pétanque de la paix' avec les gardes des deux côtés.",
+    "choices": {
+      "A": "Soutenir l’initiative + dialogue local officiel.",
+      "B": "Refuser : renforcer contrôles et présence militaire.",
+      "C": "Proposer une médiation nationale et des observateurs."
+    }
+  },
+  "wp_212": {
+    "title": "Sanctions… boomerang",
+    "body": "Tu envisages des sanctions. Tes économistes te rappellent : 'on importe aussi leurs trucs indispensables'.",
+    "choices": {
+      "A": "Sanctions ciblées + exemptions stratégiques.",
+      "B": "Sanctions massives pour frapper fort.",
+      "C": "Pas de sanctions : négociation et compromis."
+    }
+  },
+  "wp_213": {
+    "title": "Téléphone rouge… en panne",
+    "body": "La ligne d’urgence diplomatique tombe en panne au pire moment. Ton staff propose… un groupe de messagerie.",
+    "choices": {
+      "A": "Réparer et moderniser tout le protocole d’urgence.",
+      "B": "Utiliser un canal alternatif et montrer du sang-froid.",
+      "C": "Profiter pour imposer une rencontre physique immédiate."
+    }
+  },
+  "wp_214": {
+    "title": "Embuscade médiatique",
+    "body": "En visite, un journaliste te demande : 'Guerre ou paix ?' Derrière lui, une caméra zoome déjà sur ton sourcil.",
+    "choices": {
+      "A": "Réponse calme : paix + fermeté défensive.",
+      "B": "Réponse dure : dissuasion maximale.",
+      "C": "Réponse floue : 'on ajuste selon la situation'."
+    }
+  },
+  "wp_215": {
+    "title": "Livraison d’armes… de paintball",
+    "body": "Une commande de matériel arrive. Problème : c’est du paintball. Très coloré, très inutile.",
+    "choices": {
+      "A": "Audit achats + remplacement immédiat (cher).",
+      "B": "Transformer en entraînement ludique et corriger discrètement.",
+      "C": "Mutualiser achats avec alliés et renégocier les contrats."
+    }
+  },
+  "wp_216": {
+    "title": "Base secrète… trop bruyante",
+    "body": "Une 'base discrète' fait un bruit de chantier. Les riverains demandent si tu construis un parc d’attractions.",
+    "choices": {
+      "A": "Transparence partielle + compensations locales.",
+      "B": "Silence total + sécurité renforcée.",
+      "C": "Déplacer le projet et miser sur défense high-tech."
+    }
+  },
+  "wp_217": {
+    "title": "Bataille des drapeaux",
+    "body": "Un conflit symbolique éclate : quel drapeau sur un bâtiment commun ? Les experts parlent de 'guerre du tissu'.",
+    "choices": {
+      "A": "Compromis diplomatique et partage.",
+      "B": "Imposer ton drapeau : autorité.",
+      "C": "Retirer tous les drapeaux : neutralité."
+    }
+  },
+  "wp_218": {
+    "title": "Rumeurs de mobilisation",
+    "body": "Une rumeur annonce une mobilisation générale. Les jeunes demandent si c’est 'avec option télétravail'.",
+    "choices": {
+      "A": "Démentir + renforcer la préparation civile.",
+      "B": "Laisser planer l’ambiguïté pour dissuader.",
+      "C": "Annonce d’un service volontaire attractif."
+    }
+  },
+  "wp_219": {
+    "title": "Achat d’avions ou hôpitaux",
+    "body": "On te propose d’acheter des avions de combat flambant neufs. Ton ministre de la Santé te montre la liste d’attente aux urgences.",
+    "choices": {
+      "A": "Acheter une partie + plan santé en compensation.",
+      "B": "Priorité santé : reporter l’achat.",
+      "C": "Coopération avec alliés : partage de flotte."
+    }
+  },
+  "wp_220": {
+    "title": "Diplomatie du ballon",
+    "body": "Un ballon (oui, un ballon) traverse la frontière et se pose sur une base. Tout le monde crie à l’incident.",
+    "choices": {
+      "A": "Traiter ça comme incident mineur et désamorcer.",
+      "B": "Réponse ferme : protestation officielle.",
+      "C": "Créer un protocole commun pour incidents absurdes."
+    }
+  },
+  "wp_221": {
+    "title": "Embargo sur les chips",
+    "body": "Un rival menace d’un embargo… sur tes chips préférées (fiction). Le peuple prend ça personnellement.",
+    "choices": {
+      "A": "Réponse économique : diversification et production locale.",
+      "B": "Contre-mesures immédiates et fermes.",
+      "C": "Négociation : 'paix contre snacks'."
+    }
+  },
+  "wp_222": {
+    "title": "Conférence de presse en camouflage",
+    "body": "Ton ministre de la Défense arrive en conférence de presse… en camouflage. Il oublie qu’on est en salle blanche.",
+    "choices": {
+      "A": "Recadrer : sobriété + stratégie claire.",
+      "B": "Assumer : communication de force.",
+      "C": "Le remplacer pour calmer l’opinion."
+    }
+  },
+  "wp_223": {
+    "title": "Cessez-le-feu et minuteur",
+    "body": "On te propose un cessez-le-feu. Les parties veulent un 'minuteur' et une photo. Très moderne.",
+    "choices": {
+      "A": "Accepter et envoyer des observateurs.",
+      "B": "Refuser : pas de confiance, pas d’accord.",
+      "C": "Accepter mais exiger garanties économiques."
+    }
+  },
+  "wp_224": {
+    "title": "Incident à la frontière… de drones-livraison",
+    "body": "Des drones-livraison se trompent de GPS et déposent des colis de l’autre côté. Une crise… de pizza froide.",
+    "choices": {
+      "A": "Accord technique + coopération transfrontalière.",
+      "B": "Interdiction stricte et contrôle aérien renforcé.",
+      "C": "Transformer en projet commun de logistique sécurisée."
+    }
+  },
+  "wp_225": {
+    "title": "Rançon diplomatique",
+    "body": "Un groupe exige une rançon (fiction) pour libérer un cargo. Tes conseillers débattent : payer, négocier, ou… faire un tweet.",
+    "choices": {
+      "A": "Négocier via médiateurs + opération de sécurité.",
+      "B": "Refuser de payer et renforcer la dissuasion.",
+      "C": "Accord économique temporaire pour libération rapide."
+    }
+  },
+  "wp_226": {
+    "title": "Débat sur les abris",
+    "body": "Les gens demandent des abris civils. Quelqu’un propose d’utiliser les parkings souterrains 'avec musique d’ambiance'.",
+    "choices": {
+      "A": "Plan abris + préparation civile (cher).",
+      "B": "Campagne d’info sans gros investissements.",
+      "C": "Accords avec alliés pour assistance en cas de crise."
+    }
+  },
+  "wp_227": {
+    "title": "Passeport diplomatique… perdu",
+    "body": "Un diplomate perd son passeport. Dans un aéroport. Devant des caméras. C’est un sketch.",
+    "choices": {
+      "A": "Réforme sécurité diplomatique + formation.",
+      "B": "Minimiser publiquement, régler en coulisses.",
+      "C": "Remaniement immédiat : exemple."
+    }
+  },
+  "wp_228": {
+    "title": "Armes ou ponts",
+    "body": "Le pays hésite : construire des ponts ou acheter des missiles. Les citoyens veulent… des ponts qui n’explosent pas.",
+    "choices": {
+      "A": "Équilibre : défense modérée + infrastructures.",
+      "B": "Défense d’abord : dissuasion maximale.",
+      "C": "Infrastructures d’abord : diplomatie renforcée."
+    }
+  },
+  "wp_229": {
+    "title": "Campagne de propagande… trop kitsch",
+    "body": "Une campagne de propagande (fiction) fuit : slogans ringards, musique épique, montage de dauphins. Le public se moque.",
+    "choices": {
+      "A": "Annuler et adopter une communication honnête.",
+      "B": "Assumer : 'c’est pour le moral'.",
+      "C": "Créer une cellule com’ moderne et transparente."
+    }
+  },
+  "wp_230": {
+    "title": "Sommet militaire et chaise vide",
+    "body": "Au sommet militaire, une chaise est laissée vide 'pour la symbolique'. Les réseaux disent : 'c’est ton bilan'.",
+    "choices": {
+      "A": "Clarifier publiquement + renforcer alliances.",
+      "B": "Répondre par une démonstration de force.",
+      "C": "Quitter le sommet et lancer une initiative de paix."
+    }
+  },
+  "wp_231": {
+    "title": "Course aux missiles… de rhétorique",
+    "body": "Les discours s’enveniment. Tout le monde menace… mais surtout avec des mots très longs.",
+    "choices": {
+      "A": "Désescalade : appels et médiation.",
+      "B": "Durcir : sanctions et posture militaire.",
+      "C": "Accord de 'lignes rouges' et de communication directe."
+    }
+  },
+  "wp_232": {
+    "title": "Navire bloqué",
+    "body": "Un navire stratégique est bloqué par une panne ridicule : un logiciel refuse la mise à jour. 'Veuillez redémarrer'.",
+    "choices": {
+      "A": "Investir dans maintenance et modernisation.",
+      "B": "Accuser le fournisseur et rompre le contrat.",
+      "C": "Mutualiser l’entretien avec alliés pour fiabiliser."
+    }
+  },
+  "wp_233": {
+    "title": "Incident lors d’une visite d’État",
+    "body": "Lors d’une visite d’État, l’hymne est lancé en version… karaoké. Les paroles défilent. Personne ne suit.",
+    "choices": {
+      "A": "Désamorcer avec humour + gestes diplomatiques.",
+      "B": "S’excuser officiellement, protocole renforcé.",
+      "C": "Contre-événement : annonce d’accords concrets."
+    }
+  },
+  "wp_234": {
+    "title": "Chasse aux sous-marins… imaginaires",
+    "body": "Des rumeurs parlent de sous-marins ennemis. Personne n’a rien vu, mais tout le monde a 'un avis'.",
+    "choices": {
+      "A": "Enquête et surveillance renforcée.",
+      "B": "Calmer : transparence et vérifications publiques.",
+      "C": "Action conjointe avec alliés pour crédibiliser."
+    }
+  },
+  "wp_235": {
+    "title": "Réfugiés de guerre (fiction)",
+    "body": "Un conflit (fiction) provoque un afflux de réfugiés. Le pays veut être humain… et organisé.",
+    "choices": {
+      "A": "Accueil structuré + aide internationale.",
+      "B": "Accueil limité + priorité sécurité.",
+      "C": "Aide sur place + diplomatie active pour stopper le conflit."
+    }
+  },
+  "wp_236": {
+    "title": "Bataille des satellites",
+    "body": "Un rival brouille tes satellites. Tes équipes proposent une solution : 'mettre des antennes plus grosses'.",
+    "choices": {
+      "A": "Investir espace + cyber (cher).",
+      "B": "Riposte diplomatique et sanctions.",
+      "C": "Coopération avec alliés pour redondance."
+    }
+  },
+  "wp_237": {
+    "title": "Négociation dans un ascenseur",
+    "body": "Deux délégations se croisent dans un ascenseur. 20 secondes pour éviter la crise. Silence. Gros silence.",
+    "choices": {
+      "A": "Créer un canal de dialogue formel rapidement.",
+      "B": "Profiter pour montrer de la fermeté publique.",
+      "C": "Proposer une rencontre informelle et désamorcer."
+    }
+  },
+  "wp_238": {
+    "title": "Marché noir de pièces détachées",
+    "body": "On découvre un marché noir de pièces militaires. Le scandale : même les boulons ont une filière.",
+    "choices": {
+      "A": "Enquête totale + sanctions + réforme achats.",
+      "B": "Étaler discrètement pour éviter panique.",
+      "C": "Relocaliser production et renforcer contrôles."
+    }
+  },
+  "wp_239": {
+    "title": "Défense anti-… moustiques",
+    "body": "Une région frontalière est envahie de moustiques. Les militaires demandent 'un plan opérationnel'.",
+    "choices": {
+      "A": "Plan santé + logistique militaire locale.",
+      "B": "Ignorer : pas un sujet de défense.",
+      "C": "Coopération transfrontalière : action commune."
+    }
+  },
+  "wp_240": {
+    "title": "Parade de chars… en panne",
+    "body": "Une parade militaire se prépare. Deux chars refusent de démarrer. Les techniciens invoquent 'l’esprit de la batterie'.",
+    "choices": {
+      "A": "Moderniser la flotte et assumer le raté.",
+      "B": "Cacher l’incident, communication maîtrisée.",
+      "C": "Démo conjointe avec alliés pour sauver l’image."
+    }
+  },
+  "wp_241": {
+    "title": "Ultimatum trop théâtral",
+    "body": "Un rival te remet un ultimatum… sur papier parfumé. Tes conseillers se demandent si c’est une menace ou une pub.",
+    "choices": {
+      "A": "Répondre calmement : dialogue + fermeté.",
+      "B": "Réponse dure : posture militaire et sanctions.",
+      "C": "Tourner en ridicule publiquement (risqué)."
+    }
+  },
+  "wp_242": {
+    "title": "Frontière et festival de musique",
+    "body": "Un festival près de la frontière attire des foules. Les deux camps se plaignent du bruit… et des drapeaux.",
+    "choices": {
+      "A": "Maintenir avec sécurité renforcée et dialogue.",
+      "B": "Annuler : risque trop élevé.",
+      "C": "Transformer en événement binational encadré."
+    }
+  },
+  "wp_243": {
+    "title": "Arme miracle… powerpoint",
+    "body": "Un industriel te vend une 'arme révolutionnaire' (fiction). Sa démo, c’est un PowerPoint. Très confiant.",
+    "choices": {
+      "A": "Financer un prototype contrôlé (risque).",
+      "B": "Refuser et investir dans capacités éprouvées.",
+      "C": "Coopérer avec alliés pour partager R&D."
+    }
+  },
+  "wp_244": {
+    "title": "Brouille entre alliés",
+    "body": "Deux alliés se disputent et te demandent de choisir un camp. Ton ministre propose de lancer une 'médiation avec biscuits'.",
+    "choices": {
+      "A": "Médiation active, tu joues l’arbitre.",
+      "B": "Tu choisis un camp (clarifie, mais casse).",
+      "C": "Neutralité : tu refuses de trancher."
+    }
+  },
+  "wp_245": {
+    "title": "Ravitaillement compliqué",
+    "body": "Une opération extérieure (fiction) manque de ravitaillement. Les logisticiens disent : 'on a tout… sauf les cartes'.",
+    "choices": {
+      "A": "Augmenter budget logistique et corriger vite.",
+      "B": "Réduire l’opération : trop coûteuse.",
+      "C": "Partager le ravitaillement avec alliés."
+    }
+  },
+  "wp_246": {
+    "title": "Campagne de recrutement 'trop cool'",
+    "body": "La défense lance une pub de recrutement façon clip musical. Les jeunes adorent, les anciens crient au scandale.",
+    "choices": {
+      "A": "Garder la campagne et moderniser l’image.",
+      "B": "Annuler : sérieux d’abord.",
+      "C": "Garder, mais ajouter une version plus sobre."
+    }
+  },
+  "wp_247": {
+    "title": "Conférence de paix sabotée par la météo",
+    "body": "Une tempête bloque les délégations. Les négociations se font par visioconférence… avec coupures.",
+    "choices": {
+      "A": "Continuer en ligne, patience et diplomatie.",
+      "B": "Reporter et renforcer la pression politique.",
+      "C": "Envoyer des médiateurs sur place dès que possible."
+    }
+  },
+  "wp_248": {
+    "title": "Marchand d’armes très bavard",
+    "body": "Un marchand d’armes (fiction) parle trop aux médias. Il cite ton nom… et ajoute 'on a fait un bon prix'.",
+    "choices": {
+      "A": "Enquête + transparence + couper les contrats douteux.",
+      "B": "Nier et passer en mode silence radio.",
+      "C": "Renégocier officiellement avec contrôle parlementaire."
+    }
+  },
+  "wp_249": {
+    "title": "Escalade au tournoi sportif",
+    "body": "Un match international dégénère en incident diplomatique. Un tacle devient une 'agression nationale' sur les réseaux.",
+    "choices": {
+      "A": "Apaiser : message commun et rencontre des dirigeants.",
+      "B": "Réponse ferme : rappel d’ambassadeur (symbolique).",
+      "C": "Transformer en projet culturel binational."
+    }
+  },
+  "wp_250": {
+    "title": "Cessez-le-feu… et le chat",
+    "body": "En pleine crise (fiction), ta visioconférence de crise est interrompue par… ton chat qui marche sur le clavier. Clip viral garanti.",
+    "choices": {
+      "A": "Assumer avec humour + recentrer sur la paix.",
+      "B": "Communication stricte : zéro blague, posture dure.",
+      "C": "Utiliser la viralité pour pousser une initiative diplomatique."
+    }
+  },
+  "wp_251": {
+    "title": "La carte au trésor militaire",
+    "body": "Un plan d’opération (fiction) fuite… et ressemble à une carte au trésor avec des croix rouges. Les réseaux veulent 'le butin'.",
+    "choices": {
+      "A": "Transparence + enquête + correction des procédures.",
+      "B": "Crier à la manipulation et serrer la vis.",
+      "C": "Transformer en exercice public de résilience."
+    }
+  },
+  "wp_252": {
+    "title": "Train de sanctions",
+    "body": "Ton gouvernement prépare des sanctions. Ton ministre des Transports demande si on peut les livrer… en train, pour l’écologie.",
+    "choices": {
+      "A": "Sanctions ciblées + coordination diplomatique.",
+      "B": "Sanctions massives et immédiates.",
+      "C": "Geler les sanctions et ouvrir un canal secret."
+    }
+  },
+  "wp_253": {
+    "title": "Tensions sur le détroit",
+    "body": "Un détroit stratégique s’enflamme (fiction). Un amiral propose : 'On y met des bateaux. Beaucoup de bateaux.'",
+    "choices": {
+      "A": "Patrouilles renforcées + message de désescalade.",
+      "B": "Démonstration de force : flotte complète.",
+      "C": "Médiation internationale et couloir maritime sécurisé."
+    }
+  },
+  "wp_254": {
+    "title": "Ambassadeur trop franc",
+    "body": "Ton ambassadeur lâche en direct : 'Ils sont ingérables'. Silence… puis tempête diplomatique.",
+    "choices": {
+      "A": "Excuses officielles + rappel temporaire.",
+      "B": "Soutenir l’ambassadeur : fermeté.",
+      "C": "Désamorcer avec humour + réunion bilatérale."
+    }
+  },
+  "wp_255": {
+    "title": "Drones et pigeons",
+    "body": "Tes drones (fiction) se font chasser par… des pigeons entraînés. L’opposition parle de 'défaite aérienne'.",
+    "choices": {
+      "A": "Moderniser la tech + éviter le ridicule.",
+      "B": "Communication dure : 'on teste des contre-mesures'.",
+      "C": "Proposer une coopération anti-drones avec alliés."
+    }
+  },
+  "wp_256": {
+    "title": "Cessez-le-feu minute par minute",
+    "body": "Un cessez-le-feu (fiction) est signé. Une partie veut un minuteur public. L’autre veut un sablier 'plus romantique'.",
+    "choices": {
+      "A": "Observateurs + protocole clair et public.",
+      "B": "Protocole discret, sans show médiatique.",
+      "C": "Refuser : pas de garanties solides."
+    }
+  },
+  "wp_257": {
+    "title": "Cyber attaque au musée",
+    "body": "Une cyber-attaque (fiction) vise un musée national : toutes les œuvres sont renommées 'Sans titre (1)'.",
+    "choices": {
+      "A": "Plan cyber + aide aux institutions culturelles.",
+      "B": "Accuser publiquement et sanctionner.",
+      "C": "Traité culturel-cyber avec partenaires."
+    }
+  },
+  "wp_258": {
+    "title": "Général et moustache stratégique",
+    "body": "Ton général apparaît avec une moustache gigantesque. Il dit que c’est 'pour la dissuasion'. Ça part en mèmes.",
+    "choices": {
+      "A": "Rire et recentrer sur la stratégie.",
+      "B": "Le recadrer : image sérieuse obligatoire.",
+      "C": "L’envoyer en tournée d’alliances (diplomatie militaire)."
+    }
+  },
+  "wp_259": {
+    "title": "Embargo sur les pièces détachées",
+    "body": "Un rival coupe l’accès à des pièces détachées critiques. Tes ingénieurs proposent… du bricolage 'temporaire'.",
+    "choices": {
+      "A": "Relocaliser la production (cher).",
+      "B": "Accélérer stock + achats alternatifs.",
+      "C": "Négocier un accord technique via diplomatie."
+    }
+  },
+  "wp_260": {
+    "title": "Sommet de crise en visioconférence",
+    "body": "Sommet de crise (fiction) en visio. La moitié des chefs d’État sont en sourdine. L’autre moitié parle en même temps.",
+    "choices": {
+      "A": "Coordonner une position commune et apaiser.",
+      "B": "Annoncer une posture ferme unilatérale.",
+      "C": "Proposer une rencontre physique rapide."
+    }
+  },
+  "wp_261": {
+    "title": "Frontière et concours de cuisine",
+    "body": "Un incident frontalier (fiction) est évité de justesse… grâce à un concours de cuisine improvisé entre soldats.",
+    "choices": {
+      "A": "Encourager les liens locaux + dialogue officiel.",
+      "B": "Stopper : renforcer sécurité et discipline.",
+      "C": "Organiser une rencontre bilatérale symbolique."
+    }
+  },
+  "wp_262": {
+    "title": "Bunker ou bibliothèque",
+    "body": "Le budget propose : nouveaux bunkers ou nouvelles bibliothèques. Les deux camps crient 'priorité nationale !'.",
+    "choices": {
+      "A": "Bunkers + plan éducation compensatoire.",
+      "B": "Bibliothèques + diplomatie et prévention des crises.",
+      "C": "Mix : préparation civile légère + culture."
+    }
+  },
+  "wp_263": {
+    "title": "Incident à l'ambassade",
+    "body": "Un incident (fiction) devant une ambassade dégénère. Le rival parle d’humiliation. Ton peuple veut une réponse.",
+    "choices": {
+      "A": "S’excuser + enquêter + canal diplomatique.",
+      "B": "Riposte ferme : expulsions et sanctions.",
+      "C": "Médiation avec un partenaire neutre."
+    }
+  },
+  "wp_264": {
+    "title": "Guerre des communiqués",
+    "body": "Chaque jour, un communiqué plus agressif que le précédent. Les analystes parlent d’'escalade en PDF'.",
+    "choices": {
+      "A": "Couper court : appel direct et désescalade.",
+      "B": "Répondre coup pour coup : fermeté.",
+      "C": "Créer un groupe de travail discret et stable."
+    }
+  },
+  "wp_265": {
+    "title": "Réservistes influenceurs",
+    "body": "Des réservistes postent des vidéos 'behind the scenes'. C’est populaire… et ça révèle un peu trop.",
+    "choices": {
+      "A": "Cadre strict + formation, garder l’élan.",
+      "B": "Interdiction totale et sanctions.",
+      "C": "Communication officielle modernisée et contrôlée."
+    }
+  },
+  "wp_266": {
+    "title": "Un missile… de tweet",
+    "body": "Un dirigeant rival tweet une menace (fiction). Ton équipe te propose de répondre avec un gif. La diplomatie moderne.",
+    "choices": {
+      "A": "Réponse calme et officielle + canal privé.",
+      "B": "Réponse dure publique : posture défensive.",
+      "C": "Ignorer publiquement, agir en coulisses."
+    }
+  },
+  "wp_267": {
+    "title": "L’exercice qui fait peur aux touristes",
+    "body": "Un exercice (fiction) effraie les touristes : annulations en chaîne. Les hôteliers te supplient.",
+    "choices": {
+      "A": "Adapter exercices + communication rassurante.",
+      "B": "Assumer : sécurité d’abord.",
+      "C": "Déplacer exercices et renforcer diplomatie."
+    }
+  },
+  "wp_268": {
+    "title": "Course à l’armement… écologique",
+    "body": "On te propose des 'chars verts' (fiction), supposés moins polluants. Le public ne sait pas si c’est sérieux.",
+    "choices": {
+      "A": "Investir R&D : moderniser défense propre.",
+      "B": "Refuser : priorité à l’efficacité.",
+      "C": "Coopération techno avec alliés."
+    }
+  },
+  "wp_269": {
+    "title": "Accord de non-espionnage",
+    "body": "Un rival propose un accord de non-espionnage. Tout le monde tousse. Toi aussi.",
+    "choices": {
+      "A": "Signer avec audits et clauses strictes.",
+      "B": "Refuser : trop naïf.",
+      "C": "Négocier un accord partiel (secteurs civils)."
+    }
+  },
+  "wp_270": {
+    "title": "Pénurie de casques",
+    "body": "Les stocks de casques sont bas. Un fournisseur propose une livraison rapide… avec des casques rose fluo.",
+    "choices": {
+      "A": "Accepter temporairement + relance production.",
+      "B": "Refuser : dignité militaire.",
+      "C": "Acheter via alliés, standardiser l’équipement."
+    }
+  },
+  "wp_271": {
+    "title": "Crise des satellites météo",
+    "body": "Tes satellites météo tombent en panne. Les militaires disent : 'Sans météo, pas d’opérations'. Les civils : 'Sans météo, pas de week-end'.",
+    "choices": {
+      "A": "Investir espace immédiatement.",
+      "B": "Partage avec alliés et plan de secours.",
+      "C": "Reporter : trop cher, priorité économie."
+    }
+  },
+  "wp_272": {
+    "title": "Incident maritime et poisson géant",
+    "body": "Un incident maritime (fiction) est causé… par un poisson géant dans un sonar. Le rival parle d’attaque.",
+    "choices": {
+      "A": "Transparence + enquête conjointe.",
+      "B": "Posture ferme : patrouilles et protestation.",
+      "C": "Médiation internationale et protocole anti-accidents."
+    }
+  },
+  "wp_273": {
+    "title": "Ambassade et panne de clim",
+    "body": "Dans une réunion de crise à l’ambassade, la clim tombe. La tension monte. Les traducteurs fondent. Littéralement.",
+    "choices": {
+      "A": "Pause, calmer le jeu, reprendre avec médiation.",
+      "B": "Accélérer et imposer une décision.",
+      "C": "Déplacer la négociation sur terrain neutre."
+    }
+  },
+  "wp_274": {
+    "title": "Les exportations prises en otage",
+    "body": "Un conflit régional (fiction) bloque tes exportations. Les entreprises veulent une réponse, et vite.",
+    "choices": {
+      "A": "Désescalade diplomatique + routes alternatives.",
+      "B": "Protection militaire des routes (risqué).",
+      "C": "Sanctions économiques et pression internationale."
+    }
+  },
+  "wp_275": {
+    "title": "Menace sur un câble sous-marin",
+    "body": "On signale des menaces (fiction) sur un câble sous-marin. Ton conseiller dit : 'Sans internet, c’est la guerre civile en 12 minutes'.",
+    "choices": {
+      "A": "Protection renforcée + cyber défense.",
+      "B": "Accusation publique + sanctions.",
+      "C": "Accord international de protection des infrastructures."
+    }
+  },
+  "wp_276": {
+    "title": "Défilé de drones… artistique",
+    "body": "Pour montrer ta force, un défilé de drones est prévu. L’équipe créative veut faire un cœur dans le ciel. L’armée veut un aigle.",
+    "choices": {
+      "A": "Option symbolique apaisante (cœur) + message paix.",
+      "B": "Option dissuasion (aigle) + posture ferme.",
+      "C": "Mix : symbole + démonstration technique."
+    }
+  },
+  "wp_277": {
+    "title": "Accusation d’ingérence",
+    "body": "On t’accuse d’ingérence (fiction) dans une élection étrangère. Ton ministère répond : 'Nous ? Jamais.'",
+    "choices": {
+      "A": "Enquête indépendante + transparence.",
+      "B": "Démenti ferme + contre-attaque diplomatique.",
+      "C": "Canal secret pour calmer la crise."
+    }
+  },
+  "wp_278": {
+    "title": "Le traité 'trop long'",
+    "body": "Un traité de sécurité arrive : 800 pages. Ton staff demande s’il existe une version 'résumé en 3 emojis'.",
+    "choices": {
+      "A": "Signer après débat et contrôle démocratique.",
+      "B": "Signer vite : urgence stratégique.",
+      "C": "Refuser et renégocier un texte plus clair."
+    }
+  },
+  "wp_279": {
+    "title": "Rival et exercice spatial",
+    "body": "Un rival fait un exercice spatial (fiction). Tes scientifiques disent : 'C’est surtout pour impressionner'. Ton peuple dit : 'On veut pareil'.",
+    "choices": {
+      "A": "Investir dans l’espace (cher mais prestigieux).",
+      "B": "Rester terrestre : renforcer défense classique.",
+      "C": "Alliance spatiale avec partenaires."
+    }
+  },
+  "wp_280": {
+    "title": "Incident dans la zone démilitarisée",
+    "body": "Un incident (fiction) dans une zone démilitarisée : un soldat s’est perdu en cherchant… des toilettes.",
+    "choices": {
+      "A": "Excuses + protocole commun, désescalade.",
+      "B": "Posture ferme : présence militaire accrue.",
+      "C": "Rencontre bilatérale et hotline renforcée."
+    }
+  },
+  "wp_281": {
+    "title": "Rumeurs de blocus",
+    "body": "Une rumeur annonce un blocus (fiction). Les gens font des stocks de pâtes. Les influenceurs font des tutos 'survie'.",
+    "choices": {
+      "A": "Rassurer + sécuriser logistique.",
+      "B": "Mobiliser défense et annoncer mesures fortes.",
+      "C": "Accords diplomatiques pour garantir les routes."
+    }
+  },
+  "wp_282": {
+    "title": "Espionnage industriel",
+    "body": "Une entreprise stratégique se fait voler des plans (fiction). Son PDG demande : 'On répond comment ? Avec un procès… ou un tank ?'",
+    "choices": {
+      "A": "Réponse juridique + cyber et protection.",
+      "B": "Sanctions et riposte diplomatique.",
+      "C": "Investir en défense industrielle nationale."
+    }
+  },
+  "wp_283": {
+    "title": "Guerre de l’eau (fiction)",
+    "body": "Une région manque d’eau. Des tensions montent. Un maire propose : 'On échange de l’eau contre des sourires'.",
+    "choices": {
+      "A": "Accord régional + investissements hydrauliques.",
+      "B": "Priorité nationale : restrictions et contrôle.",
+      "C": "Aide internationale et médiation."
+    }
+  },
+  "wp_284": {
+    "title": "Cris d’alarme au parlement",
+    "body": "Au parlement, une séance sur la guerre (fiction) tourne au théâtre : cris, pancartes, et un député qui sort une cloche.",
+    "choices": {
+      "A": "Chercher un consensus et calmer le jeu.",
+      "B": "Passer en force : autorité.",
+      "C": "Référendum consultatif (risqué)."
+    }
+  },
+  "wp_285": {
+    "title": "Opération humanitaire",
+    "body": "On te demande une opération humanitaire (fiction) dans une zone de conflit. Certains disent 'devoir moral', d’autres 'risque'.",
+    "choices": {
+      "A": "Envoyer aide + protection militaire minimale.",
+      "B": "Envoyer aide uniquement via ONG.",
+      "C": "Refuser et pousser une solution diplomatique."
+    }
+  },
+  "wp_286": {
+    "title": "Une alliance veut plus",
+    "body": "Ton alliance militaire te demande plus de troupes. Ton peuple demande plus de pouvoir d’achat. Tout le monde demande plus.",
+    "choices": {
+      "A": "Augmenter contribution et compenser économiquement.",
+      "B": "Refuser : priorité intérieure.",
+      "C": "Proposer soutien technologique plutôt que troupes."
+    }
+  },
+  "wp_287": {
+    "title": "Le missile qui fait demi-tour",
+    "body": "Lors d’un test (fiction), un missile fait demi-tour. Pas vers toi. Mais la vidéo est… inquiétante.",
+    "choices": {
+      "A": "Transparence + audit sécurité, calmer la peur.",
+      "B": "Cacher et renforcer les tests en secret.",
+      "C": "Coopération avec alliés pour sécuriser le programme."
+    }
+  },
+  "wp_288": {
+    "title": "Frontière et drone-journaliste",
+    "body": "Un drone-journaliste survole une zone tendue (fiction). Un soldat lui fait coucou. C’est viral, mais dangereux.",
+    "choices": {
+      "A": "Encadrer presse et sécurité sans censure.",
+      "B": "Interdire survol et sanctionner.",
+      "C": "Créer une zone média officielle sécurisée."
+    }
+  },
+  "wp_289": {
+    "title": "Guerre des visas (soft)",
+    "body": "Un rival limite les visas. Ton peuple veut répondre : 'Qu’ils gardent leurs touristes !' Les hôtels pleurent.",
+    "choices": {
+      "A": "Négocier réciprocité et apaiser.",
+      "B": "Riposte symétrique : visas limités.",
+      "C": "Ouvrir à d’autres pays pour compenser."
+    }
+  },
+  "wp_290": {
+    "title": "Sommet secret… dévoilé",
+    "body": "Un sommet secret (fiction) fuite parce qu’un stagiaire a posté une story. Le monde découvre l’adresse du restaurant.",
+    "choices": {
+      "A": "Assumer et transformer en négociation officielle.",
+      "B": "Nier et enquêter en interne.",
+      "C": "Reporter et renforcer sécurité des infos."
+    }
+  },
+  "wp_291": {
+    "title": "Brouille autour d’un monument",
+    "body": "Un monument commun devient un symbole de conflit (fiction). Chacun veut la plaque. Les touristes veulent juste des photos.",
+    "choices": {
+      "A": "Accord culturel partagé.",
+      "B": "Imposer ta version : autorité.",
+      "C": "Retirer la plaque et apaiser par la diplomatie."
+    }
+  },
+  "wp_292": {
+    "title": "Blocage des ports",
+    "body": "Un conflit (fiction) bloque plusieurs ports. Les prix montent, et ton peuple découvre soudain l’amour… pour la logistique.",
+    "choices": {
+      "A": "Routes alternatives + diplomatie de crise.",
+      "B": "Escorte militaire des cargos.",
+      "C": "Sanctions et pression internationale."
+    }
+  },
+  "wp_293": {
+    "title": "Rival 'trop proche' de tes frontières",
+    "body": "Un rival déploie des troupes près de ta frontière (fiction). Ton ministre propose de déployer des… fanfares, 'pour l’ambiance'.",
+    "choices": {
+      "A": "Renforcer défense + garder un canal de dialogue.",
+      "B": "Réponse agressive : mobilisation et ultimatum.",
+      "C": "Médiation internationale et observateurs."
+    }
+  },
+  "wp_294": {
+    "title": "Accord de désarmement",
+    "body": "Un accord de désarmement (fiction) est proposé. Les militaires grincent, les citoyens applaudissent, les industriels comptent.",
+    "choices": {
+      "A": "Signer avec vérifications strictes.",
+      "B": "Refuser : risque stratégique.",
+      "C": "Signer partiellement (catégories limitées)."
+    }
+  },
+  "wp_295": {
+    "title": "La radio d’urgence diffuse… du jazz",
+    "body": "La radio d’urgence se déclenche (fiction) et diffuse… du jazz. Le public panique puis danse. Très confus.",
+    "choices": {
+      "A": "Corriger le système + campagne d’info.",
+      "B": "Minimiser : 'test technique'.",
+      "C": "Moderniser et créer une hotline d’urgence."
+    }
+  },
+  "wp_296": {
+    "title": "Incident au consulat",
+    "body": "Un consulat est vandalisé (fiction). Les deux camps accusent l’autre. Toi, tu dois éviter l’escalade.",
+    "choices": {
+      "A": "Condamner + coopérer pour trouver les coupables.",
+      "B": "Expulsions et mesures fermes.",
+      "C": "Médiation et gestes symboliques de paix."
+    }
+  },
+  "wp_297": {
+    "title": "La promesse du 'bouclier total'",
+    "body": "Un industriel te vend un 'bouclier total' (fiction). Il dit : 'Plus rien ne passe'. Ton expert répond : 'Surtout pas la réalité'.",
+    "choices": {
+      "A": "Financer recherche contrôlée, rester prudent.",
+      "B": "Acheter vite : montrer puissance.",
+      "C": "Refuser et investir dans défense multi-couches classique."
+    }
+  },
+  "wp_298": {
+    "title": "Diplomatie du café",
+    "body": "Tu proposes une rencontre pour éviter la guerre (fiction). Le rival accepte… mais exige 'le meilleur café'.",
+    "choices": {
+      "A": "Accepter, priorité à la paix.",
+      "B": "Refuser : pas de caprices.",
+      "C": "Accepter mais sur terrain neutre."
+    }
+  },
+  "wp_299": {
+    "title": "Le faux communiqué",
+    "body": "Un faux communiqué annonce une déclaration de guerre (fiction). Les marchés tremblent. Ton téléphone fume.",
+    "choices": {
+      "A": "Démenti immédiat + renforcement cyber.",
+      "B": "Accuser le rival : sanctions et posture ferme.",
+      "C": "Créer un protocole commun anti-désinformation."
+    }
+  },
+  "wp_300": {
+    "title": "La colombe mécanique",
+    "body": "Pour un message de paix (fiction), on te propose une colombe mécanique. Elle se bloque et crie 'BIP BIP' devant les caméras.",
+    "choices": {
+      "A": "Rire, assumer et annoncer une initiative de paix.",
+      "B": "Annuler l’événement et rester ferme.",
+      "C": "Reprogrammer : symbole + accord diplomatique."
+    }
+  },
+  "wp_301": {
+    "title": "Sécheresse prolongée",
+    "body": "Une sécheresse s’installe. Les réserves baissent, l’agriculture s’inquiète, et les villes demandent un plan clair.",
+    "choices": {
+      "A": "Restrictions nationales + aides aux secteurs touchés.",
+      "B": "Investir massivement dans l’eau (réseaux, retenues, recyclage).",
+      "C": "Accords d’approvisionnement et soutien technique avec des partenaires."
+    }
+  },
+  "wp_302": {
+    "title": "Crue exceptionnelle",
+    "body": "Une crue importante met les infrastructures sous pression. Les régions demandent des moyens et une coordination rapide.",
+    "choices": {
+      "A": "Plan d’urgence + renforts logistiques et réparation accélérée.",
+      "B": "Prioriser la prévention : digues, cartographie, normes de construction.",
+      "C": "Mobiliser une aide internationale pour matériel et expertise."
+    }
+  },
+  "wp_303": {
+    "title": "Canicule et demande électrique",
+    "body": "La canicule fait grimper la demande d’électricité. Le réseau est tendu et l’opinion veut éviter les coupures.",
+    "choices": {
+      "A": "Mesures d’économie d’énergie + aides ciblées aux ménages.",
+      "B": "Accélérer la capacité de production et stockage (coûteux).",
+      "C": "Importations d’énergie et accords temporaires avec voisins."
+    }
+  },
+  "wp_304": {
+    "title": "Tempête et réseau mobile",
+    "body": "Une tempête endommage des antennes et le réseau mobile devient instable. L’économie locale ralentit.",
+    "choices": {
+      "A": "Plan réparation express avec priorité aux zones clés.",
+      "B": "Investir dans la résilience (redondance, enfouissement, secours).",
+      "C": "Partenariat public-privé pour accélérer et partager le coût."
+    }
+  },
+  "wp_305": {
+    "title": "Incendies de forêt",
+    "body": "Les incendies augmentent. Les autorités locales demandent plus de moyens de prévention et d’intervention.",
+    "choices": {
+      "A": "Renforcer les moyens de lutte + coordination nationale.",
+      "B": "Plan long terme : prévention, débroussaillement, aménagement.",
+      "C": "Coopération régionale : moyens aériens mutualisés et entraînements."
+    }
+  },
+  "wp_306": {
+    "title": "Glissement de terrain",
+    "body": "Un glissement de terrain coupe une route majeure. Les transports et la logistique sont perturbés.",
+    "choices": {
+      "A": "Réparer en urgence + itinéraires alternatifs organisés.",
+      "B": "Relocaliser et sécuriser l’infrastructure (plus long, plus cher).",
+      "C": "Faire appel à expertise externe pour stabilisation rapide."
+    }
+  },
+  "wp_307": {
+    "title": "Risque d'inondations urbaines",
+    "body": "Des épisodes de pluies intenses saturent les égouts. Les maires demandent un financement national.",
+    "choices": {
+      "A": "Fonds d’urgence pour les villes + travaux rapides.",
+      "B": "Grand plan d’adaptation urbaine sur plusieurs années.",
+      "C": "Assurances et incitations privées pour accélérer la prévention."
+    }
+  },
+  "wp_308": {
+    "title": "Tension sur les céréales",
+    "body": "Les prix des céréales montent sur les marchés. Les industriels alimentaires veulent des garanties.",
+    "choices": {
+      "A": "Aides ciblées + stocks stratégiques temporaires.",
+      "B": "Faciliter la production nationale et réduire certaines contraintes.",
+      "C": "Accords commerciaux diversifiés pour sécuriser l’approvisionnement."
+    }
+  },
+  "wp_309": {
+    "title": "Choc sur les matières premières",
+    "body": "Une hausse brutale des matières premières fragilise l’industrie. Les entreprises réclament des mesures.",
+    "choices": {
+      "A": "Soutien temporaire aux secteurs critiques + contrôle des abus.",
+      "B": "Plan de relocalisation et substitution (innovation, recyclage).",
+      "C": "Négociation internationale pour stabiliser l’accès aux ressources."
+    }
+  },
+  "wp_310": {
+    "title": "Rupture de chaîne logistique",
+    "body": "Un ralentissement mondial provoque des ruptures de composants. Les usines tournent au ralenti.",
+    "choices": {
+      "A": "Soutien de court terme + priorisation des secteurs essentiels.",
+      "B": "Plan souveraineté industrielle et diversification des fournisseurs.",
+      "C": "Accord régional de partage de stocks et production."
+    }
+  },
+  "wp_311": {
+    "title": "Conflit commercial ciblé",
+    "body": "Un partenaire impose des droits de douane sur un secteur clé. Les exportateurs demandent une riposte.",
+    "choices": {
+      "A": "Riposte proportionnée + plainte dans les cadres internationaux.",
+      "B": "Subventions et soutien interne pour tenir jusqu’à la négociation.",
+      "C": "Négociation directe : compromis contre concessions."
+    }
+  },
+  "wp_312": {
+    "title": "Restrictions technologiques",
+    "body": "Des restrictions apparaissent sur l’export de technologies sensibles. Tes entreprises craignent de perdre des marchés.",
+    "choices": {
+      "A": "Investir dans la R&D nationale pour réduire la dépendance.",
+      "B": "Négocier des exemptions et garanties avec partenaires.",
+      "C": "Réorienter vers d’autres marchés et renforcer la compétitivité."
+    }
+  },
+  "wp_313": {
+    "title": "Hausse des taux et crédit",
+    "body": "La hausse des taux freine le crédit. Ménages et PME demandent de l’oxygène.",
+    "choices": {
+      "A": "Aides ciblées aux PME + garanties publiques limitées.",
+      "B": "Plan de relance par investissement public et commandes.",
+      "C": "Discipline budgétaire et incitations privées à l’investissement."
+    }
+  },
+  "wp_314": {
+    "title": "Inflation sur l’alimentation",
+    "body": "L’inflation sur l’alimentation crée une pression sociale. Les distributeurs et producteurs se renvoient la faute.",
+    "choices": {
+      "A": "Contrôle renforcé des marges + aides ciblées aux ménages.",
+      "B": "Baisser temporairement certaines taxes, avec compensation budgétaire.",
+      "C": "Accords de filière pour stabiliser les prix sur plusieurs mois."
+    }
+  },
+  "wp_315": {
+    "title": "Pénurie de médicaments",
+    "body": "Des médicaments essentiels deviennent difficiles à obtenir. Le système de santé demande une réponse structurelle.",
+    "choices": {
+      "A": "Plan urgence d’approvisionnement + transparence et priorisation.",
+      "B": "Relocaliser une partie de la production (coûteux mais durable).",
+      "C": "Accords internationaux de production et stocks mutualisés."
+    }
+  },
+  "wp_316": {
+    "title": "Qualité de l’air en baisse",
+    "body": "Des épisodes de pollution reviennent. Les collectivités demandent des mesures qui ne cassent pas l’économie.",
+    "choices": {
+      "A": "Mesures temporaires + aides à la mobilité propre.",
+      "B": "Règles plus strictes et plan industrie/transport sur 3 ans.",
+      "C": "Incitations fiscales et partenariats pour accélérer la transition."
+    }
+  },
+  "wp_317": {
+    "title": "Risque hydrique industriel",
+    "body": "Plusieurs sites industriels manquent d’eau pour produire. Les syndicats et patrons veulent un arbitrage.",
+    "choices": {
+      "A": "Prioriser l’eau pour activités essentielles + compensation.",
+      "B": "Investir dans recyclage industriel et modernisation du réseau.",
+      "C": "Déplacer une partie de la production et diversifier les sites."
+    }
+  },
+  "wp_318": {
+    "title": "Tension sur le gaz",
+    "body": "L’approvisionnement en gaz est plus incertain. Les prix menacent l’industrie et les ménages.",
+    "choices": {
+      "A": "Bouclier ciblé + sobriété organisée.",
+      "B": "Accélérer alternatives et stockage énergétique.",
+      "C": "Négocier des contrats long terme avec plusieurs partenaires."
+    }
+  },
+  "wp_319": {
+    "title": "Sécurité alimentaire",
+    "body": "Les experts recommandent un plan de sécurité alimentaire : production, stocks, et résilience.",
+    "choices": {
+      "A": "Lancer un plan national avec objectifs et financement.",
+      "B": "Laisser le marché s’adapter, avec un filet de sécurité minimal.",
+      "C": "Coopération régionale : production et stocks coordonnés."
+    }
+  },
+  "wp_320": {
+    "title": "Fissures dans un barrage",
+    "body": "Des fissures sont détectées sur un barrage. Les autorités locales veulent prévenir tout risque.",
+    "choices": {
+      "A": "Inspection immédiate + travaux prioritaires et transparence.",
+      "B": "Travaux lourds et modernisation complète (budget élevé).",
+      "C": "Faire appel à expertise internationale pour accélérer le diagnostic."
+    }
+  },
+  "wp_321": {
+    "title": "Tensions sur les semi-conducteurs",
+    "body": "Les semi-conducteurs manquent. L’automobile et l’électronique demandent un plan de souveraineté.",
+    "choices": {
+      "A": "Aides à court terme + allocation prioritaire aux secteurs clés.",
+      "B": "Investir dans des capacités nationales/alliées sur plusieurs années.",
+      "C": "Accords commerciaux et stocks stratégiques partagés."
+    }
+  },
+  "wp_322": {
+    "title": "Concurrence sur les ports",
+    "body": "Des ports étrangers attirent le trafic en baissant les coûts. Les logisticiens disent que ton pays perd des parts.",
+    "choices": {
+      "A": "Investir dans les ports et fluidifier les procédures.",
+      "B": "Baisser des charges pour rester compétitif.",
+      "C": "Accords logistiques régionaux et spécialisation des ports."
+    }
+  },
+  "wp_323": {
+    "title": "Pression sur les assurances",
+    "body": "Les sinistres climatiques augmentent et les assurances montent leurs tarifs. Les ménages protestent.",
+    "choices": {
+      "A": "Régulation et plafonnement ciblé + prévention.",
+      "B": "Fonds public de réassurance et plan d’adaptation.",
+      "C": "Inciter à la prévention privée et ajuster les normes."
+    }
+  },
+  "wp_324": {
+    "title": "Tension sur l’eau potable",
+    "body": "Une région connaît des difficultés d’eau potable. Les élus demandent une réponse immédiate et durable.",
+    "choices": {
+      "A": "Plan d’urgence + soutien aux collectivités.",
+      "B": "Grand chantier réseaux et protection des nappes.",
+      "C": "Accords inter-régions et investissements partagés."
+    }
+  },
+  "wp_325": {
+    "title": "Conflit sur les normes",
+    "body": "Un partenaire veut imposer des normes techniques qui désavantagent tes entreprises. Elles parlent de barrière déguisée.",
+    "choices": {
+      "A": "Négociation ferme + harmonisation équilibrée.",
+      "B": "Riposte : normes nationales renforcées et contrôle importations.",
+      "C": "Soutien à l’adaptation industrielle et diversification des marchés."
+    }
+  },
+  "wp_326": {
+    "title": "Rumeur de défaut bancaire",
+    "body": "Une rumeur sur la solidité d’une banque circule. Les clients commencent à retirer de l’argent.",
+    "choices": {
+      "A": "Communication rassurante + garanties ciblées.",
+      "B": "Intervention publique forte et contrôle temporaire.",
+      "C": "Fusion encadrée avec un acteur solide."
+    }
+  },
+  "wp_327": {
+    "title": "Tension sur la monnaie",
+    "body": "La monnaie se déprécie. Les importations coûtent plus cher, mais les exportateurs y voient une opportunité.",
+    "choices": {
+      "A": "Stabiliser via mesures budgétaires et message crédible.",
+      "B": "Soutenir les exportations et amortir l’inflation ciblée.",
+      "C": "Coordination avec partenaires pour limiter la volatilité."
+    }
+  },
+  "wp_328": {
+    "title": "Gel d’investissements étrangers",
+    "body": "Plusieurs investisseurs étrangers mettent leurs projets en pause. Ils demandent visibilité et stabilité.",
+    "choices": {
+      "A": "Paquet confiance : stabilité fiscale et simplification.",
+      "B": "Plan souverain : prioriser investissements nationaux.",
+      "C": "Accords bilatéraux et garanties pour relancer les projets."
+    }
+  },
+  "wp_329": {
+    "title": "Conflit sur la pêche",
+    "body": "Un désaccord sur des quotas de pêche crée des tensions commerciales. Les professionnels veulent un arbitrage rapide.",
+    "choices": {
+      "A": "Négocier un compromis et renforcer les contrôles.",
+      "B": "Mesures de rétorsion commerciales ciblées.",
+      "C": "Plan de transition pour réduire la dépendance au secteur."
+    }
+  },
+  "wp_330": {
+    "title": "Pénurie de main-d'œuvre",
+    "body": "Certains secteurs manquent de main-d’œuvre. Les entreprises demandent des solutions sans hausse brutale des coûts.",
+    "choices": {
+      "A": "Formation accélérée + incitations à l’emploi.",
+      "B": "Ouvrir des voies de recrutement international encadrées.",
+      "C": "Automatisation et soutien à la productivité."
+    }
+  },
+  "wp_331": {
+    "title": "Blocage d’un corridor commercial",
+    "body": "Un corridor commercial international est ralenti. Tes exportateurs perdent du temps et de l’argent.",
+    "choices": {
+      "A": "Démarches diplomatiques pour rétablir la fluidité.",
+      "B": "Routes alternatives : investissement logistique national.",
+      "C": "Pression économique coordonnée avec alliés."
+    }
+  },
+  "wp_332": {
+    "title": "Tension sur les terres rares",
+    "body": "Les terres rares deviennent plus difficiles à obtenir. Tes industries vertes et électroniques s’inquiètent.",
+    "choices": {
+      "A": "Stratégie recyclage et substitution, avec R&D.",
+      "B": "Accords d’approvisionnement long terme diversifiés.",
+      "C": "Développer une filière nationale (coûteuse, longue)."
+    }
+  },
+  "wp_333": {
+    "title": "Risque sur le réseau d’eau",
+    "body": "Des fuites massives sur le réseau d’eau font perdre une partie de la ressource. Les citoyens réclament des travaux.",
+    "choices": {
+      "A": "Plan choc de réparation et transparence des résultats.",
+      "B": "Prioriser les zones critiques et étaler le reste.",
+      "C": "Partenariat privé encadré pour accélérer."
+    }
+  },
+  "wp_334": {
+    "title": "Conflit sur l’acier",
+    "body": "Un partenaire subventionne fortement son acier, tes industriels crient à la concurrence déloyale.",
+    "choices": {
+      "A": "Action internationale + mesures anti-dumping ciblées.",
+      "B": "Soutien temporaire à l’industrie nationale.",
+      "C": "Modernisation : investir dans acier bas carbone."
+    }
+  },
+  "wp_335": {
+    "title": "Séisme et normes",
+    "body": "Un séisme met en évidence la fragilité de certains bâtiments. Les collectivités demandent un plan normes et rénovation.",
+    "choices": {
+      "A": "Renforcer les normes et financer la rénovation prioritaire.",
+      "B": "Aides limitées, laisser les collectivités piloter.",
+      "C": "Plan national avec cofinancement public-privé."
+    }
+  },
+  "wp_336": {
+    "title": "Orages et réseau ferroviaire",
+    "body": "Des orages violents perturbent le ferroviaire. Les retards s’accumulent et l’économie locale en souffre.",
+    "choices": {
+      "A": "Plan de réparation et renforts sur les lignes critiques.",
+      "B": "Modernisation lourde pour résilience climatique.",
+      "C": "Sous-traiter certaines opérations pour accélérer."
+    }
+  },
+  "wp_337": {
+    "title": "Sécurité des barrages",
+    "body": "Un rapport recommande de renforcer la surveillance des barrages et digues face aux événements extrêmes.",
+    "choices": {
+      "A": "Financer la surveillance et les travaux prioritaires.",
+      "B": "Réformer la gouvernance et imposer des audits stricts.",
+      "C": "Mutualiser avec partenaires l’expertise et les standards."
+    }
+  },
+  "wp_338": {
+    "title": "Crise des transports maritimes",
+    "body": "Le coût du transport maritime grimpe. Les importateurs demandent un plan pour éviter une inflation en cascade.",
+    "choices": {
+      "A": "Soutien temporaire + réduction de certaines charges logistiques.",
+      "B": "Relocalisation ciblée de productions et stocks stratégiques.",
+      "C": "Accords régionaux de transport et capacités portuaires."
+    }
+  },
+  "wp_339": {
+    "title": "Tensions sur l’agroalimentaire",
+    "body": "Un partenaire bloque des produits agroalimentaires pour raisons administratives. Tes producteurs s’inquiètent.",
+    "choices": {
+      "A": "Négocier et débloquer via diplomatie économique.",
+      "B": "Mesures de rétorsion ciblées.",
+      "C": "Diversifier débouchés et soutenir la transformation locale."
+    }
+  },
+  "wp_340": {
+    "title": "Pression sur les logements",
+    "body": "Une hausse des coûts de construction ralentit les projets. Le marché du logement se tend encore plus.",
+    "choices": {
+      "A": "Aides ciblées et simplification des permis.",
+      "B": "Plan construction national avec investissements publics.",
+      "C": "Incitations privées et partenariats avec collectivités."
+    }
+  },
+  "wp_341": {
+    "title": "Conflit sur la taxe carbone",
+    "body": "Un partenaire menace de taxer tes produits selon leur empreinte carbone. Tes exportateurs demandent un plan.",
+    "choices": {
+      "A": "Accélérer la décarbonation industrielle.",
+      "B": "Négocier des exemptions et un calendrier réaliste.",
+      "C": "Mesures de soutien et repositionnement vers des produits à plus forte valeur."
+    }
+  },
+  "wp_342": {
+    "title": "Tension sur l’aviation",
+    "body": "Les coûts de carburant et les contraintes environnementales pèsent sur l’aviation. Le secteur demande un cap.",
+    "choices": {
+      "A": "Soutenir la transition (carburants durables) avec conditions.",
+      "B": "Réduire les aides et laisser le marché s’ajuster.",
+      "C": "Accord international pour harmoniser les règles."
+    }
+  },
+  "wp_343": {
+    "title": "Conflit sur les données",
+    "body": "Un partenaire veut imposer des règles de transfert de données qui compliquent tes services numériques.",
+    "choices": {
+      "A": "Négocier un cadre équilibré et protéger les entreprises.",
+      "B": "Renforcer souveraineté numérique et localiser davantage.",
+      "C": "Créer une alliance numérique avec des pays compatibles."
+    }
+  },
+  "wp_344": {
+    "title": "Tension sur les marchés publics",
+    "body": "Un partenaire exclut tes entreprises de certains marchés publics. Les secteurs concernés demandent une riposte.",
+    "choices": {
+      "A": "Recours et négociation dans les cadres existants.",
+      "B": "Réciprocité stricte sur tes marchés publics.",
+      "C": "Soutien à l’export vers d’autres zones."
+    }
+  },
+  "wp_345": {
+    "title": "Eaux de baignade",
+    "body": "La qualité des eaux se dégrade sur plusieurs zones touristiques. Les collectivités demandent aide et normes claires.",
+    "choices": {
+      "A": "Plan d’assainissement rapide et contrôles renforcés.",
+      "B": "Investissements lourds sur plusieurs années.",
+      "C": "Partenariats locaux et incitations pour accélérer."
+    }
+  },
+  "wp_346": {
+    "title": "Tempêtes et agriculture",
+    "body": "Des tempêtes répétées fragilisent les récoltes et les serres. Les agriculteurs demandent un plan de résilience.",
+    "choices": {
+      "A": "Aides ciblées + assurance et prévention.",
+      "B": "Modernisation agricole et infrastructures de protection.",
+      "C": "Accords d’approvisionnement et diversification des cultures."
+    }
+  },
+  "wp_347": {
+    "title": "Tensions sur les minerais",
+    "body": "Un pays producteur de minerais change ses règles d’exportation. Les industriels craignent des arrêts de production.",
+    "choices": {
+      "A": "Négocier sécurisation et contrats stables.",
+      "B": "Développer recyclage et économie circulaire rapidement.",
+      "C": "Investir dans des projets miniers alternatifs avec partenaires."
+    }
+  },
+  "wp_348": {
+    "title": "Taux de fret ferroviaire",
+    "body": "Le fret ferroviaire manque de capacités. Les entreprises veulent transférer plus de marchandises du camion au rail.",
+    "choices": {
+      "A": "Investir dans le rail et incitations au report modal.",
+      "B": "Privatiser certains services pour accélérer.",
+      "C": "Mix : investissement public + contrats performance privés."
+    }
+  },
+  "wp_349": {
+    "title": "Conflit sur la propriété intellectuelle",
+    "body": "Un partenaire accuse tes entreprises de ne pas respecter la propriété intellectuelle. Il menace des sanctions.",
+    "choices": {
+      "A": "Renforcer contrôles et coopération judiciaire.",
+      "B": "Contester et préparer une riposte commerciale.",
+      "C": "Négocier un accord de conformité et un calendrier."
+    }
+  },
+  "wp_350": {
+    "title": "Épisode de gel tardif",
+    "body": "Un gel tardif impacte certaines productions agricoles. Les prix et la chaîne alimentaire risquent de bouger.",
+    "choices": {
+      "A": "Aides ciblées + soutien aux filières touchées.",
+      "B": "Plan adaptation agricole (variétés, protection, calendrier).",
+      "C": "Importations temporaires et accords pour stabiliser les prix."
+    }
+  },
+  "wp_351": {
+    "title": "Pénurie d’eau régionale",
+    "body": "Une région signale une baisse critique des réserves. Les élus demandent des mesures rapides, les entreprises redoutent l’arrêt de certaines activités.",
+    "choices": {
+      "A": "Déclencher un plan d’urgence avec restrictions ciblées.",
+      "B": "Financer en priorité la modernisation des réseaux et fuites.",
+      "C": "Signer des accords d’approvisionnement temporaire avec des régions/voisins."
+    }
+  },
+  "wp_352": {
+    "title": "Pic de consommation électrique",
+    "body": "Un épisode de chaleur provoque un pic de consommation. Le réseau tient, mais au prix d’une tension maximale.",
+    "choices": {
+      "A": "Lancer un plan sobriété avec incitations immédiates.",
+      "B": "Accélérer investissements stockage et renforcement du réseau.",
+      "C": "Importer temporairement de l’énergie via accords régionaux."
+    }
+  },
+  "wp_353": {
+    "title": "Fumées d’incendies",
+    "body": "Des fumées d’incendies dégradent fortement la qualité de l’air sur plusieurs villes. Les services publics sont saturés d’appels.",
+    "choices": {
+      "A": "Mesures temporaires (circulation, télétravail) + soutien local.",
+      "B": "Plan prévention et gestion forestière renforcé sur 3 ans.",
+      "C": "Coordination internationale sur moyens aériens et partage d’alertes."
+    }
+  },
+  "wp_354": {
+    "title": "Érosion du littoral",
+    "body": "Des zones côtières perdent du terrain. Les collectivités demandent des protections, les assureurs s’inquiètent.",
+    "choices": {
+      "A": "Financer protections immédiates sur les zones les plus exposées.",
+      "B": "Plan d’adaptation : relocalisation progressive et nouvelles normes.",
+      "C": "Programme de recherche et cofinancements avec partenaires."
+    }
+  },
+  "wp_355": {
+    "title": "Route coupée par glissements",
+    "body": "Plusieurs glissements de terrain coupent un axe majeur. Les retards pèsent sur l’économie locale.",
+    "choices": {
+      "A": "Réparer vite + organiser itinéraires de secours.",
+      "B": "Rebâtir l’axe en version sécurisée (plus long, plus cher).",
+      "C": "Confier l’opération à un consortium public-privé encadré."
+    }
+  },
+  "wp_356": {
+    "title": "Tempête et coupures",
+    "body": "Une tempête endommage des lignes électriques et télécoms. Les entreprises réclament des garanties de continuité.",
+    "choices": {
+      "A": "Mobiliser renforts et réparations express.",
+      "B": "Investir dans l’enfouissement et la redondance des réseaux.",
+      "C": "Accords avec opérateurs + obligations de résilience renforcées."
+    }
+  },
+  "wp_357": {
+    "title": "Grêle sur les cultures",
+    "body": "Un épisode de grêle abîme fortement certaines cultures. Les filières demandent un soutien et une stratégie d’adaptation.",
+    "choices": {
+      "A": "Aides immédiates + dispositifs d’assurance améliorés.",
+      "B": "Plan d’adaptation agricole (filets, variétés, serres).",
+      "C": "Accords d’importations temporaires pour stabiliser les prix."
+    }
+  },
+  "wp_358": {
+    "title": "Niveau des rivières trop bas",
+    "body": "Le niveau des rivières gêne le transport fluvial. La logistique se reporte sur la route et augmente les coûts.",
+    "choices": {
+      "A": "Soutenir les entreprises impactées + organisation alternative.",
+      "B": "Investir dans infrastructures fluviales et gestion de l’eau.",
+      "C": "Négocier des corridors logistiques régionaux temporaires."
+    }
+  },
+  "wp_359": {
+    "title": "Qualité de l’eau dégradée",
+    "body": "Une prolifération d’algues dégrade l’eau dans plusieurs zones. Les collectivités demandent un plan de traitement durable.",
+    "choices": {
+      "A": "Traitements et contrôles renforcés immédiatement.",
+      "B": "Plan long terme sur agriculture, rejets et assainissement.",
+      "C": "Programme national de recherche + partenariats scientifiques."
+    }
+  },
+  "wp_360": {
+    "title": "Inspection des bâtiments publics",
+    "body": "Après une série de secousses mineures, les autorités demandent d’inspecter écoles et bâtiments publics.",
+    "choices": {
+      "A": "Lancer des inspections rapides et publier un calendrier clair.",
+      "B": "Investir dans la mise aux normes structurée sur plusieurs années.",
+      "C": "Externaliser une partie des inspections pour accélérer."
+    }
+  },
+  "wp_361": {
+    "title": "Cendres et trafic aérien",
+    "body": "Un nuage de cendres perturbe le trafic aérien régional. Le tourisme et les échanges professionnels en pâtissent.",
+    "choices": {
+      "A": "Prioriser sécurité + plan de continuité (train, routes).",
+      "B": "Aides ciblées au secteur + plan résilience transport.",
+      "C": "Coordination diplomatique pour corridors aériens alternatifs."
+    }
+  },
+  "wp_362": {
+    "title": "Neige et chaînes logistiques",
+    "body": "Une vague de neige bloque temporairement plusieurs axes. Les retards s’accumulent dans la distribution.",
+    "choices": {
+      "A": "Déploiement logistique d’urgence + priorités de circulation.",
+      "B": "Investir dans équipements et anticipation météo/stockage.",
+      "C": "Accords avec pays voisins pour routes alternatives."
+    }
+  },
+  "wp_363": {
+    "title": "Assurances sous pression",
+    "body": "Les coûts d’assurance montent fortement sur certains territoires. Les ménages et PME demandent un cadre plus stable.",
+    "choices": {
+      "A": "Réguler certains tarifs + renforcer la prévention.",
+      "B": "Créer un fonds de réassurance public-privé.",
+      "C": "Incitations fiscales à la prévention + normes renforcées."
+    }
+  },
+  "wp_364": {
+    "title": "Droits de douane sectoriels",
+    "body": "Un partenaire annonce des droits de douane sur un secteur exportateur clé. Les entreprises demandent une riposte.",
+    "choices": {
+      "A": "Riposte proportionnée + recours dans les cadres internationaux.",
+      "B": "Soutien interne temporaire aux exportateurs.",
+      "C": "Négociation d’un compromis avec concessions limitées."
+    }
+  },
+  "wp_365": {
+    "title": "Boycott de produits",
+    "body": "Une campagne de boycott vise certains produits nationaux à l’étranger. Les ventes chutent et l’image se dégrade.",
+    "choices": {
+      "A": "Diplomatie économique active + communication apaisée.",
+      "B": "Mesures de rétorsion commerciales ciblées.",
+      "C": "Diversifier marchés et financer une montée en gamme."
+    }
+  },
+  "wp_366": {
+    "title": "Accusation de manipulation monétaire",
+    "body": "Un pays t’accuse de favoriser ta monnaie pour doper tes exportations. Le ton monte dans les négociations.",
+    "choices": {
+      "A": "Transparence + discussion technique et audits partagés.",
+      "B": "Rester ferme et préparer une riposte économique.",
+      "C": "Proposer un cadre de coordination monétaire régionale."
+    }
+  },
+  "wp_367": {
+    "title": "Faillite d’un sous-traitant critique",
+    "body": "Un sous-traitant clé de l’industrie tombe en difficulté. Une partie de la production nationale est menacée.",
+    "choices": {
+      "A": "Sauvetage conditionnel et rapide.",
+      "B": "Remplacement par concurrence : marché et réorganisation.",
+      "C": "Nationalisation temporaire puis revente encadrée."
+    }
+  },
+  "wp_368": {
+    "title": "Tension sur les centres de données",
+    "body": "Les centres de données consomment davantage d’énergie et d’eau. Les collectivités demandent un encadrement.",
+    "choices": {
+      "A": "Régulation stricte et obligations d’efficacité.",
+      "B": "Incitations à l’innovation (refroidissement, recyclage chaleur).",
+      "C": "Accords avec acteurs du secteur pour objectifs contraignants."
+    }
+  },
+  "wp_369": {
+    "title": "Attaque sur le système de paiement",
+    "body": "Une attaque perturbe temporairement certains paiements numériques. La confiance des consommateurs vacille.",
+    "choices": {
+      "A": "Communication transparente + renfort cybersécurité immédiat.",
+      "B": "Mesures de sécurité strictes, au prix de frictions pour les usagers.",
+      "C": "Coopération internationale renforcée contre la cybercriminalité."
+    }
+  },
+  "wp_370": {
+    "title": "Panne télécom majeure",
+    "body": "Une panne télécom nationale touche plusieurs régions. Les entreprises demandent des garanties contractuelles.",
+    "choices": {
+      "A": "Sanctionner l’opérateur et imposer un plan correctif rapide.",
+      "B": "Investir dans une infrastructure de secours nationale.",
+      "C": "Ouvrir davantage le marché pour améliorer la résilience."
+    }
+  },
+  "wp_371": {
+    "title": "Prix alimentaires en hausse",
+    "body": "Les prix alimentaires augmentent à cause de tensions sur l’offre mondiale. Les ménages veulent un amortisseur.",
+    "choices": {
+      "A": "Aides ciblées + contrôle renforcé des abus.",
+      "B": "Baisse temporaire de taxes sur certains produits.",
+      "C": "Accords de filière pour stabiliser prix et volumes."
+    }
+  },
+  "wp_372": {
+    "title": "Choc sur le pétrole",
+    "body": "Le prix du pétrole grimpe fortement. Les transports et l’industrie réclament un plan pour éviter un choc prolongé.",
+    "choices": {
+      "A": "Bouclier temporaire ciblé + sobriété organisée.",
+      "B": "Accélérer transition et alternatives nationales.",
+      "C": "Négocier contrats diversifiés et stocks stratégiques."
+    }
+  },
+  "wp_373": {
+    "title": "Restriction sur les terres rares",
+    "body": "Un grand fournisseur limite l’exportation de terres rares. Tes industries électroniques et vertes s’inquiètent.",
+    "choices": {
+      "A": "Accords d’approvisionnement long terme diversifiés.",
+      "B": "Investir massivement recyclage et substitution.",
+      "C": "Développer une filière d’extraction/raffinage avec partenaires."
+    }
+  },
+  "wp_374": {
+    "title": "Congestion maritime",
+    "body": "Une congestion maritime mondiale ralentit les livraisons. Les coûts logistiques explosent pour certaines filières.",
+    "choices": {
+      "A": "Aides ciblées aux secteurs essentiels + gestion de crise.",
+      "B": "Plan de relocalisation partielle et stocks stratégiques.",
+      "C": "Accords régionaux de transport et capacité portuaire."
+    }
+  },
+  "wp_375": {
+    "title": "Conflit sur les slots aériens",
+    "body": "Des créneaux aériens sont contestés entre compagnies. Le secteur menace de réduire certaines liaisons.",
+    "choices": {
+      "A": "Arbitrage public transparent et règles stables.",
+      "B": "Laisser le marché décider, sans intervention.",
+      "C": "Négocier un accord sectoriel avec engagements de service."
+    }
+  },
+  "wp_376": {
+    "title": "Litige de brevets",
+    "body": "Un litige de brevets bloque l’accès à une technologie utilisée par un secteur entier. Les entreprises veulent une solution rapide.",
+    "choices": {
+      "A": "Médiation et accord de licence encadré.",
+      "B": "Soutenir une alternative nationale en accélérant la R&D.",
+      "C": "Porter l’affaire au niveau international et temporiser."
+    }
+  },
+  "wp_377": {
+    "title": "Vague de contrefaçons",
+    "body": "Une vague de contrefaçons nuit à plusieurs marques nationales. Les industriels demandent plus de contrôles.",
+    "choices": {
+      "A": "Renforcer douanes et sanctions, opérations ciblées.",
+      "B": "Approche diplomatique : accord de coopération avec pays sources.",
+      "C": "Aides aux entreprises pour traçabilité et authentification."
+    }
+  },
+  "wp_378": {
+    "title": "Baisse du tourisme",
+    "body": "Le tourisme recule à cause d’incertitudes logistiques et de prix. Les régions touristiques demandent un plan.",
+    "choices": {
+      "A": "Campagne de relance + amélioration transports.",
+      "B": "Soutien ciblé aux acteurs fragiles du secteur.",
+      "C": "Diversifier vers tourisme d’affaires et événements internationaux."
+    }
+  },
+  "wp_379": {
+    "title": "Avertissement sur la dette",
+    "body": "Une agence évoque un risque sur la trajectoire de dette. Les marchés demandent un signal de crédibilité.",
+    "choices": {
+      "A": "Plan de discipline budgétaire progressif et lisible.",
+      "B": "Relance par investissement pour soutenir croissance et recettes.",
+      "C": "Négocier des marges de manœuvre avec partenaires et institutions."
+    }
+  },
+  "wp_380": {
+    "title": "Fonds de pension secoués",
+    "body": "Des pertes sur les marchés fragilisent des fonds d’épargne long terme. Les citoyens exigent des garanties.",
+    "choices": {
+      "A": "Renforcer supervision et transparence immédiatement.",
+      "B": "Garanties publiques limitées, ciblées sur les plus exposés.",
+      "C": "Réformer la gouvernance des fonds et diversifier les placements."
+    }
+  },
+  "wp_381": {
+    "title": "Frein sur l’immobilier",
+    "body": "Le marché immobilier se ralentit et les chantiers reculent. Le secteur du bâtiment demande des mesures.",
+    "choices": {
+      "A": "Simplifier permis et soutenir la rénovation énergétique.",
+      "B": "Aides à l’accession ciblées et temporaires.",
+      "C": "Laisser le marché se corriger, priorité au budget."
+    }
+  },
+  "wp_382": {
+    "title": "Plan social industriel",
+    "body": "Un grand groupe annonce une réduction d’effectifs. Les régions concernées demandent une intervention.",
+    "choices": {
+      "A": "Plan de reconversion et formation financé.",
+      "B": "Négocier un maintien d’activité via aides conditionnelles.",
+      "C": "Accélérer la diversification économique locale avec investissements."
+    }
+  },
+  "wp_383": {
+    "title": "Pénurie de chauffeurs",
+    "body": "Le transport manque de chauffeurs et les délais s’allongent. Les entreprises veulent une solution durable.",
+    "choices": {
+      "A": "Formation accélérée et amélioration des conditions du métier.",
+      "B": "Recrutement international encadré pour combler rapidement.",
+      "C": "Automatisation et report modal vers rail/fluvial."
+    }
+  },
+  "wp_384": {
+    "title": "Chantiers portuaires bloqués",
+    "body": "Des travaux portuaires prennent du retard. Les importateurs dénoncent un manque de capacité et de fluidité.",
+    "choices": {
+      "A": "Accélérer procédures et financer des équipements clés.",
+      "B": "Confier au privé sous contrat de performance strict.",
+      "C": "Accords régionaux pour répartir temporairement le trafic."
+    }
+  },
+  "wp_385": {
+    "title": "Course aux subventions industrielles",
+    "body": "Plusieurs pays subventionnent massivement une industrie stratégique. Tes entreprises demandent une réponse.",
+    "choices": {
+      "A": "Soutien ciblé et temporaire aux projets stratégiques.",
+      "B": "Créer une coalition d’alliés pour un plan commun.",
+      "C": "Miser sur innovation et formation plutôt que subventions directes."
+    }
+  },
+  "wp_386": {
+    "title": "Dumping sur l’acier",
+    "body": "Des importations d’acier à bas prix fragilisent l’industrie locale. Les syndicats et patrons demandent protection.",
+    "choices": {
+      "A": "Mesures anti-dumping et contrôle renforcé.",
+      "B": "Aider l’industrie à se moderniser (acier bas carbone).",
+      "C": "Négocier des quotas/accords pour stabiliser le marché."
+    }
+  },
+  "wp_387": {
+    "title": "Tension sur les engrais",
+    "body": "Les engrais deviennent plus chers et irréguliers. Les agriculteurs veulent une stratégie d’approvisionnement.",
+    "choices": {
+      "A": "Aides ciblées + achats groupés temporaires.",
+      "B": "Développer une production nationale et alternatives agronomiques.",
+      "C": "Accords commerciaux diversifiés pour sécuriser les volumes."
+    }
+  },
+  "wp_388": {
+    "title": "Conflit d’usage de l’eau",
+    "body": "Deux régions s’opposent sur l’usage de l’eau entre agriculture, industrie et villes. Les tensions montent.",
+    "choices": {
+      "A": "Arbitrage national avec quotas temporaires.",
+      "B": "Investir dans économies d’eau et infrastructures de transfert.",
+      "C": "Créer une autorité de bassin avec gouvernance partagée."
+    }
+  },
+  "wp_389": {
+    "title": "Renégociation d’un traité fluvial",
+    "body": "Un pays voisin veut renégocier un traité sur un fleuve partagé. Tes régions veulent sécuriser leurs besoins.",
+    "choices": {
+      "A": "Négocier un compromis et des mécanismes de crise.",
+      "B": "Rester ferme et préparer des mesures de rétorsion.",
+      "C": "Proposer un plan commun d’investissements et de partage."
+    }
+  },
+  "wp_390": {
+    "title": "Perturbations de navigation satellite",
+    "body": "Des perturbations de navigation satellite touchent transport et aviation. Les experts demandent une réponse rapide.",
+    "choices": {
+      "A": "Renforcer capacités de secours et procédures de sécurité.",
+      "B": "Investir dans des solutions souveraines et redondantes.",
+      "C": "Coopération internationale pour surveillance et réduction du risque."
+    }
+  },
+  "wp_391": {
+    "title": "Incidents près d’un aéroport",
+    "body": "Des incidents répétés près d’un aéroport perturbent le trafic et inquiètent les voyageurs.",
+    "choices": {
+      "A": "Renforcer sécurité et contrôle, avec communication claire.",
+      "B": "Enquête approfondie discrète pour éviter panique.",
+      "C": "Créer une force conjointe avec partenaires pour prévenir et contrôler."
+    }
+  },
+  "wp_392": {
+    "title": "Douanes en panne",
+    "body": "Un problème informatique ralentit les douanes. Les camions s’accumulent et les exportateurs s’énervent.",
+    "choices": {
+      "A": "Plan urgence IT + voies prioritaires temporaires.",
+      "B": "Refonte complète des systèmes et audits de sécurité.",
+      "C": "Accord simplifié temporaire avec voisins pour fluidifier."
+    }
+  },
+  "wp_393": {
+    "title": "Grand événement sous météo extrême",
+    "body": "Un grand événement international risque d’être perturbé par une météo extrême. Les organisateurs demandent ton arbitrage.",
+    "choices": {
+      "A": "Maintenir avec plan logistique renforcé et adaptation.",
+      "B": "Reporter pour sécuriser l’organisation et l’image.",
+      "C": "Transformer en format réduit et mieux contrôlé."
+    }
+  },
+  "wp_394": {
+    "title": "Aide demandée par un allié",
+    "body": "Un allié subit des incendies et demande des moyens logistiques. L’opinion observe si tu réponds présent.",
+    "choices": {
+      "A": "Envoyer aide logistique et coordination immédiate.",
+      "B": "Aide limitée : soutien matériel, pas de déploiement lourd.",
+      "C": "Proposer une coalition régionale de moyens partagés."
+    }
+  },
+  "wp_395": {
+    "title": "Catastrophe à l’étranger",
+    "body": "Un partenaire subit une catastrophe naturelle et demande un soutien en matériel et expertise.",
+    "choices": {
+      "A": "Aide rapide et visible, avec coordination diplomatique.",
+      "B": "Soutien discret et ciblé pour limiter les coûts.",
+      "C": "Aide conditionnée à un accord de coopération économique."
+    }
+  },
+  "wp_396": {
+    "title": "Contribution à un fonds international",
+    "body": "Un fonds international d’adaptation climatique sollicite une contribution plus élevée. Certains veulent être exemplaires, d’autres prudents.",
+    "choices": {
+      "A": "Augmenter la contribution et gagner en influence diplomatique.",
+      "B": "Maintenir le niveau actuel et concentrer l’effort en interne.",
+      "C": "Contribuer via projets ciblés et mesurables."
+    }
+  },
+  "wp_397": {
+    "title": "Renégociation d’un accord commercial",
+    "body": "Un accord commercial doit être renégocié. Les industriels veulent ouverture, certains secteurs craignent la concurrence.",
+    "choices": {
+      "A": "Renégocier pour ouvrir davantage avec protections ciblées.",
+      "B": "Durcir l’accord pour protéger les secteurs sensibles.",
+      "C": "Proposer un accord progressif avec clauses de révision."
+    }
+  },
+  "wp_398": {
+    "title": "Incident maritime",
+    "body": "Un incident en mer entraîne une tension autour de zones de pêche et de circulation. Les médias demandent une position.",
+    "choices": {
+      "A": "Désescalade : discussion immédiate et cadre de règles.",
+      "B": "Démonstration de présence et contrôles renforcés.",
+      "C": "Coalition avec alliés pour surveillance commune."
+    }
+  },
+  "wp_399": {
+    "title": "Chaîne d’approvisionnement humanitaire",
+    "body": "Des organisations demandent une aide logistique pour acheminer des fournitures en zone difficile d’accès.",
+    "choices": {
+      "A": "Soutien logistique national (transport, coordination).",
+      "B": "Aide financière aux acteurs spécialisés, sans déploiement lourd.",
+      "C": "Opération conjointe avec partenaires pour mutualiser."
+    }
+  },
+  "wp_400": {
+    "title": "Arbitrage international défavorable",
+    "body": "Une décision d’arbitrage international pénalise un grand acteur national à l’étranger. Le secteur demande ton soutien.",
+    "choices": {
+      "A": "Respecter la décision et négocier des conditions de sortie.",
+      "B": "Contester et préparer une riposte commerciale.",
+      "C": "Soutenir l’entreprise via diplomatie économique et diversification."
+    }
+  },
+  "wp_401": {
+    "title": "Crue et circulation",
+    "body": "Des pluies intenses font monter les eaux. Plusieurs axes sont ralentis, et la logistique prend du retard.",
+    "choices": {
+      "A": "Déployer des moyens d’urgence et sécuriser les points critiques.",
+      "B": "Accélérer un plan anti-crue (digues, bassins, alertes) sur 2 ans.",
+      "C": "Demander un soutien technique et matériel à des partenaires."
+    }
+  },
+  "wp_402": {
+    "title": "Vague de chaleur prolongée",
+    "body": "La chaleur dure et la demande en eau et énergie augmente. Les collectivités veulent un cadre national clair.",
+    "choices": {
+      "A": "Restrictions temporaires + aide aux secteurs les plus exposés.",
+      "B": "Plan d’adaptation (ombrage urbain, bâtiments, réseau) financé.",
+      "C": "Coordination régionale pour mutualiser eau/énergie en période de pointe."
+    }
+  },
+  "wp_403": {
+    "title": "Chaîne d’approvisionnement bloquée",
+    "body": "Un incident sur un nœud logistique ralentit les importations. Les prix de certains produits montent légèrement.",
+    "choices": {
+      "A": "Plan de déblocage immédiat + priorités pour biens essentiels.",
+      "B": "Investir dans la redondance (entrepôts, rail, ports secondaires).",
+      "C": "Négocier des routes alternatives avec des partenaires commerciaux."
+    }
+  },
+  "wp_404": {
+    "title": "Tensions sur un corridor commercial",
+    "body": "Un corridor commercial international devient instable. Les acteurs économiques demandent une stratégie de sécurisation.",
+    "choices": {
+      "A": "Renforcer la protection des convois et la surveillance.",
+      "B": "Diversifier rapidement les routes et fournisseurs, même plus chers.",
+      "C": "Créer une coalition diplomatique pour stabiliser la zone."
+    }
+  },
+  "wp_405": {
+    "title": "Blocus administratif aux frontières",
+    "body": "De nouvelles formalités à l’étranger ralentissent les passages. Les camions s’accumulent et les entreprises s’énervent.",
+    "choices": {
+      "A": "Négociation express pour simplifier les procédures.",
+      "B": "Mesures de réciprocité : contrôles renforcés côté national.",
+      "C": "Aide logistique interne + numérisation accélérée des formalités."
+    }
+  },
+  "wp_406": {
+    "title": "Flambée des coûts de transport",
+    "body": "Les coûts de transport augmentent sur plusieurs mois. Les PME parlent de marges écrasées.",
+    "choices": {
+      "A": "Aides ciblées temporaires aux PME stratégiques.",
+      "B": "Plan d’efficacité logistique (rail, mutualisation, hubs).",
+      "C": "Accords commerciaux pour stabiliser une partie des tarifs."
+    }
+  },
+  "wp_407": {
+    "title": "Pénurie de composants",
+    "body": "Des composants clés deviennent rares. L’industrie tourne au ralenti et demande une réponse rapide.",
+    "choices": {
+      "A": "Sécuriser l’approvisionnement par contrats long terme.",
+      "B": "Investir dans production locale et alternatives technologiques.",
+      "C": "Accords avec alliés pour mutualiser achats et stocks."
+    }
+  },
+  "wp_408": {
+    "title": "Sécheresse et agriculture",
+    "body": "La sécheresse réduit certains rendements. Les prix restent stables pour l’instant, mais la filière s’inquiète.",
+    "choices": {
+      "A": "Aides d’adaptation (irrigation efficiente, stockage, variétés).",
+      "B": "Arbitrage de l’eau : quotas temporaires et contrôles renforcés.",
+      "C": "Accords d’importations temporaires pour protéger la stabilité des prix."
+    }
+  },
+  "wp_409": {
+    "title": "Risque sur une digue",
+    "body": "Un rapport signale un risque sur une digue importante. Pas d’alerte immédiate, mais la fenêtre d’action est courte.",
+    "choices": {
+      "A": "Travaux d’urgence immédiats, priorité sécurité.",
+      "B": "Plan de consolidation complet avec financement pluriannuel.",
+      "C": "Audit externe + phasage des travaux pour limiter l’impact économique."
+    }
+  },
+  "wp_410": {
+    "title": "Tension sur les marchés financiers",
+    "body": "Une volatilité durable inquiète les ménages et les entreprises. Les investisseurs veulent un message de stabilité.",
+    "choices": {
+      "A": "Annonce d’un cadre budgétaire stable et prévisible.",
+      "B": "Mesures temporaires de protection de l’épargne la plus exposée.",
+      "C": "Coordination avec partenaires pour rassurer et stabiliser."
+    }
+  },
+  "wp_411": {
+    "title": "Conflit fiscal sur le numérique",
+    "body": "Un partenaire critique ton approche fiscale sur le numérique et menace de contre-mesures. Le secteur craint l’escalade.",
+    "choices": {
+      "A": "Négocier un compromis international et harmoniser partiellement.",
+      "B": "Rester ferme et assumer une réponse de réciprocité.",
+      "C": "Proposer des exemptions ciblées pour éviter la guerre commerciale."
+    }
+  },
+  "wp_412": {
+    "title": "Rupture de stock pharmaceutique",
+    "body": "Certains médicaments manquent temporairement. Les acteurs demandent une sécurisation de la chaîne d’approvisionnement.",
+    "choices": {
+      "A": "Achats d’urgence et priorisation des usages essentiels.",
+      "B": "Relocalisation partielle et stocks stratégiques.",
+      "C": "Accords internationaux de partage et de production coordonnée."
+    }
+  },
+  "wp_413": {
+    "title": "Tension sur l’accès aux métaux",
+    "body": "Les métaux industriels deviennent plus chers. Les industriels demandent une stratégie de sécurisation.",
+    "choices": {
+      "A": "Diversifier fournisseurs et signer contrats de long terme.",
+      "B": "Investir dans recyclage, substitution et sobriété matière.",
+      "C": "Créer une alliance d’achats avec partenaires."
+    }
+  },
+  "wp_414": {
+    "title": "Inondations localisées",
+    "body": "Plusieurs zones urbaines subissent des inondations localisées. Les services municipaux réclament un soutien national.",
+    "choices": {
+      "A": "Soutien d’urgence + fonds de réparation rapide.",
+      "B": "Plan d’adaptation des villes (drainage, sols, alertes) financé.",
+      "C": "Coopération technique avec villes étrangères expérimentées."
+    }
+  },
+  "wp_415": {
+    "title": "Concurrence agressive sur un secteur",
+    "body": "Un pays subventionne massivement un secteur où tes entreprises sont fortes. Les parts de marché sont menacées.",
+    "choices": {
+      "A": "Soutien temporaire ciblé + plainte dans les cadres internationaux.",
+      "B": "Accélérer montée en gamme et innovation (moins dépendant du prix).",
+      "C": "Négocier un accord de limitation ou de compensation."
+    }
+  },
+  "wp_416": {
+    "title": "Économie et taux d’intérêt",
+    "body": "Le coût du crédit augmente. Les entreprises hésitent à investir et l’opinion demande des mesures.",
+    "choices": {
+      "A": "Garanties ciblées pour PME et projets stratégiques.",
+      "B": "Réduire certaines dépenses pour rassurer les marchés.",
+      "C": "Plan d’investissement public ciblé pour soutenir la demande."
+    }
+  },
+  "wp_417": {
+    "title": "Pollution d’un cours d’eau",
+    "body": "Une pollution oblige à limiter certains usages. Les collectivités demandent des contrôles et une remise en état rapide.",
+    "choices": {
+      "A": "Contrôles renforcés + plan de dépollution immédiat.",
+      "B": "Réforme des normes et sanctions plus fortes, au risque de tensions.",
+      "C": "Programme d’investissements eau/assainissement avec financement partagé."
+    }
+  },
+  "wp_418": {
+    "title": "Accès aux marchés publics contesté",
+    "body": "Un partenaire restreint l’accès de tes entreprises à ses marchés publics. Le secteur exportateur demande une réponse.",
+    "choices": {
+      "A": "Négociation diplomatique et juridique, sans escalade.",
+      "B": "Réciprocité : restreindre certains accès en retour.",
+      "C": "Compensation interne : soutenir l’export vers d’autres marchés."
+    }
+  },
+  "wp_419": {
+    "title": "Risque d’avalanches logistiques",
+    "body": "Dans les régions montagneuses, des risques saisonniers perturbent les livraisons. Les commerces demandent une sécurisation.",
+    "choices": {
+      "A": "Plan de secours et priorisation des biens essentiels.",
+      "B": "Investir dans infrastructures et prévention (galeries, capteurs).",
+      "C": "Mutualiser avec régions voisines un dispositif permanent."
+    }
+  },
+  "wp_420": {
+    "title": "Incident sur une plateforme d’export",
+    "body": "Un incident technique réduit la capacité d’une plateforme d’exportation. Les contrats internationaux sont sous pression.",
+    "choices": {
+      "A": "Réparation rapide + plan provisoire de continuité.",
+      "B": "Modernisation complète et sécurisation, plus coûteuse.",
+      "C": "Accords temporaires avec partenaires pour absorber une partie des flux."
+    }
+  },
+  "wp_421": {
+    "title": "Conflit sur les normes produits",
+    "body": "Un partenaire impose de nouvelles normes qui pénalisent tes exportateurs. Les entreprises parlent de barrière déguisée.",
+    "choices": {
+      "A": "Négocier une période de transition et reconnaissance mutuelle.",
+      "B": "Riposte : contrôles et normes équivalentes côté national.",
+      "C": "Aider les entreprises à se conformer rapidement pour garder les marchés."
+    }
+  },
+  "wp_422": {
+    "title": "Ralentissement mondial",
+    "body": "Les indicateurs mondiaux se dégradent. Tu dois choisir entre prudence budgétaire et soutien économique.",
+    "choices": {
+      "A": "Plan de soutien ciblé, temporaire et mesuré.",
+      "B": "Discipline budgétaire stricte pour protéger la crédibilité.",
+      "C": "Coordination internationale pour un plan commun."
+    }
+  },
+  "wp_423": {
+    "title": "Pression sur l’industrie énergétique",
+    "body": "Plusieurs installations doivent être modernisées. Les opérateurs demandent un cadre accéléré, les citoyens veulent des garanties.",
+    "choices": {
+      "A": "Accélérer les travaux avec contrôles renforcés et transparence.",
+      "B": "Ralentir pour privilégier concertation et sûreté.",
+      "C": "Partenariat international pour partager expertise et financements."
+    }
+  },
+  "wp_424": {
+    "title": "Stabilité des prix des transports",
+    "body": "Les prix des transports restent instables. Les entreprises demandent un plan de stabilisation sur 12 mois.",
+    "choices": {
+      "A": "Aides ciblées temporaires + objectifs de baisse des coûts.",
+      "B": "Réformer le secteur (régulation, concurrence, investissements).",
+      "C": "Négocier des contrats long terme pour sécuriser les tarifs."
+    }
+  },
+  "wp_425": {
+    "title": "Choc sur les assurances agricoles",
+    "body": "Les primes d’assurance agricole augmentent fortement. Les exploitants demandent un dispositif plus soutenable.",
+    "choices": {
+      "A": "Subventionner une partie des primes, temporairement.",
+      "B": "Créer un mécanisme national de réassurance.",
+      "C": "Investir dans prévention et adaptation pour réduire le risque."
+    }
+  },
+  "wp_426": {
+    "title": "Économie : hausse des importations",
+    "body": "Les importations augmentent plus vite que les exportations. Les industriels veulent un plan de compétitivité.",
+    "choices": {
+      "A": "Plan compétitivité (innovation, énergie, simplification) sur 2 ans.",
+      "B": "Mesures protection ciblées sur secteurs sensibles.",
+      "C": "Accords commerciaux pour améliorer l’accès à de nouveaux marchés."
+    }
+  },
+  "wp_427": {
+    "title": "Crise de confiance des entreprises",
+    "body": "Les entreprises reportent des investissements, faute de visibilité. Elles demandent un cap clair et stable.",
+    "choices": {
+      "A": "Annonce d’une trajectoire fiscale et réglementaire stable.",
+      "B": "Incitations immédiates à l’investissement, ciblées.",
+      "C": "Grand pacte social-économique avec partenaires et syndicats."
+    }
+  },
+  "wp_428": {
+    "title": "Pression sur le fret ferroviaire",
+    "body": "Le fret ferroviaire est saturé. Les industriels réclament plus de capacité et moins de retards.",
+    "choices": {
+      "A": "Investir d’urgence dans capacité et maintenance.",
+      "B": "Ouvrir davantage à la concurrence sous règles strictes.",
+      "C": "Accords logistiques avec voisins pour répartir les flux."
+    }
+  },
+  "wp_429": {
+    "title": "Tension sur les prix du gaz",
+    "body": "Le prix du gaz fluctue fortement. Certains secteurs demandent une protection temporaire.",
+    "choices": {
+      "A": "Bouclier ciblé temporaire + sobriété encadrée.",
+      "B": "Diversifier contrats et renforcer les stocks stratégiques.",
+      "C": "Accélérer alternatives (électrification, efficacité) via investissement."
+    }
+  },
+  "wp_430": {
+    "title": "Catastrophe : dégâts sur infrastructures",
+    "body": "Un événement météo endommage des infrastructures (routes, réseaux). Les régions demandent un fonds de remise en état rapide.",
+    "choices": {
+      "A": "Débloquer un fonds d’urgence et prioriser les réparations.",
+      "B": "Lancer un plan de résilience plus ambitieux et durable.",
+      "C": "Financement mixte avec partenaires et opérateurs, sous contrôle public."
+    }
+  },
+  "wp_431": {
+    "title": "Conflit commercial sur l’agroalimentaire",
+    "body": "Un partenaire bloque temporairement certains produits agroalimentaires. Les filières demandent une réaction.",
+    "choices": {
+      "A": "Négociation immédiate + garanties sanitaires et techniques.",
+      "B": "Rétorsion ciblée sur un secteur équivalent.",
+      "C": "Diversifier marchés d’export et soutenir la transition des filières."
+    }
+  },
+  "wp_432": {
+    "title": "Tension sur les quotas d’importation",
+    "body": "Des quotas d’importation sont réduits à l’étranger. Tes entreprises perdent un accès clé.",
+    "choices": {
+      "A": "Recours juridique et diplomatique dans les cadres existants.",
+      "B": "Accords bilatéraux alternatifs, avec concessions limitées.",
+      "C": "Aide à la reconversion commerciale vers d’autres marchés."
+    }
+  },
+  "wp_433": {
+    "title": "Blocage d’un projet stratégique",
+    "body": "Un projet industriel stratégique est retardé par des procédures et recours. Les investisseurs demandent un arbitrage.",
+    "choices": {
+      "A": "Accélérer procédures tout en gardant un cadre de contrôle.",
+      "B": "Maintenir la procédure complète, priorité à l’acceptabilité.",
+      "C": "Compromis : réduire le projet et financer des mesures d’accompagnement."
+    }
+  },
+  "wp_434": {
+    "title": "Conflit sur les licences d’export",
+    "body": "Un partenaire limite la délivrance de licences d’export pour certains équipements. Tes entreprises sont bloquées.",
+    "choices": {
+      "A": "Négocier et obtenir des exemptions ciblées.",
+      "B": "Réduire la dépendance : développer une alternative nationale.",
+      "C": "Coalition avec alliés pour pression coordonnée."
+    }
+  },
+  "wp_435": {
+    "title": "Crise de stockage alimentaire",
+    "body": "Des entrepôts manquent de capacité à cause de perturbations logistiques. Certains produits sont plus rares en rayon.",
+    "choices": {
+      "A": "Plan d’urgence : priorisation + logistique temporaire.",
+      "B": "Investir dans stocks stratégiques et capacités de stockage.",
+      "C": "Accords avec distributeurs pour optimiser et mutualiser."
+    }
+  },
+  "wp_436": {
+    "title": "Conflit sur la propriété industrielle",
+    "body": "Un partenaire accuse tes entreprises de violer des brevets. La menace de sanctions commerciales plane.",
+    "choices": {
+      "A": "Médiation et accord de licence encadré.",
+      "B": "Contester fermement et préparer contre-mesures.",
+      "C": "Créer un cadre bilatéral de règlement rapide des litiges."
+    }
+  },
+  "wp_437": {
+    "title": "Hausse des coûts de construction",
+    "body": "Les matériaux de construction augmentent. Les chantiers ralentissent et les collectivités demandent un soutien.",
+    "choices": {
+      "A": "Aides ciblées sur projets prioritaires et rénovation.",
+      "B": "Relocaliser une partie des filières matériaux via investissement.",
+      "C": "Accords d’achat groupé et normes pour réduire les coûts."
+    }
+  },
+  "wp_438": {
+    "title": "Marchés publics et concurrence",
+    "body": "Des acteurs dénoncent un manque de concurrence dans certains marchés publics. La confiance baisse.",
+    "choices": {
+      "A": "Transparence renforcée et contrôle anti-fraude.",
+      "B": "Simplifier accès des PME aux marchés publics.",
+      "C": "Réforme complète avec sanctions plus dures, au risque de tensions."
+    }
+  },
+  "wp_439": {
+    "title": "Déséquilibre régional",
+    "body": "Des régions se plaignent d’être moins soutenues après plusieurs chocs climatiques. Elles demandent un mécanisme équitable.",
+    "choices": {
+      "A": "Créer un fonds de solidarité territoriale stable.",
+      "B": "Répartir au cas par cas selon l’impact économique mesuré.",
+      "C": "Décentraliser plus de moyens et responsabilités aux régions."
+    }
+  },
+  "wp_440": {
+    "title": "Coopération économique sous tension",
+    "body": "Un partenaire veut renégocier un grand accord économique. Il exige plus, sinon il menace de réduire la coopération.",
+    "choices": {
+      "A": "Renégocier en gardant des lignes rouges claires.",
+      "B": "Refuser et préparer un plan de substitution économique.",
+      "C": "Proposer un accord progressif avec clauses de révision."
+    }
+  },
+  "wp_441": {
+    "title": "Marché du travail : pénurie",
+    "body": "Des secteurs essentiels manquent de main-d’œuvre. Les coûts montent et les délais s’allongent.",
+    "choices": {
+      "A": "Plan formation rapide + amélioration des conditions.",
+      "B": "Faciliter recrutement international encadré.",
+      "C": "Accélérer automatisation et gains de productivité."
+    }
+  },
+  "wp_442": {
+    "title": "Tension sur les échanges scientifiques",
+    "body": "Un partenaire veut limiter les échanges scientifiques sur certains domaines. Tes chercheurs s’inquiètent.",
+    "choices": {
+      "A": "Négocier un cadre sécurisé pour maintenir les échanges.",
+      "B": "Développer un programme national autonome, plus coûteux.",
+      "C": "Créer une alliance de recherche avec plusieurs partenaires."
+    }
+  },
+  "wp_443": {
+    "title": "Incertitude sur un grand chantier",
+    "body": "Un grand chantier d’infrastructure prend du retard. Les coûts augmentent et l’opinion exige des explications.",
+    "choices": {
+      "A": "Transparence + calendrier révisé et contrôle renforcé.",
+      "B": "Accélérer en mobilisant moyens exceptionnels.",
+      "C": "Réduire le périmètre pour tenir budget et délais."
+    }
+  },
+  "wp_444": {
+    "title": "Pression sur l’approvisionnement en eau",
+    "body": "Plusieurs industries consommatrices d’eau demandent des garanties. Les citoyens veulent priorité aux usages essentiels.",
+    "choices": {
+      "A": "Prioriser usages essentiels + quotas temporaires pour l’industrie.",
+      "B": "Investir dans réutilisation et technologies d’économie d’eau.",
+      "C": "Accords d’approvisionnement et transferts temporaires encadrés."
+    }
+  },
+  "wp_445": {
+    "title": "Conflit sur l’accès aux marchés agricoles",
+    "body": "Un partenaire limite l’accès de certains produits agricoles. Les filières exportatrices demandent une solution.",
+    "choices": {
+      "A": "Négocier standards et contrôles communs pour lever la restriction.",
+      "B": "Rétorsion ciblée sur un secteur économique équivalent.",
+      "C": "Soutenir diversification des débouchés et montée en qualité."
+    }
+  },
+  "wp_446": {
+    "title": "Tension sur les prix de l’eau",
+    "body": "Le coût de traitement et distribution de l’eau augmente. Les collectivités demandent un soutien, les usagers s’inquiètent.",
+    "choices": {
+      "A": "Aide ciblée aux collectivités + plan anti-fuites.",
+      "B": "Réforme tarifaire progressive avec protections sociales.",
+      "C": "Investissements nationaux massifs pour réduire coûts à long terme."
+    }
+  },
+  "wp_447": {
+    "title": "Choc sur le fret routier",
+    "body": "Des contraintes internationales et des coûts augmentent le fret routier. Les entreprises demandent une alternative.",
+    "choices": {
+      "A": "Aides temporaires + plan d’optimisation logistique.",
+      "B": "Accélérer transfert vers rail/fluvial et hubs multimodaux.",
+      "C": "Négocier un accord régional pour stabiliser les conditions."
+    }
+  },
+  "wp_448": {
+    "title": "Incertitude sur les exportations technologiques",
+    "body": "Un partenaire envisage de restreindre l’export de technologies clés. Tes industriels craignent des ruptures.",
+    "choices": {
+      "A": "Négocier exemptions et garanties d’approvisionnement.",
+      "B": "Créer une filière alternative nationale/alliée.",
+      "C": "Accords de mutualisation et stocks stratégiques avec alliés."
+    }
+  },
+  "wp_449": {
+    "title": "Pression sur les finances locales",
+    "body": "Après plusieurs chocs climatiques, des villes demandent un soutien budgétaire. Les finances publiques sont déjà tendues.",
+    "choices": {
+      "A": "Fonds de soutien ciblé avec critères stricts.",
+      "B": "Prêts bonifiés et accompagnement technique plutôt que subventions.",
+      "C": "Décentralisation de ressources fiscales pour renforcer l’autonomie."
+    }
+  },
+  "wp_450": {
+    "title": "Accord économique de dernier moment",
+    "body": "Un partenaire propose un accord économique rapide pour éviter des restrictions. Tu dois décider sans trop de marge.",
+    "choices": {
+      "A": "Signer avec garanties minimales et clause de révision rapide.",
+      "B": "Refuser et activer un plan de substitution interne.",
+      "C": "Négocier 48h de plus pour obtenir un meilleur équilibre."
+    }
+  }
+}
+
+

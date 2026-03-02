@@ -1,0 +1,59 @@
+{
+  "id": "hell_king",
+  "gauges": [
+    {
+      "id": "souls",
+      "label_fr": "Âmes damnées",
+      "label_en": "Damned souls",
+      "label_de": "Verdammte Seelen",
+      "label_es": "Almas condenadas",
+      "label_pt": "Almas condenadas",
+      "label_ptbr": "Almas condenadas",
+      "label_ko": "저주받은 영혼",
+      "label_ja": "呪われた魂",
+      "label_id": "Jiwa terkutuk"
+    },
+    {
+      "id": "legions",
+      "label_fr": "Légions",
+      "label_en": "Legions",
+      "label_de": "Legionen",
+      "label_es": "Legiones",
+      "label_pt": "Legiões",
+      "label_ptbr": "Legiões",
+      "label_ko": "군단",
+      "label_ja": "軍団",
+      "label_id": "Legiun"
+    },
+    {
+      "id": "order",
+      "label_fr": "Ordre infernal",
+      "label_en": "Infernal order",
+      "label_de": "Höllische Ordnung",
+      "label_es": "Orden infernal",
+      "label_pt": "Ordem infernal",
+      "label_ptbr": "Ordem infernal",
+      "label_ko": "지옥의 질서",
+      "label_ja": "地獄の秩序",
+      "label_id": "Tatanan neraka"
+    },
+    {
+      "id": "surface",
+      "label_fr": "Influence sur Terre",
+      "label_en": "Influence on Earth",
+      "label_de": "Einfluss auf der Erde",
+      "label_es": "Influencia en la Tierra",
+      "label_pt": "Influência na Terra",
+      "label_ptbr": "Influência na Terra",
+      "label_ko": "지상 영향력",
+      "label_ja": "地上への影響力",
+      "label_id": "Pengaruh di Bumi"
+    }
+  ],
+  "initialGauges": {
+    "souls": 50,
+    "legions": 50,
+    "order": 50,
+    "surface": 50
+  }
+}

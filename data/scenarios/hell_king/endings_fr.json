@@ -1,0 +1,34 @@
+{
+  "hk_end_souls_0": {
+    "title": "L'Enfer sans âmes",
+    "body": "Plus aucune âme ne descend. Les guerres se calment, les mortels se détournent du vice, et tes couloirs se vident lentement. Tu règnes sur un royaume désert qui n'a plus besoin de toi."
+  },
+  "hk_end_souls_100": {
+    "title": "Océan de damnés",
+    "body": "Les flots d'âmes sont devenus un raz-de-marée. Chaque cercle déborde, les cris forment un grondement continu. Tes démons et toi êtes emportés dans une marée de visages qui ne finit jamais."
+  },
+  "hk_end_legions_0": {
+    "title": "Seul sur le trône",
+    "body": "Tes légions ont fondu, batailles après batailles, trahison après trahison. Il ne reste que quelques sentinelles fatiguées… puis plus rien. Tu restes assis sur un trône sans armée, attendant l'ennemi qui ne vient jamais."
+  },
+  "hk_end_legions_100": {
+    "title": "Armées incontrôlables",
+    "body": "Tes légions sont si nombreuses et fanatiques qu'elles n'écoutent plus tes ordres. Les généraux se proclament rois, les démons se déchirent pour chaque mètre de lave. Ton nom devient un prétexte de guerre de plus."
+  },
+  "hk_end_order_0": {
+    "title": "Chaos absolu",
+    "body": "Les cercles se mélangent, les supplices se croisent, les tortionnaires s'entretuent, les damnés errent où ils veulent. Personne ne sait plus qui commande. L'Enfer devient un hurlement sans centre, et toi tu t'y perds."
+  },
+  "hk_end_order_100": {
+    "title": "Ordre étouffant",
+    "body": "Chaque flamme, chaque chaîne, chaque cri suit un protocole parfait. Plus un geste n'échappe aux règles. L'Enfer n'est plus qu'une mécanique froide qui n'a même plus besoin de ta présence pour tourner."
+  },
+  "hk_end_surface_0": {
+    "title": "Oublié des mortels",
+    "body": "Plus personne ne prononce ton nom à la surface. Les histoires, les peurs, les prières se taisent. Tu règnes sur un royaume coupé des vivants, comme un souvenir qu'on n'ose même plus raconter."
+  },
+  "hk_end_surface_100": {
+    "title": "Domination totale",
+    "body": "Tes influences ont tout envahi. Guerres, cultes, fanatismes : le monde des vivants est devenu un prolongement de l'Enfer. Alors ceux d'en haut descendent enfin, non pas pour punir les mortels… mais pour te juger, toi."
+  }
+}

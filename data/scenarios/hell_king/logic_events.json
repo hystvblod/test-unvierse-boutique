@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "roll_every_cards": 3,
+  "trigger_chance": 0.0333333333,
+  "cooldown_cards": 25,
+  "events": [
+    { "id": "hell_king_ev_001", "duration_cards": 5, "effects": { "per_card": { "souls": 5 } } },
+    { "id": "hell_king_ev_002", "duration_cards": 6, "effects": { "per_card": { "legions": 5 } } },
+    { "id": "hell_king_ev_003", "duration_cards": 4, "effects": { "per_card": { "order": -5 } } },
+    { "id": "hell_king_ev_004", "duration_cards": 5, "effects": { "per_card": { "surface": 5 } } },
+    { "id": "hell_king_ev_005", "duration_cards": 6, "effects": { "per_card": { "souls": -5 } } },
+    { "id": "hell_king_ev_006", "duration_cards": 4, "effects": { "per_card": { "order": 5 } } },
+    { "id": "hell_king_ev_007", "duration_cards": 7, "effects": { "per_card": { "legions": -5 } } },
+    { "id": "hell_king_ev_008", "duration_cards": 5, "effects": { "per_card": { "surface": -5 } } },
+    { "id": "hell_king_ev_009", "duration_cards": 4, "effects": { "per_card": { "order": 5 } } },
+    { "id": "hell_king_ev_010", "duration_cards": 6, "effects": { "per_card": { "legions": 5 } } },
+
+    { "id": "hell_king_ev_011", "duration_cards": 3, "effects": { "per_card": { "surface": -5 } } },
+    { "id": "hell_king_ev_012", "duration_cards": 7, "effects": { "per_card": { "surface": 5 } } },
+    { "id": "hell_king_ev_013", "duration_cards": 4, "effects": { "per_card": { "souls": -5 } } },
+    { "id": "hell_king_ev_014", "duration_cards": 6, "effects": { "per_card": { "legions": 5 } } },
+    { "id": "hell_king_ev_015", "duration_cards": 3, "effects": { "per_card": { "souls": 5 } } },
+    { "id": "hell_king_ev_016", "duration_cards": 5, "effects": { "per_card": { "order": -5 } } },
+    { "id": "hell_king_ev_017", "duration_cards": 4, "effects": { "per_card": { "surface": 5 } } },
+    { "id": "hell_king_ev_018", "duration_cards": 7, "effects": { "per_card": { "legions": -5 } } },
+    { "id": "hell_king_ev_019", "duration_cards": 3, "effects": { "per_card": { "order": 5 } } },
+    { "id": "hell_king_ev_020", "duration_cards": 6, "effects": { "per_card": { "souls": -5 } } },
+
+    { "id": "hell_king_ev_021", "duration_cards": 5, "effects": { "per_card": { "surface": -5 } } },
+    { "id": "hell_king_ev_022", "duration_cards": 7, "effects": { "per_card": { "legions": 5 } } },
+    { "id": "hell_king_ev_023", "duration_cards": 4, "effects": { "per_card": { "souls": 5 } } },
+    { "id": "hell_king_ev_024", "duration_cards": 6, "effects": { "per_card": { "order": -5 } } },
+    { "id": "hell_king_ev_025", "duration_cards": 3, "effects": { "per_card": { "legions": -5 } } },
+    { "id": "hell_king_ev_026", "duration_cards": 5, "effects": { "per_card": { "order": 5 } } },
+    { "id": "hell_king_ev_027", "duration_cards": 4, "effects": { "per_card": { "souls": 5 } } },
+    { "id": "hell_king_ev_028", "duration_cards": 6, "effects": { "per_card": { "surface": -5 } } },
+    { "id": "hell_king_ev_029", "duration_cards": 3, "effects": { "per_card": { "legions": -5 } } },
+    { "id": "hell_king_ev_030", "duration_cards": 7, "effects": { "per_card": { "order": 5 } } }
+  ]
+}

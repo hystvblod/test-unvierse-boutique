@@ -1,0 +1,353 @@
+{
+  "app": {
+    "title": "Vuniverse"
+  },
+  "common": {
+    "continue": "Continuer",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "back": "Retour",
+    "settings": "Paramètres",
+    "shop": "Boutique"
+  },
+  "auth": {
+    "username": {
+      "title": "Choisis ton pseudo",
+      "subtitle": "Il sera visible dans l’app.",
+      "label": "Pseudo",
+      "placeholder": "Ex: Lucifer_7",
+      "cta": "Valider",
+      "skip": "Plus tard",
+      "rules": "3 à 20 caractères • lettres, chiffres, _ ou -",
+      "errors": {
+        "length": "Le pseudo doit faire entre 3 et 20 caractères.",
+        "chars": "Utilise seulement des lettres, chiffres, _ ou -.",
+        "taken": "Ce pseudo est déjà pris, essaie-en un autre.",
+        "generic": "Impossible d’enregistrer le pseudo."
+      }
+    }
+  },
+  "ui": {
+    "symbol_help": "?",
+    "language": "Langue",
+    "subtitle": "Choisissez votre destin.",
+    "subtitle_desc": "Incarnez un souverain, un président, un vampire ou un explorateur. Chaque choix influe sur vos jauges, votre monde et les générations suivantes.",
+    "choose_universe": "Sélectionnez un univers",
+    "footer": "Vuniverse · Vboldstudio",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "shop": "Boutique",
+    "aria_back": "Retour",
+    "aria_settings": "Ouvrir les paramètres",
+    "aria_shop": "Ouvrir la boutique",
+    "aria_badge_modal": "Aperçu du badge",
+    "aria_close": "Fermer",
+    "settings_title": "Paramètres",
+    "settings_lang_desc": "Choisis la langue. Elle est sauvegardée sur l’appareil et sur ton profil.",
+    "settings_back_home_aria": "Retour à l’accueil",
+    "settings_open_profile_aria": "Ouvrir le profil",
+    "settings_choose_lang_aria": "Choisir la langue : {code}",
+    "settings_ads_title": "Publicités",
+    "settings_ads_personalized_label": "Publicités personnalisées",
+    "settings_ads_personalized_desc": "Autoriser des publicités plus pertinentes. Tu peux changer à tout moment.",
+    "settings_ads_saved": "Préférence publicitaire enregistrée.",
+    "settings_help_title": "Aide",
+    "settings_help_email_label": "Contact :",
+    "settings_help_email": "help.vboldstudio@gmail.com",
+    "settings_msg_saved": "Langue enregistrée.",
+    "settings_msg_saved_local": "Langue enregistrée sur l’appareil. Synchronisation serveur plus tard.",
+    "lang_name": {
+      "en": "Anglais",
+      "fr": "Français",
+      "de": "Allemand",
+      "es": "Espagnol",
+      "pt": "Portugais",
+      "ptbr": "Portugais (Brésil)",
+      "it": "Italien",
+      "ko": "Coréen",
+      "ja": "Japonais",
+      "id": "Indonésien"
+    },
+    "profile_title": "Profil",
+    "profile_subtitle": "Vos stats et votre progression.",
+    "profile_vcoins": "VCoins",
+    "profile_jetons": "Jetons",
+    "profile_username_label": "Pseudo",
+    "profile_username_edit": "Modifier le pseudo",
+    "profile_username_placeholder": "Nouveau pseudo",
+    "profile_username_save": "Enregistrer",
+    "profile_username_cancel": "Annuler",
+    "profile_username_hint": "3 à 20 caractères. Lettres, chiffres, _ ou -. Le pseudo doit être unique.",
+    "profile_username_missing": "Pseudo manquant",
+    "profile_username_err_format": "Format de pseudo invalide.",
+    "profile_err_not_ready": "Profil non prêt.",
+    "profile_username_ok_nochange": "Aucun changement détecté.",
+    "profile_username_err_nojeton": "Pas assez de jetons.",
+    "profile_username_working": "Mise à jour en cours...",
+    "profile_username_err_taken": "Ce pseudo est déjà pris.",
+    "profile_username_err_generic": "Impossible de modifier le pseudo.",
+    "profile_username_err_cost_failed": "Le pseudo a été modifié mais le coût n’a pas pu être débité.",
+    "profile_username_ok_saved": "Pseudo mis à jour.",
+    "profile_scenarios_title": "Scénarios",
+    "universe_buy": {
+      "desc": "Cet univers est verrouillé. Tu peux le débloquer avec {price} VCoins, le débloquer directement via le store, ou ouvrir la boutique.",
+      "pay_prefix": "Débloquer pour",
+      "pay_balance_inline": "Solde : {balance}",
+      "unlock_store_prefix": "Débloquer :",
+      "unlock_store_no_price": "Débloquer",
+      "iap_direct": "Débloquer cet univers {price}",
+      "iap_direct_no_price": "Débloquer cet univers",
+      "open_shop": "Ouvrir la boutique",
+      "cancel": "Annuler",
+      "err_unlock": "Impossible de débloquer cet univers.",
+      "err_unlock_insufficient": "Tu n’as pas assez de VCoins. Solde : {balance} / Prix : {price}",
+      "err_app_only": "Achat Play Store disponible uniquement dans l’app.",
+      "err_not_ready": "Système d’achat non prêt.",
+      "err_buy_failed": "Achat annulé ou impossible.",
+      "err_unlock_after_buy": "Achat validé, mais déblocage impossible. Réessaie plus tard.",
+      "err_unlock_after_iap": "Achat validé, mais déblocage impossible pour le moment. Réessaie depuis la boutique."
+    },
+    "gauges": {
+      "hell_king": {
+        "souls": "Âmes",
+        "legions": "Légions",
+        "order": "Ordre",
+        "surface": "Surface"
+      }
+    }
+  },
+  "gauges": {
+    "hell_king": {
+      "souls": "Âmes",
+      "legions": "Légions",
+      "order": "Ordre",
+      "surface": "Surface"
+    }
+  },
+  "token": {
+    "popup": {
+      "title": "Jeton",
+      "ad": {
+        "title": "Regarder une pub",
+        "text": "Gagne 1 jeton"
+      },
+      "gauge50": {
+        "title": "Remettre une jauge à 50%",
+        "text": "Choisis une jauge"
+      },
+      "back3": {
+        "title": "Revenir en arrière",
+        "text": "Annule tes 3 derniers choix"
+      },
+      "peek": {
+        "title": "Voir les effets",
+        "text": "Pendant 15 choix, affiche un aperçu des effets sur les jauges."
+      },
+      "close": {
+        "text": "Fermer ce menu"
+      },
+      "pickGauge": {
+        "title": "Choisir une jauge",
+        "text": "Clique sur une jauge pour la remettre à 50%."
+      }
+    },
+    "toast": {
+      "select_gauge": "Choisis une jauge à remettre à 50%",
+      "reward_ok": "+1 jeton ajouté",
+      "reward_fail": "Pub indisponible",
+      "no_tokens": "Tu n’as pas de jeton",
+      "undo_fail": "Impossible de revenir en arrière",
+      "undo_done": "Retour -3 effectué",
+      "gauge_set_50": "Jauge remise à 50%",
+      "peek_on": "Aperçu activé pour les 15 prochaines décisions"
+    }
+  },
+  "coins": {
+    "popup": {
+      "title": "Pièces",
+      "ad": {
+        "title": "Regarder une pub",
+        "text": "Gagne 500 pièces"
+      },
+      "shop": {
+        "title": "Aller à la boutique",
+        "text": "Acheter des pièces"
+      },
+      "close": {
+        "text": "Fermer cette fenêtre"
+      }
+    },
+    "toast": {
+      "reward_ok": "+500 pièces ajoutées",
+      "reward_fail": "Pub indisponible"
+    }
+  },
+  "revive": {
+    "popup": {
+      "title": "Revivre",
+      "text": "Choisis comment utiliser ta seconde chance.",
+      "use_token": {
+        "title": "Utiliser 1 jeton",
+        "text": "Consomme 1 jeton pour revivre maintenant."
+      },
+      "use_ad": {
+        "title": "Regarder une pub",
+        "text": "Regarde une pub récompensée pour revivre."
+      },
+      "cancel": {
+        "text": "Revenir à l’écran de fin"
+      }
+    },
+    "toast": {
+      "ad_fail": "Pub indisponible"
+    }
+  },
+  "game": {
+    "title": "Partie en cours",
+    "subtitle": "Faites vos choix.",
+    "restart": "Recommencer",
+    "revive": "Revivre",
+    "return": "Retour",
+    "ending": {
+      "title": "Fin du règne",
+      "body": "Votre règne s’achève ici."
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "subtitle": "Vos stats et votre progression.",
+    "vc": "VCoins",
+    "vcoins": "VCoins",
+    "rank": "Rang",
+    "streak": "Série",
+    "inventory": "Inventaire",
+    "bestReign": "Meilleur règne",
+    "totalRuns": "Parties jouées",
+    "editUsername": "Modifier le pseudo",
+    "usernamePlaceholder": "Nouveau pseudo",
+    "usernameSave": "Enregistrer",
+    "usernameCancel": "Annuler",
+    "usernameHint": "3 à 20 caractères. Lettres, chiffres, _ ou -. Le pseudo doit être unique.",
+    "usernameMissing": "Pseudo manquant",
+    "usernameErrFormat": "Format de pseudo invalide.",
+    "errNotReady": "Profil non prêt.",
+    "usernameOkNochange": "Aucun changement détecté.",
+    "usernameErrNojeton": "Pas assez de jetons.",
+    "usernameWorking": "Mise à jour en cours...",
+    "usernameErrTaken": "Ce pseudo est déjà pris.",
+    "usernameErrGeneric": "Impossible de modifier le pseudo.",
+    "usernameErrCostFailed": "Le pseudo a été modifié mais le coût n’a pas pu être débité.",
+    "usernameOkSaved": "Pseudo mis à jour.",
+    "universesTitle": "Univers",
+    "scenariosTitle": "Scénarios",
+    "edit_username": "Modifier le pseudo",
+    "save_username": "Enregistrer",
+    "universes_title": "Univers",
+    "scenarios_title": "Scénarios",
+    "username_ok_nochange": "Aucun changement détecté.",
+    "username_ok_saved": "Pseudo mis à jour.",
+    "badgeBronze": "Badge bronze",
+    "badgeSilver": "Badge argent",
+    "badgeGold": "Badge or",
+    "badge_bronze_aria": "Agrandir le badge bronze",
+    "badge_silver_aria": "Agrandir le badge argent",
+    "badge_gold_aria": "Agrandir le badge or"
+  },
+  "shop": {
+    "title": "BOUTIQUE",
+    "subtitle": "Dépenser vos VCoins",
+    "soon": "Bientôt disponible",
+
+    "store_title": "STORE",
+    "watch": "Regarder",
+    "loading": "Chargement...",
+    "unavailable": "Indisponible",
+
+    "reward_jeton_x1": "x1",
+    "reward_vcoins_x100": "x100",
+
+    "pack_jetons_12": "12",
+    "pack_jetons_30": "30",
+    "pack_vcoins_500": "500",
+    "pack_vcoins_3000": "3000",
+    "pack_no_ads": "No Ads",
+    "pack_diamond": "Diamond",
+
+    "rewarded_title": "Récompenses",
+    "rewarded_desc": "Regarde une pub pour obtenir une petite récompense.",
+    "reward_title": "Récompenses",
+    "reward_desc": "Regarde une pub pour obtenir une petite récompense.",
+    "get_jeton": "Obtenir +1 jeton",
+    "get_1_jeton": "Obtenir +1 jeton",
+    "get_200_coins": "Obtenir 200 pièces",
+    "get_300_coins": "Obtenir +300 pièces",
+    "noads_title": "No Pub",
+    "noads_desc": "Désactive les interstitiels. Les pubs récompensées restent disponibles.",
+    "noads_buy": "Activer No Pub",
+    "coins_title": "Pièces",
+    "coins_desc": "Achète des pièces pour débloquer plus vite.",
+    "coins_1200": "+1200 pièces",
+    "coins_3000": "+3000 pièces",
+    "jetons_title": "Jetons",
+    "jetons_desc": "Les jetons donnent accès aux actions spéciales.",
+    "jetons_12": "+12 jetons",
+    "jetons_30": "+30 jetons",
+    "diamond_title": "Diamond",
+    "diamond_desc": "No Pub + tous les univers actuels débloqués. Les futurs univers peuvent aussi être inclus si ton backend active l’accès Diamond.",
+    "diamond_buy": "Activer Diamond",
+
+    "aria_top": "Barre d’actions",
+    "aria_profile": "Profil"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Préférences et langue",
+    "sound": "Son",
+    "music": "Musique",
+    "notifications": "Notifications",
+    "language": "Langue",
+    "language_hint": "Choisis la langue. Elle est sauvegardée sur l’appareil et sur ton profil.",
+    "back_home_aria": "Retour à l’accueil",
+    "open_profile_aria": "Ouvrir le profil",
+    "choose_lang_aria": "Choisir la langue : {code}",
+    "ads_title": "Publicités",
+    "ads_personalized_label": "Publicités personnalisées",
+    "ads_personalized_desc": "Autoriser des publicités plus pertinentes. Tu peux changer à tout moment.",
+    "ads_saved": "Préférence publicitaire enregistrée.",
+    "help_title": "Aide",
+    "help_email_label": "Contact :",
+    "help_email": "help.vboldstudio@gmail.com",
+    "msg_saved": "Langue enregistrée.",
+    "msg_saved_local": "Langue enregistrée sur l’appareil. Synchronisation serveur plus tard."
+  },
+  "universe": {
+    "hell_king": {
+      "title": "Roi des Enfers",
+      "desc": "Dirige les légions démoniaques, gère l’afflux d’âmes damnées et maintiens l’ordre en enfer tout en influençant la surface."
+    },
+    "heaven_king": {
+      "title": "Souverain du Paradis",
+      "desc": "Arbitre les prières, contiens le fanatisme et décide jusqu’où le Ciel doit intervenir dans le monde des mortels."
+    },
+    "medieval_king": {
+      "title": "Roi médiéval",
+      "desc": "Église, armée, peuple, trésor. Chaque choix rapproche ton royaume de la prospérité ou de la révolte."
+    },
+    "western_president": {
+      "title": "Président",
+      "desc": "Opinion publique, économie, défense et crises diplomatiques. Une signature peut tout faire basculer."
+    },
+    "mega_corp_ceo": {
+      "title": "CEO",
+      "desc": "Investisseurs, employés, régulateurs et image de marque. Fais grimper la valorisation sans tout faire exploser."
+    },
+    "new_world_explorer": {
+      "title": "Explorateur",
+      "desc": "Conquiers, convertis et cherche la richesse locale tout en rendant des comptes à ta couronne."
+    },
+    "vampire_lord": {
+      "title": "Seigneur vampire",
+      "desc": "Étends ton influence dans l’ombre. Trop de sang attire les chasseurs, trop de prudence affaiblit ton clan."
+    }
+  }
+}

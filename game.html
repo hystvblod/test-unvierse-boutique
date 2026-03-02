@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vuniverse - Partie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- ✅ Fond blanc de base UNIQUEMENT sur game.html -->
+  <style>
+    html, body.vr-body-game {
+      background: #fff !important;
+      overflow: hidden !important;
+      height: 100% !important;
+    }
+    :root { --vr-bg: #fff !important; }
+  </style>
+</head>
+
+<body class="vr-body vr-body-game">
+
+  <!-- ✅ Bouton Accueil (tout en haut à gauche) -->
+  <a class="vr-icon-button" href="index.html" aria-label="Accueil"
+     style="position:fixed; top:calc(10px + env(safe-area-inset-top)); left:14px; z-index:100002; pointer-events:auto;">
+    <img class="vr-top-icon" src="assets/img/ui/btn_home.webp" alt="Accueil" draggable="false" />
+  </a>
+
+  <!-- ✅ Icônes DIRECTEMENT dans la page (comme index) -->
+  <div class="vr-top-actions vr-top-actions-game" aria-label="Top actions">
+    <a class="vr-icon-button" href="profile.html" aria-label="Profil">
+      <img class="vr-top-icon" src="assets/img/ui/btn_profile.webp" alt="" draggable="false" />
+    </a>
+
+    <a class="vr-icon-button" href="settings.html" aria-label="Paramètres">
+      <img class="vr-top-icon" src="assets/img/ui/btn_settings.webp" alt="" draggable="false" />
+    </a>
+
+    <a class="vr-icon-button" href="shop.html" aria-label="Boutique">
+      <img class="vr-top-icon" src="assets/img/ui/btn_shop.webp" alt="" draggable="false" />
+    </a>
+  </div>
+
+  <main class="vr-main">
+    <section id="view-game" class="vr-view vr-view-active">
+
+      <div class="vr-game-header">
+        <h2 class="vr-section-title" data-i18n="game.title"></h2>
+        <p class="vr-main-text" data-i18n="game.subtitle"></p>
+      </div>
+
+      <!-- ✅ HUD : VCoins gauche / Identité centre / Jetons droite -->
+      <div class="vr-hud" aria-label="HUD">
+
+        <!-- Gauche: VCoins (✅ bouton + popup) -->
+        <div class="vr-hud-left">
+          <div class="vr-hud-item">
+            <button id="btn-vcoins" type="button"
+                    class="vr-hud-icon-btn"
+                    aria-label="VCoins"
+                    aria-haspopup="dialog"
+                    aria-controls="vr-coins-popup">
+              <img class="vr-hud-icon" src="assets/img/ui/vcoins.webp" alt="" draggable="false" />
+            </button>
+            <span class="vr-hud-value" id="meta-coins">0</span>
+          </div>
+        </div>
+
+        <!-- Centre: Nom + Années -->
+        <div class="vr-hud-center">
+          <div class="vr-hud-identity">
+            <span class="vr-hud-name" id="meta-king-name">—</span>
+            <span class="vr-hud-years" id="meta-years">0</span>
+          </div>
+        </div>
+
+        <!-- Droite: Jeton -->
+        <div class="vr-hud-right">
+          <div class="vr-hud-item">
+            <button id="btn-jeton" type="button"
+                    class="vr-hud-icon-btn"
+                    aria-label="Jeton"
+                    aria-haspopup="dialog"
+                    aria-controls="vr-token-popup">
+              <img class="vr-hud-icon" src="assets/img/ui/jeton.webp" alt="Jeton" draggable="false" />
+            </button>
+            <span class="vr-hud-value" id="meta-tokens">0</span>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- ✅ IMPORTANT: ton JS attend l'ID vr-gauges-row -->
+      <div class="vr-gauges-row" id="vr-gauges-row">
+        <div class="vr-gauge">
+          <span class="vr-gauge-label"></span>
+          <div class="vr-gauge-frame">
+            <div class="vr-gauge-preview"></div>
+            <div class="vr-gauge-fill"></div>
+          </div>
+        </div>
+
+        <div class="vr-gauge">
+          <span class="vr-gauge-label"></span>
+          <div class="vr-gauge-frame">
+            <div class="vr-gauge-preview"></div>
+            <div class="vr-gauge-fill"></div>
+          </div>
+        </div>
+
+        <div class="vr-gauge">
+          <span class="vr-gauge-label"></span>
+          <div class="vr-gauge-frame">
+            <div class="vr-gauge-preview"></div>
+            <div class="vr-gauge-fill"></div>
+          </div>
+        </div>
+
+        <div class="vr-gauge">
+          <span class="vr-gauge-label"></span>
+          <div class="vr-gauge-frame">
+            <div class="vr-gauge-preview"></div>
+            <div class="vr-gauge-fill"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="vr-card-container">
+        <div class="vr-card-stack">
+
+          <div class="vr-card-main vr-card-main-compact" id="vr-card-main">
+            <h3 class="vr-card-title" id="card-title"></h3>
+            <p class="vr-card-text" id="card-text"></p>
+          </div>
+
+          <div class="vr-card-choices vr-card-choices-bottom">
+            <button class="vr-choice-button" data-choice="A" type="button">
+              <span class="vr-choice-label" id="choice-A"></span>
+            </button>
+            <button class="vr-choice-button" data-choice="B" type="button">
+              <span class="vr-choice-label" id="choice-B"></span>
+            </button>
+            <button class="vr-choice-button" data-choice="C" type="button">
+              <span class="vr-choice-label" id="choice-C"></span>
+            </button>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ✅ Popup Jeton (menu) -->
+      <div class="vr-popup" id="vr-token-popup" role="dialog" aria-modal="true" aria-hidden="true" inert>
+        <div class="vr-popup-inner">
+
+          <div class="vr-token-view" data-token-view="menu">
+            <h3 class="vr-popup-title" data-i18n="token.popup.title"></h3>
+
+            <button class="vr-card vr-token-card vr-token-card-big" type="button" data-token-action="adtoken">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="token.popup.ad.title"></h4>
+                <p class="vr-card-text" data-i18n="token.popup.ad.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card" type="button" data-token-action="gauge50">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="token.popup.gauge50.title"></h4>
+                <p class="vr-card-text" data-i18n="token.popup.gauge50.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card" type="button" data-token-action="back3">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="token.popup.back3.title"></h4>
+                <p class="vr-card-text" data-i18n="token.popup.back3.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card" type="button" data-token-action="close">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="common.cancel"></h4>
+                <p class="vr-card-text" data-i18n="token.popup.close.text"></p>
+              </div>
+            </button>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ✅ Popup VCoins (menu) -->
+      <div class="vr-popup" id="vr-coins-popup" role="dialog" aria-modal="true" aria-hidden="true" inert>
+        <div class="vr-popup-inner">
+
+          <div class="vr-token-view" data-coins-view="menu">
+            <h3 class="vr-popup-title" data-i18n="coins.popup.title"></h3>
+
+            <button class="vr-card vr-token-card vr-token-card-big" type="button" data-coins-action="adcoins">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="coins.popup.ad.title"></h4>
+                <p class="vr-card-text" data-i18n="coins.popup.ad.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card" type="button" data-coins-action="open_shop">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="coins.popup.shop.title"></h4>
+                <p class="vr-card-text" data-i18n="coins.popup.shop.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card" type="button" data-coins-action="close">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="common.cancel"></h4>
+                <p class="vr-card-text" data-i18n="coins.popup.close.text"></p>
+              </div>
+            </button>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ✅ Overlay sélection jauge (ton JS l'attend) -->
+      <div class="vr-token-gauge-overlay" id="vr-token-gauge-overlay" aria-hidden="true" inert>
+        <div class="vr-token-gauge-card" role="dialog" aria-modal="true" aria-label="Choisir une jauge">
+          <h3 class="vr-popup-title" data-i18n="token.popup.pickGauge.title"></h3>
+          <p class="vr-card-text" style="text-align:center" data-i18n="token.popup.pickGauge.text"></p>
+
+          <button id="btn-cancel-gauge-select" class="vr-card vr-token-card" type="button">
+            <div class="vr-card-content">
+              <h4 class="vr-card-title" data-i18n="common.cancel"></h4>
+              <p class="vr-card-text" data-i18n="token.popup.close.text"></p>
+            </div>
+          </button>
+        </div>
+      </div>
+
+      <!-- ✅ FIN (overlay) — Restart / Revive / Retour -->
+      <div class="vr-ending-overlay" id="vr-ending-overlay" aria-hidden="true">
+        <div class="vr-ending-card" role="dialog" aria-modal="true">
+          <h3 class="vr-ending-title" id="ending-title"></h3>
+          <p class="vr-ending-text" id="ending-text"></p>
+
+          <button id="ending-restart-btn" class="vr-choice-button" type="button">
+            <span data-i18n="game.restart"></span>
+          </button>
+
+          <button id="ending-revive-btn" class="vr-choice-button" type="button">
+            <span data-i18n="game.revive"></span>
+          </button>
+
+          <button id="ending-return-btn" class="vr-choice-button" type="button">
+            <span data-i18n="game.return"></span>
+          </button>
+        </div>
+      </div>
+
+      <!-- ✅ Popup Revivre -->
+      <div class="vr-popup" id="vr-revive-popup" role="dialog" aria-modal="true" aria-hidden="true" inert>
+        <div class="vr-popup-inner">
+          <div class="vr-token-view" data-revive-view="menu">
+            <h3 class="vr-popup-title" data-i18n="revive.popup.title"></h3>
+            <p class="vr-card-text" style="text-align:center" data-i18n="revive.popup.text"></p>
+
+            <button class="vr-card vr-token-card" type="button" data-revive-action="token">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="revive.popup.use_token.title"></h4>
+                <p class="vr-card-text" data-i18n="revive.popup.use_token.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card vr-token-card-big" type="button" data-revive-action="ad">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="revive.popup.use_ad.title"></h4>
+                <p class="vr-card-text" data-i18n="revive.popup.use_ad.text"></p>
+              </div>
+            </button>
+
+            <button class="vr-card vr-token-card" type="button" data-revive-action="cancel">
+              <div class="vr-card-content">
+                <h4 class="vr-card-title" data-i18n="common.cancel"></h4>
+                <p class="vr-card-text" data-i18n="revive.popup.cancel.text"></p>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+
+    </section>
+  </main>
+
+  <!-- ✅ Supabase -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script src="js/supabaseBootstrap.js"></script>
+
+  <script src="js/userData.js"></script>
+  <script src="js/ads.js"></script>
+  <script src="js/purchases.js"></script>
+  <script src="js/shop.js"></script>
+  <script src="js/i18n.js"></script>
+
+  <!-- ✅ Boot global : on expose une promesse ready pour game.js -->
+  <script>
+    (function () {
+      async function boot() {
+        try { await window.bootstrapAuthAndProfile?.(); } catch (_) {}
+        try { await window.VUserData?.init?.(); } catch (_) {}
+
+        try {
+          const lang = window.VUserData?.getLang?.() || "fr";
+          if (window.VRI18n && typeof window.VRI18n.initI18n === "function") {
+            await window.VRI18n.initI18n(lang);
+          }
+        } catch (_) {}
+        return true;
+      }
+
+      // ✅ IMPORTANT: game.js attendra ça
+      window.__VR_BOOT_READY = boot();
+    })();
+  </script>
+
+  <script src="js/game.js"></script>
+</body>
+</html>

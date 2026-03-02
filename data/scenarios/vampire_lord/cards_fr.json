@@ -1,0 +1,3612 @@
+{
+  "vampire_001": {
+    "id": "vampire_001",
+    "universe": "vampire_lord",
+    "title": "La poche de sang bio",
+    "description": "Un stock de sang disparaît. Quelqu’un a fait des réserves sans autorisation.",
+    "choices": {
+      "A": "Organiser une chasse discrète",
+      "B": "Négocier des dons volontaires",
+      "C": "Passer en mode rationnement"
+    },
+    "body": "Un stock de sang disparaît. Quelqu’un a fait des réserves sans autorisation."
+  },
+  "vampire_002": {
+    "id": "vampire_002",
+    "universe": "vampire_lord",
+    "title": "Rumeur de balles en argent",
+    "description": "Un humain te fixe comme s’il connaissait ton nom et ton cercueil.",
+    "choices": {
+      "A": "Déplacer le clan",
+      "B": "Rester et protéger le territoire",
+      "C": "Lancer une diversion"
+    },
+    "body": "Un humain te fixe comme s’il connaissait ton nom et ton cercueil."
+  },
+  "vampire_003": {
+    "id": "vampire_003",
+    "universe": "vampire_lord",
+    "title": "La querelle des lignées",
+    "description": "Un jeune vampire veut moderniser le clan avec des slides.",
+    "choices": {
+      "A": "Arbitrer fermement",
+      "B": "Laisser les clans régler ça",
+      "C": "Promettre tout à tout le monde"
+    },
+    "body": "Un jeune vampire veut moderniser le clan avec des slides."
+  },
+  "vampire_004": {
+    "id": "vampire_004",
+    "universe": "vampire_lord",
+    "title": "Influenceurs du culte",
+    "description": "Le culte vampirique grossit. Ça flatte et ça attire les problèmes.",
+    "choices": {
+      "A": "Autoriser un grand rituel",
+      "B": "Limiter et encadrer",
+      "C": "Interdire tout"
+    },
+    "body": "Le culte vampirique grossit. Ça flatte et ça attire les problèmes."
+  },
+  "vampire_005": {
+    "id": "vampire_005",
+    "universe": "vampire_lord",
+    "title": "La carte de fidélité",
+    "description": "Un humain poste une photo où tu n’as pas de reflet. Ça buzz.",
+    "choices": {
+      "A": "Embaucher des experts",
+      "B": "Menacer l’internet",
+      "C": "Transformer ça en mythe"
+    },
+    "body": "Un humain poste une photo où tu n’as pas de reflet. Ça buzz."
+  },
+  "vampire_006": {
+    "id": "vampire_006",
+    "universe": "vampire_lord",
+    "title": "La brasserie sanguine",
+    "description": "Le stock de sang se raréfie. Inflation. Oui, même ici.",
+    "choices": {
+      "A": "Piller discrètement",
+      "B": "Investir légalement",
+      "C": "Taxer le culte"
+    },
+    "body": "Le stock de sang se raréfie. Inflation. Oui, même ici."
+  },
+  "vampire_007": {
+    "id": "vampire_007",
+    "universe": "vampire_lord",
+    "title": "La crypte se réveille",
+    "description": "Une fissure dans la crypte laisse passer un souffle glacial.",
+    "choices": {
+      "A": "Sceller la crypte",
+      "B": "Explorer",
+      "C": "Envoyer un rival"
+    },
+    "body": "Une fissure dans la crypte laisse passer un souffle glacial."
+  },
+  "vampire_008": {
+    "id": "vampire_008",
+    "universe": "vampire_lord",
+    "title": "Le dentier de vampire",
+    "description": "Petit souci d’immortel : un détail ridicule peut ruiner une nuit entière.",
+    "choices": {
+      "A": "Transformer ça en histoire",
+      "B": "Appeler le clan",
+      "C": "Tenter la discrétion"
+    },
+    "body": "Petit souci d’immortel : un détail ridicule peut ruiner une nuit entière."
+  },
+  "vampire_009": {
+    "id": "vampire_009",
+    "universe": "vampire_lord",
+    "title": "Réserve sauvage",
+    "description": "Un stock de sang disparaît. Quelqu’un a fait des réserves sans autorisation.",
+    "choices": {
+      "A": "Se servir largement et vite",
+      "B": "Prélever avec mesure",
+      "C": "Refuser et tenir"
+    },
+    "body": "Un stock de sang disparaît. Quelqu’un a fait des réserves sans autorisation."
+  },
+  "vampire_010": {
+    "id": "vampire_010",
+    "universe": "vampire_lord",
+    "title": "L’ombre des balles en argent",
+    "description": "Un humain te fixe comme s’il connaissait ton nom et ton cercueil.",
+    "choices": {
+      "A": "Effacer les preuves",
+      "B": "Faire porter le chapeau au culte",
+      "C": "Soudoyer les chefs"
+    },
+    "body": "Un humain te fixe comme s’il connaissait ton nom et ton cercueil."
+  },
+  "vampire_011": {
+    "id": "vampire_011",
+    "universe": "vampire_lord",
+    "title": "Réunion de clans",
+    "description": "Un jeune vampire veut moderniser le clan avec des slides.",
+    "choices": {
+      "A": "Appuyer les anciens",
+      "B": "Donner une chance aux jeunes",
+      "C": "Jouer double jeu"
+    },
+    "body": "Un jeune vampire veut moderniser le clan avec des slides."
+  },
+  "vampire_012": {
+    "id": "vampire_012",
+    "universe": "vampire_lord",
+    "title": "Le visage public",
+    "description": "Le culte vampirique grossit. Ça flatte et ça attire les problèmes.",
+    "choices": {
+      "A": "Apparaître publiquement",
+      "B": "Rester une légende",
+      "C": "Utiliser un double"
+    },
+    "body": "Le culte vampirique grossit. Ça flatte et ça attire les problèmes."
+  },
+  "vampire_013": {
+    "id": "vampire_013",
+    "universe": "vampire_lord",
+    "title": "Sans reflet",
+    "description": "Un humain poste une photo où tu n’as pas de reflet. Ça buzz.",
+    "choices": {
+      "A": "S’adapter au moderne",
+      "B": "Revenir au vieux monde",
+      "C": "Faire semblant d’être mort encore"
+    },
+    "body": "Un humain poste une photo où tu n’as pas de reflet. Ça buzz."
+  },
+  "vampire_014": {
+    "id": "vampire_014",
+    "universe": "vampire_lord",
+    "title": "Pénurie au comptoir",
+    "description": "Le stock de sang se raréfie. Inflation. Oui, même ici.",
+    "choices": {
+      "A": "Rationner le sang",
+      "B": "Augmenter la chasse",
+      "C": "Négocier avec les hôpitaux"
+    },
+    "body": "Le stock de sang se raréfie. Inflation. Oui, même ici."
+  },
+  "vampire_015": {
+    "id": "vampire_015",
+    "universe": "vampire_lord",
+    "title": "Le rituel de la fissure",
+    "description": "Une fissure dans la crypte laisse passer un souffle glacial.",
+    "choices": {
+      "A": "Faire le rituel",
+      "B": "Le repousser",
+      "C": "Le confier au culte"
+    },
+    "body": "Une fissure dans la crypte laisse passer un souffle glacial."
+  },
+  "vampire_016": {
+    "id": "vampire_016",
+    "universe": "vampire_lord",
+    "title": "Nuit gâchée",
+    "description": "Petit souci d’immortel : un détail ridicule peut ruiner une nuit entière.",
+    "choices": {
+      "A": "Faire un effort",
+      "B": "Imposer ta loi",
+      "C": "Changer de repaire"
+    },
+    "body": "Petit souci d’immortel : un détail ridicule peut ruiner une nuit entière."
+  },
+  "vampire_017": {
+    "id": "vampire_017",
+    "universe": "vampire_lord",
+    "title": "Marché noir propre",
+    "description": "Un stock de sang disparaît. Quelqu’un a fait des réserves sans autorisation.",
+    "choices": {
+      "A": "Acheter du sang légalement",
+      "B": "Réquisitionner les stocks du clan",
+      "C": "Se débrouiller en solo"
+    },
+    "body": "Un stock de sang disparaît. Quelqu’un a fait des réserves sans autorisation."
+  },
+  "vampire_018": {
+    "id": "vampire_018",
+    "universe": "vampire_lord",
+    "title": "Le regard du chasseur",
+    "description": "Un humain te fixe comme s’il connaissait ton nom et ton cercueil.",
+    "choices": {
+      "A": "Les intimider",
+      "B": "Les infiltrer",
+      "C": "Les éliminer proprement"
+    },
+    "body": "Un humain te fixe comme s’il connaissait ton nom et ton cercueil."
+  },
+  "vampire_019": {
+    "id": "vampire_019",
+    "universe": "vampire_lord",
+    "title": "Loi absurde",
+    "description": "Un jeune vampire veut moderniser le clan avec des slides.",
+    "choices": {
+      "A": "Récompenser les loyaux",
+      "B": "Punir un bouc émissaire",
+      "C": "Créer une règle absurde"
+    },
+    "body": "Un jeune vampire veut moderniser le clan avec des slides."
+  },
+  "vampire_020": {
+    "id": "vampire_020",
+    "universe": "vampire_lord",
+    "title": "Culte en feu",
+    "description": "Le culte vampirique grossit. Ça flatte et ça attire les problèmes.",
+    "choices": {
+      "A": "Exploiter le culte",
+      "B": "Le protéger sincèrement",
+      "C": "Le dissoudre"
+    },
+    "body": "Le culte vampirique grossit. Ça flatte et ça attire les problèmes."
+  },
+  "vampire_021": {
+    "id": "vampire_021",
+    "universe": "vampire_lord",
+    "title": "Contre buzz",
+    "description": "Un humain poste une photo où tu n’as pas de reflet. Ça buzz.",
+    "choices": {
+      "A": "Effacer la publication",
+      "B": "Contre buzzer",
+      "C": "Ignorer et prier"
+    },
+    "body": "Un humain poste une photo où tu n’as pas de reflet. Ça buzz."
+  },
+  "vampire_022": {
+    "id": "vampire_022",
+    "universe": "vampire_lord",
+    "title": "La relique du sang froid",
+    "description": "Une relique promet du sang à volonté. Tout le monde la veut, surtout les chasseurs.",
+    "choices": {
+      "A": "Acheter la relique",
+      "B": "La détruire",
+      "C": "L’offrir aux chasseurs pour les piéger"
+    },
+    "body": "Une relique promet du sang à volonté. Tout le monde la veut, surtout les chasseurs."
+  },
+  "vampire_023": {
+    "id": "vampire_023",
+    "universe": "vampire_lord",
+    "title": "Conseils d’anciens",
+    "description": "Une fissure dans la crypte laisse passer un souffle glacial.",
+    "choices": {
+      "A": "Demander aux anciens",
+      "B": "Demander aux chasseurs",
+      "C": "Improviser"
+    },
+    "body": "Une fissure dans la crypte laisse passer un souffle glacial."
+  },
+  "vampire_024": {
+    "id": "vampire_024",
+    "universe": "vampire_lord",
+    "title": "Rire ou frapper",
+    "description": "Petit souci d’immortel : un détail ridicule peut ruiner une nuit entière.",
+    "choices": {
+      "A": "En rire",
+      "B": "Punir quelqu’un",
+      "C": "Tout nier avec aplomb"
+    },
+    "body": "Petit souci d’immortel : un détail ridicule peut ruiner une nuit entière."
+  },
+  "vampire_025": {
+    "id": "vampire_025",
+    "universe": "vampire_lord",
+    "title": "La livraison en retard",
+    "description": "Le camion frigorifique a disparu avec trois caisses. Le sang fond et les rumeurs montent.",
+    "choices": {
+      "A": "Récupérer le camion cette nuit",
+      "B": "Payer pour un silence propre",
+      "C": "Accuser les chasseurs"
+    },
+    "body": "Le camion frigorifique a disparu avec trois caisses. Le sang fond et les rumeurs montent."
+  },
+  "vampire_026": {
+    "id": "vampire_026",
+    "universe": "vampire_lord",
+    "title": "Le bal masqué",
+    "description": "Un gala huppé invite des notables. Idéal pour nourrir le clan, idéal pour se faire repérer.",
+    "choices": {
+      "A": "Envoyer des charmeurs",
+      "B": "Refuser et rester caché",
+      "C": "Y aller toi même"
+    },
+    "body": "Un gala huppé invite des notables. Idéal pour nourrir le clan, idéal pour se faire repérer."
+  },
+  "vampire_027": {
+    "id": "vampire_027",
+    "universe": "vampire_lord",
+    "title": "Le prêtre insomniaque",
+    "description": "Un prêtre ne dort plus. Il bénit l’eau du robinet par vengeance.",
+    "choices": {
+      "A": "Le faire taire gentiment",
+      "B": "Corrompre la paroisse",
+      "C": "Laisser faire et s’adapter"
+    },
+    "body": "Un prêtre ne dort plus. Il bénit l’eau du robinet par vengeance."
+  },
+  "vampire_028": {
+    "id": "vampire_028",
+    "universe": "vampire_lord",
+    "title": "La caméra de la ruelle",
+    "description": "Une caméra de rue t’a filmé en plein sprint. Sur l’image, tu vas beaucoup trop vite.",
+    "choices": {
+      "A": "Saboter le système",
+      "B": "Acheter les images",
+      "C": "Faire une fausse piste"
+    },
+    "body": "Une caméra de rue t’a filmé en plein sprint. Sur l’image, tu vas beaucoup trop vite."
+  },
+  "vampire_029": {
+    "id": "vampire_029",
+    "universe": "vampire_lord",
+    "title": "La chasse au faux vampire",
+    "description": "Un imitateur se fait passer pour toi. Il mord n’importe qui et laisse des traces.",
+    "choices": {
+      "A": "Le recruter",
+      "B": "Le punir publiquement",
+      "C": "Le livrer aux chasseurs"
+    },
+    "body": "Un imitateur se fait passer pour toi. Il mord n’importe qui et laisse des traces."
+  },
+  "vampire_030": {
+    "id": "vampire_030",
+    "universe": "vampire_lord",
+    "title": "Le pacte du quartier",
+    "description": "Les gangs locaux veulent un accord. Protection contre discrétion.",
+    "choices": {
+      "A": "Accepter et imposer des règles",
+      "B": "Refuser et les effrayer",
+      "C": "Les manipuler entre eux"
+    },
+    "body": "Les gangs locaux veulent un accord. Protection contre discrétion."
+  },
+  "vampire_031": {
+    "id": "vampire_031",
+    "universe": "vampire_lord",
+    "title": "Le sang vegan",
+    "description": "Des humains vendent du sang prétendument éthique. Ça sent l’arnaque et la police.",
+    "choices": {
+      "A": "Acheter pour tester",
+      "B": "Détruire le trafic",
+      "C": "Récupérer la recette"
+    },
+    "body": "Des humains vendent du sang prétendument éthique. Ça sent l’arnaque et la police."
+  },
+  "vampire_032": {
+    "id": "vampire_032",
+    "universe": "vampire_lord",
+    "title": "Le cercueil égaré",
+    "description": "Ton cercueil de secours a disparu. Quelqu’un a confondu avec une malle vintage.",
+    "choices": {
+      "A": "Lancer une recherche rapide",
+      "B": "Offrir une récompense",
+      "C": "Changer de planque"
+    },
+    "body": "Ton cercueil de secours a disparu. Quelqu’un a confondu avec une malle vintage."
+  },
+  "vampire_033": {
+    "id": "vampire_033",
+    "universe": "vampire_lord",
+    "title": "La patrouille renforcée",
+    "description": "La police multiplie les rondes la nuit. Les chasseurs se cachent derrière l’uniforme.",
+    "choices": {
+      "A": "Corrompre un chef",
+      "B": "Éviter le secteur",
+      "C": "Monter un scandale"
+    },
+    "body": "La police multiplie les rondes la nuit. Les chasseurs se cachent derrière l’uniforme."
+  },
+  "vampire_034": {
+    "id": "vampire_034",
+    "universe": "vampire_lord",
+    "title": "La réunion syndicale",
+    "description": "Les vampires du bas veulent de meilleures conditions de chasse. Ils parlent même de grève.",
+    "choices": {
+      "A": "Céder un peu",
+      "B": "Réprimer",
+      "C": "Diviser les meneurs"
+    },
+    "body": "Les vampires du bas veulent de meilleures conditions de chasse. Ils parlent même de grève."
+  },
+  "vampire_035": {
+    "id": "vampire_035",
+    "universe": "vampire_lord",
+    "title": "La statue qui pleure",
+    "description": "Une statue de la crypte suinte du sang. Le culte adore, le clan panique.",
+    "choices": {
+      "A": "Expliquer un miracle",
+      "B": "Bloquer l’accès",
+      "C": "Exploiter le phénomène"
+    },
+    "body": "Une statue de la crypte suinte du sang. Le culte adore, le clan panique."
+  },
+  "vampire_036": {
+    "id": "vampire_036",
+    "universe": "vampire_lord",
+    "title": "Le bébé chauve souris",
+    "description": "Un nouveau né vampire se transforme trop tôt. Il s’accroche au plafond et crie.",
+    "choices": {
+      "A": "Former le novice",
+      "B": "Le cacher au clan",
+      "C": "Le confier au culte"
+    },
+    "body": "Un nouveau né vampire se transforme trop tôt. Il s’accroche au plafond et crie."
+  },
+  "vampire_037": {
+    "id": "vampire_037",
+    "universe": "vampire_lord",
+    "title": "Le chasseur poli",
+    "description": "Un chasseur demande un rendez-vous. Il sourit trop. Il sait quelque chose.",
+    "choices": {
+      "A": "L’écouter",
+      "B": "Le piéger",
+      "C": "Le faire disparaître"
+    },
+    "body": "Un chasseur demande un rendez-vous. Il sourit trop. Il sait quelque chose."
+  },
+  "vampire_038": {
+    "id": "vampire_038",
+    "universe": "vampire_lord",
+    "title": "Le pactole de VCoins",
+    "description": "Le culte offre des dons énormes. Ça sent la manipulation, mais c’est tentant.",
+    "choices": {
+      "A": "Accepter avec contrôle",
+      "B": "Refuser",
+      "C": "Prendre tout et fuir"
+    },
+    "body": "Le culte offre des dons énormes. Ça sent la manipulation, mais c’est tentant."
+  },
+  "vampire_039": {
+    "id": "vampire_039",
+    "universe": "vampire_lord",
+    "title": "Le banquet interdit",
+    "description": "Une lignée propose un banquet. Le menu est douteux, le plan aussi.",
+    "choices": {
+      "A": "Interdire",
+      "B": "Surveiller",
+      "C": "Participer pour vérifier"
+    },
+    "body": "Une lignée propose un banquet. Le menu est douteux, le plan aussi."
+  },
+  "vampire_040": {
+    "id": "vampire_040",
+    "universe": "vampire_lord",
+    "title": "L’odeur de l’ail",
+    "description": "Quelqu’un parfume la rue à l’ail. Ça devient un sport local.",
+    "choices": {
+      "A": "Identifier le responsable",
+      "B": "Changer d’itinéraire",
+      "C": "Retourner le voisinage"
+    },
+    "body": "Quelqu’un parfume la rue à l’ail. Ça devient un sport local."
+  },
+  "vampire_041": {
+    "id": "vampire_041",
+    "universe": "vampire_lord",
+    "title": "La chasseuse célèbre",
+    "description": "Une chasseuse passe à la télé. Elle montre ta ville sur une carte.",
+    "choices": {
+      "A": "La ridiculiser publiquement",
+      "B": "Déménager une cache",
+      "C": "Lancer une guerre froide"
+    },
+    "body": "Une chasseuse passe à la télé. Elle montre ta ville sur une carte."
+  },
+  "vampire_042": {
+    "id": "vampire_042",
+    "universe": "vampire_lord",
+    "title": "Le contrat de nettoyage",
+    "description": "Une entreprise propose de nettoyer les traces. Trop pro pour être honnête.",
+    "choices": {
+      "A": "Signer",
+      "B": "Espionner l’entreprise",
+      "C": "La faire disparaître"
+    },
+    "body": "Une entreprise propose de nettoyer les traces. Trop pro pour être honnête."
+  },
+  "vampire_043": {
+    "id": "vampire_043",
+    "universe": "vampire_lord",
+    "title": "Le club gothique",
+    "description": "Un club gothique veut te couronner vampire du mois. Tu n’aimes pas les flashs.",
+    "choices": {
+      "A": "Jouer la mascotte",
+      "B": "Refuser net",
+      "C": "Envoyer un sosie"
+    },
+    "body": "Un club gothique veut te couronner vampire du mois. Tu n’aimes pas les flashs."
+  },
+  "vampire_044": {
+    "id": "vampire_044",
+    "universe": "vampire_lord",
+    "title": "Le sang contaminé",
+    "description": "Plusieurs vampires tombent malades. Le dernier lot est mauvais.",
+    "choices": {
+      "A": "Bloquer le stock",
+      "B": "Trouver la source",
+      "C": "Accuser un clan"
+    },
+    "body": "Plusieurs vampires tombent malades. Le dernier lot est mauvais."
+  },
+  "vampire_045": {
+    "id": "vampire_045",
+    "universe": "vampire_lord",
+    "title": "Le message codé",
+    "description": "Un humain te laisse un mot en code. Il dit connaître ton vrai nom.",
+    "choices": {
+      "A": "Répondre au code",
+      "B": "Ignorer",
+      "C": "Le capturer"
+    },
+    "body": "Un humain te laisse un mot en code. Il dit connaître ton vrai nom."
+  },
+  "vampire_046": {
+    "id": "vampire_046",
+    "universe": "vampire_lord",
+    "title": "Le don de la lune",
+    "description": "La pleine lune rend le clan nerveux. Les erreurs se multiplient.",
+    "choices": {
+      "A": "Imposer un couvre feu",
+      "B": "Organiser une chasse encadrée",
+      "C": "Laisser chacun gérer"
+    },
+    "body": "La pleine lune rend le clan nerveux. Les erreurs se multiplient."
+  },
+  "vampire_047": {
+    "id": "vampire_047",
+    "universe": "vampire_lord",
+    "title": "La radio nocturne",
+    "description": "Une radio locale lit des messages pour toi. Quelqu’un te défie en direct.",
+    "choices": {
+      "A": "Couper l’émetteur",
+      "B": "Entrer dans le jeu",
+      "C": "Retourner l’animateur"
+    },
+    "body": "Une radio locale lit des messages pour toi. Quelqu’un te défie en direct."
+  },
+  "vampire_048": {
+    "id": "vampire_048",
+    "universe": "vampire_lord",
+    "title": "Le festival de lumières",
+    "description": "La ville installe des projecteurs partout. Belle ambiance, mauvais pour toi.",
+    "choices": {
+      "A": "Saboter en douceur",
+      "B": "Négocier une zone sombre",
+      "C": "Partir quelques jours"
+    },
+    "body": "La ville installe des projecteurs partout. Belle ambiance, mauvais pour toi."
+  },
+  "vampire_049": {
+    "id": "vampire_049",
+    "universe": "vampire_lord",
+    "title": "Le pacte des hôpitaux",
+    "description": "Un directeur d’hôpital propose un deal. Il veut ta protection.",
+    "choices": {
+      "A": "Accepter avec contrat",
+      "B": "Refuser",
+      "C": "Prendre le stock sans accord"
+    },
+    "body": "Un directeur d’hôpital propose un deal. Il veut ta protection."
+  },
+  "vampire_050": {
+    "id": "vampire_050",
+    "universe": "vampire_lord",
+    "title": "La chasse sur appli",
+    "description": "Une appli de rencontres cible tes zones. Les pièges se modernisent.",
+    "choices": {
+      "A": "Infiltrer l’appli",
+      "B": "Changer de terrain",
+      "C": "Faire fermer l’appli"
+    },
+    "body": "Une appli de rencontres cible tes zones. Les pièges se modernisent."
+  },
+  "vampire_051": {
+    "id": "vampire_051",
+    "universe": "vampire_lord",
+    "title": "Le nouveau comptable",
+    "description": "Un comptable humain gère tes finances. Il pose trop de questions.",
+    "choices": {
+      "A": "Le rassurer",
+      "B": "Le hypnotiser",
+      "C": "Le remplacer"
+    },
+    "body": "Un comptable humain gère tes finances. Il pose trop de questions."
+  },
+  "vampire_052": {
+    "id": "vampire_052",
+    "universe": "vampire_lord",
+    "title": "La tombe ouverte",
+    "description": "Une tombe est ouverte dans ton cimetière. Quelqu’un cherche une clé ancienne.",
+    "choices": {
+      "A": "Refermer et piéger",
+      "B": "Suivre les traces",
+      "C": "Envoyer le culte"
+    },
+    "body": "Une tombe est ouverte dans ton cimetière. Quelqu’un cherche une clé ancienne."
+  },
+  "vampire_053": {
+    "id": "vampire_053",
+    "universe": "vampire_lord",
+    "title": "Le miroir truqué",
+    "description": "Un artisan vend des miroirs qui te reflètent. Le clan est jaloux.",
+    "choices": {
+      "A": "Acheter en masse",
+      "B": "Détruire la boutique",
+      "C": "Récupérer l’artisan"
+    },
+    "body": "Un artisan vend des miroirs qui te reflètent. Le clan est jaloux."
+  },
+  "vampire_054": {
+    "id": "vampire_054",
+    "universe": "vampire_lord",
+    "title": "La pluie bénite",
+    "description": "Il pleut une eau qui brûle un peu. Quelqu’un bénit les nuages, oui.",
+    "choices": {
+      "A": "Trouver la source",
+      "B": "Se terrer",
+      "C": "Faire un sacrifice"
+    },
+    "body": "Il pleut une eau qui brûle un peu. Quelqu’un bénit les nuages, oui."
+  },
+  "vampire_055": {
+    "id": "vampire_055",
+    "universe": "vampire_lord",
+    "title": "Le taxi curieux",
+    "description": "Un taxi dit t’avoir déjà vu mourir. Il veut une histoire, sinon il parle.",
+    "choices": {
+      "A": "Le payer",
+      "B": "Lui raconter un mensonge",
+      "C": "Le faire oublier"
+    },
+    "body": "Un taxi dit t’avoir déjà vu mourir. Il veut une histoire, sinon il parle."
+  },
+  "vampire_056": {
+    "id": "vampire_056",
+    "universe": "vampire_lord",
+    "title": "La rançon du sang",
+    "description": "Un gang capture un membre du clan. Ils demandent du sang et des secrets.",
+    "choices": {
+      "A": "Payer la rançon",
+      "B": "Attaquer",
+      "C": "Négocier un échange"
+    },
+    "body": "Un gang capture un membre du clan. Ils demandent du sang et des secrets."
+  },
+  "vampire_057": {
+    "id": "vampire_057",
+    "universe": "vampire_lord",
+    "title": "La bibliothèque scellée",
+    "description": "Une bibliothèque interdit l’accès à une salle. Le culte dit que ça chante la nuit.",
+    "choices": {
+      "A": "Forcer l’entrée",
+      "B": "Demander un permis",
+      "C": "Laisser au culte"
+    },
+    "body": "Une bibliothèque interdit l’accès à une salle. Le culte dit que ça chante la nuit."
+  },
+  "vampire_058": {
+    "id": "vampire_058",
+    "universe": "vampire_lord",
+    "title": "Le voisin trop gentil",
+    "description": "Ton voisin apporte des gâteaux chaque soir. Beaucoup trop d’ail, bizarrement.",
+    "choices": {
+      "A": "L’inviter à parler",
+      "B": "Le faire fuir",
+      "C": "Changer de repaire"
+    },
+    "body": "Ton voisin apporte des gâteaux chaque soir. Beaucoup trop d’ail, bizarrement."
+  },
+  "vampire_059": {
+    "id": "vampire_059",
+    "universe": "vampire_lord",
+    "title": "Le balai de cendres",
+    "description": "Un serviteur renverse des cendres sacrées partout. Ça gratte la peau.",
+    "choices": {
+      "A": "Punir le serviteur",
+      "B": "Nettoyer vite",
+      "C": "Faire porter la faute au culte"
+    },
+    "body": "Un serviteur renverse des cendres sacrées partout. Ça gratte la peau."
+  },
+  "vampire_060": {
+    "id": "vampire_060",
+    "universe": "vampire_lord",
+    "title": "La comète rouge",
+    "description": "Le ciel devient rouge une nuit. Le culte annonce la fin, les chasseurs se préparent.",
+    "choices": {
+      "A": "Calmer le culte",
+      "B": "Préparer la guerre",
+      "C": "Profiter du chaos"
+    },
+    "body": "Le ciel devient rouge une nuit. Le culte annonce la fin, les chasseurs se préparent."
+  },
+  "vampire_061": {
+    "id": "vampire_061",
+    "universe": "vampire_lord",
+    "title": "La griffe sur la porte",
+    "description": "Quelqu’un raye ta porte de crypte. Message clair : on t’a trouvé.",
+    "choices": {
+      "A": "Renforcer la défense",
+      "B": "Changer de cache",
+      "C": "Contre attaquer"
+    },
+    "body": "Quelqu’un raye ta porte de crypte. Message clair : on t’a trouvé."
+  },
+  "vampire_062": {
+    "id": "vampire_062",
+    "universe": "vampire_lord",
+    "title": "La promesse d’immortalité",
+    "description": "Un humain riche veut devenir vampire. Il paye, il insiste, il a une équipe.",
+    "choices": {
+      "A": "L’accepter",
+      "B": "Le manipuler",
+      "C": "Le faire disparaître"
+    },
+    "body": "Un humain riche veut devenir vampire. Il paye, il insiste, il a une équipe."
+  },
+  "vampire_063": {
+    "id": "vampire_063",
+    "universe": "vampire_lord",
+    "title": "La soirée karaoke",
+    "description": "Le clan veut une soirée karaoke pour la cohésion. Mauvaise idée, mais drôle.",
+    "choices": {
+      "A": "Accepter et encadrer",
+      "B": "Interdire",
+      "C": "Utiliser ça pour repérer les traîtres"
+    },
+    "body": "Le clan veut une soirée karaoke pour la cohésion. Mauvaise idée, mais drôle."
+  },
+  "vampire_064": {
+    "id": "vampire_064",
+    "universe": "vampire_lord",
+    "title": "Le drone au dessus",
+    "description": "Un drone survole ta planque chaque nuit. Il revient toujours.",
+    "choices": {
+      "A": "Le pirater",
+      "B": "L’abattre",
+      "C": "Déménager"
+    },
+    "body": "Un drone survole ta planque chaque nuit. Il revient toujours."
+  },
+  "vampire_065": {
+    "id": "vampire_065",
+    "universe": "vampire_lord",
+    "title": "La bourse du sang",
+    "description": "Des trafiquants fixent les prix. Ils veulent une taxe sur ton territoire.",
+    "choices": {
+      "A": "Négocier",
+      "B": "Les écraser",
+      "C": "Créer ton propre réseau"
+    },
+    "body": "Des trafiquants fixent les prix. Ils veulent une taxe sur ton territoire."
+  },
+  "vampire_066": {
+    "id": "vampire_066",
+    "universe": "vampire_lord",
+    "title": "Le train de nuit",
+    "description": "Un train de nuit arrive vide. Les sièges sont chauds. Très chaud.",
+    "choices": {
+      "A": "Monter à bord",
+      "B": "Prévenir le clan",
+      "C": "Appeler les chasseurs pour tester"
+    },
+    "body": "Un train de nuit arrive vide. Les sièges sont chauds. Très chaud."
+  },
+  "vampire_067": {
+    "id": "vampire_067",
+    "universe": "vampire_lord",
+    "title": "La relique volée",
+    "description": "La relique du sang froid a été volée. Le coupable laisse un symbole du culte.",
+    "choices": {
+      "A": "Accuser le culte",
+      "B": "Traquer en silence",
+      "C": "Offrir une amnistie"
+    },
+    "body": "La relique du sang froid a été volée. Le coupable laisse un symbole du culte."
+  },
+  "vampire_068": {
+    "id": "vampire_068",
+    "universe": "vampire_lord",
+    "title": "Le pacte des loups",
+    "description": "Une meute propose une trêve. Ils veulent des frontières claires.",
+    "choices": {
+      "A": "Signer une trêve",
+      "B": "Refuser",
+      "C": "Les utiliser contre les chasseurs"
+    },
+    "body": "Une meute propose une trêve. Ils veulent des frontières claires."
+  },
+  "vampire_069": {
+    "id": "vampire_069",
+    "universe": "vampire_lord",
+    "title": "La chanson interdite",
+    "description": "Une chanson parle de toi. Quand elle passe, les chiens hurlent.",
+    "choices": {
+      "A": "Faire interdire",
+      "B": "Rencontrer l’auteur",
+      "C": "Retourner la mode à ton avantage"
+    },
+    "body": "Une chanson parle de toi. Quand elle passe, les chiens hurlent."
+  },
+  "vampire_070": {
+    "id": "vampire_070",
+    "universe": "vampire_lord",
+    "title": "La coupe fissurée",
+    "description": "Ta coupe rituelle est fissurée. Sans elle, le clan doute de toi.",
+    "choices": {
+      "A": "Réparer",
+      "B": "Remplacer par une nouvelle",
+      "C": "Transformer la fissure en symbole"
+    },
+    "body": "Ta coupe rituelle est fissurée. Sans elle, le clan doute de toi."
+  },
+  "vampire_071": {
+    "id": "vampire_071",
+    "universe": "vampire_lord",
+    "title": "Le parfum de sainteté",
+    "description": "Une boutique vend un parfum qui repousse les vampires. Succès immédiat.",
+    "choices": {
+      "A": "Acheter pour analyser",
+      "B": "Saboter la boutique",
+      "C": "Monter une contrefaçon"
+    },
+    "body": "Une boutique vend un parfum qui repousse les vampires. Succès immédiat."
+  },
+  "vampire_072": {
+    "id": "vampire_072",
+    "universe": "vampire_lord",
+    "title": "Le serment du sang",
+    "description": "Un ancien exige un serment public. Il veut tester ta loyauté.",
+    "choices": {
+      "A": "Jurer et tenir",
+      "B": "Refuser",
+      "C": "Tricher avec un faux serment"
+    },
+    "body": "Un ancien exige un serment public. Il veut tester ta loyauté."
+  },
+  "vampire_073": {
+    "id": "vampire_073",
+    "universe": "vampire_lord",
+    "title": "Le chien qui voit tout",
+    "description": "Un chien te fixe et grogne. Les humains disent qu’il voit les monstres.",
+    "choices": {
+      "A": "Acheter le chien",
+      "B": "L’éloigner",
+      "C": "Le faire passer pour dangereux"
+    },
+    "body": "Un chien te fixe et grogne. Les humains disent qu’il voit les monstres."
+  },
+  "vampire_074": {
+    "id": "vampire_074",
+    "universe": "vampire_lord",
+    "title": "La panne d’électricité",
+    "description": "Coupure totale dans la ville. La nuit devient parfaite, trop parfaite.",
+    "choices": {
+      "A": "Chasser vite",
+      "B": "Protéger le clan",
+      "C": "Piéger les chasseurs"
+    },
+    "body": "Coupure totale dans la ville. La nuit devient parfaite, trop parfaite."
+  },
+  "vampire_075": {
+    "id": "vampire_075",
+    "universe": "vampire_lord",
+    "title": "Le poste de police",
+    "description": "Quelqu’un dépose une poche de sang devant le commissariat. Provocation.",
+    "choices": {
+      "A": "Nettoyer la scène",
+      "B": "Blâmer un rival",
+      "C": "Attirer la police ailleurs"
+    },
+    "body": "Quelqu’un dépose une poche de sang devant le commissariat. Provocation."
+  },
+  "vampire_076": {
+    "id": "vampire_076",
+    "universe": "vampire_lord",
+    "title": "Le pacte des médecins",
+    "description": "Des médecins veulent étudier ton sang. Ils promettent discrétion et progrès.",
+    "choices": {
+      "A": "Accepter sous contrôle",
+      "B": "Refuser",
+      "C": "Les utiliser pour un faux remède"
+    },
+    "body": "Des médecins veulent étudier ton sang. Ils promettent discrétion et progrès."
+  },
+  "vampire_077": {
+    "id": "vampire_077",
+    "universe": "vampire_lord",
+    "title": "La fuite du novice",
+    "description": "Un novice a paniqué et a fui en pleine ville. Il laisse des traces partout.",
+    "choices": {
+      "A": "Le rattraper",
+      "B": "Le cacher chez le culte",
+      "C": "Le sacrifier pour l’exemple"
+    },
+    "body": "Un novice a paniqué et a fui en pleine ville. Il laisse des traces partout."
+  },
+  "vampire_078": {
+    "id": "vampire_078",
+    "universe": "vampire_lord",
+    "title": "Le procès du culte",
+    "description": "Le culte veut juger un humain qui t’a insulté. Ils demandent ta bénédiction.",
+    "choices": {
+      "A": "Refuser le procès",
+      "B": "Autoriser un jugement symbolique",
+      "C": "Laisser le culte décider"
+    },
+    "body": "Le culte veut juger un humain qui t’a insulté. Ils demandent ta bénédiction."
+  },
+  "vampire_079": {
+    "id": "vampire_079",
+    "universe": "vampire_lord",
+    "title": "La cave inondée",
+    "description": "Ta cave secrète est inondée. Les cercueils flottent, ambiance ridicule.",
+    "choices": {
+      "A": "Sauver les réserves",
+      "B": "Changer de repaire",
+      "C": "Transformer en attraction du culte"
+    },
+    "body": "Ta cave secrète est inondée. Les cercueils flottent, ambiance ridicule."
+  },
+  "vampire_080": {
+    "id": "vampire_080",
+    "universe": "vampire_lord",
+    "title": "Le faux soleil",
+    "description": "Une entreprise installe des lampes très puissantes. On dirait un faux soleil.",
+    "choices": {
+      "A": "Saboter le chantier",
+      "B": "Négocier une coupure",
+      "C": "Déplacer la planque"
+    },
+    "body": "Une entreprise installe des lampes très puissantes. On dirait un faux soleil."
+  },
+  "vampire_081": {
+    "id": "vampire_081",
+    "universe": "vampire_lord",
+    "title": "La dette du clan",
+    "description": "Le clan a une dette envers un criminel humain. Il veut être payé maintenant.",
+    "choices": {
+      "A": "Payer",
+      "B": "L’effrayer",
+      "C": "Le recruter"
+    },
+    "body": "Le clan a une dette envers un criminel humain. Il veut être payé maintenant."
+  },
+  "vampire_082": {
+    "id": "vampire_082",
+    "universe": "vampire_lord",
+    "title": "Le pacte des artistes",
+    "description": "Des artistes veulent peindre ta légende sur des murs. Ça attire du monde.",
+    "choices": {
+      "A": "Accepter et contrôler",
+      "B": "Interdire",
+      "C": "Utiliser l’art pour cacher des signes"
+    },
+    "body": "Des artistes veulent peindre ta légende sur des murs. Ça attire du monde."
+  },
+  "vampire_083": {
+    "id": "vampire_083",
+    "universe": "vampire_lord",
+    "title": "La chasse aux rumeurs",
+    "description": "Un forum local recense des preuves. Les posts s’accumulent.",
+    "choices": {
+      "A": "Infiltrer le forum",
+      "B": "Menacer un admin",
+      "C": "Lancer des rumeurs absurdes"
+    },
+    "body": "Un forum local recense des preuves. Les posts s’accumulent."
+  },
+  "vampire_084": {
+    "id": "vampire_084",
+    "universe": "vampire_lord",
+    "title": "Le marché nocturne",
+    "description": "Un marché de nuit vend des talismans. Certains marchent, malheureusement.",
+    "choices": {
+      "A": "Confisquer les talismans",
+      "B": "Racheter en secret",
+      "C": "S’allier au vendeur"
+    },
+    "body": "Un marché de nuit vend des talismans. Certains marchent, malheureusement."
+  },
+  "vampire_085": {
+    "id": "vampire_085",
+    "universe": "vampire_lord",
+    "title": "Le duel des anciens",
+    "description": "Deux anciens se défient. Ils veulent un duel à l’ancienne, donc sanglant.",
+    "choices": {
+      "A": "Interdire",
+      "B": "Arbitrer en duel contrôlé",
+      "C": "Laisser faire"
+    },
+    "body": "Deux anciens se défient. Ils veulent un duel à l’ancienne, donc sanglant."
+  },
+  "vampire_086": {
+    "id": "vampire_086",
+    "universe": "vampire_lord",
+    "title": "La photo floue",
+    "description": "Une photo floue te montre derrière un rideau. On voit juste assez pour paniquer.",
+    "choices": {
+      "A": "Retirer la photo",
+      "B": "Nier avec humour",
+      "C": "Accuser un filtre"
+    },
+    "body": "Une photo floue te montre derrière un rideau. On voit juste assez pour paniquer."
+  },
+  "vampire_087": {
+    "id": "vampire_087",
+    "universe": "vampire_lord",
+    "title": "Le cadeau empoisonné",
+    "description": "Un colis arrive avec un ruban. À l’intérieur, un objet qui sent la bénédiction.",
+    "choices": {
+      "A": "Ouvrir avec précaution",
+      "B": "Le jeter loin",
+      "C": "L’envoyer à un rival"
+    },
+    "body": "Un colis arrive avec un ruban. À l’intérieur, un objet qui sent la bénédiction."
+  },
+  "vampire_088": {
+    "id": "vampire_088",
+    "universe": "vampire_lord",
+    "title": "Le mariage du culte",
+    "description": "Le culte organise un mariage nocturne. Ils veulent que tu sois témoin.",
+    "choices": {
+      "A": "Accepter",
+      "B": "Refuser",
+      "C": "Envoyer un double"
+    },
+    "body": "Le culte organise un mariage nocturne. Ils veulent que tu sois témoin."
+  },
+  "vampire_089": {
+    "id": "vampire_089",
+    "universe": "vampire_lord",
+    "title": "La mutinerie douce",
+    "description": "Des vampires réclament plus de sang pour les faibles. Ils parlent de justice.",
+    "choices": {
+      "A": "Réformer la distribution",
+      "B": "Réprimer",
+      "C": "Promettre et oublier"
+    },
+    "body": "Des vampires réclament plus de sang pour les faibles. Ils parlent de justice."
+  },
+  "vampire_090": {
+    "id": "vampire_090",
+    "universe": "vampire_lord",
+    "title": "Le tunnel secret",
+    "description": "Un tunnel sous la crypte mène à une sortie. Quelqu’un l’a déjà utilisé.",
+    "choices": {
+      "A": "Boucher le tunnel",
+      "B": "Explorer le tunnel",
+      "C": "Piéger la sortie"
+    },
+    "body": "Un tunnel sous la crypte mène à une sortie. Quelqu’un l’a déjà utilisé."
+  },
+  "vampire_091": {
+    "id": "vampire_091",
+    "universe": "vampire_lord",
+    "title": "La pluie de cendres",
+    "description": "Une cheminée crache des cendres sur la ville. Les humains pensent à un signe.",
+    "choices": {
+      "A": "Exploiter la peur",
+      "B": "Calmer la ville",
+      "C": "Accuser les chasseurs"
+    },
+    "body": "Une cheminée crache des cendres sur la ville. Les humains pensent à un signe."
+  },
+  "vampire_092": {
+    "id": "vampire_092",
+    "universe": "vampire_lord",
+    "title": "Le garde du cimetière",
+    "description": "Le gardien du cimetière te connaît. Il demande un salaire et du respect.",
+    "choices": {
+      "A": "Le payer",
+      "B": "Le menacer",
+      "C": "Le recruter"
+    },
+    "body": "Le gardien du cimetière te connaît. Il demande un salaire et du respect."
+  },
+  "vampire_093": {
+    "id": "vampire_093",
+    "universe": "vampire_lord",
+    "title": "La potion trop bonne",
+    "description": "Le culte invente une boisson au sang. Tout le monde en veut, même les humains.",
+    "choices": {
+      "A": "Interdire",
+      "B": "Vendre au marché noir",
+      "C": "Doser et contrôler"
+    },
+    "body": "Le culte invente une boisson au sang. Tout le monde en veut, même les humains."
+  },
+  "vampire_094": {
+    "id": "vampire_094",
+    "universe": "vampire_lord",
+    "title": "Le pacte des hackers",
+    "description": "Des hackers proposent de nettoyer internet. Ils veulent un paiement en sang.",
+    "choices": {
+      "A": "Accepter",
+      "B": "Refuser",
+      "C": "Les piéger"
+    },
+    "body": "Des hackers proposent de nettoyer internet. Ils veulent un paiement en sang."
+  },
+  "vampire_095": {
+    "id": "vampire_095",
+    "universe": "vampire_lord",
+    "title": "La cloche à minuit",
+    "description": "Une cloche sonne à minuit sans raison. À chaque son, les chasseurs bougent.",
+    "choices": {
+      "A": "Détruire la cloche",
+      "B": "Surveiller les alentours",
+      "C": "Utiliser la cloche comme appât"
+    },
+    "body": "Une cloche sonne à minuit sans raison. À chaque son, les chasseurs bougent."
+  },
+  "vampire_096": {
+    "id": "vampire_096",
+    "universe": "vampire_lord",
+    "title": "Le nouveau symbole",
+    "description": "Un symbole inconnu apparaît sur tes murs. Ni clan ni culte. Autre chose.",
+    "choices": {
+      "A": "Enquêter",
+      "B": "Effacer tout",
+      "C": "Faire croire à un rite du culte"
+    },
+    "body": "Un symbole inconnu apparaît sur tes murs. Ni clan ni culte. Autre chose."
+  },
+  "vampire_097": {
+    "id": "vampire_097",
+    "universe": "vampire_lord",
+    "title": "La chasse interdite",
+    "description": "Un territoire sacré est interdit de chasse. Mais la faim gagne.",
+    "choices": {
+      "A": "Respecter l’interdit",
+      "B": "Chasser en secret",
+      "C": "Proposer un échange au gardien"
+    },
+    "body": "Un territoire sacré est interdit de chasse. Mais la faim gagne."
+  },
+  "vampire_098": {
+    "id": "vampire_098",
+    "universe": "vampire_lord",
+    "title": "Le banquet des chasseurs",
+    "description": "Les chasseurs tiennent un banquet. Ils invitent un traître du clan.",
+    "choices": {
+      "A": "Espionner le banquet",
+      "B": "Attaquer le banquet",
+      "C": "Retourner le traître"
+    },
+    "body": "Les chasseurs tiennent un banquet. Ils invitent un traître du clan."
+  },
+  "vampire_099": {
+    "id": "vampire_099",
+    "universe": "vampire_lord",
+    "title": "La couronne de fer",
+    "description": "On te propose une couronne ancienne. Elle promet l’autorité, elle coûte un prix.",
+    "choices": {
+      "A": "La porter",
+      "B": "L'enfermer",
+      "C": "L'offrir à un rival"
+    },
+    "body": "On te propose une couronne ancienne. Elle promet l’autorité, elle coûte un prix."
+  },
+  "vampire_100": {
+    "id": "vampire_100",
+    "universe": "vampire_lord",
+    "title": "La nuit parfaite",
+    "description": "Tout est calme. Trop calme. Même les rats se taisent. Une attaque se prépare.",
+    "choices": {
+      "A": "Renforcer les gardes",
+      "B": "Fuir avant l’assaut",
+      "C": "Lancer une attaque préventive"
+    },
+    "body": "Tout est calme. Trop calme. Même les rats se taisent. Une attaque se prépare."
+  },
+
+  "vampire_101": {
+    "id": "vampire_101",
+    "universe": "vampire_lord",
+    "title": "Le frigo qui parle",
+    "description": "Le frigo du sang bippe et affiche un message inquiétant.",
+    "choices": {
+      "A": "Faire vérifier le frigo",
+      "B": "Changer tout le stock",
+      "C": "Accuser un sabotage"
+    },
+    "body": "Le frigo s’allume tout seul et affiche un message comme si quelqu’un voulait te prévenir. Le clan a peur. Toi, tu détestes les surprises."
+  },
+  "vampire_102": {
+    "id": "vampire_102",
+    "universe": "vampire_lord",
+    "title": "Le chauffeur trop sympa",
+    "description": "Ton chauffeur humain veut devenir ton ami et il parle trop.",
+    "choices": {
+      "A": "Le garder mais le cadrer",
+      "B": "Le remplacer vite",
+      "C": "Le recruter dans le secret"
+    },
+    "body": "Il t’appelle chef et raconte à tout le monde que tu ne dors jamais. C’est mignon. C’est aussi une catastrophe."
+  },
+  "vampire_103": {
+    "id": "vampire_103",
+    "universe": "vampire_lord",
+    "title": "La tournée des caves",
+    "description": "Un nouveau bar à vin ouvre et attire tes chasses habituelles.",
+    "choices": {
+      "A": "Déplacer la chasse",
+      "B": "Contrôler le bar",
+      "C": "Utiliser le bar comme couverture"
+    },
+    "body": "Les humains se regroupent, boivent, chantent, et sortent en groupe. Pratique pour repérer, moins pratique pour disparaître."
+  },
+  "vampire_104": {
+    "id": "vampire_104",
+    "universe": "vampire_lord",
+    "title": "Le gardien de musée",
+    "description": "Un gardien a trouvé un symbole vampirique et veut des réponses.",
+    "choices": {
+      "A": "Le payer pour le silence",
+      "B": "Le détourner par une fausse piste",
+      "C": "Récupérer l’objet cette nuit"
+    },
+    "body": "Il a pris une photo et l’a envoyée à un ami passionné. Les passionnés finissent souvent chasseurs."
+  },
+  "vampire_105": {
+    "id": "vampire_105",
+    "universe": "vampire_lord",
+    "title": "La grève des serviteurs",
+    "description": "Tes serviteurs demandent plus de respect et moins de corvées.",
+    "choices": {
+      "A": "Négocier calmement",
+      "B": "Imposer ton autorité",
+      "C": "Remplacer tout le staff"
+    },
+    "body": "Ils ont fait une liste de demandes. Une liste. Comme des humains. Ton palais ressemble soudain à une entreprise."
+  },
+  "vampire_106": {
+    "id": "vampire_106",
+    "universe": "vampire_lord",
+    "title": "Le collier d’ail",
+    "description": "Un influenceur vend des colliers d’ail dans ta rue.",
+    "choices": {
+      "A": "Faire fermer la boutique",
+      "B": "Lancer une campagne ridicule",
+      "C": "Ignorer et changer d’itinéraire"
+    },
+    "body": "Les humains trouvent ça drôle. Toi, tu trouves ça agressif. Et l’odeur te suit comme une insulte."
+  },
+  "vampire_107": {
+    "id": "vampire_107",
+    "universe": "vampire_lord",
+    "title": "La clé disparue",
+    "description": "La clé du coffre des reliques a disparu cette nuit.",
+    "choices": {
+      "A": "Interroger le clan",
+      "B": "Changer toutes les serrures",
+      "C": "Piéger le coffre"
+    },
+    "body": "Sans cette clé, tu ne peux pas accéder aux protections les plus anciennes. Et quelqu’un sait où elle était rangée."
+  },
+  "vampire_108": {
+    "id": "vampire_108",
+    "universe": "vampire_lord",
+    "title": "Le rendez-vous du notaire",
+    "description": "Un notaire exige ta présence pour une succession délicate.",
+    "choices": {
+      "A": "Y aller en personne",
+      "B": "Envoyer un faux héritier",
+      "C": "Faire reporter le rendez-vous"
+    },
+    "body": "Le notaire a des papiers, des questions, et une obsession pour les détails. Les détails sont l’ennemi du secret."
+  },
+  "vampire_109": {
+    "id": "vampire_109",
+    "universe": "vampire_lord",
+    "title": "La morsure publique",
+    "description": "Un jeune a mordu quelqu’un en plein concert.",
+    "choices": {
+      "A": "Nettoyer et couvrir",
+      "B": "Punir le jeune devant tous",
+      "C": "Accuser une drogue"
+    },
+    "body": "Il dit qu’il a été emporté par l’ambiance. L’ambiance, maintenant, c’est une enquête."
+  },
+  "vampire_110": {
+    "id": "vampire_110",
+    "universe": "vampire_lord",
+    "title": "Le sang au goût bizarre",
+    "description": "Le sang de la semaine a un goût étrange et le clan fait la grimace.",
+    "choices": {
+      "A": "Changer de fournisseur",
+      "B": "Tester le stock",
+      "C": "Imposer la discipline"
+    },
+    "body": "Quand même les immortels font la fine bouche, c’est que le problème est sérieux. Ou que le clan devient capricieux."
+  },
+  "vampire_111": {
+    "id": "vampire_111",
+    "universe": "vampire_lord",
+    "title": "Le faux documentaire",
+    "description": "Une chaîne sort un documentaire sur ton quartier et ça vise juste.",
+    "choices": {
+      "A": "Faire retirer l’épisode",
+      "B": "Acheter la production",
+      "C": "Noyer l’affaire dans le ridicule"
+    },
+    "body": "Ils parlent de tunnels, de bruits nocturnes, de disparitions. Ils se trompent sur les détails. Mais pas sur l’idée."
+  },
+  "vampire_112": {
+    "id": "vampire_112",
+    "universe": "vampire_lord",
+    "title": "Le parfum de soleil",
+    "description": "Une nouvelle crème solaire irrite ta peau à distance.",
+    "choices": {
+      "A": "Identifier l’ingrédient",
+      "B": "Interdire son usage près du repaire",
+      "C": "Déplacer la zone de chasse"
+    },
+    "body": "Les humains s’en tartinent avec joie. Toi, tu sens que ton immortalité vient de perdre un peu de confort."
+  },
+  "vampire_113": {
+    "id": "vampire_113",
+    "universe": "vampire_lord",
+    "title": "La bague du serment",
+    "description": "Une bague ancienne revient sur ton trône sans explication.",
+    "choices": {
+      "A": "La sceller",
+      "B": "La porter",
+      "C": "Chercher qui l’a déposée"
+    },
+    "body": "Cette bague ne revient jamais sans raison. Elle annonce une promesse, ou une menace. Parfois les deux."
+  },
+  "vampire_114": {
+    "id": "vampire_114",
+    "universe": "vampire_lord",
+    "title": "Le voisin jardinier",
+    "description": "Ton voisin plante des fleurs et il creuse près de ta cache.",
+    "choices": {
+      "A": "Le détourner avec un cadeau",
+      "B": "Modifier l’entrée secrète",
+      "C": "Le faire déménager"
+    },
+    "body": "Il est gentil, souriant, et il adore les pellettes. Tout ce que tu détestes en ce moment."
+  },
+  "vampire_115": {
+    "id": "vampire_115",
+    "universe": "vampire_lord",
+    "title": "Le silence radio",
+    "description": "Un éclaireur ne répond plus depuis deux nuits.",
+    "choices": {
+      "A": "Envoyer une équipe",
+      "B": "Attendre et observer",
+      "C": "Supposer le pire et riposter"
+    },
+    "body": "Quand un vampire disparaît, ce n’est jamais un hasard. Soit un piège, soit une trahison. Ou les deux."
+  },
+  "vampire_116": {
+    "id": "vampire_116",
+    "universe": "vampire_lord",
+    "title": "Le marché aux antiques",
+    "description": "Une relique liée à ton clan est en vente au marché.",
+    "choices": {
+      "A": "L’acheter discrètement",
+      "B": "La voler cette nuit",
+      "C": "Piéger le vendeur"
+    },
+    "body": "Le vendeur dit que ça vient d’une cave. Bien sûr. Les caves ont toujours bon dos."
+  },
+  "vampire_117": {
+    "id": "vampire_117",
+    "universe": "vampire_lord",
+    "title": "Le culte veut un logo",
+    "description": "Le culte réclame un symbole officiel pour se reconnaître.",
+    "choices": {
+      "A": "Donner un symbole simple",
+      "B": "Refuser et calmer",
+      "C": "Créer un faux symbole piégé"
+    },
+    "body": "Ils veulent des badges, des bannières, et une identité. Toi, tu veux surtout qu’ils arrêtent d’être visibles."
+  },
+  "vampire_118": {
+    "id": "vampire_118",
+    "universe": "vampire_lord",
+    "title": "Le caméraman insomniaque",
+    "description": "Un caméraman filme la nuit pour un projet artistique.",
+    "choices": {
+      "A": "Le convaincre d’arrêter",
+      "B": "Saboter son matériel",
+      "C": "Utiliser ses images comme couverture"
+    },
+    "body": "Il adore les ombres, les ruelles, les silhouettes. Il est à deux pas de filmer la mauvaise silhouette."
+  },
+  "vampire_119": {
+    "id": "vampire_119",
+    "universe": "vampire_lord",
+    "title": "Le nouveau code du clan",
+    "description": "Les anciens veulent réécrire les règles, mot par mot.",
+    "choices": {
+      "A": "Approuver les anciens",
+      "B": "Moderniser doucement",
+      "C": "Imposer un compromis"
+    },
+    "body": "La réunion dure une éternité. Ce qui est ironique, vu que vous avez justement l’éternité."
+  },
+  "vampire_120": {
+    "id": "vampire_120",
+    "universe": "vampire_lord",
+    "title": "La plainte du quartier",
+    "description": "Les voisins se plaignent de bruits nocturnes et d’ombres bizarres.",
+    "choices": {
+      "A": "Calmer le quartier",
+      "B": "Effrayer les voisins",
+      "C": "Changer de repaire"
+    },
+    "body": "Une pétition circule. Les humains signent tout, surtout quand ils ont peur. Ça sent le projecteur sur toi."
+  },
+  "vampire_121": {
+    "id": "vampire_121",
+    "universe": "vampire_lord",
+    "title": "Le téléphone oublié",
+    "description": "Un serviteur a oublié son téléphone dans la salle des reliques.",
+    "choices": {
+      "A": "Récupérer le téléphone vite",
+      "B": "Le détruire",
+      "C": "Le fouiller et surveiller"
+    },
+    "body": "Le téléphone contient des photos, des messages, et des applications qui écoutent. Pire que des chasseurs, parfois."
+  },
+  "vampire_122": {
+    "id": "vampire_122",
+    "universe": "vampire_lord",
+    "title": "Le sac de sang percé",
+    "description": "Un sac de sang se vide et laisse une trace jusqu’au couloir.",
+    "choices": {
+      "A": "Suivre la trace",
+      "B": "Punir tout le monde",
+      "C": "Installer des contrôles"
+    },
+    "body": "Une traînée rouge comme un fil d’Ariane. Sauf que ton labyrinthe a des crocs."
+  },
+  "vampire_123": {
+    "id": "vampire_123",
+    "universe": "vampire_lord",
+    "title": "La visite surprise",
+    "description": "Un ancien vampire arrive sans prévenir avec sa suite.",
+    "choices": {
+      "A": "L’accueillir avec respect",
+      "B": "Le faire patienter dehors",
+      "C": "Préparer un piège poli"
+    },
+    "body": "Il sourit comme un roi en voyage. Il regarde ton repaire comme si tout lui appartenait déjà."
+  },
+  "vampire_124": {
+    "id": "vampire_124",
+    "universe": "vampire_lord",
+    "title": "Le chasseur blessé",
+    "description": "Un chasseur blessé se cache sur ton territoire.",
+    "choices": {
+      "A": "Le capturer",
+      "B": "Le soigner pour négocier",
+      "C": "Le livrer à un rival"
+    },
+    "body": "Il saigne, il tremble, mais il garde sa haine. Un animal blessé mord plus fort."
+  },
+  "vampire_125": {
+    "id": "vampire_125",
+    "universe": "vampire_lord",
+    "title": "La panne de serrure",
+    "description": "Une porte sécurisée reste coincée ouverte.",
+    "choices": {
+      "A": "Réparer immédiatement",
+      "B": "Mettre des gardes",
+      "C": "Condamner la zone"
+    },
+    "body": "Une porte ouverte, c’est une invitation. Et toi, tu n’aimes pas les invités."
+  },
+  "vampire_126": {
+    "id": "vampire_126",
+    "universe": "vampire_lord",
+    "title": "Le contrat de nettoyage",
+    "description": "Une société de nettoyage veut accéder à tes sous-sols.",
+    "choices": {
+      "A": "Refuser et inventer une excuse",
+      "B": "Accepter avec surveillance",
+      "C": "Racheter la société"
+    },
+    "body": "Ils parlent de moisissure, de normes, de sécurité. Toi, tu entends intrusion et curiosité."
+  },
+  "vampire_127": {
+    "id": "vampire_127",
+    "universe": "vampire_lord",
+    "title": "Le parfum du mensonge",
+    "description": "Quelqu’un ment au conseil et tu le sens immédiatement.",
+    "choices": {
+      "A": "Le confronter",
+      "B": "Le tester en silence",
+      "C": "Le laisser parler et le piéger"
+    },
+    "body": "Le mensonge a une odeur. Tu la connais trop bien. La question, c’est pourquoi il ment maintenant."
+  },
+  "vampire_128": {
+    "id": "vampire_128",
+    "universe": "vampire_lord",
+    "title": "La rumeur du remède",
+    "description": "On murmure qu’un remède existe contre le vampirisme.",
+    "choices": {
+      "A": "Chercher le remède",
+      "B": "Détruire la rumeur",
+      "C": "L’utiliser pour manipuler"
+    },
+    "body": "Certains y croient, d’autres paniquent, et les chasseurs sourient déjà. Un remède attire toujours des vendeurs."
+  },
+  "vampire_129": {
+    "id": "vampire_129",
+    "universe": "vampire_lord",
+    "title": "Le bus de nuit",
+    "description": "Le bus de nuit change son trajet et passe devant ton entrée.",
+    "choices": {
+      "A": "Faire changer le trajet",
+      "B": "Camoufler l’entrée",
+      "C": "Exploiter le bus"
+    },
+    "body": "Chaque nuit, des fenêtres pleines d’yeux. Les yeux regardent. Un jour, ils verront."
+  },
+  "vampire_130": {
+    "id": "vampire_130",
+    "universe": "vampire_lord",
+    "title": "Le serveur trop bavard",
+    "description": "Dans ton club, un serveur raconte des histoires sur toi.",
+    "choices": {
+      "A": "Le recadrer gentiment",
+      "B": "Le renvoyer",
+      "C": "En faire un appât"
+    },
+    "body": "Il dit que tu es mystérieux. Il mime ta démarche. Il ajoute des détails. Les détails sont des couteaux."
+  },
+  "vampire_131": {
+    "id": "vampire_131",
+    "universe": "vampire_lord",
+    "title": "Le colis anonyme",
+    "description": "Un colis arrive sans nom avec un objet froid à l’intérieur.",
+    "choices": {
+      "A": "Ouvrir avec précaution",
+      "B": "Le brûler",
+      "C": "Le donner à analyser"
+    },
+    "body": "Le colis ne sent pas l’humain. Il sent l’ancien. Et il est arrivé trop facilement jusqu’à toi."
+  },
+  "vampire_132": {
+    "id": "vampire_132",
+    "universe": "vampire_lord",
+    "title": "La réunion des chasseurs",
+    "description": "Un rassemblement de chasseurs est annoncé près de ton territoire.",
+    "choices": {
+      "A": "Infiltrer la réunion",
+      "B": "Frapper avant",
+      "C": "Déplacer tout le clan"
+    },
+    "body": "Ils ne se cachent même pas. Quand un ennemi devient confiant, il prépare quelque chose."
+  },
+  "vampire_133": {
+    "id": "vampire_133",
+    "universe": "vampire_lord",
+    "title": "Le musicien nocturne",
+    "description": "Un musicien joue chaque nuit devant ton repaire.",
+    "choices": {
+      "A": "Le faire partir",
+      "B": "Le recruter",
+      "C": "Le laisser et observer"
+    },
+    "body": "Il joue trop bien. Comme s’il voulait attirer quelqu’un. La question, c’est qui."
+  },
+  "vampire_134": {
+    "id": "vampire_134",
+    "universe": "vampire_lord",
+    "title": "La carte perdue",
+    "description": "Une carte de tes tunnels apparaît chez un fidèle du culte.",
+    "choices": {
+      "A": "Récupérer la carte",
+      "B": "Changer les tunnels",
+      "C": "Faire croire à une fausse carte"
+    },
+    "body": "Le fidèle dit qu’il l’a trouvée par hasard. Le hasard a de l’humour, mais toi, non."
+  },
+  "vampire_135": {
+    "id": "vampire_135",
+    "universe": "vampire_lord",
+    "title": "Le sang rare",
+    "description": "Un lot de sang rare arrive, mais tout le monde le veut.",
+    "choices": {
+      "A": "Le réserver au conseil",
+      "B": "Le partager équitablement",
+      "C": "Le garder pour toi"
+    },
+    "body": "Le clan se dispute comme des enfants. Sauf que les enfants n’ont pas de crocs et de rancunes centenaires."
+  },
+  "vampire_136": {
+    "id": "vampire_136",
+    "universe": "vampire_lord",
+    "title": "La salle interdite",
+    "description": "Un jeune a ouvert une salle interdite et il a vu quelque chose.",
+    "choices": {
+      "A": "Le punir",
+      "B": "L’écouter et enquêter",
+      "C": "Lui faire oublier"
+    },
+    "body": "Il est pâle, même pour un vampire. Il dit qu’il a entendu un souffle derrière le mur."
+  },
+  "vampire_137": {
+    "id": "vampire_137",
+    "universe": "vampire_lord",
+    "title": "Le contrat de sécurité",
+    "description": "Une société propose de sécuriser ton quartier avec des caméras.",
+    "choices": {
+      "A": "Refuser et saboter",
+      "B": "Accepter et contrôler",
+      "C": "Racheter la société"
+    },
+    "body": "Plus de caméras, c’est plus de preuves. Mais contrôler les caméras, c’est contrôler le récit."
+  },
+  "vampire_138": {
+    "id": "vampire_138",
+    "universe": "vampire_lord",
+    "title": "Le parfum des roses",
+    "description": "Un champ de roses est planté près de ton entrée et ça t’affaiblit.",
+    "choices": {
+      "A": "Faire arracher les roses",
+      "B": "Se protéger et s’adapter",
+      "C": "Changer l’entrée secrète"
+    },
+    "body": "C’est joli. C’est aussi une torture douce. Quelqu’un a de l’imagination et de la méchanceté."
+  },
+  "vampire_139": {
+    "id": "vampire_139",
+    "universe": "vampire_lord",
+    "title": "Le peintre obsédé",
+    "description": "Un peintre veut faire ton portrait et il insiste trop.",
+    "choices": {
+      "A": "Refuser fermement",
+      "B": "Accepter mais contrôler",
+      "C": "Le faire disparaître du quartier"
+    },
+    "body": "Il dit que ton regard est unique. Il veut te peindre à la lumière. Mauvaise idée."
+  },
+  "vampire_140": {
+    "id": "vampire_140",
+    "universe": "vampire_lord",
+    "title": "La dette du culte",
+    "description": "Le culte dit t’avoir rendu service et veut une récompense.",
+    "choices": {
+      "A": "Payer en vcoins",
+      "B": "Donner un privilège",
+      "C": "Refuser et calmer"
+    },
+    "body": "Ils ont aidé à détourner une enquête. Maintenant ils se sentent importants. Les gens importants font des erreurs."
+  },
+  "vampire_141": {
+    "id": "vampire_141",
+    "universe": "vampire_lord",
+    "title": "Le garde du corps humain",
+    "description": "Un garde du corps humain veut te protéger et il pose des questions.",
+    "choices": {
+      "A": "Le garder mais limiter",
+      "B": "Le renvoyer",
+      "C": "Le transformer en allié"
+    },
+    "body": "Il est loyal, compétent, et trop curieux. Trois qualités qui finissent mal ensemble."
+  },
+  "vampire_142": {
+    "id": "vampire_142",
+    "universe": "vampire_lord",
+    "title": "La lampe trop forte",
+    "description": "La ville installe une lampe qui éclaire ton passage secret.",
+    "choices": {
+      "A": "Faire enlever la lampe",
+      "B": "Camoufler le passage",
+      "C": "Utiliser l’ombre ailleurs"
+    },
+    "body": "Une simple lampe change tout. Les humains aiment la lumière. Toi, tu la subis."
+  },
+  "vampire_143": {
+    "id": "vampire_143",
+    "universe": "vampire_lord",
+    "title": "Le coffre qui grince",
+    "description": "Ton coffre des archives grince comme s’il était vivant.",
+    "choices": {
+      "A": "Ouvrir et vérifier",
+      "B": "Le sceller",
+      "C": "Appeler un ancien"
+    },
+    "body": "Le coffre n’a jamais fait de bruit. Maintenant il gémit. Et les archives ont le goût des secrets."
+  },
+  "vampire_144": {
+    "id": "vampire_144",
+    "universe": "vampire_lord",
+    "title": "La course-poursuite",
+    "description": "Tu es suivi par une voiture sans plaque en pleine nuit.",
+    "choices": {
+      "A": "Semer la voiture",
+      "B": "Piéger le conducteur",
+      "C": "Rentrer au repaire par un détour"
+    },
+    "body": "Le moteur rugit, les phares collent, et ton calme se fissure. Quelqu’un veut te pousser à l’erreur."
+  },
+  "vampire_145": {
+    "id": "vampire_145",
+    "universe": "vampire_lord",
+    "title": "La cantine du clan",
+    "description": "Le clan veut une cantine officielle et un menu stable.",
+    "choices": {
+      "A": "Organiser une cantine",
+      "B": "Refuser et imposer la chasse",
+      "C": "Créer un système de tickets"
+    },
+    "body": "Ils veulent de l’ordre, des horaires, et du confort. Tu veux du secret et du contrôle. Bonjour le conflit."
+  },
+  "vampire_146": {
+    "id": "vampire_146",
+    "universe": "vampire_lord",
+    "title": "Le sermon de la peur",
+    "description": "Un fidèle du culte prêche la peur et ça attire les chasseurs.",
+    "choices": {
+      "A": "Le faire taire",
+      "B": "Le recadrer gentiment",
+      "C": "Utiliser sa peur comme écran"
+    },
+    "body": "Plus il crie, plus les gens écoutent. Plus les gens écoutent, plus les mauvaises oreilles arrivent."
+  },
+  "vampire_147": {
+    "id": "vampire_147",
+    "universe": "vampire_lord",
+    "title": "Le plan du rival",
+    "description": "Un rival vampirique achète des immeubles autour de toi.",
+    "choices": {
+      "A": "Acheter plus vite que lui",
+      "B": "Négocier une frontière",
+      "C": "Saboter ses achats"
+    },
+    "body": "Il ne te frappe pas, il t’encercle. C’est plus lent, mais c’est plus cruel."
+  },
+  "vampire_148": {
+    "id": "vampire_148",
+    "universe": "vampire_lord",
+    "title": "La pluie acide",
+    "description": "Une pluie étrange brûle légèrement ta peau cette nuit.",
+    "choices": {
+      "A": "Rester au repaire",
+      "B": "Chercher la source",
+      "C": "Envoyer des éclaireurs"
+    },
+    "body": "Ce n’est pas le soleil. C’est autre chose. Et autre chose signifie souvent piège."
+  },
+  "vampire_149": {
+    "id": "vampire_149",
+    "universe": "vampire_lord",
+    "title": "Le pacte des pharmacies",
+    "description": "Une chaîne de pharmacies veut sponsoriser une collecte de sang.",
+    "choices": {
+      "A": "Accepter pour le contrôle",
+      "B": "Refuser et rester discret",
+      "C": "Accepter mais via un écran"
+    },
+    "body": "Ils veulent des photos, des sourires, des interviews. Tout ce que tu ne veux jamais."
+  },
+  "vampire_150": {
+    "id": "vampire_150",
+    "universe": "vampire_lord",
+    "title": "Le vampire végétarien",
+    "description": "Un vampire dit vouloir arrêter le sang humain et ça divise le clan.",
+    "choices": {
+      "A": "Le soutenir",
+      "B": "Le bannir",
+      "C": "Le surveiller"
+    },
+    "body": "Il parle de morale et de paix. Les anciens parlent de faiblesse. Toi, tu parles de stabilité."
+  },
+  "vampire_151": {
+    "id": "vampire_151",
+    "universe": "vampire_lord",
+    "title": "Le cadenas en argent",
+    "description": "Un cadenas en argent bloque une porte importante.",
+    "choices": {
+      "A": "Le briser",
+      "B": "Le faire analyser",
+      "C": "Contourner la porte"
+    },
+    "body": "L’argent pique rien qu’en le regardant. Quelqu’un a voulu te ralentir, pas te tuer. Pas encore."
+  },
+  "vampire_152": {
+    "id": "vampire_152",
+    "universe": "vampire_lord",
+    "title": "La fuite d’eau",
+    "description": "Une fuite d’eau menace de révéler une salle secrète.",
+    "choices": {
+      "A": "Réparer vite",
+      "B": "Condamner la salle",
+      "C": "Déplacer le contenu"
+    },
+    "body": "L’eau s’infiltre partout et l’odeur attire des ouvriers. Les ouvriers posent des questions. Trop de questions."
+  },
+  "vampire_153": {
+    "id": "vampire_153",
+    "universe": "vampire_lord",
+    "title": "Le dernier train",
+    "description": "Le dernier train passe plus tôt et coupe ta route habituelle.",
+    "choices": {
+      "A": "Changer de route",
+      "B": "Créer un passage",
+      "C": "Contrôler la gare"
+    },
+    "body": "Une simple heure change la chasse, les déplacements, le timing. Et toi, tu vis de timing."
+  },
+  "vampire_154": {
+    "id": "vampire_154",
+    "universe": "vampire_lord",
+    "title": "La vitre cassée",
+    "description": "Une vitre du repaire est cassée au matin et personne n’avoue.",
+    "choices": {
+      "A": "Interroger tout le monde",
+      "B": "Renforcer la sécurité",
+      "C": "Accuser un ennemi"
+    },
+    "body": "Une vitre cassée, c’est une entrée. Ou un message. Et tu n’aimes ni l’un ni l’autre."
+  },
+  "vampire_155": {
+    "id": "vampire_155",
+    "universe": "vampire_lord",
+    "title": "Le stagiaire en blouse",
+    "description": "Un stagiaire d’hôpital remarque des anomalies dans les stocks de sang.",
+    "choices": {
+      "A": "Le recruter",
+      "B": "Le faire taire",
+      "C": "Changer de circuit"
+    },
+    "body": "Il est jeune, malin, et motivé. Le pire type de personne quand on veut rester caché."
+  },
+  "vampire_156": {
+    "id": "vampire_156",
+    "universe": "vampire_lord",
+    "title": "La lettre parfumée",
+    "description": "Une lettre parfumée arrive et l’odeur te donne mal à la tête.",
+    "choices": {
+      "A": "La brûler",
+      "B": "La lire avec protection",
+      "C": "La confier au culte"
+    },
+    "body": "Ce parfum n’est pas humain. Il te rappelle une époque où tu étais moins puissant. Donc plus prudent."
+  },
+  "vampire_157": {
+    "id": "vampire_157",
+    "universe": "vampire_lord",
+    "title": "Le masque de carnaval",
+    "description": "Un carnaval envahit ta ville et tout le monde porte des crocs en plastique.",
+    "choices": {
+      "A": "Profiter de la confusion",
+      "B": "Fermer le repaire",
+      "C": "Contrôler les rues"
+    },
+    "body": "Pour une fois, tu peux marcher sans attirer l’attention. Pour une fois. Et ça rend les chasseurs nerveux."
+  },
+  "vampire_158": {
+    "id": "vampire_158",
+    "universe": "vampire_lord",
+    "title": "Le garde qui sourit",
+    "description": "Un garde de sécurité te voit et il sourit comme s’il t’attendait.",
+    "choices": {
+      "A": "L’intimider",
+      "B": "Le suivre discrètement",
+      "C": "Changer de plan"
+    },
+    "body": "Il ne recule pas. Il te fait un signe. Il sait. Ou il joue. Dans les deux cas, c’est dangereux."
+  },
+  "vampire_159": {
+    "id": "vampire_159",
+    "universe": "vampire_lord",
+    "title": "La cave condamnée",
+    "description": "La cave qui mène à tes tunnels est condamnée par la mairie.",
+    "choices": {
+      "A": "Corrompre l’inspection",
+      "B": "Ouvrir un autre accès",
+      "C": "Forcer l’accès la nuit"
+    },
+    "body": "Panneaux, rubans, cadenas. Les humains adorent fermer les portes. Toi, tu adores les rouvrir."
+  },
+  "vampire_160": {
+    "id": "vampire_160",
+    "universe": "vampire_lord",
+    "title": "Le pacte du silence",
+    "description": "Un serviteur te demande une promesse de protection en échange de son silence.",
+    "choices": {
+      "A": "Accepter et protéger",
+      "B": "Refuser et le surveiller",
+      "C": "Le remplacer"
+    },
+    "body": "Il a peur. Les gens qui ont peur parlent trop. Les gens protégés parlent aussi. Tu dois choisir le risque."
+  },
+  "vampire_161": {
+    "id": "vampire_161",
+    "universe": "vampire_lord",
+    "title": "La poussière sacrée",
+    "description": "De la poussière sacrée est retrouvée sur tes marches.",
+    "choices": {
+      "A": "Nettoyer et enquêter",
+      "B": "Faire un rite de protection",
+      "C": "Répliquer avec un avertissement"
+    },
+    "body": "Ce n’est pas une attaque directe. C’est un test. Quelqu’un mesure ta réaction."
+  },
+  "vampire_162": {
+    "id": "vampire_162",
+    "universe": "vampire_lord",
+    "title": "Le banquet obligatoire",
+    "description": "Les anciens exigent un banquet pour prouver ta force.",
+    "choices": {
+      "A": "Organiser un banquet grandiose",
+      "B": "Refuser et assumer",
+      "C": "Faire un banquet discret"
+    },
+    "body": "Un banquet, c’est du pouvoir. C’est aussi une salle pleine de regards. Et les regards comptent les faiblesses."
+  },
+  "vampire_163": {
+    "id": "vampire_163",
+    "universe": "vampire_lord",
+    "title": "Le voleur de vcoins",
+    "description": "Des vcoins disparaissent de la caisse du clan.",
+    "choices": {
+      "A": "Auditer les comptes",
+      "B": "Piéger la caisse",
+      "C": "Accuser un rival"
+    },
+    "body": "L’argent ne sent pas le sang, mais il fait couler des larmes. Et des larmes chez un vampire, c’est rare."
+  },
+  "vampire_164": {
+    "id": "vampire_164",
+    "universe": "vampire_lord",
+    "title": "Le journaliste de nuit",
+    "description": "Un journaliste enquête sur les disparitions et il travaille la nuit.",
+    "choices": {
+      "A": "Le corrompre",
+      "B": "Le détourner",
+      "C": "Le faire taire"
+    },
+    "body": "Il aime les histoires sombres. Il va finir par en écrire une vraie. Sur toi."
+  },
+  "vampire_165": {
+    "id": "vampire_165",
+    "universe": "vampire_lord",
+    "title": "La bougie qui ne s’éteint pas",
+    "description": "Une bougie brûle sans fin dans une salle interdite.",
+    "choices": {
+      "A": "L’éteindre par la force",
+      "B": "Comprendre le rituel",
+      "C": "Sceller la salle"
+    },
+    "body": "La flamme danse comme si elle te regardait. Une flamme qui regarde, c’est rarement bon."
+  },
+  "vampire_166": {
+    "id": "vampire_166",
+    "universe": "vampire_lord",
+    "title": "Le chien qui grogne",
+    "description": "Un chien du quartier grogne dès que tu passes.",
+    "choices": {
+      "A": "Éviter la zone",
+      "B": "Apprivoiser le chien",
+      "C": "Faire peur au propriétaire"
+    },
+    "body": "Un chien peut alerter tout un immeuble. Et les humains se réveillent très vite quand un chien panique."
+  },
+  "vampire_167": {
+    "id": "vampire_167",
+    "universe": "vampire_lord",
+    "title": "Le miroir de poche",
+    "description": "Un miroir de poche retrouvé contient ton absence.",
+    "choices": {
+      "A": "Le détruire",
+      "B": "Le garder comme indice",
+      "C": "Chercher le propriétaire"
+    },
+    "body": "Dans ce miroir, tu n’existes pas. Ça amuse certains. Toi, tu sais que ça attire les curieux."
+  },
+  "vampire_168": {
+    "id": "vampire_168",
+    "universe": "vampire_lord",
+    "title": "La porte qui frappe",
+    "description": "Quelqu’un frappe à ta porte secrète trois fois, chaque nuit.",
+    "choices": {
+      "A": "Ouvrir et confronter",
+      "B": "Piéger l’entrée",
+      "C": "Ignorer et surveiller"
+    },
+    "body": "Trois coups, toujours à la même heure. Une routine, c’est une menace quand elle vient d’un ennemi."
+  },
+  "vampire_169": {
+    "id": "vampire_169",
+    "universe": "vampire_lord",
+    "title": "Le serment du jeune",
+    "description": "Un jeune vampire veut prêter serment, mais il tremble trop.",
+    "choices": {
+      "A": "Accepter le serment",
+      "B": "Le repousser",
+      "C": "Le tester d’abord"
+    },
+    "body": "Il veut faire bien. Il veut être utile. Un vampire trop pressé fait souvent une erreur visible."
+  },
+  "vampire_170": {
+    "id": "vampire_170",
+    "universe": "vampire_lord",
+    "title": "La piqûre étrange",
+    "description": "Une piqûre rend un vampire faible et confus.",
+    "choices": {
+      "A": "Chercher l’antidote",
+      "B": "Isoler le vampire",
+      "C": "Traquer l’auteur"
+    },
+    "body": "Quelqu’un a une arme capable de te toucher. Pas de te tuer, pas encore. Mais de te faire douter."
+  },
+  "vampire_171": {
+    "id": "vampire_171",
+    "universe": "vampire_lord",
+    "title": "La fête des voisins",
+    "description": "Les voisins font une fête dans la cour juste au-dessus de ta salle d’accès.",
+    "choices": {
+      "A": "Interrompre la fête",
+      "B": "Attendre la fin",
+      "C": "Créer une diversion ailleurs"
+    },
+    "body": "Musique, rires, verres cassés. Et toi, tu dois passer sous leurs pieds comme un secret nerveux."
+  },
+  "vampire_172": {
+    "id": "vampire_172",
+    "universe": "vampire_lord",
+    "title": "Le bruit sous la pierre",
+    "description": "Une pierre du couloir vibre comme si quelque chose grattait dessous.",
+    "choices": {
+      "A": "Ouvrir et voir",
+      "B": "Sceller et oublier",
+      "C": "Envoyer un éclaireur"
+    },
+    "body": "Grattement, souffle, silence. Les trois étapes d’un problème qui grandit."
+  },
+  "vampire_173": {
+    "id": "vampire_173",
+    "universe": "vampire_lord",
+    "title": "Le conseiller corrompu",
+    "description": "Un conseiller humain te demande un pot-de-vin régulier.",
+    "choices": {
+      "A": "Payer et contrôler",
+      "B": "Le remplacer",
+      "C": "Le détruire politiquement"
+    },
+    "body": "Il a compris que tu avais des secrets. Les humains deviennent courageux quand ils sentent l’argent."
+  },
+  "vampire_174": {
+    "id": "vampire_174",
+    "universe": "vampire_lord",
+    "title": "La chasse de trop",
+    "description": "Un quartier commence à se vider, les humains ont peur et partent.",
+    "choices": {
+      "A": "Ralentir la chasse",
+      "B": "Changer de territoire",
+      "C": "Ramener les humains par des promesses"
+    },
+    "body": "Un territoire sans humains, c’est une tombe. Tu ne veux pas régner sur une tombe vide."
+  },
+  "vampire_175": {
+    "id": "vampire_175",
+    "universe": "vampire_lord",
+    "title": "Le livre interdit revient",
+    "description": "Le livre interdit volé réapparaît sur ta table, ouvert à une page précise.",
+    "choices": {
+      "A": "Lire la page",
+      "B": "Brûler le livre",
+      "C": "Chercher qui l’a posé"
+    },
+    "body": "Quelqu’un a voulu que tu lises ça. Et quand on veut que tu lises quelque chose, c’est rarement pour ton plaisir."
+  },
+  "vampire_176": {
+    "id": "vampire_176",
+    "universe": "vampire_lord",
+    "title": "La chambre froide",
+    "description": "La chambre froide tombe à une température impossible.",
+    "choices": {
+      "A": "Couper l’électricité",
+      "B": "Explorer l’origine",
+      "C": "Déplacer le stock"
+    },
+    "body": "Le froid n’est pas normal. Il mord la pierre, il tue la flamme, il rend les serviteurs muets."
+  },
+  "vampire_177": {
+    "id": "vampire_177",
+    "universe": "vampire_lord",
+    "title": "Le duel demandé",
+    "description": "Un vampire te défie en duel pour ton titre.",
+    "choices": {
+      "A": "Accepter le duel",
+      "B": "Refuser et punir",
+      "C": "Détourner le duel vers une épreuve"
+    },
+    "body": "Il veut te provoquer devant tous. Le duel est un spectacle. Et un spectacle attire toujours des yeux extérieurs."
+  },
+  "vampire_178": {
+    "id": "vampire_178",
+    "universe": "vampire_lord",
+    "title": "La bombe médiatique",
+    "description": "Une photo de toi circule avec un cercle rouge et un commentaire.",
+    "choices": {
+      "A": "Supprimer la source",
+      "B": "Créer un faux scandale ailleurs",
+      "C": "Assumer une identité publique"
+    },
+    "body": "Le cercle rouge vise ton visage. Tu sais que le prochain cercle rouge visera ton repaire."
+  },
+  "vampire_179": {
+    "id": "vampire_179",
+    "universe": "vampire_lord",
+    "title": "Le pacte du médecin",
+    "description": "Un médecin propose un échange de sang contre protection.",
+    "choices": {
+      "A": "Accepter et surveiller",
+      "B": "Refuser et effacer les traces",
+      "C": "Le recruter durablement"
+    },
+    "body": "Il n’a pas peur. Il veut un contrat. Les contrats, chez toi, finissent rarement au tribunal."
+  },
+  "vampire_180": {
+    "id": "vampire_180",
+    "universe": "vampire_lord",
+    "title": "La porte au symbole",
+    "description": "Un symbole inconnu apparaît gravé sur une porte intérieure.",
+    "choices": {
+      "A": "Gratter et effacer",
+      "B": "Étudier le symbole",
+      "C": "Sceller la porte"
+    },
+    "body": "Ce symbole n’était pas là hier. Quelqu’un a pénétré jusqu’ici. Ou quelque chose."
+  },
+  "vampire_181": {
+    "id": "vampire_181",
+    "universe": "vampire_lord",
+    "title": "La bagarre au conseil",
+    "description": "Le conseil se transforme en bagarre et personne n’écoute plus.",
+    "choices": {
+      "A": "Stopper par l’autorité",
+      "B": "Laisser et observer les loyautés",
+      "C": "Faire sortir tout le monde"
+    },
+    "body": "Un siège vole, une cape se déchire, un ancien insulte un jeune. Le pouvoir se voit quand ça dégénère."
+  },
+  "vampire_182": {
+    "id": "vampire_182",
+    "universe": "vampire_lord",
+    "title": "Le faux prophète",
+    "description": "Un membre du culte se proclame prophète et attire des foules.",
+    "choices": {
+      "A": "Le soutenir et le contrôler",
+      "B": "Le faire taire",
+      "C": "Le ridiculiser publiquement"
+    },
+    "body": "Plus il parle, plus il devient dangereux. Pas pour toi directement, mais pour ta discrétion."
+  },
+  "vampire_183": {
+    "id": "vampire_183",
+    "universe": "vampire_lord",
+    "title": "Le piège au sel",
+    "description": "Un piège au sel est posé dans un tunnel que tu utilises souvent.",
+    "choices": {
+      "A": "Désamorcer et suivre l’auteur",
+      "B": "Changer de tunnel",
+      "C": "Piéger le piège"
+    },
+    "body": "C’est simple, efficace, humiliant. On ne piège pas un lord avec du sel. Et pourtant."
+  },
+  "vampire_184": {
+    "id": "vampire_184",
+    "universe": "vampire_lord",
+    "title": "La poudre d’argent",
+    "description": "Une poudre d’argent est soufflée dans l’air et ça brûle la peau.",
+    "choices": {
+      "A": "Fermer le repaire",
+      "B": "Traquer les intrus",
+      "C": "Évacuer le clan"
+    },
+    "body": "Tu tousses, tu recules, tu t’énerves. Et l’ennemi compte sur ta colère pour te faire sortir."
+  },
+  "vampire_185": {
+    "id": "vampire_185",
+    "universe": "vampire_lord",
+    "title": "Le dîner diplomatique",
+    "description": "Un rival propose un dîner pour discuter d’une trêve.",
+    "choices": {
+      "A": "Accepter et se préparer",
+      "B": "Refuser et renforcer",
+      "C": "Envoyer un émissaire"
+    },
+    "body": "Les dîners sont des pièges en costume. Mais parfois, un piège révèle des informations précieuses."
+  },
+  "vampire_186": {
+    "id": "vampire_186",
+    "universe": "vampire_lord",
+    "title": "La chuchoteuse",
+    "description": "Une humaine semble comprendre les vampires et parle aux ombres.",
+    "choices": {
+      "A": "L’approcher doucement",
+      "B": "L’éloigner par la peur",
+      "C": "La surveiller"
+    },
+    "body": "Elle ne fuit pas. Elle murmure. Et les ombres répondent presque. Ça n’arrive jamais gratuitement."
+  },
+  "vampire_187": {
+    "id": "vampire_187",
+    "universe": "vampire_lord",
+    "title": "Le plan d’évacuation",
+    "description": "Le clan demande un plan d’évacuation officiel en cas d’attaque.",
+    "choices": {
+      "A": "Créer un plan strict",
+      "B": "Créer un plan flexible",
+      "C": "Refuser et imposer la discipline"
+    },
+    "body": "Une armée sans plan fuit mal. Un clan sans plan panique vite. Et la panique laisse des traces."
+  },
+  "vampire_188": {
+    "id": "vampire_188",
+    "universe": "vampire_lord",
+    "title": "Le tunnel effondré",
+    "description": "Un tunnel clé s’effondre et bloque une route stratégique.",
+    "choices": {
+      "A": "Déblayer immédiatement",
+      "B": "Creuser un détour",
+      "C": "Abandonner ce passage"
+    },
+    "body": "Les pierres tombent comme des dents. Et derrière les pierres, parfois, il y a des choses qui attendent."
+  },
+  "vampire_189": {
+    "id": "vampire_189",
+    "universe": "vampire_lord",
+    "title": "Le chant interdit",
+    "description": "Un chant ancien est entendu dans la crypte et personne n’avoue l’avoir chanté.",
+    "choices": {
+      "A": "Interdire toute cérémonie",
+      "B": "Chercher l’origine",
+      "C": "Répondre par un contre-rituel"
+    },
+    "body": "Le chant te rappelle une époque où le clan avait peur de ses propres murs. Et tu n’aimes pas la peur."
+  },
+  "vampire_190": {
+    "id": "vampire_190",
+    "universe": "vampire_lord",
+    "title": "La collection de crocs",
+    "description": "Un humain collectionne des crocs et il en vend comme souvenirs.",
+    "choices": {
+      "A": "Le faire arrêter",
+      "B": "Acheter toute la collection",
+      "C": "Le surveiller pour remonter la piste"
+    },
+    "body": "Des crocs en vitrine, c’est grotesque. Mais si certains sont vrais, c’est une fuite de ton clan."
+  },
+  "vampire_191": {
+    "id": "vampire_191",
+    "universe": "vampire_lord",
+    "title": "La fausse alerte",
+    "description": "Une alarme d’urgence hurle dans le repaire sans raison claire.",
+    "choices": {
+      "A": "Couper l’alarme et enquêter",
+      "B": "Évacuer le clan",
+      "C": "Chercher un sabotage technique"
+    },
+    "body": "L’alarme réveille les nerfs, pas les vampires. Mais elle attire les humains et ça, c’est pire."
+  },
+  "vampire_192": {
+    "id": "vampire_192",
+    "universe": "vampire_lord",
+    "title": "Le marché des identités",
+    "description": "Un hacker propose de vendre ta fausse identité à des inconnus.",
+    "choices": {
+      "A": "Payer pour récupérer",
+      "B": "Traquer le hacker",
+      "C": "Changer d’identité"
+    },
+    "body": "L’identité est ton masque. Si quelqu’un vend ton masque, il vend aussi ton visage."
+  },
+  "vampire_193": {
+    "id": "vampire_193",
+    "universe": "vampire_lord",
+    "title": "Le banquet du culte",
+    "description": "Le culte prépare un banquet et veut que tu goûtes devant tout le monde.",
+    "choices": {
+      "A": "Refuser poliment",
+      "B": "Accepter et jouer un rôle",
+      "C": "Envoyer un double"
+    },
+    "body": "Ils ont décoré, chanté, prié, et cuisiné. Ça part d’un bon sentiment. Ça finit souvent en drame."
+  },
+  "vampire_194": {
+    "id": "vampire_194",
+    "universe": "vampire_lord",
+    "title": "La chasseuse invisible",
+    "description": "Un chasseur efface ses traces comme un fantôme.",
+    "choices": {
+      "A": "Tendre un piège",
+      "B": "Renforcer les patrouilles",
+      "C": "Changer de rythme"
+    },
+    "body": "Pas de bruit, pas d’odeur, pas de témoin. Quelqu’un de très sérieux joue contre toi."
+  },
+  "vampire_195": {
+    "id": "vampire_195",
+    "universe": "vampire_lord",
+    "title": "La bouteille suspecte",
+    "description": "Une bouteille étiquetée sang apparaît dans ton club.",
+    "choices": {
+      "A": "La confisquer et analyser",
+      "B": "La détruire",
+      "C": "S’en servir comme appât"
+    },
+    "body": "Ce n’est pas ton stock. Donc c’est une provocation, un piège, ou une tentative de t’accuser."
+  },
+  "vampire_196": {
+    "id": "vampire_196",
+    "universe": "vampire_lord",
+    "title": "Le plan de rénovation",
+    "description": "La ville annonce des travaux de nuit exactement sur tes accès.",
+    "choices": {
+      "A": "Faire annuler les travaux",
+      "B": "Déplacer les accès",
+      "C": "Infiltrer le chantier"
+    },
+    "body": "Des ouvriers, des lampes, des plans, et des horaires. Tout ce que tu ne peux pas mordre."
+  },
+  "vampire_197": {
+    "id": "vampire_197",
+    "universe": "vampire_lord",
+    "title": "Le pacte des jeunes",
+    "description": "Les jeunes créent un groupe secret et te cachent des décisions.",
+    "choices": {
+      "A": "Dissoudre le groupe",
+      "B": "Intégrer leurs idées",
+      "C": "Infiltrer et surveiller"
+    },
+    "body": "Ils veulent l’autonomie. Toi, tu veux l’ordre. L’autonomie sans ordre, c’est la ruine."
+  },
+  "vampire_198": {
+    "id": "vampire_198",
+    "universe": "vampire_lord",
+    "title": "Le costume trop moderne",
+    "description": "On te propose un costume ultra moderne pour paraître plus humain.",
+    "choices": {
+      "A": "Accepter et tester",
+      "B": "Refuser par fierté",
+      "C": "Envoyer un autre le porter"
+    },
+    "body": "Le costume est beau, mais il te rend visible. Et toi, tu veux être respecté, pas remarqué."
+  },
+  "vampire_199": {
+    "id": "vampire_199",
+    "universe": "vampire_lord",
+    "title": "La boîte verrouillée",
+    "description": "Une boîte verrouillée apparaît au centre du repaire et personne ne l’a apportée.",
+    "choices": {
+      "A": "Forcer l’ouverture",
+      "B": "La sceller",
+      "C": "Chercher l’expéditeur"
+    },
+    "body": "La boîte est lourde, froide, et elle ne fait aucun bruit. Parfois, le silence est une menace plus claire qu’un cri."
+  },
+  "vampire_200": {
+    "id": "vampire_200",
+    "universe": "vampire_lord",
+    "title": "La statue brisée",
+    "description": "Une statue sacrée est brisée comme si quelqu’un l’avait frappée de l’intérieur.",
+    "choices": {
+      "A": "Réparer et purifier",
+      "B": "Enquêter sur la cause",
+      "C": "Accuser un ennemi et riposter"
+    },
+    "body": "La pierre est éclatée, mais il n’y a pas de débris autour comme s’ils avaient été aspirés. Tu sens une présence ancienne qui se réveille."
+  },
+  
+  "vampire_201": {
+    "id": "vampire_201",
+    "universe": "vampire_lord",
+    "title": "Livraison nocturne en retard",
+    "description": "Le coursier a disparu avec ta caisse. Le sang aussi.",
+    "choices": {
+      "A": "Lancer une traque rapide",
+      "B": "Payer un second coursier",
+      "C": "Faire avec le stock du clan"
+    },
+    "body": "Le coursier a disparu avec ta caisse. Le sang aussi."
+  },
+  "vampire_202": {
+    "id": "vampire_202",
+    "universe": "vampire_lord",
+    "title": "L appli anti vampires",
+    "description": "Une appli promet de détecter les vampires. Elle te vise en notification.",
+    "choices": {
+      "A": "Infiltrer les développeurs",
+      "B": "Faire une fausse mise à jour",
+      "C": "Changer tes habitudes"
+    },
+    "body": "Une appli promet de détecter les vampires. Elle te vise en notification."
+  },
+  "vampire_203": {
+    "id": "vampire_203",
+    "universe": "vampire_lord",
+    "title": "Cercueil ergonomique",
+    "description": "Un artisan te propose un cercueil confort. Le clan veut tester avant toi.",
+    "choices": {
+      "A": "Imposer ton privilège",
+      "B": "Organiser une démo contrôlée",
+      "C": "Refuser et garder l ancien"
+    },
+    "body": "Un artisan te propose un cercueil confort. Le clan veut tester avant toi."
+  },
+  "vampire_204": {
+    "id": "vampire_204",
+    "universe": "vampire_lord",
+    "title": "Fuite dans la crypte",
+    "description": "De l eau goutte sur les réserves. Même les vampires n aiment pas le moisi.",
+    "choices": {
+      "A": "Réparer tout de suite",
+      "B": "Déplacer les réserves",
+      "C": "Blâmer un rival"
+    },
+    "body": "De l eau goutte sur les réserves. Même les vampires n aiment pas le moisi."
+  },
+  "vampire_205": {
+    "id": "vampire_205",
+    "universe": "vampire_lord",
+    "title": "Chasseur au talkie",
+    "description": "Tu entends des radios dehors. Des chasseurs font une battue de quartier.",
+    "choices": {
+      "A": "Piéger leur équipe",
+      "B": "Faire profil bas",
+      "C": "Déplacer le repaire"
+    },
+    "body": "Tu entends des radios dehors. Des chasseurs font une battue de quartier."
+  },
+  "vampire_206": {
+    "id": "vampire_206",
+    "universe": "vampire_lord",
+    "title": "Fête du culte improvisée",
+    "description": "Le culte organise une fête en ton honneur. Avec affiches et fumigènes.",
+    "choices": {
+      "A": "Annuler fermement",
+      "B": "Encadrer et sécuriser",
+      "C": "Utiliser ça comme distraction"
+    },
+    "body": "Le culte organise une fête en ton honneur. Avec affiches et fumigènes."
+  },
+  "vampire_207": {
+    "id": "vampire_207",
+    "universe": "vampire_lord",
+    "title": "Banque soupçonneuse",
+    "description": "Ton compte attire l attention. Trop d achats nocturnes et trop peu de soleil.",
+    "choices": {
+      "A": "Envoyer un faux gestionnaire",
+      "B": "Changer d identité",
+      "C": "Passer au cash"
+    },
+    "body": "Ton compte attire l attention. Trop d achats nocturnes et trop peu de soleil."
+  },
+  "vampire_208": {
+    "id": "vampire_208",
+    "universe": "vampire_lord",
+    "title": "Nouvelle recrue trop motivée",
+    "description": "Un jeune vampire veut chasser chaque nuit. Il fait du bruit et des stories.",
+    "choices": {
+      "A": "Le calmer sévèrement",
+      "B": "Le former correctement",
+      "C": "Le mettre au service du culte"
+    },
+    "body": "Un jeune vampire veut chasser chaque nuit. Il fait du bruit et des stories."
+  },
+  "vampire_209": {
+    "id": "vampire_209",
+    "universe": "vampire_lord",
+    "title": "Rationnement du clan",
+    "description": "Le clan veut un quota de sang. Tout le monde t accuse de favoritisme.",
+    "choices": {
+      "A": "Fixer des règles claires",
+      "B": "Donner plus aux loyaux",
+      "C": "Laisser la faim trier"
+    },
+    "body": "Le clan veut un quota de sang. Tout le monde t accuse de favoritisme."
+  },
+  "vampire_210": {
+    "id": "vampire_210",
+    "universe": "vampire_lord",
+    "title": "Journal local curieux",
+    "description": "Un journal enquête sur des morsures. Ils ont la bonne zone et la bonne date.",
+    "choices": {
+      "A": "Faire taire l article",
+      "B": "Détourner vers un mythe",
+      "C": "Accuser un autre prédateur"
+    },
+    "body": "Un journal enquête sur des morsures. Ils ont la bonne zone et la bonne date."
+  },
+  "vampire_211": {
+    "id": "vampire_211",
+    "universe": "vampire_lord",
+    "title": "Le médecin trop observateur",
+    "description": "Un médecin remarque des traces suspectes sur plusieurs patients. Il fait le lien.",
+    "choices": {
+      "A": "Le recruter de force",
+      "B": "Le convaincre gentiment",
+      "C": "Le faire muter loin"
+    },
+    "body": "Un médecin remarque des traces suspectes sur plusieurs patients. Il fait le lien."
+  },
+  "vampire_212": {
+    "id": "vampire_212",
+    "universe": "vampire_lord",
+    "title": "Coffre du culte vide",
+    "description": "Le coffre d offrandes est vide. Le culte se dispute et ça devient public.",
+    "choices": {
+      "A": "Rendre l argent et recadrer",
+      "B": "Désigner un responsable",
+      "C": "Ignorer et laisser brûler"
+    },
+    "body": "Le coffre d offrandes est vide. Le culte se dispute et ça devient public."
+  },
+  "vampire_213": {
+    "id": "vampire_213",
+    "universe": "vampire_lord",
+    "title": "Le voisin qui filme",
+    "description": "Un voisin installe une caméra dans le couloir. Il appelle ça sécurité.",
+    "choices": {
+      "A": "Saboter la caméra",
+      "B": "Le charmer calmement",
+      "C": "Changer de passage"
+    },
+    "body": "Un voisin installe une caméra dans le couloir. Il appelle ça sécurité."
+  },
+  "vampire_214": {
+    "id": "vampire_214",
+    "universe": "vampire_lord",
+    "title": "Le parfum d ail",
+    "description": "Une mode arrive. Tout le monde porte de l ail en pendentif. Très chic. Très pénible.",
+    "choices": {
+      "A": "Lancer une contre mode",
+      "B": "Éviter les foules",
+      "C": "Faire peur aux influenceurs"
+    },
+    "body": "Une mode arrive. Tout le monde porte de l ail en pendentif. Très chic. Très pénible."
+  },
+  "vampire_215": {
+    "id": "vampire_215",
+    "universe": "vampire_lord",
+    "title": "Panne d électricité",
+    "description": "Plus de courant au repaire. Sans alarme, tout devient trop facile pour les chasseurs.",
+    "choices": {
+      "A": "Réparer vite",
+      "B": "Mettre des gardes",
+      "C": "Abandonner la zone"
+    },
+    "body": "Plus de courant au repaire. Sans alarme, tout devient trop facile pour les chasseurs."
+  },
+  "vampire_216": {
+    "id": "vampire_216",
+    "universe": "vampire_lord",
+    "title": "Complot au sein du clan",
+    "description": "Deux anciens se murmurent des plans. Ils t appellent le manager nocturne.",
+    "choices": {
+      "A": "Les confronter",
+      "B": "Les diviser",
+      "C": "Leur donner un faux poste"
+    },
+    "body": "Deux anciens se murmurent des plans. Ils t appellent le manager nocturne."
+  },
+  "vampire_217": {
+    "id": "vampire_217",
+    "universe": "vampire_lord",
+    "title": "Sang frelaté",
+    "description": "Un lot de sang est douteux. Les vampires font la grimace et ça, c est rare.",
+    "choices": {
+      "A": "Jeter le lot",
+      "B": "Le couper avec du bon",
+      "C": "Le refiler au culte"
+    },
+    "body": "Un lot de sang est douteux. Les vampires font la grimace et ça, c est rare."
+  },
+  "vampire_218": {
+    "id": "vampire_218",
+    "universe": "vampire_lord",
+    "title": "Appel du maire",
+    "description": "Le maire veut te rencontrer. Il parle de sécurité nocturne et de financement.",
+    "choices": {
+      "A": "Le manipuler",
+      "B": "Le menacer poliment",
+      "C": "Refuser net"
+    },
+    "body": "Le maire veut te rencontrer. Il parle de sécurité nocturne et de financement."
+  },
+  "vampire_219": {
+    "id": "vampire_219",
+    "universe": "vampire_lord",
+    "title": "Culte trop zélé",
+    "description": "Le culte veut tatouer ton symbole. Sur eux. Sur tout. Même sur les murs.",
+    "choices": {
+      "A": "Interdire et punir",
+      "B": "Limiter à un signe discret",
+      "C": "S en servir pour marquer le territoire"
+    },
+    "body": "Le culte veut tatouer ton symbole. Sur eux. Sur tout. Même sur les murs."
+  },
+  "vampire_220": {
+    "id": "vampire_220",
+    "universe": "vampire_lord",
+    "title": "Le livre interdit",
+    "description": "Un grimoire du repaire disparaît. Et le dernier à l avoir touché sourit trop.",
+    "choices": {
+      "A": "Fouiller tout le clan",
+      "B": "Proposer une amnistie",
+      "C": "Lancer une fausse malédiction"
+    },
+    "body": "Un grimoire du repaire disparaît. Et le dernier à l avoir touché sourit trop."
+  },
+
+  "vampire_221": {
+    "id": "vampire_221",
+    "universe": "vampire_lord",
+    "title": "Taxi de nuit bavard",
+    "description": "Un chauffeur raconte qu il a eu un client froid comme la pierre. Ça ressemble à toi.",
+    "choices": {
+      "A": "Le faire taire",
+      "B": "Le payer pour mentir",
+      "C": "Changer de trajets"
+    },
+    "body": "Un chauffeur raconte qu il a eu un client froid comme la pierre. Ça ressemble à toi."
+  },
+  "vampire_222": {
+    "id": "vampire_222",
+    "universe": "vampire_lord",
+    "title": "Bal masqué moderne",
+    "description": "Un club organise un bal vampire. Trop réaliste. Les chasseurs y vont aussi.",
+    "choices": {
+      "A": "Infiltrer le bal",
+      "B": "Faire fermer le club",
+      "C": "Surveiller de loin"
+    },
+    "body": "Un club organise un bal vampire. Trop réaliste. Les chasseurs y vont aussi."
+  },
+  "vampire_223": {
+    "id": "vampire_223",
+    "universe": "vampire_lord",
+    "title": "Coupure de réseau",
+    "description": "Plus de réseau dans ton secteur. Le clan panique. Le culte aussi. Mauvais signe.",
+    "choices": {
+      "A": "Envoyer des éclaireurs",
+      "B": "Rester caché",
+      "C": "Préparer une fuite"
+    },
+    "body": "Plus de réseau dans ton secteur. Le clan panique. Le culte aussi. Mauvais signe."
+  },
+  "vampire_224": {
+    "id": "vampire_224",
+    "universe": "vampire_lord",
+    "title": "Prêtre trop curieux",
+    "description": "Un prêtre bénit les portes du quartier. Il te regarde trop longtemps.",
+    "choices": {
+      "A": "Le détourner de la zone",
+      "B": "Le recruter via le culte",
+      "C": "Le faire discréditer"
+    },
+    "body": "Un prêtre bénit les portes du quartier. Il te regarde trop longtemps."
+  },
+  "vampire_225": {
+    "id": "vampire_225",
+    "universe": "vampire_lord",
+    "title": "Le costume qui gratte",
+    "description": "Ton manteau ancien attire les regards. La mode nocturne exige du banal.",
+    "choices": {
+      "A": "S adapter au style moderne",
+      "B": "Imposer le style ancien",
+      "C": "Rester invisible"
+    },
+    "body": "Ton manteau ancien attire les regards. La mode nocturne exige du banal."
+  },
+  "vampire_226": {
+    "id": "vampire_226",
+    "universe": "vampire_lord",
+    "title": "Sang sur le trottoir",
+    "description": "Une scène de morsure a été vue. Les passants ont pris des photos.",
+    "choices": {
+      "A": "Nettoyer et effacer",
+      "B": "Accuser un animal",
+      "C": "Faire peur aux témoins"
+    },
+    "body": "Une scène de morsure a été vue. Les passants ont pris des photos."
+  },
+  "vampire_227": {
+    "id": "vampire_227",
+    "universe": "vampire_lord",
+    "title": "Assemblée du clan",
+    "description": "Le clan réclame une réunion. Personne n aime les réunions. Mais tous aiment râler.",
+    "choices": {
+      "A": "Écouter et trancher",
+      "B": "Reporter encore",
+      "C": "Laisser parler un porte parole"
+    },
+    "body": "Le clan réclame une réunion. Personne n aime les réunions. Mais tous aiment râler."
+  },
+  "vampire_228": {
+    "id": "vampire_228",
+    "universe": "vampire_lord",
+    "title": "Offre de protection",
+    "description": "Un gang humain propose protection contre les chasseurs. Ils veulent un paiement étrange.",
+    "choices": {
+      "A": "Accepter et contrôler",
+      "B": "Refuser et les chasser",
+      "C": "Les manipuler sans payer"
+    },
+    "body": "Un gang humain propose protection contre les chasseurs. Ils veulent un paiement étrange."
+  },
+  "vampire_229": {
+    "id": "vampire_229",
+    "universe": "vampire_lord",
+    "title": "Le miroir du salon",
+    "description": "Un miroir antique arrive au repaire. Tout le monde veut vérifier qui a encore un reflet.",
+    "choices": {
+      "A": "Cacher le miroir",
+      "B": "Faire un test officiel",
+      "C": "Briser le miroir"
+    },
+    "body": "Un miroir antique arrive au repaire. Tout le monde veut vérifier qui a encore un reflet."
+  },
+  "vampire_230": {
+    "id": "vampire_230",
+    "universe": "vampire_lord",
+    "title": "La clinique privée",
+    "description": "Une clinique propose du sang très cher. Ils veulent un partenariat. Louche et pratique.",
+    "choices": {
+      "A": "Signer un accord",
+      "B": "Les voler discrètement",
+      "C": "Les surveiller avant"
+    },
+    "body": "Une clinique propose du sang très cher. Ils veulent un partenariat. Louche et pratique."
+  },
+
+  "vampire_231": {
+    "id": "vampire_231",
+    "universe": "vampire_lord",
+    "title": "Nouveau rival élégant",
+    "description": "Un vampire inconnu arrive. Il est poli. Trop poli. Ça sent l ambition.",
+    "choices": {
+      "A": "L accueillir et l encadrer",
+      "B": "Le tester avec une mission",
+      "C": "Le repousser hors du territoire"
+    },
+    "body": "Un vampire inconnu arrive. Il est poli. Trop poli. Ça sent l ambition."
+  },
+  "vampire_232": {
+    "id": "vampire_232",
+    "universe": "vampire_lord",
+    "title": "Le donateur fan",
+    "description": "Un humain veut donner son sang. Il demande un autographe. Sur son cou.",
+    "choices": {
+      "A": "Refuser et rester sobre",
+      "B": "Accepter et cadrer ça",
+      "C": "Le donner au culte"
+    },
+    "body": "Un humain veut donner son sang. Il demande un autographe. Sur son cou."
+  },
+  "vampire_233": {
+    "id": "vampire_233",
+    "universe": "vampire_lord",
+    "title": "La potion de l ancien",
+    "description": "Un ancien propose une potion. Il dit que ça calme la soif. Personne ne le croit.",
+    "choices": {
+      "A": "Tester sur toi",
+      "B": "Tester sur un volontaire",
+      "C": "Jeter la potion"
+    },
+    "body": "Un ancien propose une potion. Il dit que ça calme la soif. Personne ne le croit."
+  },
+  "vampire_234": {
+    "id": "vampire_234",
+    "universe": "vampire_lord",
+    "title": "Chasse trop visible",
+    "description": "Une chasse a tourné en spectacle. Sirènes. Vidéos. Un vrai show gratuit.",
+    "choices": {
+      "A": "Punir le responsable",
+      "B": "Couvrir l affaire",
+      "C": "Accuser les chasseurs"
+    },
+    "body": "Une chasse a tourné en spectacle. Sirènes. Vidéos. Un vrai show gratuit."
+  },
+  "vampire_235": {
+    "id": "vampire_235",
+    "universe": "vampire_lord",
+    "title": "Contrôle sanitaire",
+    "description": "Un contrôle sanitaire arrive près de tes caches. Ils cherchent des stocks illégaux.",
+    "choices": {
+      "A": "Déplacer les caches",
+      "B": "Corrompre l inspecteur",
+      "C": "Mettre un leurre"
+    },
+    "body": "Un contrôle sanitaire arrive près de tes caches. Ils cherchent des stocks illégaux."
+  },
+  "vampire_236": {
+    "id": "vampire_236",
+    "universe": "vampire_lord",
+    "title": "Le chant du culte",
+    "description": "Le culte compose une chanson sur toi. Elle reste dans la tête. Même aux immortels.",
+    "choices": {
+      "A": "Interdire la chanson",
+      "B": "La rendre officielle",
+      "C": "La transformer en code secret"
+    },
+    "body": "Le culte compose une chanson sur toi. Elle reste dans la tête. Même aux immortels."
+  },
+  "vampire_237": {
+    "id": "vampire_237",
+    "universe": "vampire_lord",
+    "title": "Le bar de nuit",
+    "description": "Un bar devient ton nouveau terrain. Mais le patron pose trop de questions.",
+    "choices": {
+      "A": "Acheter le bar",
+      "B": "Changer de lieu",
+      "C": "Faire du patron un allié"
+    },
+    "body": "Un bar devient ton nouveau terrain. Mais le patron pose trop de questions."
+  },
+  "vampire_238": {
+    "id": "vampire_238",
+    "universe": "vampire_lord",
+    "title": "Les gants oubliés",
+    "description": "Tu as oublié des gants au mauvais endroit. Ils sentent la terre de crypte.",
+    "choices": {
+      "A": "Les récupérer vite",
+      "B": "Les brûler à distance",
+      "C": "Créer une fausse piste"
+    },
+    "body": "Tu as oublié des gants au mauvais endroit. Ils sentent la terre de crypte."
+  },
+  "vampire_239": {
+    "id": "vampire_239",
+    "universe": "vampire_lord",
+    "title": "Duel d anciens",
+    "description": "Deux anciens veulent un duel pour décider de tout. Même du menu du soir.",
+    "choices": {
+      "A": "Autoriser le duel",
+      "B": "Interdire et arbitrer",
+      "C": "Organiser un duel symbolique"
+    },
+    "body": "Deux anciens veulent un duel pour décider de tout. Même du menu du soir."
+  },
+  "vampire_240": {
+    "id": "vampire_240",
+    "universe": "vampire_lord",
+    "title": "Le colis piégé",
+    "description": "Un colis arrive au repaire. Trop propre. Trop bien emballé. Trop suspect.",
+    "choices": {
+      "A": "L ouvrir avec précaution",
+      "B": "Le renvoyer",
+      "C": "Le faire ouvrir par un rival"
+    },
+    "body": "Un colis arrive au repaire. Trop propre. Trop bien emballé. Trop suspect."
+  },
+
+  "vampire_241": {
+    "id": "vampire_241",
+    "universe": "vampire_lord",
+    "title": "Le chien qui aboie",
+    "description": "Un chien aboie chaque fois que tu passes. Son maître commence à noter les horaires.",
+    "choices": {
+      "A": "Éviter la rue",
+      "B": "Charmer le maître",
+      "C": "Faire taire le chien"
+    },
+    "body": "Un chien aboie chaque fois que tu passes. Son maître commence à noter les horaires."
+  },
+  "vampire_242": {
+    "id": "vampire_242",
+    "universe": "vampire_lord",
+    "title": "La dette du culte",
+    "description": "Le culte a pris un prêt pour te construire un sanctuaire. Ils veulent que tu signes.",
+    "choices": {
+      "A": "Refuser net",
+      "B": "Payer pour éviter un scandale",
+      "C": "Transformer le sanctuaire en piège"
+    },
+    "body": "Le culte a pris un prêt pour te construire un sanctuaire. Ils veulent que tu signes."
+  },
+  "vampire_243": {
+    "id": "vampire_243",
+    "universe": "vampire_lord",
+    "title": "L alarme solaire",
+    "description": "Le repaire a une alarme soleil. Elle se déclenche en pleine nuit. Tout le monde panique.",
+    "choices": {
+      "A": "Réparer immédiatement",
+      "B": "Couper le système",
+      "C": "Accuser un saboteur"
+    },
+    "body": "Le repaire a une alarme soleil. Elle se déclenche en pleine nuit. Tout le monde panique."
+  },
+  "vampire_244": {
+    "id": "vampire_244",
+    "universe": "vampire_lord",
+    "title": "Le costume du culte",
+    "description": "Le culte te fabrique une tenue officielle. C est trop brillant. Et ça attire les flashs.",
+    "choices": {
+      "A": "Refuser la tenue",
+      "B": "Accepter une version discrète",
+      "C": "Porter et assumer"
+    },
+    "body": "Le culte te fabrique une tenue officielle. C est trop brillant. Et ça attire les flashs."
+  },
+  "vampire_245": {
+    "id": "vampire_245",
+    "universe": "vampire_lord",
+    "title": "Chasseur sous couverture",
+    "description": "Un nouveau membre du culte pose des questions trop précises. Ça sent le faux fan.",
+    "choices": {
+      "A": "Le tester discrètement",
+      "B": "Le chasser tout de suite",
+      "C": "Le retourner contre les chasseurs"
+    },
+    "body": "Un nouveau membre du culte pose des questions trop précises. Ça sent le faux fan."
+  },
+  "vampire_246": {
+    "id": "vampire_246",
+    "universe": "vampire_lord",
+    "title": "Le sang rare",
+    "description": "Un sang rare apparaît sur le marché noir. Cher. Tentant. Dangereux.",
+    "choices": {
+      "A": "Acheter le lot",
+      "B": "Le saisir par la force",
+      "C": "Refuser pour rester prudent"
+    },
+    "body": "Un sang rare apparaît sur le marché noir. Cher. Tentant. Dangereux."
+  },
+  "vampire_247": {
+    "id": "vampire_247",
+    "universe": "vampire_lord",
+    "title": "Le tunnel secret",
+    "description": "Un tunnel sous le repaire est découvert. Il mène à une porte inconnue. Ça ne sent pas bon.",
+    "choices": {
+      "A": "Explorer avec une équipe",
+      "B": "Sceller le tunnel",
+      "C": "Envoyer un rival"
+    },
+    "body": "Un tunnel sous le repaire est découvert. Il mène à une porte inconnue. Ça ne sent pas bon."
+  },
+  "vampire_248": {
+    "id": "vampire_248",
+    "universe": "vampire_lord",
+    "title": "Le pacte des rues",
+    "description": "Des humains proposent un pacte. Ils donnent silence contre protection. C est du commerce.",
+    "choices": {
+      "A": "Accepter et encadrer",
+      "B": "Refuser et imposer la peur",
+      "C": "Jouer double jeu"
+    },
+    "body": "Des humains proposent un pacte. Ils donnent silence contre protection. C est du commerce."
+  },
+  "vampire_249": {
+    "id": "vampire_249",
+    "universe": "vampire_lord",
+    "title": "Le parfum de rose",
+    "description": "Un parfum masque l odeur du sang. Tout le clan en met. Tu tousses. C est humiliant.",
+    "choices": {
+      "A": "Interdire le parfum",
+      "B": "Limiter aux sorties",
+      "C": "Trouver un meilleur mélange"
+    },
+    "body": "Un parfum masque l odeur du sang. Tout le clan en met. Tu tousses. C est humiliant."
+  },
+  "vampire_250": {
+    "id": "vampire_250",
+    "universe": "vampire_lord",
+    "title": "Le contrat de sécurité",
+    "description": "Une société de sécurité propose ses services. Ils sont actifs la nuit. Trop actifs.",
+    "choices": {
+      "A": "Les payer pour regarder ailleurs",
+      "B": "Les saboter",
+      "C": "Les recruter via le culte"
+    },
+    "body": "Une société de sécurité propose ses services. Ils sont actifs la nuit. Trop actifs."
+  },
+
+  "vampire_251": {
+    "id": "vampire_251",
+    "universe": "vampire_lord",
+    "title": "La liste des absents",
+    "description": "Deux vampires manquent à l appel. Le clan murmure. Les chasseurs sourient.",
+    "choices": {
+      "A": "Lancer une recherche",
+      "B": "Renforcer la défense",
+      "C": "Accuser un rival"
+    },
+    "body": "Deux vampires manquent à l appel. Le clan murmure. Les chasseurs sourient."
+  },
+  "vampire_252": {
+    "id": "vampire_252",
+    "universe": "vampire_lord",
+    "title": "Le marché aux reliques",
+    "description": "Une relique anti vampire est vendue en ville. Tout le monde la veut. Surtout toi.",
+    "choices": {
+      "A": "L acheter discrètement",
+      "B": "La voler",
+      "C": "La détruire"
+    },
+    "body": "Une relique anti vampire est vendue en ville. Tout le monde la veut. Surtout toi."
+  },
+  "vampire_253": {
+    "id": "vampire_253",
+    "universe": "vampire_lord",
+    "title": "Le procès du clan",
+    "description": "Un vampire est accusé de trahison. Il demande un jugement. Le culte veut assister.",
+    "choices": {
+      "A": "Jugement strict",
+      "B": "Pardon contre service",
+      "C": "Exil immédiat"
+    },
+    "body": "Un vampire est accusé de trahison. Il demande un jugement. Le culte veut assister."
+  },
+  "vampire_254": {
+    "id": "vampire_254",
+    "universe": "vampire_lord",
+    "title": "Le drame du sang chaud",
+    "description": "Quelqu un a chauffé du sang pour le goût. Le clan se divise en gourmets et puristes.",
+    "choices": {
+      "A": "Interdire la pratique",
+      "B": "Créer une règle",
+      "C": "Laisser faire"
+    },
+    "body": "Quelqu un a chauffé du sang pour le goût. Le clan se divise en gourmets et puristes."
+  },
+  "vampire_255": {
+    "id": "vampire_255",
+    "universe": "vampire_lord",
+    "title": "La mission de la brume",
+    "description": "Une brume étrange couvre la zone. Les chasseurs y entrent. Le clan hésite.",
+    "choices": {
+      "A": "Explorer la brume",
+      "B": "Rester à l abri",
+      "C": "Attirer les chasseurs dedans"
+    },
+    "body": "Une brume étrange couvre la zone. Les chasseurs y entrent. Le clan hésite."
+  },
+  "vampire_256": {
+    "id": "vampire_256",
+    "universe": "vampire_lord",
+    "title": "Le message anonyme",
+    "description": "Tu reçois un message. Il connaît ton repaire. Il demande une rencontre.",
+    "choices": {
+      "A": "Accepter avec piège",
+      "B": "Ignorer et renforcer",
+      "C": "Chercher l expéditeur"
+    },
+    "body": "Tu reçois un message. Il connaît ton repaire. Il demande une rencontre."
+  },
+  "vampire_257": {
+    "id": "vampire_257",
+    "universe": "vampire_lord",
+    "title": "La fausse alerte",
+    "description": "Le culte crie au chasseur. C était un livreur de pizzas. Tout le monde a honte.",
+    "choices": {
+      "A": "Recadrer le culte",
+      "B": "Transformer en entraînement",
+      "C": "Punir un responsable"
+    },
+    "body": "Le culte crie au chasseur. C était un livreur de pizzas. Tout le monde a honte."
+  },
+  "vampire_258": {
+    "id": "vampire_258",
+    "universe": "vampire_lord",
+    "title": "La réserve secrète",
+    "description": "On découvre une réserve de sang cachée. Elle n est pas à toi. Alors à qui est elle.",
+    "choices": {
+      "A": "La prendre pour le clan",
+      "B": "La piéger",
+      "C": "La rendre et enquêter"
+    },
+    "body": "On découvre une réserve de sang cachée. Elle n est pas à toi. Alors à qui est elle."
+  },
+  "vampire_259": {
+    "id": "vampire_259",
+    "universe": "vampire_lord",
+    "title": "Le pacte de silence",
+    "description": "Un journaliste propose un pacte. Il se tait contre une histoire exclusive. Très risqué.",
+    "choices": {
+      "A": "Refuser et le neutraliser",
+      "B": "Accepter et contrôler le récit",
+      "C": "Le retourner contre les chasseurs"
+    },
+    "body": "Un journaliste propose un pacte. Il se tait contre une histoire exclusive. Très risqué."
+  },
+  "vampire_260": {
+    "id": "vampire_260",
+    "universe": "vampire_lord",
+    "title": "Le sang de fête",
+    "description": "Le culte organise une collecte. Trop de monde. Trop de caméras. Trop de tentation.",
+    "choices": {
+      "A": "Annuler la collecte",
+      "B": "Encadrer strictement",
+      "C": "Récupérer vite et partir"
+    },
+    "body": "Le culte organise une collecte. Trop de monde. Trop de caméras. Trop de tentation."
+  },
+
+  "vampire_261": {
+    "id": "vampire_261",
+    "universe": "vampire_lord",
+    "title": "Le masque qui tombe",
+    "description": "Quelqu un du clan a été vu sans discrétion. Un visage circule sur les réseaux.",
+    "choices": {
+      "A": "Effacer la trace",
+      "B": "Changer toutes les identités",
+      "C": "Accuser un faux montage"
+    },
+    "body": "Quelqu un du clan a été vu sans discrétion. Un visage circule sur les réseaux."
+  },
+  "vampire_262": {
+    "id": "vampire_262",
+    "universe": "vampire_lord",
+    "title": "Le conseil des ombres",
+    "description": "Le clan demande un conseil officiel. Ils veulent des votes. Même sur tes décisions.",
+    "choices": {
+      "A": "Refuser et garder le pouvoir",
+      "B": "Accepter et encadrer",
+      "C": "Accepter et manipuler"
+    },
+    "body": "Le clan demande un conseil officiel. Ils veulent des votes. Même sur tes décisions."
+  },
+  "vampire_263": {
+    "id": "vampire_263",
+    "universe": "vampire_lord",
+    "title": "Le piège à UV",
+    "description": "Une lampe UV est trouvée près du repaire. Quelqu un teste le terrain.",
+    "choices": {
+      "A": "Détruire l équipement",
+      "B": "Piéger le piège",
+      "C": "Déplacer l entrée"
+    },
+    "body": "Une lampe UV est trouvée près du repaire. Quelqu un teste le terrain."
+  },
+  "vampire_264": {
+    "id": "vampire_264",
+    "universe": "vampire_lord",
+    "title": "Le vampire romantique",
+    "description": "Un vampire écrit des lettres d amour aux humains. Il signe avec ton nom. Catastrophe.",
+    "choices": {
+      "A": "Le stopper immédiatement",
+      "B": "Le recadrer et réparer",
+      "C": "Utiliser ça comme couverture"
+    },
+    "body": "Un vampire écrit des lettres d amour aux humains. Il signe avec ton nom. Catastrophe."
+  },
+  "vampire_265": {
+    "id": "vampire_265",
+    "universe": "vampire_lord",
+    "title": "Les pneus crevés",
+    "description": "Les véhicules du culte sont sabotés. Ils accusent les chasseurs. Le clan accuse le culte.",
+    "choices": {
+      "A": "Enquêter sérieusement",
+      "B": "Accuser un rival",
+      "C": "Ignorer et avancer"
+    },
+    "body": "Les véhicules du culte sont sabotés. Ils accusent les chasseurs. Le clan accuse le culte."
+  },
+  "vampire_266": {
+    "id": "vampire_266",
+    "universe": "vampire_lord",
+    "title": "La pluie d argent",
+    "description": "Une grosse somme tombe dans tes mains. Trop belle. Ça ressemble à un piège financier.",
+    "choices": {
+      "A": "Refuser l argent",
+      "B": "Le blanchir vite",
+      "C": "Le rendre avec menace"
+    },
+    "body": "Une grosse somme tombe dans tes mains. Trop belle. Ça ressemble à un piège financier."
+  },
+  "vampire_267": {
+    "id": "vampire_267",
+    "universe": "vampire_lord",
+    "title": "Le rituel mal lu",
+    "description": "Le culte a mal lu un texte. Maintenant ils invoquent des choses qui tapent aux murs.",
+    "choices": {
+      "A": "Arrêter le rituel",
+      "B": "Finir proprement",
+      "C": "Appeler un ancien"
+    },
+    "body": "Le culte a mal lu un texte. Maintenant ils invoquent des choses qui tapent aux murs."
+  },
+  "vampire_268": {
+    "id": "vampire_268",
+    "universe": "vampire_lord",
+    "title": "Le stock qui gèle",
+    "description": "Une partie du sang a gelé. Le clan crie. Toi aussi tu pourrais crier mais tu es digne.",
+    "choices": {
+      "A": "Sauver ce qui peut l être",
+      "B": "Jeter et sécuriser",
+      "C": "Répartir la perte"
+    },
+    "body": "Une partie du sang a gelé. Le clan crie. Toi aussi tu pourrais crier mais tu es digne."
+  },
+  "vampire_269": {
+    "id": "vampire_269",
+    "universe": "vampire_lord",
+    "title": "Le festival de lanternes",
+    "description": "Un festival illumine les rues toute la nuit. Zéro ombre. Ton territoire devient un aquarium.",
+    "choices": {
+      "A": "Suspendre la chasse",
+      "B": "Chasser en périphérie",
+      "C": "Saboter l éclairage"
+    },
+    "body": "Un festival illumine les rues toute la nuit. Zéro ombre. Ton territoire devient un aquarium."
+  },
+  "vampire_270": {
+    "id": "vampire_270",
+    "universe": "vampire_lord",
+    "title": "La promesse d un chasseur",
+    "description": "Un chasseur propose une trêve. Il dit vouloir le vrai chef. Il te vise.",
+    "choices": {
+      "A": "Accepter la rencontre",
+      "B": "Refuser et frapper",
+      "C": "Envoyer un double"
+    },
+    "body": "Un chasseur propose une trêve. Il dit vouloir le vrai chef. Il te vise."
+  },
+
+  "vampire_271": {
+    "id": "vampire_271",
+    "universe": "vampire_lord",
+    "title": "Le coffre qui grince",
+    "description": "Un coffre du repaire grince la nuit. Il n est pas censé s ouvrir. Et pourtant.",
+    "choices": {
+      "A": "L ouvrir et vérifier",
+      "B": "Le sceller",
+      "C": "Le déplacer loin"
+    },
+    "body": "Un coffre du repaire grince la nuit. Il n est pas censé s ouvrir. Et pourtant."
+  },
+  "vampire_272": {
+    "id": "vampire_272",
+    "universe": "vampire_lord",
+    "title": "Le clan veut des règles",
+    "description": "Le clan demande un code de conduite. Ça sonne noble. Ça finit toujours en dispute.",
+    "choices": {
+      "A": "Écrire des règles simples",
+      "B": "Écrire des règles sévères",
+      "C": "Refuser et imposer au cas par cas"
+    },
+    "body": "Le clan demande un code de conduite. Ça sonne noble. Ça finit toujours en dispute."
+  },
+  "vampire_273": {
+    "id": "vampire_273",
+    "universe": "vampire_lord",
+    "title": "Le trafic de faux sang",
+    "description": "Des humains vendent du faux sang aux jeunes vampires. Ça rend malade. Et ridicule.",
+    "choices": {
+      "A": "Démanteler le trafic",
+      "B": "Taxer le trafic",
+      "C": "Laisser pour punir les naïfs"
+    },
+    "body": "Des humains vendent du faux sang aux jeunes vampires. Ça rend malade. Et ridicule."
+  },
+  "vampire_274": {
+    "id": "vampire_274",
+    "universe": "vampire_lord",
+    "title": "La porte marquée",
+    "description": "Un symbole de chasseur est peint sur une porte proche. Personne ne sait qui l a vu en premier.",
+    "choices": {
+      "A": "Effacer la marque",
+      "B": "Poser une embuscade",
+      "C": "Fuir la zone"
+    },
+    "body": "Un symbole de chasseur est peint sur une porte proche. Personne ne sait qui l a vu en premier."
+  },
+  "vampire_275": {
+    "id": "vampire_275",
+    "universe": "vampire_lord",
+    "title": "L invitation chic",
+    "description": "Tu es invité à une soirée privée. Trop de miroirs. Trop de regards. Trop de risques.",
+    "choices": {
+      "A": "Y aller avec un masque",
+      "B": "Envoyer un serviteur",
+      "C": "Refuser et surveiller"
+    },
+    "body": "Tu es invité à une soirée privée. Trop de miroirs. Trop de regards. Trop de risques."
+  },
+  "vampire_276": {
+    "id": "vampire_276",
+    "universe": "vampire_lord",
+    "title": "Le pacte du sang",
+    "description": "Un ancien propose un pacte de sang pour unir le clan. Ça marche. Ça lie. Ça enferme.",
+    "choices": {
+      "A": "Accepter le pacte",
+      "B": "Refuser poliment",
+      "C": "Proposer un pacte plus léger"
+    },
+    "body": "Un ancien propose un pacte de sang pour unir le clan. Ça marche. Ça lie. Ça enferme."
+  },
+  "vampire_277": {
+    "id": "vampire_277",
+    "universe": "vampire_lord",
+    "title": "Le culte veut des badges",
+    "description": "Le culte veut donner des badges aux fidèles. Ils veulent aussi ton visage dessus.",
+    "choices": {
+      "A": "Interdire les badges",
+      "B": "Autoriser sans ton visage",
+      "C": "Autoriser et monétiser"
+    },
+    "body": "Le culte veut donner des badges aux fidèles. Ils veulent aussi ton visage dessus."
+  },
+  "vampire_278": {
+    "id": "vampire_278",
+    "universe": "vampire_lord",
+    "title": "La cave des humains",
+    "description": "Une cave cachée contient des réserves humaines. Qui a fait ça. Et pourquoi ici.",
+    "choices": {
+      "A": "Libérer et effacer",
+      "B": "Utiliser et contrôler",
+      "C": "Remettre aux chasseurs"
+    },
+    "body": "Une cave cachée contient des réserves humaines. Qui a fait ça. Et pourquoi ici."
+  },
+  "vampire_279": {
+    "id": "vampire_279",
+    "universe": "vampire_lord",
+    "title": "Le silence du repaire",
+    "description": "Tout est trop silencieux. Même les rats. Quelque chose a changé dans les murs.",
+    "choices": {
+      "A": "Inspecter chaque pièce",
+      "B": "Appeler les anciens",
+      "C": "Déplacer tout le monde"
+    },
+    "body": "Tout est trop silencieux. Même les rats. Quelque chose a changé dans les murs."
+  },
+  "vampire_280": {
+    "id": "vampire_280",
+    "universe": "vampire_lord",
+    "title": "Le faux prophète",
+    "description": "Un membre du culte se dit prophète. Il prend des décisions à ta place. Inacceptable.",
+    "choices": {
+      "A": "Le punir publiquement",
+      "B": "Le retourner en allié",
+      "C": "Le faire disparaître"
+    },
+    "body": "Un membre du culte se dit prophète. Il prend des décisions à ta place. Inacceptable."
+  },
+
+  "vampire_281": {
+    "id": "vampire_281",
+    "universe": "vampire_lord",
+    "title": "Le stock de secours",
+    "description": "Une réserve de secours existe. Mais personne n a la clé. Et tout le monde te regarde.",
+    "choices": {
+      "A": "Forcer la serrure",
+      "B": "Chercher la clé",
+      "C": "Faire une nouvelle réserve"
+    },
+    "body": "Une réserve de secours existe. Mais personne n a la clé. Et tout le monde te regarde."
+  },
+  "vampire_282": {
+    "id": "vampire_282",
+    "universe": "vampire_lord",
+    "title": "La chasse au drone",
+    "description": "Des drones volent la nuit. Ils cherchent la chaleur. Les vampires ne chauffent pas mais ils observent.",
+    "choices": {
+      "A": "Abattre les drones",
+      "B": "Les détourner",
+      "C": "Se cacher plus profondément"
+    },
+    "body": "Des drones volent la nuit. Ils cherchent la chaleur. Les vampires ne chauffent pas mais ils observent."
+  },
+  "vampire_283": {
+    "id": "vampire_283",
+    "universe": "vampire_lord",
+    "title": "Le clan veut un symbole",
+    "description": "Le clan veut un symbole officiel. Le culte propose une couronne géante. C est non.",
+    "choices": {
+      "A": "Choisir un symbole discret",
+      "B": "Imposer l ancien symbole",
+      "C": "Laisser le clan voter"
+    },
+    "body": "Le clan veut un symbole officiel. Le culte propose une couronne géante. C est non."
+  },
+  "vampire_284": {
+    "id": "vampire_284",
+    "universe": "vampire_lord",
+    "title": "L odeur de fumée",
+    "description": "Une fumée entre dans la crypte. Ça vient de dehors. Et dehors il y a des chasseurs.",
+    "choices": {
+      "A": "Sortir et stopper",
+      "B": "Boucher les accès",
+      "C": "Déplacer les dormeurs"
+    },
+    "body": "Une fumée entre dans la crypte. Ça vient de dehors. Et dehors il y a des chasseurs."
+  },
+  "vampire_285": {
+    "id": "vampire_285",
+    "universe": "vampire_lord",
+    "title": "Le banquet de clan",
+    "description": "Le clan veut un banquet. Le culte veut servir. Les chasseurs adorent les grandes tables.",
+    "choices": {
+      "A": "Annuler le banquet",
+      "B": "Organiser en secret",
+      "C": "Faire un faux banquet piège"
+    },
+    "body": "Le clan veut un banquet. Le culte veut servir. Les chasseurs adorent les grandes tables."
+  },
+  "vampire_286": {
+    "id": "vampire_286",
+    "universe": "vampire_lord",
+    "title": "Le pacte des hôpitaux",
+    "description": "Un contact à l hôpital propose un deal. Sang contre protection. C est tentant.",
+    "choices": {
+      "A": "Accepter prudemment",
+      "B": "Refuser et rester libre",
+      "C": "Accepter et étendre"
+    },
+    "body": "Un contact à l hôpital propose un deal. Sang contre protection. C est tentant."
+  },
+  "vampire_287": {
+    "id": "vampire_287",
+    "universe": "vampire_lord",
+    "title": "Le chasseur blessé",
+    "description": "Un chasseur blessé demande de l aide. Il promet des infos. Il promet aussi de mentir.",
+    "choices": {
+      "A": "L aider et écouter",
+      "B": "Le capturer",
+      "C": "Le laisser partir"
+    },
+    "body": "Un chasseur blessé demande de l aide. Il promet des infos. Il promet aussi de mentir."
+  },
+  "vampire_288": {
+    "id": "vampire_288",
+    "universe": "vampire_lord",
+    "title": "Le clan contre le culte",
+    "description": "Le clan accuse le culte de trop parler. Le culte accuse le clan de trop mordre. Ambiance.",
+    "choices": {
+      "A": "Imposer une paix",
+      "B": "Favoriser le clan",
+      "C": "Favoriser le culte"
+    },
+    "body": "Le clan accuse le culte de trop parler. Le culte accuse le clan de trop mordre. Ambiance."
+  },
+  "vampire_289": {
+    "id": "vampire_289",
+    "universe": "vampire_lord",
+    "title": "Le livreur de fleurs",
+    "description": "Un livreur de fleurs insiste pour entrer. Il dit que c est une surprise. Les surprises tu détestes.",
+    "choices": {
+      "A": "Le repousser",
+      "B": "Le contrôler et vérifier",
+      "C": "Le faire entrer avec garde"
+    },
+    "body": "Un livreur de fleurs insiste pour entrer. Il dit que c est une surprise. Les surprises tu détestes."
+  },
+  "vampire_290": {
+    "id": "vampire_290",
+    "universe": "vampire_lord",
+    "title": "L épidémie de rumeurs",
+    "description": "Une rumeur dit que tu as un point faible ridicule. La ville en rit. Le clan aussi.",
+    "choices": {
+      "A": "Écraser la rumeur",
+      "B": "La transformer en blague",
+      "C": "Faire peur aux moqueurs"
+    },
+    "body": "Une rumeur dit que tu as un point faible ridicule. La ville en rit. Le clan aussi."
+  },
+
+  "vampire_291": {
+    "id": "vampire_291",
+    "universe": "vampire_lord",
+    "title": "Le plan des égouts",
+    "description": "Un plan des égouts circule. Il montre des accès vers ton repaire. Quelqu un a fouiné.",
+    "choices": {
+      "A": "Changer les accès",
+      "B": "Piéger les passages",
+      "C": "Déplacer le repaire"
+    },
+    "body": "Un plan des égouts circule. Il montre des accès vers ton repaire. Quelqu un a fouiné."
+  },
+  "vampire_292": {
+    "id": "vampire_292",
+    "universe": "vampire_lord",
+    "title": "La dispute des parts",
+    "description": "Le clan se dispute sur la répartition du sang. Ça ressemble à une réunion de copropriété.",
+    "choices": {
+      "A": "Fixer une répartition",
+      "B": "Distribuer selon mérite",
+      "C": "Laisser le chaos faire"
+    },
+    "body": "Le clan se dispute sur la répartition du sang. Ça ressemble à une réunion de copropriété."
+  },
+  "vampire_293": {
+    "id": "vampire_293",
+    "universe": "vampire_lord",
+    "title": "Le culte veut un slogan",
+    "description": "Le culte veut un slogan officiel. Ils proposent Vive la nuit. Ça manque de finesse.",
+    "choices": {
+      "A": "Choisir un slogan discret",
+      "B": "Interdire les slogans",
+      "C": "Accepter et lancer une campagne"
+    },
+    "body": "Le culte veut un slogan officiel. Ils proposent Vive la nuit. Ça manque de finesse."
+  },
+  "vampire_294": {
+    "id": "vampire_294",
+    "universe": "vampire_lord",
+    "title": "Le garde du parking",
+    "description": "Un garde surveille trop bien. Il connaît les plaques. Il connaît les horaires. Il connaît trop.",
+    "choices": {
+      "A": "Le corrompre",
+      "B": "Le remplacer",
+      "C": "Éviter le parking"
+    },
+    "body": "Un garde surveille trop bien. Il connaît les plaques. Il connaît les horaires. Il connaît trop."
+  },
+  "vampire_295": {
+    "id": "vampire_295",
+    "universe": "vampire_lord",
+    "title": "L arrivée du grand froid",
+    "description": "Le froid arrive. Les rues se vident. Chasser devient plus dur. Les chasseurs, eux, restent.",
+    "choices": {
+      "A": "Rationner et tenir",
+      "B": "Chasser plus loin",
+      "C": "Négocier avec le culte"
+    },
+    "body": "Le froid arrive. Les rues se vident. Chasser devient plus dur. Les chasseurs, eux, restent."
+  },
+  "vampire_296": {
+    "id": "vampire_296",
+    "universe": "vampire_lord",
+    "title": "Le témoin qui revient",
+    "description": "Un ancien témoin te revoit. Il te reconnaît. Il sourit. Ça veut dire problème.",
+    "choices": {
+      "A": "Le convaincre",
+      "B": "Le menacer",
+      "C": "Le faire disparaître"
+    },
+    "body": "Un ancien témoin te revoit. Il te reconnaît. Il sourit. Ça veut dire problème."
+  },
+  "vampire_297": {
+    "id": "vampire_297",
+    "universe": "vampire_lord",
+    "title": "Le groupe anti culte",
+    "description": "Un groupe humain lutte contre le culte. Ils affichent des tracts. Ils cherchent un chef.",
+    "choices": {
+      "A": "Dissoudre le groupe",
+      "B": "Infiltrer le groupe",
+      "C": "Déplacer le culte"
+    },
+    "body": "Un groupe humain lutte contre le culte. Ils affichent des tracts. Ils cherchent un chef."
+  },
+  "vampire_298": {
+    "id": "vampire_298",
+    "universe": "vampire_lord",
+    "title": "Le plan de secours du culte",
+    "description": "Le culte a un plan de secours au cas où tu meurs. Très gentil. Très insultant.",
+    "choices": {
+      "A": "Punir l idée",
+      "B": "Encadrer et corriger",
+      "C": "Utiliser le plan pour tester la loyauté"
+    },
+    "body": "Le culte a un plan de secours au cas où tu meurs. Très gentil. Très insultant."
+  },
+  "vampire_299": {
+    "id": "vampire_299",
+    "universe": "vampire_lord",
+    "title": "L enquête privée",
+    "description": "Un détective privé fouille ton quartier. Il n a pas peur. Ça c est nouveau.",
+    "choices": {
+      "A": "Le détourner de l enquête",
+      "B": "Le recruter",
+      "C": "Le neutraliser"
+    },
+    "body": "Un détective privé fouille ton quartier. Il n a pas peur. Ça c est nouveau."
+  },
+  "vampire_300": {
+    "id": "vampire_300",
+    "universe": "vampire_lord",
+    "title": "Le pacte final du soir",
+    "description": "Le clan veut une direction claire. Le culte veut un signe. Les chasseurs veulent ton adresse.",
+    "choices": {
+      "A": "Renforcer le territoire",
+      "B": "Négocier un calme temporaire",
+      "C": "Préparer une fuite organisée"
+    },
+    "body": "Le clan veut une direction claire. Le culte veut un signe. Les chasseurs veulent ton adresse."
+  }
+}

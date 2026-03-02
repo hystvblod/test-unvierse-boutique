@@ -1,0 +1,34 @@
+{
+  "vl_end_blood_0": {
+    "title": "Soif sèche",
+    "body": "Plus une goutte. Ton pouvoir s’effrite et ton esprit se craquèle, comme une nuit sans lune."
+  },
+  "vl_end_blood_100": {
+    "title": "Marée écarlate",
+    "body": "Le sang coule à flots. Tu deviens une légende vivante… et un cauchemar public."
+  },
+  "vl_end_hunters_0": {
+    "title": "Nuit sans traque",
+    "body": "Les chasseurs disparaissent. La ville baisse la garde… et toi aussi."
+  },
+  "vl_end_hunters_100": {
+    "title": "Croix et sirènes",
+    "body": "Les chasseurs encerclent tout. Chaque ruelle a un piège, chaque regard une accusation."
+  },
+  "vl_end_clan_0": {
+    "title": "Solitude du trône",
+    "body": "Le clan se délite. Tu règnes sur des couloirs vides et des promesses mortes."
+  },
+  "vl_end_clan_100": {
+    "title": "Dynastie de cendre",
+    "body": "Le clan est uni, puissant, dangereux. Une seule volonté : la tienne."
+  },
+  "vl_end_cult_0": {
+    "title": "Cierges éteints",
+    "body": "Le culte se tait. Les fidèles s’éloignent, et le mythe perd ses dents."
+  },
+  "vl_end_cult_100": {
+    "title": "Évangile nocturne",
+    "body": "Le culte adore ton nom. Ils chantent, offrent, recrutent… parfois trop fort."
+  }
+}

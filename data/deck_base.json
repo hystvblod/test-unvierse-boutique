@@ -1,0 +1,3625 @@
+{
+  "cards": [
+    {
+      "id": "hk_001",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 10, "order": -5 } },
+        "B": { "gaugeDelta": { "souls": -5, "legions": 5 } },
+        "C": { "gaugeDelta": { "order": 5, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_002",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 10, "order": -10 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -6 } }
+      }
+    },
+    {
+      "id": "hk_003",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 12, "order": -8 } },
+        "B": { "gaugeDelta": { "souls": 6, "legions": -4 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_004",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -4 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -6 } },
+        "C": { "gaugeDelta": { "surface": 5, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_005",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 10, "souls": -8 } },
+        "B": { "gaugeDelta": { "legions": 7, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_006",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 5, "surface": 5, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": -8, "order": 6 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_007",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 4, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_008",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "surface": 4, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": -7, "order": 7 } },
+        "C": { "gaugeDelta": { "legions": 5, "souls": -3 } }
+      }
+    },
+    {
+      "id": "hk_009",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 5, "order": -7 } },
+        "C": { "gaugeDelta": { "legions": 7, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_010",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 6, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 5, "surface": -6 } }
+      }
+    },
+    {
+      "id": "hk_011",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 5, "souls": -3 } }
+      }
+    },
+    {
+      "id": "hk_012",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 10, "surface": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_013",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 5, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -7 } }
+      }
+    },
+    {
+      "id": "hk_014",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -8 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -6 } },
+        "C": { "gaugeDelta": { "legions": 8, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_015",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 6, "legions": -4 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_016",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 10, "order": -8 } },
+        "B": { "gaugeDelta": { "souls": 5, "surface": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -6 } }
+      }
+    },
+    {
+      "id": "hk_017",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 6, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 9, "surface": -7 } }
+      }
+    },
+    {
+      "id": "hk_018",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 10, "order": -8 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+
+    {
+      "id": "hk_019",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 5, "souls": -4 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_020",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_021",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 5, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_022",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "surface": 6, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_023",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -5 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 5, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_024",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -6 } },
+        "C": { "gaugeDelta": { "souls": 5, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_025",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 10, "souls": -8 } },
+        "B": { "gaugeDelta": { "order": 6, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_026",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_027",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 6, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_028",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -7 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -5 } }
+           }
+      },
+
+        {
+      "id": "hk_029",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_030",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 6, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_031",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_032",
+      "universe": "hell_king",
+      "choices": {
+          "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+          "B": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+          "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_033",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 10, "order": -8 } },
+        "B": { "gaugeDelta": { "souls": 6, "order": 5, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 8, "surface": -6 } }
+      }
+    },
+    {
+      "id": "hk_034",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_035",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -5 } },
+        "B": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 8, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_036",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -6 } }
+      }
+    },
+    {
+      "id": "hk_037",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_038",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 9, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 8, "order": -6 } }
+      }
+    },
+    {
+      "id": "hk_039",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "legions": -6 } }
+      }
+    },
+    {
+      "id": "hk_040",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 6, "legions": 6, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 10, "souls": -7 } },
+        "C": { "gaugeDelta": { "surface": 9, "order": -7 } }
+      }
+    },
+        {
+      "id": "hk_041",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_042",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_043",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_044",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": 5, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_045",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_046",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "B": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_047",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_048",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 6, "surface": 6, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 9, "legions": -6 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_049",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -5 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_050",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_051",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_052",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_053",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_054",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -6 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_055",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_056",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "B": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_057",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_058",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_059",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 8, "order": -6 } }
+      }
+    },
+    {
+      "id": "hk_060",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_061",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_062",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "surface": -6 } }
+      }
+    },
+    {
+      "id": "hk_063",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_064",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_065",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 8, "surface": -6 } }
+      }
+    },
+    {
+      "id": "hk_066",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_067",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_068",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_069",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_070",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "surface": 6, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+        {
+      "id": "hk_071",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_072",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_073",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_074",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_075",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_076",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 7, "surface": 6, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "order": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_077",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 6, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_078",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_079",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_080",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_081",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_082",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_083",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_084",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_085",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_086",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_087",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 8, "legions": -6 } }
+      }
+    },
+    {
+      "id": "hk_088",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_089",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_090",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "surface": -6 } }
+      }
+    },
+    {
+      "id": "hk_091",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_092",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_093",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_094",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_095",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_096",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_097",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_098",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_099",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_100",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+        {
+      "id": "hk_101",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_102",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_103",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_104",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_105",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_106",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_107",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 8, "legions": -6 } }
+      }
+    },
+    {
+      "id": "hk_108",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_109",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_110",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_111",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_112",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_113",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_114",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_115",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_116",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_117",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_118",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_119",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_120",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_121",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_122",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_123",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_124",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_125",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_126",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_127",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_128",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_129",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_130",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_131",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_132",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_133",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_134",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_135",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_136",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_137",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_138",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_139",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_140",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_141",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_142",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+    {
+      "id": "hk_143",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_144",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_145",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_146",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_147",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 7, "legions": -5 } }
+      }
+    },
+    {
+      "id": "hk_148",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "surface": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_149",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_150",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": 6, "order": -7 } },
+        "B": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "C": { "gaugeDelta": { "surface": 8, "souls": -6 } }
+      }
+    },
+        {
+      "id": "hk_151",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_152",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 5, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_153",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 6, "legions": -4 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_154",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_155",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_156",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_157",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_158",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_159",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_160",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_161",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_162",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_163",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_164",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_165",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_166",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_167",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_168",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_169",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_170",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_171",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_172",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_173",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_174",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_175",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_176",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_177",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_178",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_179",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_180",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_181",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_182",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_183",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_184",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_185",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_186",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_187",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_188",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_189",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_190",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_191",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_192",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_193",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_194",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_195",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_196",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_197",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_198",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_199",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_200",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+        {
+      "id": "hk_201",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_202",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_203",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_204",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_205",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_206",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_207",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_208",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_209",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_210",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_211",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_212",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_213",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "legions": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_214",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_215",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_216",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_217",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_218",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_219",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_220",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_221",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_222",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_223",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_224",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_225",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_226",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_227",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_228",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_229",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_230",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+        {
+      "id": "hk_231",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_232",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_233",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_234",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_235",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_236",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_237",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_238",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_239",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_240",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_241",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_242",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_243",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_244",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_245",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_246",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_247",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_248",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_249",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_250",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+        {
+      "id": "hk_251",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_252",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_253",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_254",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_255",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_256",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_257",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_258",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_259",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_260",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_261",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_262",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_263",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_264",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_265",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_266",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_267",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_268",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_269",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_270",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_271",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_272",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_273",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_274",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_275",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_276",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_277",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_278",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_279",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_280",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_281",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_282",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_283",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_284",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_285",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_286",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_287",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_288",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_289",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_290",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_291",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_292",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_293",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_294",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_295",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_296",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_297",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_298",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_299",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_300",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+
+        {
+      "id": "hk_301",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_302",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_303",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_304",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_305",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_306",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_307",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_308",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_309",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_310",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_311",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_312",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_313",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_314",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_315",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_316",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_317",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_318",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_319",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_320",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_321",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_322",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_323",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_324",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_325",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_326",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_327",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_328",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_329",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_330",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_331",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_332",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_333",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_334",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_335",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_336",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_337",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_338",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_339",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_340",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_341",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_342",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_343",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_344",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_345",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_346",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_347",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_348",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "order": -7 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_349",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_350",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "legions": -4 } }
+      }
+    },
+
+        {
+      "id": "hk_351",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_352",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_353",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_354",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_355",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_356",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_357",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_358",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_359",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_360",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_361",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_362",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_363",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_364",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_365",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_366",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_367",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_368",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_369",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_370",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_371",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_372",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_373",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_374",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_375",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_376",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_377",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_378",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_379",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_380",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_381",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_382",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_383",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_384",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_385",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_386",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_387",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_388",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_389",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_390",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_391",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_392",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_393",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 8, "surface": -6 } },
+        "B": { "gaugeDelta": { "surface": 7, "legions": -5 } },
+        "C": { "gaugeDelta": { "legions": 6, "souls": -4 } }
+      }
+    },
+    {
+      "id": "hk_394",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "B": { "gaugeDelta": { "legions": 7, "souls": -5 } },
+        "C": { "gaugeDelta": { "souls": 6, "order": -4 } }
+      }
+    },
+    {
+      "id": "hk_395",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "B": { "gaugeDelta": { "souls": 7, "order": -5 } },
+        "C": { "gaugeDelta": { "order": 6, "surface": -4 } }
+      }
+    },
+    {
+      "id": "hk_396",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    },
+    {
+      "id": "hk_397",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "order": 9, "surface": -7 } },
+        "B": { "gaugeDelta": { "surface": 8, "legions": -6 } },
+        "C": { "gaugeDelta": { "legions": 7, "souls": -5 } }
+      }
+    },
+    {
+      "id": "hk_398",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "surface": 9, "legions": -7 } },
+        "B": { "gaugeDelta": { "legions": 8, "souls": -6 } },
+        "C": { "gaugeDelta": { "souls": 7, "order": -5 } }
+      }
+    },
+    {
+      "id": "hk_399",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "legions": 9, "souls": -7 } },
+        "B": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "C": { "gaugeDelta": { "order": 7, "surface": -5 } }
+      }
+    },
+    {
+      "id": "hk_400",
+      "universe": "hell_king",
+      "choices": {
+        "A": { "gaugeDelta": { "souls": 8, "order": -6 } },
+        "B": { "gaugeDelta": { "order": 7, "surface": -5 } },
+        "C": { "gaugeDelta": { "surface": 6, "legions": -4 } }
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+  ]
+}

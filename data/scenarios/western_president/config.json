@@ -1,0 +1,59 @@
+{
+  "id": "westerne_president",
+  "gauges": [
+    {
+      "id": "public_opinion",
+      "label_fr": "Opinion publique",
+      "label_en": "Public opinion",
+      "label_de": "Öffentliche Meinung",
+      "label_es": "Opinión pública",
+      "label_pt": "Opinião pública",
+      "label_ptbr": "Opinião pública",
+      "label_ko": "여론",
+      "label_ja": "世論",
+      "label_id": "Opini publik"
+    },
+    {
+      "id": "economy",
+      "label_fr": "Économie",
+      "label_en": "Economy",
+      "label_de": "Wirtschaft",
+      "label_es": "Economía",
+      "label_pt": "Economia",
+      "label_ptbr": "Economia",
+      "label_ko": "경제",
+      "label_ja": "経済",
+      "label_id": "Ekonomi"
+    },
+    {
+      "id": "defense",
+      "label_fr": "Défense",
+      "label_en": "Defense",
+      "label_de": "Verteidigung",
+      "label_es": "Defensa",
+      "label_pt": "Defesa",
+      "label_ptbr": "Defesa",
+      "label_ko": "국방",
+      "label_ja": "防衛",
+      "label_id": "Pertahanan"
+    },
+    {
+      "id": "diplomacy",
+      "label_fr": "Diplomatie",
+      "label_en": "Diplomacy",
+      "label_de": "Diplomatie",
+      "label_es": "Diplomacia",
+      "label_pt": "Diplomacia",
+      "label_ptbr": "Diplomacia",
+      "label_ko": "외교",
+      "label_ja": "外交",
+      "label_id": "Diplomasi"
+    }
+  ],
+  "initialGauges": {
+    "public_opinion": 50,
+    "economy": 50,
+    "defense": 50,
+    "diplomacy": 50
+  }
+}

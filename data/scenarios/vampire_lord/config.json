@@ -1,0 +1,59 @@
+{
+  "id": "vampire_lord",
+  "gauges": [
+    {
+      "id": "blood",
+      "label_fr": "Sang",
+      "label_en": "Blood",
+      "label_de": "Blut",
+      "label_es": "Sangre",
+      "label_pt": "Sangue",
+      "label_ptbr": "Sangue",
+      "label_ko": "피",
+      "label_ja": "血",
+      "label_id": "Darah"
+    },
+    {
+      "id": "hunters",
+      "label_fr": "Chasseurs",
+      "label_en": "Hunters",
+      "label_de": "Jäger",
+      "label_es": "Cazadores",
+      "label_pt": "Caçadores",
+      "label_ptbr": "Caçadores",
+      "label_ko": "사냥꾼",
+      "label_ja": "狩人",
+      "label_id": "Pemburu"
+    },
+    {
+      "id": "clan",
+      "label_fr": "Clan",
+      "label_en": "Clan",
+      "label_de": "Clan",
+      "label_es": "Clan",
+      "label_pt": "Clã",
+      "label_ptbr": "Clã",
+      "label_ko": "클랜",
+      "label_ja": "一族",
+      "label_id": "Klan"
+    },
+    {
+      "id": "cult",
+      "label_fr": "Culte vampirique",
+      "label_en": "Vampiric cult",
+      "label_de": "Vampirischer Kult",
+      "label_es": "Culto vampírico",
+      "label_pt": "Culto vampírico",
+      "label_ptbr": "Culto vampírico",
+      "label_ko": "흡혈귀 숭배",
+      "label_ja": "吸血鬼の崇拝",
+      "label_id": "Kultus vampir"
+    }
+  ],
+  "initialGauges": {
+    "blood": 50,
+    "hunters": 50,
+    "clan": 50,
+    "cult": 50
+  }
+}

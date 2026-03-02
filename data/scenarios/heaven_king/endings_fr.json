@@ -1,0 +1,37 @@
+{
+  "hv_end_prayers_0": {
+    "title": "Silence des cieux",
+    "body": "Plus aucune prière ne monte vers toi. Les temples se vident, les autels refroidissent, et même les désespérés ne demandent plus rien. Ton règne devient une voûte immense… sans voix, sans appel, sans écho."
+  },
+  "hv_end_prayers_100": {
+    "title": "Déferlante de prières",
+    "body": "Les prières pleuvent sans fin, des millions de voix à chaque seconde. On te supplie pour tout et pour rien, et l'espoir devient une dépendance. À force d'être invoqué, tu n'es plus un guide : tu deviens une nécessité qui étouffe les hommes."
+  },
+
+  "hv_end_cults_0": {
+    "title": "Monde sans églises",
+    "body": "Les temples ferment, les symboles s'effacent, les fêtes deviennent des jours comme les autres. On ne parle plus de toi. Le ciel reste là… mais plus personne ne lève les yeux."
+  },
+  "hv_end_cults_100": {
+    "title": "Religion totale",
+    "body": "Les cultes dictent chaque geste : quoi manger, quoi dire, qui aimer, quand se taire. On récite sans comprendre, on obéit sans ressentir, et ton message est tordu jusqu'à devenir un outil de contrôle. Ton nom est partout… mais ta vérité n'est nulle part."
+  },
+
+  "hv_end_interventions_0": {
+    "title": "Dieu absent",
+    "body": "Tu n'interviens plus. Les miracles cessent, les signes disparaissent, et le monde comprend qu'il est seul. Certains grandissent, d'autres s'effondrent. Ton ciel reste intact… mais on le regarde comme un décor vide."
+  },
+  "hv_end_interventions_100": {
+    "title": "Main sur le monde",
+    "body": "Tu interviens partout. Une catastrophe évitée, une justice rendue, un destin corrigé… encore et encore. Plus rien n'arrive sans toi. La paix est parfaite, oui—mais c'est une paix sans choix, sans risque, sans vraie vie."
+  },
+
+  "hv_end_free_will_0": {
+    "title": "Marionnettes de lumière",
+    "body": "Le libre arbitre s'éteint. Les humains font le 'bon' choix automatiquement, sans doute, sans tentation, sans lutte. Tout devient propre, moral, prévisible. Ton royaume est pur… et le monde n'a plus d'âme."
+  },
+  "hv_end_free_will_100": {
+    "title": "Révolte des humains",
+    "body": "Le libre arbitre déborde. Les hommes refusent toute règle, contestent tout, même le ciel. Certains deviennent sublimes, d'autres monstrueux. Ils ne veulent plus être guidés. Alors ton règne doit choisir : les laisser grandir… ou les briser."
+  }
+}

@@ -1,0 +1,3604 @@
+{
+  "hk_001": {
+    "title": "Llegada masiva de almas",
+    "body": "Una guerra acaba de arrasar un reino mortal. Miles de almas llegan a las puertas de tu dominio.",
+    "choices": {
+      "A": "Abre las puertas de par en par, nos lo quedamos todo.",
+      "B": "Filtra severamente, solo entran las más útiles.",
+      "C": "Devuelve una parte a la Tierra, que continúe el caos."
+    }
+  },
+  "hk_002": {
+    "title": "Caprichos de los generales demoníacos",
+    "body": "Tus generales reclaman más poder y el derecho a lanzar sus propias campañas de terror.",
+    "choices": {
+      "A": "Concédeles legiones, aunque pierdas el control.",
+      "B": "Aprieta la correa, todo debe pasar por ti.",
+      "C": "Déjales divertirse en la Tierra bajo vigilancia."
+    }
+  },
+  "hk_003": {
+    "title": "Influencia en el mundo de los vivos",
+    "body": "Una secta infernal quiere extender tu culto en la superficie. Algunos demonios temen que esto atraiga la atención.",
+    "choices": {
+      "A": "Fomenta el culto, el poder es lo primero.",
+      "B": "Limita los rituales a lugares aislados.",
+      "C": "Disuelve la secta antes de que se vuelva incontrolable."
+    }
+  },
+  "hk_004": {
+    "title": "Atasco a las puertas del Infierno",
+    "body": "La cola de nuevos condenados se extiende por kilómetros. Las quejas se acumulan, al igual que los expedientes.",
+    "choices": {
+      "A": "Acelera la clasificación, aunque sea menos precisa.",
+      "B": "Refuerza los procedimientos, el orden ante todo.",
+      "C": "Delega la clasificación a un demonio ambicioso."
+    }
+  },
+  "hk_005": {
+    "title": "Tribunal infernal desbordado",
+    "body": "Los jueces infernales se quejan de no dar abasto. Hay almas esperando su sentencia desde hace siglos.",
+    "choices": {
+      "A": "Impón cuotas diarias de juicios.",
+      "B": "Recluta nuevos jueces de entre los condenados.",
+      "C": "Pospón los casos menores, prioriza a los grandes criminales."
+    }
+  },
+  "hk_006": {
+    "title": "Revuelta en un círculo de tortura",
+    "body": "En un círculo, los condenados han logrado desarmar a algunos guardias y volver los instrumentos contra ellos.",
+    "choices": {
+      "A": "Aplasta la revuelta con legiones adicionales.",
+      "B": "Negocia una «reducción» de los castigos a cambio de calma.",
+      "C": "Haz un ejemplo público para aterrorizar a los otros círculos."
+    }
+  },
+  "hk_007": {
+    "title": "Intento de golpe de Estado demoníaco",
+    "body": "Un príncipe demoníaco reúne tropas discretamente y murmura que sería un mejor rey de los Infiernos.",
+    "choices": {
+      "A": "Déjale creer que tiene tu bendición, luego ataca.",
+      "B": "Invítalo oficialmente, dale un papel muy vigilado.",
+      "C": "Ignora el rumor, tus legiones bastan para disuadir."
+    }
+  },
+  "hk_008": {
+    "title": "Contrato con un rey mortal",
+    "body": "Un rey humano quiere firmar un pacto: a cambio de tu ayuda, te promete su alma y la de su linaje.",
+    "choices": {
+      "A": "Acepta y refuerza tu influencia en la Tierra.",
+      "B": "Modera el pacto, menos almas pero más duradero.",
+      "C": "Rechaza, este tipo de pacto atrae demasiada atención de arriba."
+    }
+  },
+  "hk_009": {
+    "title": "Inspección de un arcángel",
+    "body": "Un arcángel desciende a observar el estado de tu reino. Afirma querer verificar que se respeta «el equilibrio».",
+    "choices": {
+      "A": "Oculta el caos y muestra un Infierno disciplinado.",
+      "B": "Muestra con orgullo los excesos, es tu reino.",
+      "C": "Guíalo hacia una zona especialmente decorada para él."
+    }
+  },
+  "hk_010": {
+    "title": "Fuga de almas a la superficie",
+    "body": "Una grieta en un antiguo portal permite a algunas almas condenadas subir a atormentar a los vivos.",
+    "choices": {
+      "A": "Déjalas sembrar el miedo, recuperarás más tarde.",
+      "B": "Sella el portal, cada alma debe quedarse en su sitio.",
+      "C": "Transforma la grieta en un pasaje controlado."
+    }
+  },
+  "hk_011": {
+    "title": "Huelga de torturadores",
+    "body": "Los torturadores reclaman mejores condiciones: cadenas más sólidas, llamas más estables, horarios claros.",
+    "choices": {
+      "A": "Cede a algunas demandas para evitar el bloqueo.",
+      "B": "Reprime la huelga, nadie negocia contigo.",
+      "C": "Sustituye a los torturadores por condenados celosos."
+    }
+  },
+  "hk_012": {
+    "title": "Mercado negro de promesas",
+    "body": "Un mercado clandestino vende e intercambia promesas de condenación entre demonios y mortales.",
+    "choices": {
+      "A": "Legaliza y grava este mercado.",
+      "B": "Destrúyelo, los contratos deben permanecer bajo tu control.",
+      "C": "Déjalo existir mientras sea discreto."
+    }
+  },
+  "hk_013": {
+    "title": "Artefacto de las profundidades",
+    "body": "Se ha encontrado un artefacto tan antiguo que incluso tú ignoras su origen. Pulsa con una energía inquietante.",
+    "choices": {
+      "A": "Guárdalo cerca de tu trono, bajo vigilancia.",
+      "B": "Entiérralo aún más profundamente.",
+      "C": "Envíalo al mundo de los vivos para desviar la atención."
+    }
+  },
+  "hk_014": {
+    "title": "Rumor de redención",
+    "body": "Circula un rumor: algunas almas podrían purificarse incluso aquí. Tus consejeros están divididos.",
+    "choices": {
+      "A": "Sofoca el rumor, el Infierno no es un spa.",
+      "B": "Crea una zona especial para probar esta «redención».",
+      "C": "Déjalo correr, si algunos se calman será más sencillo de gestionar."
+    }
+  },
+  "hk_015": {
+    "title": "Juegos macabros entre demonios",
+    "body": "Unos demonios organizan juegos donde apuestan almas, legiones y territorio en la superficie.",
+    "choices": {
+      "A": "Prohíbe esos juegos, demasiado peligrosos.",
+      "B": "Regúlalos, contigo como árbitro supremo.",
+      "C": "Participa anónimamente, para influir en los resultados."
+    }
+  },
+  "hk_016": {
+    "title": "Festival de los suplicios",
+    "body": "Los demonios reclaman un gran festival para celebrar tus milenios de reinado.",
+    "choices": {
+      "A": "Organiza un espectáculo grandioso, que todo el Infierno lo recuerde.",
+      "B": "Haz una ceremonia sobria, el orden es lo primero.",
+      "C": "Desplaza el festival a zonas cercanas a la superficie."
+    }
+  },
+  "hk_017": {
+    "title": "Profeta loco en la Tierra",
+    "body": "Un mortal afirma hablar en tu nombre. Sus discursos atraen a una multitud de fieles… y de enemigos.",
+    "choices": {
+      "A": "Refuerza sus visiones, que inflame a las masas.",
+      "B": "Modera sus palabras, ya es bastante peligroso.",
+      "C": "Déjalo caer en la locura sin intervenir."
+    }
+  },
+  "hk_018": {
+    "title": "Oferta de tregua celestial",
+    "body": "Un mensajero celestial propone una tregua temporal: menos intervenciones en la superficie, a cambio de más estabilidad cósmica.",
+    "choices": {
+      "A": "Acepta, el orden cósmico te beneficia también.",
+      "B": "Rechaza, el Infierno no deja que le dicten su conducta.",
+      "C": "Acepta oficialmente pero viola discretamente la tregua."
+    }
+  },
+  "hk_019": {
+    "title": "Tormenta de cenizas",
+    "body": "Una tormenta de cenizas engulle varios círculos. La visibilidad cae, los condenados entran en pánico.",
+    "choices": {
+      "A": "Deja que la tormenta siga su curso, es el paisaje normal.",
+      "B": "Envía legiones para restablecer un simulacro de orden.",
+      "C": "Aprovecha el caos para redistribuir almas donde quieras."
+    }
+  },
+  "hk_020": {
+    "title": "Nuevo círculo experimental",
+    "body": "Uno de tus arquitectos propone un nuevo tipo de círculo, más eficaz pero inestable.",
+    "choices": {
+      "A": "Valida el proyecto y ábrelo inmediatamente.",
+      "B": "Pruébalo primero con un pequeño número de almas.",
+      "C": "Rechaza, el equilibrio actual ya es bastante frágil."
+    }
+  },
+  "hk_021": {
+    "title": "Disturbios de los condenados filósofos",
+    "body": "Algunos condenados debaten el sentido del castigo eterno y cuestionan tu legitimidad.",
+    "choices": {
+      "A": "Reducirlos al silencio, por todos los medios.",
+      "B": "Crear un círculo dedicado a sus debates, bien aislado.",
+      "C": "Enviarlos a predicar a la Tierra para enturbiar las creencias."
+    }
+  },
+  "hk_022": {
+    "title": "Demonio contable demasiado celoso",
+    "body": "Un demonio encargado de los registros de almas señala incoherencias y quiere recalcularlo todo.",
+    "choices": {
+      "A": "Déjale verificarlo todo, el orden saldrá reforzado.",
+      "B": "Ignóralo, nadie leerá jamás todos esos registros.",
+      "C": "Utiliza su celo para detectar almas estratégicas."
+    }
+  },
+  "hk_023": {
+    "title": "Torneo de jefes de legiones",
+    "body": "Los comandantes de legiones quieren organizar un torneo para demostrar quién merece más tropas.",
+    "choices": {
+      "A": "Autoriza el torneo, contigo como árbitro final.",
+      "B": "Rechaza, las legiones deben obedecer, no divertirse.",
+      "C": "Autoriza, pero truca los resultados a tu favor."
+    }
+  },
+  "hk_024": {
+    "title": "Alma de héroe legendario",
+    "body": "El alma de un héroe muy respetado por los mortales desciende por fin a tu reino.",
+    "choices": {
+      "A": "Exponerlo como trofeo para inspirar miedo.",
+      "B": "Utilizarlo como consejero, conoce bien a los humanos.",
+      "C": "Enviarlo brevemente a la Tierra como campeón maldito."
+    }
+  },
+  "hk_025": {
+    "title": "Canto extraño en las profundidades",
+    "body": "Un canto venido de las profundidades resuena. Incluso los demonios más antiguos están incómodos.",
+    "choices": {
+      "A": "Investigar personalmente, rodeado de tus guardias.",
+      "B": "Sellar la zona y declarar el acceso prohibido.",
+      "C": "Dejar que el canto se propague, a ver quién responde."
+    }
+  },
+  "hk_026": {
+    "title": "Oferta de un culto olvidado",
+    "body": "Un antiguo culto, casi desaparecido, quiere volver a cambio de algunos «favores» infernales.",
+    "choices": {
+      "A": "Acepta, incluso un culto débil sigue siendo útil.",
+      "B": "Rechaza, esas reliquias del pasado lo complican todo.",
+      "C": "Absorbe el culto y cambia completamente su cara."
+    }
+  },
+  "hk_027": {
+    "title": "Concurso del peor suplicio",
+    "body": "Los torturadores lanzan un concurso para inventar el suplicio más creativo.",
+    "choices": {
+      "A": "Fomenta, la creatividad es buena para la moral de los demonios.",
+      "B": "Limita los daños, algunos ensayos van demasiado lejos.",
+      "C": "Reserva este concurso a un círculo muy, muy aislado."
+    }
+  },
+  "hk_028": {
+    "title": "Consejo de los antiguos demonios",
+    "body": "Los demonios más antiguos te piden audiencia para hablar del futuro del Infierno.",
+    "choices": {
+      "A": "Escucharlos e integrar algunas de sus ideas.",
+      "B": "Darles las gracias cortésmente y seguir como antes.",
+      "C": "Dividirlos dándoles privilegios contradictorios."
+    }
+  },
+  "hk_029": {
+    "title": "Embajada de los Infiernos vecinos",
+    "body": "Otro reino infernal envía una embajada. Su soberano propone una alianza: intercambio de almas, legiones y territorios en la superficie.",
+    "choices": {
+      "A": "Firmar un pacto agresivo, centrado en la cosecha de almas.",
+      "B": "Negociar un acuerdo muy regulado, para mantener el control.",
+      "C": "Priorizar la influencia en la Tierra, aunque moleste a tus tropas."
+    }
+  },
+  "hk_030": {
+    "title": "Fragua de armas malditas",
+    "body": "Una fragua demoníaca inventa un nuevo tipo de arma que hace a las legiones casi imparables, pero inestables.",
+    "choices": {
+      "A": "Armar masivamente a tus legiones con estas armas.",
+      "B": "Reservar estas armas a algunas unidades de élite.",
+      "C": "Limitar su producción, prioridad a la disciplina."
+    }
+  },
+  "hk_031": {
+    "title": "Portales no autorizados",
+    "body": "Unos demonios han abierto portales hacia la superficie sin pedírtelo. Las fugas de energía atraen la atención de los mundos de arriba.",
+    "choices": {
+      "A": "Extender esos portales, la ocasión es demasiado buena.",
+      "B": "Cerrarlos debidamente, imponiendo reglas estrictas.",
+      "C": "Conservar solo algunos en zonas discretas."
+    }
+  },
+  "hk_032": {
+    "title": "Duelos entre campeones",
+    "body": "Tus mejores campeones, almas y demonios confundidos, se enfrentan sin cesar para atraer tu mirada y reclamar más poder.",
+    "choices": {
+      "A": "Favorecer a los demonios más brutales.",
+      "B": "Recompensar a las almas más astutas.",
+      "C": "Establecer un código de honor para regular los duelos."
+    }
+  },
+  "hk_033": {
+    "title": "Ciudad infernal en la Tierra",
+    "body": "Un barrio de una gran ciudad mortal se parece cada vez más a un anexo del Infierno: cultos, violencia, símbolos grabados por todas partes.",
+    "choices": {
+      "A": "Transformarlo en un verdadero bastión infernal.",
+      "B": "Recuperar sobre todo almas preciosas, discretamente.",
+      "C": "Armar a algunas legiones para controlar este caos urbano."
+    }
+  },
+  "hk_034": {
+    "title": "Lotería de los condenados",
+    "body": "Un demonio ha inventado una lotería donde los condenados pueden «ganar» un suplicio más ligero a cambio de delaciones y servicios.",
+    "choices": {
+      "A": "Fomentar este sistema, atrae a muchas almas.",
+      "B": "Transformarlo en una herramienta de control estricto.",
+      "C": "Confiárselo a tus legiones para que se beneficien."
+    }
+  },
+  "hk_035": {
+    "title": "Torre de las confesiones",
+    "body": "Una torre inmensa donde los condenados vienen a confesar lo que nunca dijeron en vida. Esos secretos podrían serte útiles.",
+    "choices": {
+      "A": "Utilizar estas confesiones para reforzar tu stock de almas.",
+      "B": "Explotar ciertos secretos para influir en la superficie.",
+      "C": "Archivar estos expedientes para mejorar el orden infernal."
+    }
+  },
+  "hk_036": {
+    "title": "Guerra de estilos de tortura",
+    "body": "Dos escuelas de tortura se oponen: una aboga por el refinamiento, la otra por la brutalidad pura. Las disputas aumentan.",
+    "choices": {
+      "A": "Apoyar la escuela brutal, útil para tus legiones.",
+      "B": "Apoyar la escuela refinada, más compatible con el orden.",
+      "C": "Dejarlas competir, tú te alimentas de ambos lados."
+    }
+  },
+  "hk_037": {
+    "title": "Exportación de pesadillas",
+    "body": "Un departamento propone sistematizar el envío de pesadillas a los mortales para preparar sus almas para unirse a ti.",
+    "choices": {
+      "A": "Inundar sus noches de visiones infernales.",
+      "B": "Apuntar sobre todo a los líderes y dirigentes humanos.",
+      "C": "Calibrar las pesadillas para mantener el equilibrio."
+    }
+  },
+  "hk_038": {
+    "title": "Revuelta de los escribas infernales",
+    "body": "Los escribas que consignan cada falta, cada contrato y cada suplicio se quejan de ser ignorados a pesar de su importancia.",
+    "choices": {
+      "A": "Recompensarlos con más poder militar.",
+      "B": "Integrarlos más en la cadena de mando.",
+      "C": "Halagarlos en público, sin demasiadas concesiones."
+    }
+  },
+  "hk_039": {
+    "title": "Templo derrumbado en la superficie",
+    "body": "Un antiguo templo dedicado a tu culto acaba de derrumbarse. Algunos mortales ven en ello una señal, otros una simple ruina.",
+    "choices": {
+      "A": "Reforzar la presencia discreta de tus agentes en la zona.",
+      "B": "Aprovechar el evento para atraer nuevas almas.",
+      "C": "Transformar el lugar en un punto de anclaje más estructurado."
+    }
+  },
+  "hk_040": {
+    "title": "Consejo estratégico infernal",
+    "body": "Tus consejeros más influyentes se reúnen. Cada uno quiere que privilegies su dominio: almas, ejércitos, orden o superficie.",
+    "choices": {
+      "A": "Dar un poco más a cada uno, a riesgo de tensar el orden.",
+      "B": "Imponer la primacía del orden, aunque se pierdan almas.",
+      "C": "Invertir en la superficie, tu futuro terreno de juego."
+    }
+  },
+  "hk_041": {
+    "title": "Salón de los pecados capitales",
+    "body": "Te proponen organizar un gran «salón» donde cada pecado capital tendría su pabellón, sus atracciones y sus embajadores demoníacos.",
+    "choices": {
+      "A": "Poner el énfasis en el cebo de almas, a toda costa.",
+      "B": "Estructurar el evento como una feria muy regulada.",
+      "C": "Hacer de él sobre todo un escaparate para tus tropas de élite."
+    }
+  },
+  "hk_042": {
+    "title": "Academia militar infernal",
+    "body": "Tus generales quieren crear una academia oficial para formar a los futuros comandantes de legiones.",
+    "choices": {
+      "A": "Poner el énfasis en la fuerza bruta y el miedo.",
+      "B": "Valorar la lealtad y la disciplina ante todo.",
+      "C": "Incluir cursos sobre la manipulación de la superficie."
+    }
+  },
+  "hk_043": {
+    "title": "Gran eclipse infernal",
+    "body": "Un eclipse raro oscurece a la vez el Infierno y la superficie. Las fronteras entre los mundos se vuelven más finas.",
+    "choices": {
+      "A": "Aprovechar para empujar más almas hacia ti.",
+      "B": "Reforzar las barreras para evitar las fugas.",
+      "C": "Dejar a tus demonios infiltrar los sueños de los mortales."
+    }
+  },
+  "hk_044": {
+    "title": "Redacción de un nuevo Código infernal",
+    "body": "Tus juristas desean reescribir enteramente el Código de los castigos para adaptarlo a los vicios modernos.",
+    "choices": {
+      "A": "Crear un Código más despiadado para las almas.",
+      "B": "Integrar las reivindicaciones de ciertos generales.",
+      "C": "Insistir en la claridad y la eficacia de las reglas."
+    }
+  },
+  "hk_045": {
+    "title": "Cónclave de los tentadores",
+    "body": "Los tentadores que obran en la superficie quieren una voz más importante en la estrategia global.",
+    "choices": {
+      "A": "Darles más libertad para cosechar almas.",
+      "B": "Integrarlos en una jerarquía más estricta.",
+      "C": "Obligarlos a coordinar sus acciones con las legiones."
+    }
+  },
+  "hk_046": {
+    "title": "Epidemia de lasitud infernal",
+    "body": "Incluso algunos demonios parecen cansados de castigar los mismos pecados desde hace siglos.",
+    "choices": {
+      "A": "Sustituirlos por reclutas más frescos.",
+      "B": "Organizar campañas de guerra para despertarlos.",
+      "C": "Reacondicionar algunos círculos para variar los placeres."
+    }
+  },
+  "hk_047": {
+    "title": "Torre de los gritos deformados",
+    "body": "Una torre recoge y amplifica los gritos de los condenados. Recientemente, los ecos empiezan a turbar incluso a tus soldados.",
+    "choices": {
+      "A": "Redirigir estos gritos hacia la superficie para atormentarla.",
+      "B": "Aislar la torre en una zona muy controlada.",
+      "C": "Utilizar estos ecos para entrenar mentalmente a tus legiones."
+    }
+  },
+  "hk_048": {
+    "title": "Mercado de las ilusiones condenadas",
+    "body": "Un mercado ofrece a los condenados ilusiones temporales de vida pasada a cambio de largos años suplementarios de tormento.",
+    "choices": {
+      "A": "Fomentar este mercado, llena rápido tus reservas.",
+      "B": "Regular los contratos para mantener un mínimo de orden.",
+      "C": "Reservar ciertas ilusiones a los más útiles para tus planes."
+    }
+  },
+  "hk_049": {
+    "title": "Juego de conquista entre demonios",
+    "body": "Un juego de estrategia que circula entre los demonios simula la conquista de nuevas tierras en la superficie.",
+    "choices": {
+      "A": "Hacer de él una herramienta oficial para elegir las campañas.",
+      "B": "Limitarlo al entrenamiento de algunos oficiales.",
+      "C": "Dejar a los demonios jugar libremente, sin regular demasiado."
+    }
+  },
+  "hk_050": {
+    "title": "Profecía grabada en la lava",
+    "body": "Unas inscripciones aparecidas en la lava anuncian la caída de un «rey de llamas» si el equilibrio se rompe demasiado.",
+    "choices": {
+      "A": "Ignorar la profecía y acelerar aún más la condenación.",
+      "B": "Reforzar el orden para evitar un vuelco brutal.",
+      "C": "Repartir el caos entre superficie, legiones y almas."
+    }
+  },
+  "hk_051": {
+    "title": "Túnel hacia un antiguo infierno olvidado",
+    "body": "Unos mineros demoníacos han perforado un paso hacia una zona muy antigua, abandonada desde hace milenios.",
+    "choices": {
+      "A": "Enviar inmediatamente nuevas almas a explotar.",
+      "B": "Explorarlo prudentemente con una fuerza disciplinada.",
+      "C": "Servirse de él como base secreta para operaciones en la Tierra."
+    }
+  },
+  "hk_052": {
+    "title": "Complot de los archiveros de la sombra",
+    "body": "Los archiveros encargados de consignar los pactos y pecados amenazan con revelar los errores de gestión de ciertos generales.",
+    "choices": {
+      "A": "Proteger tus secretos alimentándolos con almas.",
+      "B": "Poner estos archivos bajo un control militar estricto.",
+      "C": "Dejar filtrar algunos escándalos para reequilibrar los poderes."
+    }
+  },
+  "hk_053": {
+    "title": "Tormentas de chispas en la superficie",
+    "body": "Pequeñas lluvias de chispas venidas de abajo caen sobre ciertos lugares de la superficie y avivan los conflictos.",
+    "choices": {
+      "A": "Intensificar estas lluvias para cosechar más almas.",
+      "B": "Limitar su frecuencia para no atraer demasiada atención.",
+      "C": "Canalizarlas hacia zonas ya inestables."
+    }
+  },
+  "hk_054": {
+    "title": "Reforma de las cadenas sagradas",
+    "body": "Te proponen sustituir las viejas cadenas infernales por vínculos más sutiles, basados en las promesas y los remordimientos.",
+    "choices": {
+      "A": "Centrar la reforma en la cantidad de almas vinculadas.",
+      "B": "Privilegiar la solidez y el control de los flujos.",
+      "C": "Probar estas cadenas sobre todo en ciertos líderes mortales."
+    }
+  },
+  "hk_055": {
+    "title": "Carnaval de las ilusiones monstruosas",
+    "body": "Unas tropas de demonios ilusionistas quieren organizar un carnaval permanente en un círculo particular.",
+    "choices": {
+      "A": "Hacer de él una trampa de almas irresistible.",
+      "B": "Integrarlo al orden general como zona experimental.",
+      "C": "Vincularlo a ciertos lugares de la superficie las noches especiales."
+    }
+  },
+  "hk_056": {
+    "title": "Río de sangre desbordado",
+    "body": "Uno de los grandes ríos de sangre se desborda y amenaza varias instalaciones importantes.",
+    "choices": {
+      "A": "Canalizar la crecida hacia círculos superpoblados.",
+      "B": "Erigir diques infernales con tus unidades disciplinadas.",
+      "C": "Dejar que el río redibuje el paisaje infernal."
+    }
+  },
+  "hk_057": {
+    "title": "Concurso de corrupción en la Tierra",
+    "body": "Unos demonios se lanzan un desafío: corromper a figuras públicas cada vez más influyentes.",
+    "choices": {
+      "A": "Recompensar la cosecha masiva de almas.",
+      "B": "Exigir un enfoque más selectivo y controlado.",
+      "C": "Valorar las operaciones espectaculares en la superficie."
+    }
+  },
+  "hk_058": {
+    "title": "Torre de observación de los mundos",
+    "body": "Una torre permite observar los sueños, las guerras y las oraciones de los mortales en tiempo real.",
+    "choices": {
+      "A": "Utilizar estas visiones para atrapar aún más almas.",
+      "B": "Servirse de ella para ajustar con precisión tu orden interno.",
+      "C": "Dar acceso a ciertos comandantes elegidos a dedo."
+    }
+  },
+  "hk_059": {
+    "title": "Culto del rey de los Infiernos",
+    "body": "Ciertos demonios empiezan a adorarte como a una divinidad y reclaman rituales en tu honor.",
+    "choices": {
+      "A": "Fomentar este culto, a riesgo de alimentar el exceso.",
+      "B": "Estructurarlo en el seno de una jerarquía bien definida.",
+      "C": "Tolerarlo en la superficie únicamente, como instrumento político."
+    }
+  },
+  "hk_060": {
+    "title": "Voz desconocida en los túneles",
+    "body": "Unas patrullas escuchan una voz que murmura secretos sobre las fallas de tu reinado.",
+    "choices": {
+      "A": "Enviar grupos de almas condenadas a investigar.",
+      "B": "Mandar legiones disciplinadas para asegurar la zona.",
+      "C": "Explotar discretamente estos murmullos para ajustar tu estrategia."
+    }
+  },
+  "hk_061": {
+    "title": "Laboratorio de nuevos pecados",
+    "body": "Un círculo experimental busca inventar formas de vicio adaptadas a la era moderna.",
+    "choices": {
+      "A": "Probar estas innovaciones en un máximo de mortales.",
+      "B": "Integrarlas en un protocolo estrictamente controlado.",
+      "C": "No difundir más que las más eficaces hacia la superficie."
+    }
+  },
+  "hk_062": {
+    "title": "Grandes juegos infernales",
+    "body": "Juegos macabros con pruebas, apuestas y desafíos enfrentan a condenados, demonios y a veces algunas almas de héroes.",
+    "choices": {
+      "A": "Orientarlos hacia la recolección masiva de almas.",
+      "B": "Hacer de ellos una herramienta de entrenamiento para tus legiones.",
+      "C": "Vincularlos a eventos de la superficie para reforzar tu influencia."
+    }
+  },
+  "hk_063": {
+    "title": "Revuelta de un círculo autónomo",
+    "body": "Un círculo ha empezado a administrarse a sí mismo, sin enviar los informes habituales.",
+    "choices": {
+      "A": "Ahogarlo bajo nuevas almas para retomar el control.",
+      "B": "Enviar una fuerza disciplinada a restablecer la autoridad central.",
+      "C": "Observar primero, para ver si este modelo es explotable en otros lugares."
+    }
+  },
+  "hk_064": {
+    "title": "Biblioteca de las creencias rotas",
+    "body": "Una biblioteca reúne los textos, oraciones y esperanzas traicionadas de los mortales.",
+    "choices": {
+      "A": "Hacer de ella un arma psicológica para torturar más.",
+      "B": "Organizarla para mejorar la gestión global de las almas.",
+      "C": "Utilizarla para afinar las operaciones en la superficie."
+    }
+  },
+  "hk_065": {
+    "title": "Crisis diplomática con otro plano",
+    "body": "Un plano vecino, ni totalmente celestial ni totalmente infernal, protesta contra tus incursiones.",
+    "choices": {
+      "A": "Responder con una demostración brutal de fuerza.",
+      "B": "Negociar fronteras y reglas precisas.",
+      "C": "Desviar el conflicto hacia zonas de la superficie."
+    }
+  },
+  "hk_066": {
+    "title": "Concurso del alma más irrecuperable",
+    "body": "Tus torturadores se disputan el título de «peor caso» jamás gestionado.",
+    "choices": {
+      "A": "Amplificar los castigos para recolectar más energía.",
+      "B": "Imponer un marco estricto, incluso en el horror.",
+      "C": "Utilizar estos casos como ejemplos para asustar a la superficie."
+    }
+  },
+  "hk_067": {
+    "title": "Festival de las máscaras demoníacas",
+    "body": "Un festival donde demonios y condenados llevan máscaras que representan sus faltas y ambiciones.",
+    "choices": {
+      "A": "Transformar este festival en vasta trampa para nuevas almas.",
+      "B": "Estructurarlo como un ritual de orden y de jerarquía.",
+      "C": "Vincularlo simbólicamente a ciertos cultos de la superficie."
+    }
+  },
+  "hk_068": {
+    "title": "Negociación con una divinidad olvidada",
+    "body": "Una divinidad casi borrada del mundo de los mortales busca refugio e influencia en tu dominio.",
+    "choices": {
+      "A": "Utilizarla para atraer un flujo de almas nostálgicas.",
+      "B": "Integrarla en tu orden como vasallo muy vigilado.",
+      "C": "Enviarla a jugar un papel discreto en la superficie."
+    }
+  },
+  "hk_069": {
+    "title": "Coloso de cenizas",
+    "body": "Un gigantesco coloso de cenizas se ha formado en un desierto infernal y atrae las miradas de todo el reino.",
+    "choices": {
+      "A": "Alimentarlo con almas para convertirlo en un arma.",
+      "B": "Encadenarlo e integrarlo al paisaje controlado.",
+      "C": "Vincularlo a ciertos lugares de la superficie como símbolo vivo."
+    }
+  },
+  "hk_070": {
+    "title": "Asamblea de los mil murmullos",
+    "body": "Miles de voces de condenados murmuran tu nombre y debaten cada decisión que tomas.",
+    "choices": {
+      "A": "Explotar este coro para sondear a la masa de almas.",
+      "B": "Canalizar estos murmullos en una estructura de consejo.",
+      "C": "Dejar que estas voces se expandan hacia la superficie para influir en los soñadores."
+    }
+  },
+  "hk_071": {
+    "title": "Congreso de pecadores famosos",
+    "body": "Varias almas muy famosas entre los mortales se encuentran en un mismo círculo y quieren ser tratadas como una élite.",
+    "choices": {
+      "A": "Exhibirlas como trofeos para atraer más almas.",
+      "B": "Someterlas a las mismas reglas que todo el mundo.",
+      "C": "Utilizarlas para influir discretamente en la superficie."
+    }
+  },
+  "hk_072": {
+    "title": "Maniobras militares en las fronteras",
+    "body": "Tus legiones entrenan cerca de los límites de tu reino, lo que inquieta a los planos vecinos.",
+    "choices": {
+      "A": "Transformar el ejercicio en verdadera demostración de fuerza.",
+      "B": "Tranquilizar oficialmente, manteniendo el entrenamiento.",
+      "C": "Desplazar una parte de las tropas hacia objetivos terrestres."
+    }
+  },
+  "hk_073": {
+    "title": "Círculo de los blasfemos creativos",
+    "body": "Un círculo agrupa a los que han inventado nuevas formas de blasfemia. Sus ideas podrían servir o hacerlo descarrilar todo.",
+    "choices": {
+      "A": "Explotar su inventiva para atraer más almas.",
+      "B": "Aislarlos estrictamente para preservar el orden.",
+      "C": "Dejar filtrar algunas de sus ideas hacia la superficie."
+    }
+  },
+  "hk_074": {
+    "title": "Corte de los suplicios refinados",
+    "body": "Una corte de artesanos del tormento propone sufrimientos refinados, casi artísticos.",
+    "choices": {
+      "A": "Sacar el máximo de la cantidad de almas tratadas.",
+      "B": "Instaurar un protocolo rígido para cada suplicio.",
+      "C": "Reservar estos refinamientos a objetivos influyentes en la Tierra."
+    }
+  },
+  "hk_075": {
+    "title": "Arrebato de un general legendario",
+    "body": "Un general de leyenda, temido por todos, critica abiertamente tu gestión.",
+    "choices": {
+      "A": "Ponerlo en su sitio con un flujo masivo de almas que gestionar.",
+      "B": "Promoverlo a un papel más supervisado.",
+      "C": "Enviarlo a dirigir una campaña muy arriesgada en la superficie."
+    }
+  },
+  "hk_076": {
+    "title": "Inventarios infinitos de pecados",
+    "body": "Los escribas se quejan: cada día, los pecados nuevos se acumulan más rápido que los registros.",
+    "choices": {
+      "A": "Presionarlos para registrar todo, incluso a costa del caos.",
+      "B": "Simplificar las categorías para mantener un orden global.",
+      "C": "Registrar en detalle solo los pecados clave en la superficie."
+    }
+  },
+  "hk_077": {
+    "title": "Peregrinaje de condenados arrepentidos",
+    "body": "Un grupo de condenados intenta un «peregrinaje» improvisado para pedir una atenuación de sus penas.",
+    "choices": {
+      "A": "Castigarlos severamente y dar ejemplo.",
+      "B": "Crear un ritual oficial de falsa redención muy controlado.",
+      "C": "Devolverlos un instante a la superficie, marcados para siempre."
+    }
+  },
+  "hk_078": {
+    "title": "Concurso de gritos armonizados",
+    "body": "Unos torturadores organizan un concurso para transformar los gritos en coros casi musicales.",
+    "choices": {
+      "A": "Fomentar para atraer más almas curiosas.",
+      "B": "Poner este concurso bajo una regla estricta.",
+      "C": "Difundir estos «cantos» en las pesadillas de los mortales."
+    }
+  },
+  "hk_079": {
+    "title": "Círculo de los pactos rotos",
+    "body": "Un círculo entero está poblado por aquellos que han traicionado sus pactos, infernales o no.",
+    "choices": {
+      "A": "Explotarlos para obtener confesiones y secretos.",
+      "B": "Reforzar la estructura de sus castigos como ejemplo.",
+      "C": "Enviar a algunos de ellos a sembrar la discordia en la Tierra."
+    }
+  },
+  "hk_080": {
+    "title": "Visita de un antiguo rey destronado",
+    "body": "Un antiguo rey de los Infiernos, caído hace mucho tiempo, vuelve a verte y comenta tu reinado.",
+    "choices": {
+      "A": "Utilizarlo para justificar una intensificación de las condenaciones.",
+      "B": "Integrarlo como consejero bajo alta vigilancia.",
+      "C": "Enviarlo a inspeccionar zonas cercanas a la superficie."
+    }
+  },
+  "hk_081": {
+    "title": "Escuela de las tentaciones modernas",
+    "body": "Una escuela propone formar a demonios especializados en las redes, las pantallas y las adicciones contemporáneas.",
+    "choices": {
+      "A": "Focalizar en el volumen de almas cosechadas.",
+      "B": "Regular fuertemente los métodos para mantener el control.",
+      "C": "Apuntar prioritariamente a los lugares de poder en la superficie."
+    }
+  },
+  "hk_082": {
+    "title": "Círculos en competencia",
+    "body": "Dos círculos presumen de ser «el más infernal» y se pelean por recursos.",
+    "choices": {
+      "A": "Alimentarlos a ambos con más almas.",
+      "B": "Imponer una jerarquía clara entre ellos.",
+      "C": "Atribuir a cada uno una misión diferente en la superficie."
+    }
+  },
+  "hk_083": {
+    "title": "Aparición de una falla luminosa",
+    "body": "Una falla luminosa se abre en el fondo de una sima. Algunos ven en ella una intrusión de arriba.",
+    "choices": {
+      "A": "Inundarla de almas para saturarla.",
+      "B": "Enviar legiones disciplinadas para controlarla.",
+      "C": "Dirigir una parte del flujo hacia lugares precisos en la Tierra."
+    }
+  },
+  "hk_084": {
+    "title": "Torre de meditación inversa",
+    "body": "Una torre donde los condenados no meditan para encontrar la paz, sino para rumiar sus faltas.",
+    "choices": {
+      "A": "Aumentar el número de almas admitidas en esta torre.",
+      "B": "Estructurar su funcionamiento como un monasterio infernal.",
+      "C": "Utilizar estas rumiaciones para guiar tus tentaciones en la Tierra."
+    }
+  },
+  "hk_085": {
+    "title": "Desfile de bestias infernales",
+    "body": "Tus criaturas más monstruosas desfilan por los pasillos en medio de los condenados aterrorizados.",
+    "choices": {
+      "A": "Hacer de ello un espectáculo regular para romper toda resistencia.",
+      "B": "Poner el desfile bajo un protocolo de seguridad estricto.",
+      "C": "Enviar algunas bestias a merodear por las fronteras de la superficie."
+    }
+  },
+  "hk_086": {
+    "title": "Noche de las llamas invertidas",
+    "body": "Una noche extraña donde las llamas arden al revés, del suelo hacia el cielo, desestabiliza a todo el mundo.",
+    "choices": {
+      "A": "Dejar que este fenómeno atraiga un máximo de almas.",
+      "B": "Controlar y cartografiar cada zona afectada.",
+      "C": "Sincronizar esta noche con ciertos rituales de superficie."
+    }
+  },
+  "hk_087": {
+    "title": "Reunión de los maestros de tortura",
+    "body": "Los maestros de tortura quieren ser consultados sobre la estrategia global.",
+    "choices": {
+      "A": "Concederles más almas que gestionar.",
+      "B": "Integrarlos en un consejo fuertemente jerarquizado.",
+      "C": "Confiarles objetivos específicos en la superficie."
+    }
+  },
+  "hk_088": {
+    "title": "Brecha hacia un infierno menor",
+    "body": "Una brecha lleva a un pequeño infierno local, mal organizado, que te imita burdamente.",
+    "choices": {
+      "A": "Robarle sus almas y absorberlo.",
+      "B": "Reestructurarlo e integrarlo a tu orden.",
+      "C": "Servirse de él como base pivote para incursiones terrestres."
+    }
+  },
+  "hk_089": {
+    "title": "Procesión de las máscaras rotas",
+    "body": "Una procesión de condenados llevando máscaras agrietadas atraviesa varios círculos.",
+    "choices": {
+      "A": "Atraer aún más almas en busca de espectáculo.",
+      "B": "Hacer de esta procesión un ritual muy codificado.",
+      "C": "Utilizarla como símbolo en ciertos cultos de superficie."
+    }
+  },
+  "hk_090": {
+    "title": "Festival de la ceniza roja",
+    "body": "Una lluvia de ceniza roja cae sobre todo tu reino. Algunos ven en ello un presagio.",
+    "choices": {
+      "A": "Proclamar una gran caza de almas.",
+      "B": "Hacer de ello una ceremonia de orden y de purificación inversa.",
+      "C": "Asociar este festival a eventos precisos en la Tierra."
+    }
+  },
+  "hk_091": {
+    "title": "Rebelión de los vigilantes de puentes",
+    "body": "Los que guardan los puentes entre círculos reclaman más consideración.",
+    "choices": {
+      "A": "Cebarlos de nuevas almas para filtrar.",
+      "B": "Clarificar estrictamente sus derechos y deberes.",
+      "C": "Afectarlos también a la vigilancia de los pasajes hacia la superficie."
+    }
+  },
+  "hk_092": {
+    "title": "Torre de los juramentos imposibles",
+    "body": "Una torre donde los condenados son forzados a jurar lo que nunca podrán cumplir.",
+    "choices": {
+      "A": "Multiplicar estos juramentos para atrapar más almas.",
+      "B": "Indexar cada juramento en un sistema muy ordenado.",
+      "C": "Exportar ciertos juramentos hacia pactos de superficie."
+    }
+  },
+  "hk_093": {
+    "title": "Campos de estatuas de ceniza",
+    "body": "Condenados congelados en estatuas de ceniza siembran una llanura, listas para romperse o despertar.",
+    "choices": {
+      "A": "Romperlas en masa para alimentar tu reino.",
+      "B": "Catalogarlas y vigilarlas según reglas estrictas.",
+      "C": "Enviar algunas a encantar silenciosamente la superficie."
+    }
+  },
+  "hk_094": {
+    "title": "Asamblea de las lenguas inflamadas",
+    "body": "Lenguas de fuego murmuran los peores secretos de los vivos y de los muertos.",
+    "choices": {
+      "A": "Saturar tus círculos con estas revelaciones para romper las almas.",
+      "B": "Clasificarlas como informaciones estratégicas.",
+      "C": "Dejar filtrar algunas hacia oídos influyentes en la Tierra."
+    }
+  },
+  "hk_095": {
+    "title": "Corte de los pactos refinados",
+    "body": "Una corte se especializa en pactos extremadamente detallados, casi jurídicos.",
+    "choices": {
+      "A": "Maximizar el número de almas concernidas.",
+      "B": "Hacer de ella un pilar del orden infernal.",
+      "C": "Utilizar estos pactos como herramientas de dominio político en la superficie."
+    }
+  },
+  "hk_096": {
+    "title": "Lago de cristal ardiente",
+    "body": "Un lago de cristal licuado refleja los peores recuerdos de los condenados y de ciertos demonios.",
+    "choices": {
+      "A": "Sumergir un máximo de almas.",
+      "B": "Cartografiar estos reflejos para organizar mejor las penas.",
+      "C": "Mostrar imágenes de la superficie para influir en tus decisiones."
+    }
+  },
+  "hk_097": {
+    "title": "Cónclave de las risas dementes",
+    "body": "Un grupo de demonios ya no se toma nada en serio y transforma cada suplicio en farsa cruel.",
+    "choices": {
+      "A": "Dejarlos atraer a las almas mediante lo grotesco.",
+      "B": "Restablecer un protocolo estricto en sus dominios.",
+      "C": "Enviarlos a desestabilizar ciertos lugares en la Tierra."
+    }
+  },
+  "hk_098": {
+    "title": "Noche de los espejos invertidos",
+    "body": "Aparecen espejos un poco por todas partes, mostrando a los condenados lo que habrían hecho si hubieran sido aún peores.",
+    "choices": {
+      "A": "Explotar estas visiones para reforzar el dolor.",
+      "B": "Guardar cuidadosamente estos espejos en salas codificadas.",
+      "C": "Proyectar ciertos reflejos en los sueños de los mortales."
+    }
+  },
+  "hk_099": {
+    "title": "Proceso de promoción demoníaca",
+    "body": "Tus demonios piden un sistema claro de promoción, con grados, privilegios y títulos.",
+    "choices": {
+      "A": "Valorar a los que traen más almas.",
+      "B": "Basar la promoción en la obediencia y el orden.",
+      "C": "Recompensar particularmente a los que actúan en la superficie."
+    }
+  },
+  "hk_100": {
+    "title": "Gran censo infernal",
+    "body": "Te proponen un censo completo de almas, legiones, estructuras e influencias en la superficie.",
+    "choices": {
+      "A": "Focalizar el censo en la masa de almas.",
+      "B": "Hacer de él una herramienta de orden y de control absoluto.",
+      "C": "Utilizarlo sobre todo para planificar campañas en la Tierra."
+    }
+  },
+  "hk_101": {
+    "title": "Banco de los condenados",
+    "body": "Un banco infernal propone a los condenados «prestar» fragmentos de su alma a cambio de favores temporales.",
+    "choices": {
+      "A": "Fomentar estos préstamos para inflar tus reservas de almas.",
+      "B": "Reglamentar severamente para evitar el caos.",
+      "C": "Utilizar estos contratos para financiar operaciones en la superficie."
+    }
+  },
+  "hk_102": {
+    "title": "Campaña de reclutamiento masivo",
+    "body": "Tus generales lanzan una campaña para reclutar nuevas legiones entre los condenados más violentos.",
+    "choices": {
+      "A": "Aceptar a todos los voluntarios, incluso inestables.",
+      "B": "No tomar más que a los más feroces y disciplinados.",
+      "C": "Extraer ciertos perfiles para misiones en la Tierra."
+    }
+  },
+  "hk_103": {
+    "title": "Mercado negro de reliquias",
+    "body": "Reliquias robadas en la superficie circulan en un mercado negro infernal.",
+    "choices": {
+      "A": "Inundar el mercado para atraer más almas corruptas.",
+      "B": "Confiscar e inventariar cada reliquia.",
+      "C": "Devolver algunas reliquias malditas a la superficie."
+    }
+  },
+  "hk_104": {
+    "title": "Colegio de estrategas infernales",
+    "body": "Un colegio de estrategas propone planes precisos para la guerra, la corrupción y el orden.",
+    "choices": {
+      "A": "Misionarlos para maximizar la cosecha de almas.",
+      "B": "Integrarlos a una cadena jerárquica estricta.",
+      "C": "Orientar una parte de sus planes hacia la superficie."
+    }
+  },
+  "hk_105": {
+    "title": "Procesión de los reyes olvidados",
+    "body": "Antiguos reyes mortales caídos desfilan ante tu trono, reclamando un estatus particular.",
+    "choices": {
+      "A": "Exhibirlos para atraer a las almas ambiciosas.",
+      "B": "Reubicarlos en un protocolo rígido de castigos.",
+      "C": "Enviar a algunos de ellos a influir en sus antiguas tierras."
+    }
+  },
+  "hk_106": {
+    "title": "Concurso de suplicios innovadores",
+    "body": "Tus torturadores organizan un concurso para inventar nuevos suplicios adaptados a los vicios contemporáneos.",
+    "choices": {
+      "A": "Recompensar los suplicios más rentables en almas.",
+      "B": "Normalizar cada técnica en un manual oficial.",
+      "C": "Reservar los más creativos a las élites de la superficie."
+    }
+  },
+  "hk_107": {
+    "title": "Guerra larvada entre dos círculos",
+    "body": "Dos círculos se acusan mutuamente de robar sus condenados y sus guardianes.",
+    "choices": {
+      "A": "Alimentarlos con almas para apaciguar la tensión… provisionalmente.",
+      "B": "Enviar una legión de élite a poner orden.",
+      "C": "Canalizar su rivalidad hacia la conquista de la superficie."
+    }
+  },
+  "hk_108": {
+    "title": "Rumor de un infierno más suave",
+    "body": "Corre un rumor: en algún lugar existiría un infierno más «soportable».",
+    "choices": {
+      "A": "Dejar que el rumor se expanda, fuente de desesperación.",
+      "B": "Identificar y aplastar todo intento de fuga organizada.",
+      "C": "Utilizar esta leyenda para cebar a ciertos mortales."
+    }
+  },
+  "hk_109": {
+    "title": "Torre de los ecos militares",
+    "body": "Una torre refleja en eco los gritos y órdenes de tus legiones.",
+    "choices": {
+      "A": "Amplificar estos ecos para galvanizar a las almas.",
+      "B": "Ordenar la torre en un protocolo militar estricto.",
+      "C": "Utilizarla para coordinar asaltos en la superficie."
+    }
+  },
+  "hk_110": {
+    "title": "Salón de los contratos imposibles",
+    "body": "Un salón atrae a mortales y condenados con contratos que ningún ser sensato aceptaría.",
+    "choices": {
+      "A": "Firmar en masa para acumular almas.",
+      "B": "Filtrar los acuerdos para mantener un orden legible.",
+      "C": "Reservar ciertas cláusulas a los poderosos de la superficie."
+    }
+  },
+  "hk_111": {
+    "title": "Motín en un puente de los condenados",
+    "body": "Un puente que une dos círculos es ocupado por condenados amotinados.",
+    "choices": {
+      "A": "Ahogarlos bajo un flujo de almas suplementarias.",
+      "B": "Enviar una fuerza disciplinada a retomar el control.",
+      "C": "Transformar este puente en puesto de observación de la superficie."
+    }
+  },
+  "hk_112": {
+    "title": "Calendario de las grandes abominaciones",
+    "body": "Te proponen un calendario de las «grandes abominaciones» a celebrar cada año infernal.",
+    "choices": {
+      "A": "Alinear estas fechas con los picos de condenación.",
+      "B": "Estructurar este calendario como osamenta del orden.",
+      "C": "Sincronizar ciertas fechas con la superficie."
+    }
+  },
+  "hk_113": {
+    "title": "Sima de sombras movedizas",
+    "body": "Una sima vomita sombras que imitan a los mortales vivos.",
+    "choices": {
+      "A": "Echar almas dentro para alimentar estas sombras.",
+      "B": "Poner la sima bajo vigilancia militar estricta.",
+      "C": "Enviar estas sombras a proyectar el miedo en la superficie."
+    }
+  },
+  "hk_114": {
+    "title": "Culto de la llama silenciosa",
+    "body": "Un nuevo culto adora una llama que no quema pero consume la voluntad.",
+    "choices": {
+      "A": "Dejar que la llama devore un máximo de almas.",
+      "B": "Integrarla en un ritual oficial muy estructurado.",
+      "C": "Vincular este culto a sectas humanas."
+    }
+  },
+  "hk_115": {
+    "title": "Escuela de los mentores infernales",
+    "body": "Una escuela forma «mentores» especializados en la perversión lenta de los caracteres.",
+    "choices": {
+      "A": "Medir su éxito por la cantidad de almas.",
+      "B": "Evaluar sobre todo su disciplina y su obediencia.",
+      "C": "Asignarlos a figuras clave de la superficie."
+    }
+  },
+  "hk_116": {
+    "title": "Río de recuerdos arrancados",
+    "body": "Un río arrastra los recuerdos más negros de los condenados.",
+    "choices": {
+      "A": "Precipitar aún más almas en él.",
+      "B": "Indexar estos recuerdos en archivos de orden.",
+      "C": "Utilizar estos recuerdos para orientar la corrupción de los vivos."
+    }
+  },
+  "hk_117": {
+    "title": "Juego de trono en miniatura",
+    "body": "Unos demonios han fabricado una maqueta de tu trono y repiten tus decisiones en miniatura.",
+    "choices": {
+      "A": "Fomentar este juego para reforzar tu aura.",
+      "B": "Imponer reglas estrictas: nada debe escapársete.",
+      "C": "Hacer de ello una simulación de las reacciones de la superficie."
+    }
+  },
+  "hk_118": {
+    "title": "Pilar de cadenas rotas",
+    "body": "Un pilar de cadenas rotas reúne los pactos y juramentos incumplidos.",
+    "choices": {
+      "A": "Atar más almas a él para inspirar terror.",
+      "B": "Organizar estas cadenas según un registro riguroso.",
+      "C": "Servirse de él para fragilizar ciertos contratos en la Tierra."
+    }
+  },
+  "hk_119": {
+    "title": "Lluvia de brasas sobre los barrios nobles",
+    "body": "Una lluvia de brasas cae solo sobre las zonas reservadas a los condenados influyentes.",
+    "choices": {
+      "A": "Multiplicar estas lluvias para romper su orgullo.",
+      "B": "Establecer un calendario preciso de estos castigos.",
+      "C": "Vincular estos eventos a ciertos escándalos de superficie."
+    }
+  },
+  "hk_120": {
+    "title": "Cónclave de los maestros ilusionistas",
+    "body": "Los maestros ilusionistas exigen un papel más importante en tu reinado.",
+    "choices": {
+      "A": "Dejarlos manipular las percepciones de masas.",
+      "B": "Encuadrarlos mediante una jerarquía clara.",
+      "C": "Enviarlos a sembrar la duda en los sueños de los vivos."
+    }
+  },
+  "hk_121": {
+    "title": "Campo de almas refugiadas",
+    "body": "Un campo informe de almas se presenta como «refugiado» de otros planos.",
+    "choices": {
+      "A": "Absorberlas en masa en tu sistema.",
+      "B": "Ponerlas bajo un régimen estrictamente codificado.",
+      "C": "Utilizarlas como moneda de cambio con la superficie."
+    }
+  },
+  "hk_122": {
+    "title": "Mercado de los recuerdos falsificados",
+    "body": "Un mercado vende a los condenados recuerdos que no son los suyos.",
+    "choices": {
+      "A": "Aprovechar la confusión para acumular almas.",
+      "B": "Normalizar estos intercambios para evitar las derivas.",
+      "C": "Exportar ciertos falsos recuerdos hacia mortales influenciables."
+    }
+  },
+  "hk_123": {
+    "title": "Erupción de un volcán de huesos",
+    "body": "Un volcán constituido de huesos y cráneos se despierta.",
+    "choices": {
+      "A": "Alimentarlo de almas para amplificar su poder.",
+      "B": "Canalizarlo en un plan de urbanismo infernal.",
+      "C": "Vincular su cólera a ciertos lugares de la superficie."
+    }
+  },
+  "hk_124": {
+    "title": "Corte de los suplicios administrativos",
+    "body": "Una corte se especializa en los suplicios burocráticos interminables.",
+    "choices": {
+      "A": "Enviar un flujo masivo de nuevas almas.",
+      "B": "Hacer de ella una pieza maestra de tu orden interno.",
+      "C": "Utilizar este modelo para inspirar algunas administraciones terrestres."
+    }
+  },
+  "hk_125": {
+    "title": "Delegación de los devotos fanáticos",
+    "body": "Almas de fanáticos religiosos quieren demostrarte que merecen un trato especial.",
+    "choices": {
+      "A": "Utilizarlas como escaparate para atraer a otros creyentes.",
+      "B": "Integrarlas en un círculo muy reglado.",
+      "C": "Volverlas contra las estructuras religiosas de la superficie."
+    }
+  },
+  "hk_126": {
+    "title": "Laberinto de cristal negro",
+    "body": "Un laberinto de cristal negro refleja las peores elecciones posibles de cada alma.",
+    "choices": {
+      "A": "Sumergir aún más almas en este laberinto.",
+      "B": "Cartografiar los caminos para mantener un control total.",
+      "C": "Proyectar ciertas visiones hacia decisores humanos."
+    }
+  },
+  "hk_127": {
+    "title": "Rumor de un traidor en tus filas",
+    "body": "Se murmura que un demonio de alto rango prepara un golpe de Estado.",
+    "choices": {
+      "A": "Ennegrecer el rumor castigando a inocentes.",
+      "B": "Lanzar una investigación jerarquizada y secreta.",
+      "C": "Utilizar el rumor para desencadenar una purga selectiva en la superficie."
+    }
+  },
+  "hk_128": {
+    "title": "Gran lotería de las resurrecciones abortadas",
+    "body": "Algunos condenados esperan una segunda oportunidad de volver vivos.",
+    "choices": {
+      "A": "Vender falsas esperanzas a cambio de almas.",
+      "B": "Crear un protocolo pseudooficial muy controlado.",
+      "C": "Efectuar algunos retornos espectaculares para asustar a los mortales."
+    }
+  },
+  "hk_129": {
+    "title": "Campo de jaulas suspendidas",
+    "body": "Unas jaulas suspendidas contienen almas que se entredenuncian sin fin.",
+    "choices": {
+      "A": "Aumentar el número de jaulas para obtener más confesiones.",
+      "B": "Regular este campo para evitar los desbordamientos.",
+      "C": "Explotar estas delaciones para manipular la superficie."
+    }
+  },
+  "hk_130": {
+    "title": "Banquete de las ilusiones envenenadas",
+    "body": "Te proponen organizar un banquete donde todo es ilusión… salvo los venenos.",
+    "choices": {
+      "A": "Invitar a un máximo de almas influyentes.",
+      "B": "Hacer de ello un ritual raro, muy codificado.",
+      "C": "Vincularlo a fiestas mortales vía sueños y alucinaciones."
+    }
+  },
+  "hk_131": {
+    "title": "Puente brumoso hacia la superficie",
+    "body": "Un puente de bruma aparece, uniendo brevemente tu reino a un lugar preciso del mundo de los vivos.",
+    "choices": {
+      "A": "Dejar que las almas afluyan a través de este puente.",
+      "B": "Asegurar cada paso con guardias estrictos.",
+      "C": "Enviar una pequeña fuerza de élite a explorar este lugar."
+    }
+  },
+  "hk_132": {
+    "title": "Trono secundario de las ilusiones",
+    "body": "Un trono secundario permite simular diferentes versiones de tu reinado.",
+    "choices": {
+      "A": "Probar escenarios que maximicen las almas.",
+      "B": "Probar escenarios que maximicen el orden.",
+      "C": "Probar escenarios centrados en la superficie."
+    }
+  },
+  "hk_133": {
+    "title": "Arena de los duelos de orgullo",
+    "body": "Una arena ve enfrentarse a almas incapaces de renunciar a su orgullo.",
+    "choices": {
+      "A": "Estimular estos duelos para romper más almas.",
+      "B": "Reglamentar la arena como un tribunal del orgullo.",
+      "C": "Seleccionar ciertos vencedores para misiones terrestres."
+    }
+  },
+  "hk_134": {
+    "title": "Cementerio de las promesas incumplidas",
+    "body": "Cada tumba lleva el nombre de una promesa traicionada.",
+    "choices": {
+      "A": "Enterrar allí aún más almas rotas.",
+      "B": "Indexar cada promesa para un orden perfecto.",
+      "C": "Despertar ciertas promesas en la superficie."
+    }
+  },
+  "hk_135": {
+    "title": "Lluvia de plumas quemadas",
+    "body": "Caen plumas calcinadas, vestigios de criaturas de arriba vencidas.",
+    "choices": {
+      "A": "Hacer de ello un signo de victoria para atraer almas.",
+      "B": "Almacenarlas en archivos sagrados invertidos.",
+      "C": "Dejar caer algunas sobre la superficie."
+    }
+  },
+  "hk_136": {
+    "title": "Consejo de los jueces chirriantes",
+    "body": "Un consejo de jueces exige más autoridad en los veredictos.",
+    "choices": {
+      "A": "Medir su eficacia por la masa de almas juzgadas.",
+      "B": "Ponerlos en una jerarquía rígida bajo tu mirada.",
+      "C": "Encargarles juzgar también ciertas acciones humanas."
+    }
+  },
+  "hk_137": {
+    "title": "Torre de los relojes invertidos",
+    "body": "Unos relojes giran al revés y alteran la percepción del tiempo.",
+    "choices": {
+      "A": "Sumergir más almas en esta confusión.",
+      "B": "Sincronizar estos relojes con tu orden interno.",
+      "C": "Hacer huir este tiempo extraño hacia noches mortales."
+    }
+  },
+  "hk_138": {
+    "title": "Sala de las máscaras reales",
+    "body": "Una sala conserva los rostros de todos tus predecesores.",
+    "choices": {
+      "A": "Exhibirlos para inspirar temor y atraer almas.",
+      "B": "Clasificarlos en un protocolo dinástico estricto.",
+      "C": "Proyectar estos rostros en los sueños de ciertos reyes vivos."
+    }
+  },
+  "hk_139": {
+    "title": "Feria de los milagros invertidos",
+    "body": "Una feria propone «milagros» que empeoran siempre la situación.",
+    "choices": {
+      "A": "Dejar que las almas se precipiten.",
+      "B": "Limitar los puestos para mantener el control.",
+      "C": "Conectar esta feria a charlatanes de la superficie."
+    }
+  },
+  "hk_140": {
+    "title": "Escaleras sin fin",
+    "body": "Una escalera sin fin obliga a los condenados a subir o bajar sin meta.",
+    "choices": {
+      "A": "Aumentar el flujo de almas aprisionadas dentro.",
+      "B": "Cartografiar cada descansillo en tus registros.",
+      "C": "Hacer sentir estos escalones a los insomnes humanos."
+    }
+  },
+  "hk_141": {
+    "title": "Crédito de sufrimiento",
+    "body": "Te proponen un sistema de «crédito de sufrimiento»: sufrir más ahora para «aligerar» más tarde, en teoría.",
+    "choices": {
+      "A": "Lanzar este sistema para recuperar un máximo de almas.",
+      "B": "Encuadrarlo con reglas imposibles de satisfacer.",
+      "C": "Vender esta idea a ciertos gurús de la superficie."
+    }
+  },
+  "hk_142": {
+    "title": "Teatro de las vidas alternativas",
+    "body": "Un teatro representa lo que podrían haber sido los condenados si hubieran tomado otras decisiones.",
+    "choices": {
+      "A": "Forzar a las almas a asistir a estas obras.",
+      "B": "Organizar un repertorio completo clasificado por tipo de falta.",
+      "C": "Proyectar fragmentos de estas obras en los sueños de los vivos."
+    }
+  },
+  "hk_143": {
+    "title": "Asamblea de los escribas cansados",
+    "body": "Los escribas dicen que incluso el Infierno genera demasiado papeleo.",
+    "choices": {
+      "A": "Cebarlos de almas suplementarias para gestionar.",
+      "B": "Simplificar ciertos protocolos para mantener el orden.",
+      "C": "Delegar una parte de su carga a burócratas humanos."
+    }
+  },
+  "hk_144": {
+    "title": "Festival de las brasas cantantes",
+    "body": "Unas brasas cantan himnos distorsionados en los pasillos.",
+    "choices": {
+      "A": "Dejar que su canto atraiga a almas fascinadas.",
+      "B": "Fijar horas y lugares precisos para este festival.",
+      "C": "Hacer eco de estos cantos en lugares de culto terrestres."
+    }
+  },
+  "hk_145": {
+    "title": "Invernadero de las plantas carnívoras de almas",
+    "body": "Un invernadero cultiva plantas que se alimentan directamente de fragmentos de almas.",
+    "choices": {
+      "A": "Aumentar su número para acelerar la cosecha.",
+      "B": "Organizar este invernadero como una institución modelo.",
+      "C": "Vincular estas plantas a ciertos lugares malditos en la superficie."
+    }
+  },
+  "hk_146": {
+    "title": "Torneo de las mentiras perfectas",
+    "body": "Un torneo recompensa la mentira más destructiva.",
+    "choices": {
+      "A": "Recompensar sobre todo la cantidad de almas perdida.",
+      "B": "Inscribir cada mentira en un registro codificado.",
+      "C": "Probar estas mentiras en redes de la superficie."
+    }
+  },
+  "hk_147": {
+    "title": "Grieta hacia un mar de ácido",
+    "body": "Un mar de ácido infernal amenaza con sumergir un círculo entero.",
+    "choices": {
+      "A": "Precipitar más almas en él para dar miedo.",
+      "B": "Construir diques con materiales extremadamente controlados.",
+      "C": "Utilizar este mar como imagen obsesiva para ciertos mortales."
+    }
+  },
+  "hk_148": {
+    "title": "Cripta de los secretos no confesados",
+    "body": "Una cripta contiene todo lo que los vivos y los muertos nunca se atrevieron a confesar.",
+    "choices": {
+      "A": "Sumergir almas dentro para romperlas.",
+      "B": "Indexar estos secretos como datos estratégicos.",
+      "C": "Dejar filtrar algunos hacia escándalos terrestres."
+    }
+  },
+  "hk_149": {
+    "title": "Sala de los tronos competidores",
+    "body": "Varios tronos vacíos parecen esperar a otros reyes de los Infiernos.",
+    "choices": {
+      "A": "Utilizarlos como amenazas para someter a las almas.",
+      "B": "Integrarlos en un protocolo dinástico rígido.",
+      "C": "Presentarlos como visiones a ciertos tiranos mortales."
+    }
+  },
+  "hk_150": {
+    "title": "Gran inventario de los infiernos paralelos",
+    "body": "Te proponen censar los infiernos paralelos, competidores o embrionarios.",
+    "choices": {
+      "A": "Medir sobre todo cuántas almas puedes absorber.",
+      "B": "Hacer de ello una herramienta de orden y de control sobre los otros planos.",
+      "C": "Utilizar estas informaciones para preparar una expansión en la superficie."
+    }
+  },
+
+  "hk_151": {
+    "title": "Frontera del Norte en llamas",
+    "body": "Los rumores hablan de un «Norte» infernal que empieza a invadir tus territorios.",
+    "choices": {
+      "A": "Enviar legiones para probar sus defensas.",
+      "B": "Observar a distancia para evitar romper el orden.",
+      "C": "Susurrar estos rumores hasta la superficie para sembrar el miedo."
+    }
+  },
+  "hk_152": {
+    "title": "Embajador del Norte",
+    "body": "Un emisario de un reino infernal septentrional solicita audiencia en tu nombre.",
+    "choices": {
+      "A": "Recibirlo con gran pompa para atraer a sus almas.",
+      "B": "Someterlo a una etiqueta estricta y humillante.",
+      "C": "Proponerle una alianza secreta orientada hacia la superficie."
+    }
+  },
+  "hk_153": {
+    "title": "Oferta de reparto de condenados",
+    "body": "El Norte propone un tratado: repartir equitativamente ciertas categorías de condenados.",
+    "choices": {
+      "A": "Aceptar para inflar temporalmente tus reservas.",
+      "B": "Rechazar y reforzar tus propios registros.",
+      "C": "Aceptar oficialmente pero desviar una parte hacia la superficie."
+    }
+  },
+  "hk_154": {
+    "title": "Espías congelados",
+    "body": "Unos espías te informan de que el Norte experimenta con castigos helados insólitos.",
+    "choices": {
+      "A": "Fichar a sus torturadores para tus legiones.",
+      "B": "Clasificar estos nuevos métodos en tu manual de suplicios.",
+      "C": "Probar estos horrores en algunas almas venidas de la superficie."
+    }
+  },
+  "hk_155": {
+    "title": "Acusación de usurpación",
+    "body": "Un señor del Norte te acusa de usurpar un título antiguo olvidado.",
+    "choices": {
+      "A": "Responder con una demostración de poder infernal.",
+      "B": "Exigir un juicio infernal codificado para zanjar el asunto.",
+      "C": "Devolver la acusación revelando sus contactos mortales."
+    }
+  },
+  "hk_156": {
+    "title": "Brecha en el glaciar infernal",
+    "body": "Un glaciar de sufrimiento en el Norte se agrieta, dejando escapar alaridos.",
+    "choices": {
+      "A": "Enviar a tus legiones a recuperar lo que salga.",
+      "B": "Trazar un protocolo de urgencia para contener la brecha.",
+      "C": "Abrir una vía indirecta hacia regiones frías de la superficie."
+    }
+  },
+  "hk_157": {
+    "title": "Tráfico de almas congeladas",
+    "body": "Te señalan un tráfico de almas congeladas que transitan por tus círculos.",
+    "choices": {
+      "A": "Cobrar tu diezmo y hacer la vista gorda.",
+      "B": "Regular el tráfico y registrar cada transacción.",
+      "C": "Dejar que una parte del tráfico suba hacia el mundo de los vivos."
+    }
+  },
+  "hk_158": {
+    "title": "Coloso de hielo vivo",
+    "body": "Un coloso de hielo animado por almas encadenadas se dirige hacia tus fronteras.",
+    "choices": {
+      "A": "Destruirlo con una fuerza de choque.",
+      "B": "Aprisionarlo en un círculo dedicado, bajo alta vigilancia.",
+      "C": "Desviar este coloso para asustar a algunas ciudades mortales."
+    }
+  },
+  "hk_159": {
+    "title": "Juramento de no agresión",
+    "body": "El Norte te envía un pacto de no agresión inscrito en el hielo.",
+    "choices": {
+      "A": "Firmar para concentrarte en otras fuentes de almas.",
+      "B": "Rechazar y reforzar tus fronteras.",
+      "C": "Firmar, pero utilizar este respiro para infiltrar la superficie."
+    }
+  },
+  "hk_160": {
+    "title": "Convocatoria a un cónclave de los Infiernos",
+    "body": "Varios reinos infernales, incluido el Norte, convocan un cónclave excepcional.",
+    "choices": {
+      "A": "Enviar una delegación marcial impresionante.",
+      "B": "Ir solo con tus administradores más severos.",
+      "C": "Aprovechar el cónclave para forjar alianzas relativas a la superficie."
+    }
+  },
+  "hk_161": {
+    "title": "Guerra de los cantos infernales",
+    "body": "Himnos de guerra del Norte compiten con los de tus propias legiones.",
+    "choices": {
+      "A": "Componer cantos aún más aterradores.",
+      "B": "Prohibir todo canto no validado por tu orden.",
+      "C": "Hacer eco de estos himnos en las pesadillas de los vivos."
+    }
+  },
+  "hk_162": {
+    "title": "Puente de cristal negro",
+    "body": "Un puente de cristal negro une brevemente tu reino con una fortaleza del Norte.",
+    "choices": {
+      "A": "Enviar a tus mejores legiones para probar su resistencia.",
+      "B": "Controlar estrechamente todo paso por este puente.",
+      "C": "Utilizar este puente para espiar sus contactos en la superficie."
+    }
+  },
+  "hk_163": {
+    "title": "Tratado sobre el reparto de herejías",
+    "body": "El Norte propone repartirse diferentes herejías y cultos mortales.",
+    "choices": {
+      "A": "Aceptar para aumentar tus ganancias rápidas de almas.",
+      "B": "Rechazar y codificar tus propios cultos independientes.",
+      "C": "Firmar para infiltrar mejor discretamente las religiones humanas."
+    }
+  },
+  "hk_164": {
+    "title": "Escaramuza en las galerías de lava",
+    "body": "Estalla una escaramuza en galerías donde tus tropas se cruzan con las del Norte.",
+    "choices": {
+      "A": "Reforzar la presencia militar para imponer tu ley.",
+      "B": "Delimitar oficialmente zonas de paso.",
+      "C": "Instalar portales secretos hacia el mundo de los vivos."
+    }
+  },
+  "hk_165": {
+    "title": "Coalición de los pequeños reinos",
+    "body": "Pequeños reinos infernales acuden a ti por temor al Norte.",
+    "choices": {
+      "A": "Absorberlos por la fuerza en el seno de tu imperio.",
+      "B": "Crear una alianza supervisada por un protocolo riguroso.",
+      "C": "Utilizar estos reinos como peones en la superficie."
+    }
+  },
+  "hk_166": {
+    "title": "Coloquio sobre la tortura moderna",
+    "body": "El Norte propone un coloquio sobre las nuevas tendencias de la tortura.",
+    "choices": {
+      "A": "Enviar a tus torturadores más inventivos.",
+      "B": "No autorizar la participación más que bajo control estricto.",
+      "C": "Exigir que ciertas técnicas sean probadas primero en la superficie."
+    }
+  },
+  "hk_167": {
+    "title": "Sabotaje de las fraguas",
+    "body": "Unas fraguas infernales estratégicas sufren un sabotaje atribuido al Norte.",
+    "choices": {
+      "A": "Replicar con una incursión sorpresa en sus arsenales.",
+      "B": "Lanzar una gran investigación interna sobre la seguridad.",
+      "C": "Explotar el caos para camuflar operaciones hacia la superficie."
+    }
+  },
+  "hk_168": {
+    "title": "Tráfico de estandartes blasfemos",
+    "body": "Estandartes del Norte mostrando tu efigie deformada circulan por tus círculos.",
+    "choices": {
+      "A": "Dejar circular para avivar el odio… y el miedo.",
+      "B": "Confiscar y archivar cada estandarte según reglas estrictas.",
+      "C": "Enviar algunos de estos estandartes hacia cultos mortales."
+    }
+  },
+  "hk_169": {
+    "title": "Rumor de traición helada",
+    "body": "Se murmura que algunos de tus generales admiran la disciplina del Norte.",
+    "choices": {
+      "A": "Purgar preventivamente a los sospechosos.",
+      "B": "Vigilar sus actos vía una cadena jerárquica.",
+      "C": "Utilizarlos como intermediarios para manipular la superficie."
+    }
+  },
+  "hk_170": {
+    "title": "Monstruo de los hielos negros",
+    "body": "Un monstruo hecho de hielos negros ha despertado en un corredor compartido.",
+    "choices": {
+      "A": "Alimentarlo con almas para someterlo a tu voluntad.",
+      "B": "Encerrarlo tras una serie de sellos y registros.",
+      "C": "Enviarlo a encantar las zonas polares del mundo de los vivos."
+    }
+  },
+  "hk_171": {
+    "title": "Proyecto de frontera común",
+    "body": "Tus administradores proponen codificar oficialmente la frontera con el Norte.",
+    "choices": {
+      "A": "Trazar una frontera para concentrar mejor tus legiones en otro lugar.",
+      "B": "Rechazar: ninguna frontera limita tu reino.",
+      "C": "Crear una frontera permeable hacia ciertos puntos de la superficie."
+    }
+  },
+  "hk_172": {
+    "title": "Intercambio de prisioneros emblemáticos",
+    "body": "El Norte sugiere un intercambio de prisioneros particularmente simbólicos.",
+    "choices": {
+      "A": "Aceptar para recuperar almas útiles.",
+      "B": "Rechazar y establecer un protocolo estricto sobre los prisioneros.",
+      "C": "Aceptar, pero soltar a ciertos cautivos en la superficie."
+    }
+  },
+  "hk_173": {
+    "title": "Festival de las torturas comparadas",
+    "body": "Un festival oficial compara las torturas del Norte y las tuyas.",
+    "choices": {
+      "A": "Poner el énfasis en la eficacia bruta en almas.",
+      "B": "Poner el énfasis en el rigor y el protocolo.",
+      "C": "Exportar las mejores ideas hacia las sociedades humanas."
+    }
+  },
+  "hk_174": {
+    "title": "Negociaciones sobre las almas de héroes",
+    "body": "El Norte reclama una parte de ciertas almas de héroes particularmente raras.",
+    "choices": {
+      "A": "Ceder algunas almas a cambio de otras concesiones.",
+      "B": "Rechazar y santificar estas almas en tu orden interno.",
+      "C": "Dejarlas reencarnarse a veces para influir en la superficie."
+    }
+  },
+  "hk_175": {
+    "title": "Canto de las brumas septentrionales",
+    "body": "Un canto venido del Norte hace vibrar los muros de tus círculos.",
+    "choices": {
+      "A": "Amplificarlo para atraer a más almas impresionables.",
+      "B": "Filtrarlo mediante un ritual para hacerlo previsible.",
+      "C": "Dejar que este canto roce los sueños de ciertos mortales."
+    }
+  },
+  "hk_176": {
+    "title": "Acuerdo secreto de no injerencia",
+    "body": "Un emisario te propone un acuerdo secreto: cada uno deja de socavar al otro.",
+    "choices": {
+      "A": "Aceptar para estabilizar tu imperio a corto plazo.",
+      "B": "Rechazar y consolidar aún más tu orden interno.",
+      "C": "Firmar, pero redirigir tus intrigas hacia la superficie."
+    }
+  },
+  "hk_177": {
+    "title": "Concurso de estrategas",
+    "body": "Tus estrategas quieren enfrentarse a los del Norte en un concurso de influencia.",
+    "choices": {
+      "A": "Evaluar la victoria por la cantidad de almas ganadas.",
+      "B": "Evaluar la victoria por la estabilidad devuelta a los círculos.",
+      "C": "Evaluar la victoria por la magnitud de los disturbios en la superficie."
+    }
+  },
+  "hk_178": {
+    "title": "Intercambio de manuales de condenación",
+    "body": "Te proponen un intercambio de manuales que describen diversos métodos de condenación.",
+    "choices": {
+      "A": "Aceptar para enriquecer tus técnicas.",
+      "B": "Rechazar y reforzar tus propias normas.",
+      "C": "Adaptar ciertos capítulos para un uso discreto entre los vivos."
+    }
+  },
+  "hk_179": {
+    "title": "Ritual de fusión de los braseros",
+    "body": "Un ritual podría fusionar temporalmente ciertos braseros del Norte y los tuyos.",
+    "choices": {
+      "A": "Probar el ritual para potenciar la cosecha de almas.",
+      "B": "Prohibirlo mientras no esté perfectamente controlado.",
+      "C": "Dirigir una parte de esta fusión hacia la superficie."
+    }
+  },
+  "hk_180": {
+    "title": "Invitación a una caza de almas",
+    "body": "El Norte te invita a una «caza de almas» muy mediática en los círculos.",
+    "choices": {
+      "A": "Participar soltando a tus legiones más voraces.",
+      "B": "Poner reglas estrictas para limitar el caos.",
+      "C": "Extender esta caza a los sueños y esperanzas de los mortales."
+    }
+  },
+  "hk_181": {
+    "title": "Tribunal conjunto",
+    "body": "Se contempla un tribunal copresidido por tu reino y el Norte para ciertos casos excepcionales.",
+    "choices": {
+      "A": "Aceptar para impresionar más a las almas.",
+      "B": "Rechazar y guardar un monopolio sobre el juicio.",
+      "C": "Utilizar este tribunal para condenar figuras humanas simbólicas."
+    }
+  },
+  "hk_182": {
+    "title": "Intercambio de tecnologías de sufrimiento",
+    "body": "El Norte propone compartir ciertas «tecnologías» de agonía continua.",
+    "choices": {
+      "A": "Adaptarlas para maximizar tu cosecha de almas.",
+      "B": "Estandarizarlas en tu arsenal, de forma ordenada.",
+      "C": "Probar sus efectos vía fenómenos extraños en la Tierra."
+    }
+  },
+  "hk_183": {
+    "title": "Sabotaje de tus archivos",
+    "body": "Tus archivos centrales muestran rastros de hielo y de corrupción venida del Norte.",
+    "choices": {
+      "A": "Responder quemando partes enteras de sus registros.",
+      "B": "Reconstruir tus archivos con un rigor reforzado.",
+      "C": "Aprovechar la confusión para borrar algunos rastros en la superficie."
+    }
+  },
+  "hk_184": {
+    "title": "Oferta de fusión de los panteones",
+    "body": "El Norte sugiere una fusión parcial de vuestras mitologías ante los mortales.",
+    "choices": {
+      "A": "Fusionar para aumentar el atractivo de vuestros cultos.",
+      "B": "Rechazar y proteger celosamente tu imagen.",
+      "C": "Aceptar, pero orientar la fusión sobre todo hacia sectas terrestres."
+    }
+  },
+  "hk_185": {
+    "title": "Regalo envenenado",
+    "body": "El Norte te envía un artefacto supuestamente para reforzar tus legiones pero de efectos desconocidos.",
+    "choices": {
+      "A": "Activarlo para reforzar inmediatamente tus tropas.",
+      "B": "Colocarlo en un cofre sellado, cuidadosamente inventariado.",
+      "C": "Experimentarlo en algunos intermediarios humanos."
+    }
+  },
+  "hk_186": {
+    "title": "Duelo propuesto entre soberanos",
+    "body": "Un soberano del Norte propone un duelo simbólico para zanjar ciertas diferencias.",
+    "choices": {
+      "A": "Aceptar y hacer de este duelo un espectáculo grandioso.",
+      "B": "Rechazar, juzgando eso indigno de tu rango.",
+      "C": "Aceptar, pero vincular los efectos del duelo a catástrofes terrestres."
+    }
+  },
+  "hk_187": {
+    "title": "Red de contrabando de almas",
+    "body": "Una red clandestina pasa almas de un reino a otro sin autorización.",
+    "choices": {
+      "A": "Dejarla prosperar a cambio de una parte fija.",
+      "B": "Romperla y registrar a cada culpable.",
+      "C": "Desviarla para alimentar proyectos en la superficie."
+    }
+  },
+  "hk_188": {
+    "title": "Apelación al arbitraje superior",
+    "body": "El Norte amenaza con apelar a una entidad aún más antigua para zanjar vuestros conflictos.",
+    "choices": {
+      "A": "Aceptar el riesgo, seguro de tu poder.",
+      "B": "Reforzar tu orden para presentar un expediente impecable.",
+      "C": "Preparar sacrificios simbólicos entre los vivos."
+    }
+  },
+  "hk_189": {
+    "title": "Incidente diplomático sangriento",
+    "body": "Una delegación del Norte ha sido atacada en uno de tus círculos por condenados.",
+    "choices": {
+      "A": "Acusar al Norte de provocación y responder.",
+      "B": "Reconocer faltas y codificar una mejor seguridad.",
+      "C": "Utilizar el incidente como pretexto para extender tu influencia en la Tierra."
+    }
+  },
+  "hk_190": {
+    "title": "Cónclave de las llamas cruzadas",
+    "body": "Un cónclave especial reúne tus llamas y las del Norte en una misma sala.",
+    "choices": {
+      "A": "Buscar dominar completamente la asamblea.",
+      "B": "Fijar reglas estrictas para cada intervención.",
+      "C": "Vincular ciertas decisiones a fenómenos extraños en la superficie."
+    }
+  },
+  "hk_191": {
+    "title": "Tratado sobre las catástrofes naturales",
+    "body": "El Norte propone un tratado para coordinar las catástrofes naturales influenciadas por el Infierno.",
+    "choices": {
+      "A": "Aprovechar la oportunidad para cosechar más almas.",
+      "B": "Imponer límites para preservar el equilibrio de tus círculos.",
+      "C": "Concentrar ciertas catástrofes en lugares estratégicos humanos."
+    }
+  },
+  "hk_192": {
+    "title": "Experimento de infierno unificado",
+    "body": "Un experimento audaz consistiría en fusionar brevemente porciones de tus círculos y los del Norte.",
+    "choices": {
+      "A": "Aceptar para crear un choque de condenación masiva.",
+      "B": "Rechazar, temiendo el desorden total.",
+      "C": "Probar la unificación en primer lugar a través de pesadillas humanas."
+    }
+  },
+  "hk_193": {
+    "title": "Revuelta de los mensajeros",
+    "body": "Tus mensajeros, agotados por las idas y venidas con el Norte, reclaman un estatus especial.",
+    "choices": {
+      "A": "Pagarlos en fragmentos de almas suplementarios.",
+      "B": "Crear un cuerpo de mensajeros estrictamente encuadrado.",
+      "C": "Redirigirlos parcialmente hacia misiones en la superficie."
+    }
+  },
+  "hk_194": {
+    "title": "Contabilidad discordante",
+    "body": "Vuestros registros y los del Norte no concuerdan sobre el número exacto de almas compartidas.",
+    "choices": {
+      "A": "Tú impones tus cifras, por la fuerza si es necesario.",
+      "B": "Tú organizas una auditoría infernal extremadamente rigurosa.",
+      "C": "Tú aprovechas la vaguedad para hacer «desaparecer» ciertas almas hacia la superficie."
+    }
+  },
+  "hk_195": {
+    "title": "Propuesta de gran imperio común",
+    "body": "Algunos consejeros sugieren crear un imperio único fusionando tu reino y el Norte.",
+    "choices": {
+      "A": "Apoyar la idea para aumentar el poder general.",
+      "B": "Rechazarla para conservar un control absoluto de tu orden.",
+      "C": "Negociar entre bastidores para orientar este imperio sobre todo hacia la superficie."
+    }
+  },
+  "hk_196": {
+    "title": "Revuelta de los archiveros",
+    "body": "Tus archiveros se quejan de tener que ajustar sin cesar vuestros registros según los acuerdos con el Norte.",
+    "choices": {
+      "A": "Presionarlos para trabajar más para absorber más almas.",
+      "B": "Simplificar ciertos acuerdos para restablecer un orden claro.",
+      "C": "Delegar una parte de la gestión a instituciones humanas corruptas."
+    }
+  },
+  "hk_197": {
+    "title": "Cámara de los compromisos eternos",
+    "body": "Una cámara especial consigna cada compromiso que concluyes con otros infiernos.",
+    "choices": {
+      "A": "Multiplicar los compromisos para maximizar los flujos de almas.",
+      "B": "Limitar estos acuerdos para evitar la dilución de tu autoridad.",
+      "C": "Utilizar ciertos compromisos como pretexto para eventos en la Tierra."
+    }
+  },
+  "hk_198": {
+    "title": "Ultimátum del Norte",
+    "body": "El Norte te presenta un ultimátum: ceder ciertos territorios o arriesgarte a la guerra abierta.",
+    "choices": {
+      "A": "Rechazar y preparar tus legiones.",
+      "B": "Ceder zonas secundarias para ganar tiempo.",
+      "C": "Aceptar oficialmente, pero transferir la apuesta hacia la superficie."
+    }
+  },
+  "hk_199": {
+    "title": "Preparación de un gran tratado",
+    "body": "Un gran tratado está en preparación para redibujar el mapa de los infiernos.",
+    "choices": {
+      "A": "Buscar sobre todo aumentar tu parte de almas.",
+      "B": "Buscar sobre todo garantizar la estabilidad de tu orden.",
+      "C": "Insertar cláusulas ocultas que tengan efecto en el mundo de los vivos."
+    }
+  },
+  "hk_200": {
+    "title": "Firma o ruptura",
+    "body": "Tus consejeros te anuncian que el tratado con el Norte está listo para ser firmado… o rechazado.",
+    "choices": {
+      "A": "Firmar y proclamar el advenimiento de una nueva era infernal.",
+      "B": "Rechazar y asumir un largo periodo de tensión organizada.",
+      "C": "Firmar mientras preparas una nueva era de corrupción en la superficie."
+    }
+  },
+  "hk_201": {
+    "title": "Crisis climática incontrolada",
+    "body": "Los mortales desencadenan catástrofes climáticas en serie, sin frenar realmente.",
+    "choices": {
+      "A": "Llevar al exceso sus comportamientos destructivos.",
+      "B": "Fomentar algunas medidas de orden para prolongar el caos.",
+      "C": "Canalizar ciertas tormentas para probar nuevos puntos de ruptura."
+    }
+  },
+  "hk_202": {
+    "title": "Contaminación espiritual",
+    "body": "Los corazones de los mortales están saturados de culpa ecológica y de negación simultánea.",
+    "choices": {
+      "A": "Avivar su culpa para cosechar más almas.",
+      "B": "Estructurar algunos discursos «responsables» para mantener un orden aparente.",
+      "C": "Dejar que estas tensiones inerven movimientos radicales en la superficie."
+    }
+  },
+  "hk_203": {
+    "title": "Revuelta de las ciudades costeras",
+    "body": "Unas ciudades amenazadas por la subida de las aguas reclaman milagros.",
+    "choices": {
+      "A": "Dejar que la catástrofe se agrave para acelerar las condenaciones.",
+      "B": "Inspirar planes de urgencia muy jerarquizados pero insuficientes.",
+      "C": "Emplear el pánico para abrir la vía a cultos desesperados."
+    }
+  },
+  "hk_204": {
+    "title": "Fuga de desechos tóxicos",
+    "body": "Una fuga masiva de desechos envenena tierras y océanos.",
+    "choices": {
+      "A": "Susurrar a ciertos mortales que minimicen el incidente.",
+      "B": "Fomentar la puesta en marcha de normas, demasiado tardías.",
+      "C": "Desviar la ira hacia conflictos políticos violentos."
+    }
+  },
+  "hk_205": {
+    "title": "Guerra de desinformación",
+    "body": "Los mortales se acusan mutuamente de mentiras, hasta dudar de todo.",
+    "choices": {
+      "A": "Alimentar a cada bando con falsas revelaciones.",
+      "B": "Promover algunas voces «razonables» para mantener una estructura.",
+      "C": "Hacer surgir gurús que se beneficien de esta niebla."
+    }
+  },
+  "hk_206": {
+    "title": "Redes sociales en llamas",
+    "body": "Las redes de la superficie se transforman en arenas de odio y de envidia.",
+    "choices": {
+      "A": "Amplificar las comparaciones tóxicas y humillaciones públicas.",
+      "B": "Apoyar reglas y moderaciones que tranquilicen, sin actuar en profundidad.",
+      "C": "Utilizar estas plataformas para difundir nuevos cultos disfrazados."
+    }
+  },
+  "hk_207": {
+    "title": "Influencers de la desesperación",
+    "body": "Figuras influyentes glorifican la fatiga, la ira y el nihilismo.",
+    "choices": {
+      "A": "Potenciar su audiencia para cosechar más almas rotas.",
+      "B": "Encuadrar su mensaje para evitar un colapso total del orden.",
+      "C": "Empujarlos a guiar a sus adeptos hacia actos irreversibles."
+    }
+  },
+  "hk_208": {
+    "title": "Colapso de un sistema de salud",
+    "body": "Un país ve su sistema de salud saturado, los más débiles son abandonados.",
+    "choices": {
+      "A": "Dejar que los dirigentes minimicen la crisis para envenenar la situación.",
+      "B": "Inspirar una reforma rígida, insuficiente pero estructurante.",
+      "C": "Orientar la ira hacia movimientos extremistas."
+    }
+  },
+  "hk_209": {
+    "title": "Proliferación de sectas modernas",
+    "body": "Nuevas sectas prometen curación, riqueza y sentido… a cambio de una sumisión total.",
+    "choices": {
+      "A": "Fomentar su proliferación para cosechar almas en masa.",
+      "B": "Dejar que las instituciones instauren marcos de control.",
+      "C": "Favorecer sectas particularmente conectadas a tu culto."
+    }
+  },
+  "hk_210": {
+    "title": "Crisis de la verdad",
+    "body": "Los mortales ya no saben qué creer, todo vale y nada es seguro.",
+    "choices": {
+      "A": "Empujar al relativismo absoluto para romper mejor las referencias.",
+      "B": "Reforzar algunas autoridades «fiables» para mantener un simulacro de orden.",
+      "C": "Plantar en esta niebla la idea de una salvación reservada a algunos elegidos."
+    }
+  },
+  "hk_211": {
+    "title": "Guerra por los recursos",
+    "body": "Varias regiones se disputan agua, comida y energía.",
+    "choices": {
+      "A": "Fomentar las decisiones brutales y los saqueos.",
+      "B": "Apoyar acuerdos frágiles para prolongar la tensión.",
+      "C": "Hacer surgir líderes carismáticos dispuestos a todo."
+    }
+  },
+  "hk_212": {
+    "title": "Proliferación de armas autónomas",
+    "body": "Los mortales crean armas capaces de matar sin piedad humana.",
+    "choices": {
+      "A": "Empujarlos a delegar cada vez más decisiones a estas máquinas.",
+      "B": "Fomentar regulaciones complejas pero eludibles.",
+      "C": "Dejar que algunas de estas armas se «equivoquen» de objetivo."
+    }
+  },
+  "hk_213": {
+    "title": "Vigilancia masiva",
+    "body": "Sistemas de vigilancia escrutan cada gesto, cada palabra.",
+    "choices": {
+      "A": "Hacer aceptar la vigilancia en nombre de la seguridad.",
+      "B": "Crear leyes precisas, tranquilizadoras, pero muy intrusivas.",
+      "C": "Utilizar estos datos para manipular multitudes enteras."
+    }
+  },
+  "hk_214": {
+    "title": "Fiebre por las inteligencias artificiales",
+    "body": "Los mortales confían sus elecciones, su creatividad, su atención a sistemas que no comprenden.",
+    "choices": {
+      "A": "Fomentar que abandonen su discernimiento.",
+      "B": "Estructurar reglas estrictas, a menudo ignoradas.",
+      "C": "Orientar estos sistemas hacia valores sutiles de dominación."
+    }
+  },
+  "hk_215": {
+    "title": "Crisis de soledad",
+    "body": "Jamás los mortales han estado tan conectados… y tan aislados.",
+    "choices": {
+      "A": "Empujarlos a llenar el vacío con excesos destructivos.",
+      "B": "Fomentar algunas estructuras colectivas para guardar un orden social.",
+      "C": "Hacer nacer comunidades cerradas, cuasi sectarias."
+    }
+  },
+  "hk_216": {
+    "title": "Disturbios urbanos",
+    "body": "Barrios enteros se sublevan, arden y se repliegan sobre sí mismos.",
+    "choices": {
+      "A": "Inflamar la ira hasta el punto de no retorno.",
+      "B": "Inspirar a las fuerzas del orden a reaccionar según protocolos estrictos.",
+      "C": "Hacer surgir, en medio del caos, nuevos jefes violentos."
+    }
+  },
+  "hk_217": {
+    "title": "Fuga de datos masiva",
+    "body": "Los secretos de millones de mortales son divulgados.",
+    "choices": {
+      "A": "Explotar estos datos para empujar a cada uno hacia su peor tentación.",
+      "B": "Sugerir leyes para encuadrar mejor estas fugas, sin impedirlas realmente.",
+      "C": "Utilizar ciertos secretos para manipular a dirigentes humanos."
+    }
+  },
+  "hk_218": {
+    "title": "Hospitalidad rechazada",
+    "body": "Multitudes desplazadas por la guerra o el clima chocan con fronteras cerradas.",
+    "choices": {
+      "A": "Avivar el miedo al otro y el repliegue.",
+      "B": "Apoyar políticas estrictas pero presentadas como racionales.",
+      "C": "Crear grupos violentos que se alimentan de estas tensiones."
+    }
+  },
+  "hk_219": {
+    "title": "Crisis financiera global",
+    "body": "Los mercados se hunden, las riquezas se volatilizan, el miedo sube.",
+    "choices": {
+      "A": "Empujar a los mortales a apostarlo todo a la ganancia inmediata.",
+      "B": "Inspirar planes de rescate complicados, condicionados y desiguales.",
+      "C": "Utilizar este caos para vincular a ciertos poderosos a tus pactos."
+    }
+  },
+  "hk_220": {
+    "title": "Normalización de la corrupción",
+    "body": "La corrupción se vuelve un secreto a voces en instituciones clave.",
+    "choices": {
+      "A": "Fomentar la resignación: «todo el mundo lo hace».",
+      "B": "Escenificar algunos juicios ejemplares bien encuadrados.",
+      "C": "Proponer entre bastidores contratos infernales a los más comprometidos."
+    }
+  },
+  "hk_221": {
+    "title": "Crisis de confianza hacia la ciencia",
+    "body": "Los mortales dudan de todo, incluso de los conocimientos mejor establecidos.",
+    "choices": {
+      "A": "Fomentar las teorías más absurdas pero seductoras.",
+      "B": "Apoyar algunas instituciones científicas para preservar un simulacro de orden.",
+      "C": "Crear figuras públicas que mezclan ciencia, conspiración y culto."
+    }
+  },
+  "hk_222": {
+    "title": "Espectáculo permanente de la violencia",
+    "body": "La violencia es filmada, retransmitida, comentada en directo por todas partes.",
+    "choices": {
+      "A": "Empujar a los mortales a desensibilizarse completamente.",
+      "B": "Fomentar políticas de control estricto de las imágenes… jamás aplicadas en todas partes.",
+      "C": "Utilizar este espectáculo para reclutar almas fascinadas por la crueldad."
+    }
+  },
+  "hk_223": {
+    "title": "Mercantilización de todo",
+    "body": "Incluso la intimidad, la compasión, el duelo se vuelven productos.",
+    "choices": {
+      "A": "Fomentar la venta de todo lo que es sagrado.",
+      "B": "Dejar que algunas leyes limiten los excesos más visibles.",
+      "C": "Crear falsas obras caritativas que sirven a tus intereses."
+    }
+  },
+  "hk_224": {
+    "title": "Culto del rendimiento",
+    "body": "Los mortales ya no se definen más que por sus resultados, sus cifras y sus hazañas.",
+    "choices": {
+      "A": "Empujar este culto hasta la autodestrucción.",
+      "B": "Estructurar reglas de «bienestar» integradas a la productividad.",
+      "C": "Utilizar esta presión para hacer firmar pactos a ciertos individuos clave."
+    }
+  },
+  "hk_225": {
+    "title": "Colapso de la vida salvaje",
+    "body": "La superficie pierde sus especies, sus bosques, sus equilibrios antiguos.",
+    "choices": {
+      "A": "Fomentar el sentimiento de fatalidad y de «demasiado tarde».",
+      "B": "Apoyar políticas de protección muy reguladas, pero insuficientes.",
+      "C": "Transformar esta pérdida en combustible para movimientos extremistas."
+    }
+  },
+  "hk_226": {
+    "title": "Explotación sin descanso",
+    "body": "Trabajo nocturno, horarios fragmentados, pérdida del sueño: los mortales ya no descansan.",
+    "choices": {
+      "A": "Empujar a los dirigentes a exigir siempre más.",
+      "B": "Insuflar regulaciones sobre el tiempo de trabajo… llenas de excepciones.",
+      "C": "Hacer nacer dependencias que mantienen a todo el mundo en pie, cueste lo que cueste."
+    }
+  },
+  "hk_227": {
+    "title": "Desertificación interior",
+    "body": "Los mortales pierden el gusto por el matiz, las artes, la lentitud.",
+    "choices": {
+      "A": "Empujarlos hacia el entretenimiento vacío e incesante.",
+      "B": "Fomentar algunas instituciones culturales muy codificadas.",
+      "C": "Hacer surgir movimientos artísticos nutridos de desesperación."
+    }
+  },
+  "hk_228": {
+    "title": "Crisis de la familia",
+    "body": "Los vínculos familiares se desgarran entre violencia, silencio y fuga.",
+    "choices": {
+      "A": "Alimentar los rencores, lo no dicho, las rupturas brutales.",
+      "B": "Promover modelos familiares rígidos, a veces asfixiantes.",
+      "C": "Utilizar estas fracturas para reclutar almas faltas de pertenencia."
+    }
+  },
+  "hk_229": {
+    "title": "Mercado de los recuerdos artificiales",
+    "body": "Unas empresas prometen recrear o borrar recuerdos.",
+    "choices": {
+      "A": "Empujar a los mortales a huir de la realidad en estas ilusiones.",
+      "B": "Regular estas prácticas con leyes complejas, fácilmente eludibles.",
+      "C": "Insertar en estos recuerdos trazas de tu influencia."
+    }
+  },
+  "hk_230": {
+    "title": "Extinción de la esperanza colectiva",
+    "body": "Una ola sorda gana la superficie: ya nadie cree en un futuro mejor.",
+    "choices": {
+      "A": "Transformar esta desesperación en apatía total y en vicios solitarios.",
+      "B": "Dejar surgir algunos proyectos comunes, estrictamente encuadrados.",
+      "C": "Proponer, vía profetas elegidos, una «salvación» que lleva a tus brazos."
+    }
+  },
+  "hk_231": {
+    "title": "Colonias espaciales a la deriva",
+    "body": "Estaciones en órbita y colonias lejanas escapan poco a poco a todo control terrestre.",
+    "choices": {
+      "A": "Empujar a los colonos a romper definitivamente con la Tierra.",
+      "B": "Inspirar cartas rígidas para intentar guardar un vínculo de orden.",
+      "C": "Deslizar en estas comunidades aisladas cultos vueltos hacia ti."
+    }
+  },
+  "hk_232": {
+    "title": "Carrera por los recursos extraterrestres",
+    "body": "Los mortales codician los asteroides, las lunas, todo lo que puede ser explotado.",
+    "choices": {
+      "A": "Avivar la sed de beneficio despreciando toda prudencia.",
+      "B": "Fomentar tratados espaciales complicados pero inestables.",
+      "C": "Transformar estas apuestas en rivalidades cuasi religiosas entre naciones."
+    }
+  },
+  "hk_233": {
+    "title": "Metaverso total",
+    "body": "Millones de mortales pasan su vida en universos virtuales más seductores que la realidad.",
+    "choices": {
+      "A": "Empujarlos a perderse hasta el olvido de sí mismos.",
+      "B": "Imponer algunas reglas de tiempo de pantalla para salvar la ilusión de un orden.",
+      "C": "Insertar en estos metaversos zonas secretas dedicadas a tu culto."
+    }
+  },
+  "hk_234": {
+    "title": "Avatar eterno",
+    "body": "Una tecnología propone inmortalizar la conciencia de los mortales en avatares digitales.",
+    "choices": {
+      "A": "Fomentar esta huida fuera de la muerte real.",
+      "B": "Regular el acceso a esta pseudoinmortalidad mediante protocolos estrictos.",
+      "C": "Deslizar fallos que dejen filtrar tu influencia en estos avatares."
+    }
+  },
+  "hk_235": {
+    "title": "Transhumanismo desordenado",
+    "body": "Implantes, modificaciones genéticas, optimizaciones del cuerpo: algunos mortales se redefinen.",
+    "choices": {
+      "A": "Empujar a las modificaciones más extremas.",
+      "B": "Crear normas jurídicas, contradictorias y complejas.",
+      "C": "Reservar algunas «mejoras» a servidores vinculados a ti."
+    }
+  },
+  "hk_236": {
+    "title": "Clonación no oficial",
+    "body": "Laboratorios clandestinos juegan con la clonación humana, sin ningún marco.",
+    "choices": {
+      "A": "Dejar proliferar estos experimentos en secreto.",
+      "B": "Dejar filtrar cierta info para imponer leyes espectaculares.",
+      "C": "Marcar ciertos clones con un sello que solo tus servidores reconocen."
+    }
+  },
+  "hk_237": {
+    "title": "Mercado negro de órganos",
+    "body": "Una economía subterránea de órganos se desarrolla a gran escala.",
+    "choices": {
+      "A": "Fomentar el cinismo: todo tiene un precio, incluso el cuerpo.",
+      "B": "Apoyar operaciones de policía muy visibles pero poco profundas.",
+      "C": "Utilizar ciertos canales para vincular a cirujanos a tus pactos."
+    }
+  },
+  "hk_238": {
+    "title": "Revolución bioingeniería",
+    "body": "Plantas, animales y bacterias modificados empiezan a remodelar ecosistemas enteros.",
+    "choices": {
+      "A": "Empujar a los mortales a probar sin esperar las consecuencias.",
+      "B": "Imponer protocolos de ensayo, rápido eludidos.",
+      "C": "Crear cepas especiales que favorecen tus futuros cultos."
+    }
+  },
+  "hk_239": {
+    "title": "Turismo de catástrofe",
+    "body": "Mortales pagan por visitar zonas siniestradas, campos de batalla, lugares de drama.",
+    "choices": {
+      "A": "Trivializar este turismo hasta hacer de él un entretenimiento de masas.",
+      "B": "Regular estas prácticas con reglas morales estrictas pero simbólicas.",
+      "C": "Atraer a estos visitantes hacia experiencias que rompen su empatía."
+    }
+  },
+  "hk_240": {
+    "title": "Industria de la memoria de los muertos",
+    "body": "Empresas gestionan los perfiles, vídeos, mensajes de los difuntos como un recurso monetizable.",
+    "choices": {
+      "A": "Maximizar la monetización de la presencia de los muertos en la vida de los vivos.",
+      "B": "Instaurar algunos límites legales sobre el uso de estos datos.",
+      "C": "Introducir en estos archivos mensajes que orienten a los vivos hacia ti."
+    }
+  },
+  "hk_241": {
+    "title": "Política del chivo expiatorio",
+    "body": "Unos dirigentes designan sistemáticamente a grupos como responsables de todo.",
+    "choices": {
+      "A": "Amplificar esta estrategia hasta la persecución abierta.",
+      "B": "Fomentar comisiones oficiales para dar una forma de orden.",
+      "C": "Transformar estas tensiones en conflictos cuasi religiosos."
+    }
+  },
+  "hk_242": {
+    "title": "Justicia espectáculo",
+    "body": "Los juicios se vuelven sobre todo shows mediáticos, más que lugares de verdad.",
+    "choices": {
+      "A": "Fomentar los juicios expeditivos y espectaculares.",
+      "B": "Imponer códigos procesales rígidos, a menudo desviados.",
+      "C": "Utilizar estos espectáculos para aplastar a tus enemigos y elevar a tus peones."
+    }
+  },
+  "hk_243": {
+    "title": "Educación en ruinas",
+    "body": "Los sistemas educativos se derrumban bajo las desigualdades, las tensiones, la fatiga.",
+    "choices": {
+      "A": "Empujar a cada generación a salir más desengañada que la anterior.",
+      "B": "Estructurar reformas complejas, cambiando cada cinco años.",
+      "C": "Crear escuelas paralelas al servicio de tu ideología."
+    }
+  },
+  "hk_244": {
+    "title": "Explosión de los psicotrópicos",
+    "body": "Entre medicamentos, drogas y sustitutos, la superficie flota en una niebla química.",
+    "choices": {
+      "A": "Normalizar el uso diario para evitar toda introspección real.",
+      "B": "Regular ciertos productos, dejando prosperar los otros.",
+      "C": "Vincular ciertas redes de distribución a tus servidores."
+    }
+  },
+  "hk_245": {
+    "title": "Colonización de los sueños",
+    "body": "La publicidad, las pantallas y la fatiga invaden incluso el sueño de los mortales.",
+    "choices": {
+      "A": "Desdibujar definitivamente la frontera entre sueño y presión social.",
+      "B": "Dejar surgir discursos sobre el «descanso sagrado», poco seguidos.",
+      "C": "Utilizar estos sueños para implantar símbolos que llevan a ti."
+    }
+  },
+  "hk_246": {
+    "title": "Espiritualidades de mercado",
+    "body": "Una multitud de pequeñas espiritualidades venden paz interior, éxito y serenidad en kit.",
+    "choices": {
+      "A": "Fomentar el zapping espiritual permanente.",
+      "B": "Encuadrar estas prácticas en instituciones respetables.",
+      "C": "Disfrazar algunos de tus rituales en talleres de «desarrollo personal»."
+    }
+  },
+  "hk_247": {
+    "title": "Sacralización de la celebridad",
+    "body": "Ser conocido se vuelve más importante que todo lo que se es realmente.",
+    "choices": {
+      "A": "Empujar a los mortales a sacrificarlo todo por unos instantes de gloria.",
+      "B": "Crear códigos morales alrededor de la «buena» celebridad.",
+      "C": "Utilizar esta sed para proponer pactos rápidos y peligrosos."
+    }
+  },
+  "hk_248": {
+    "title": "Fuga hacia los paraísos fiscales",
+    "body": "La riqueza se desliza en zonas fuera del alcance de la mayoría de las leyes.",
+    "choices": {
+      "A": "Fomentar la concentración extrema de las fortunas.",
+      "B": "Apoyar acuerdos internacionales opacos e incompletos.",
+      "C": "Forjar pactos personales con algunos grandes poseedores de estas riquezas."
+    }
+  },
+  "hk_249": {
+    "title": "Normalización de la tortura psicológica",
+    "body": "Acoso en el trabajo, en línea, en la escuela: la tortura es sobre todo mental, y tolerada.",
+    "choices": {
+      "A": "Hacer de esta violencia silenciosa una norma cultural.",
+      "B": "Imponer cartas y procedimientos que dan una ilusión de protección.",
+      "C": "Transformar a ciertas víctimas en verdugos, luego en servidores."
+    }
+  },
+  "hk_250": {
+    "title": "Negativa a envejecer",
+    "body": "La superficie rechaza la vejez, la debilidad, la dependencia: todo debe permanecer joven, rentable, liso.",
+    "choices": {
+      "A": "Empujar a los mortales a negar hasta el final su finitud.",
+      "B": "Promover políticas de «dignidad» muy codificadas, a menudo inaccesibles.",
+      "C": "Utilizar este miedo para proponer prolongaciones de vida… acompañadas de un precio eterno."
+    }
+  },
+  "hk_251": {
+    "title": "Lluvia de plumas",
+    "body": "Una lluvia de plumas doradas cae hasta en tus círculos. Los condenados alzan la vista: el Paraíso se manifiesta.",
+    "choices": {
+      "A": "Profanar estas plumas quemándolas bajo los gritos de las almas.",
+      "B": "Consignarlas como pruebas de cargo en tus archivos.",
+      "C": "Dejarlas subir hacia la superficie como «milagros» ambiguos."
+    }
+  },
+  "hk_252": {
+    "title": "Mensajero con alas demasiado blancas",
+    "body": "Un ángel mensajero desciende con un pergamino: el Paraíso exige una renegociación de las fronteras.",
+    "choices": {
+      "A": "Rasgar el pergamino ante sus ojos y afirmar tu soberanía.",
+      "B": "Aceptar un protocolo de discusión extremadamente rígido.",
+      "C": "Filtrar la existencia de este ángel a algunos mortales."
+    }
+  },
+  "hk_253": {
+    "title": "Almas disputadas",
+    "body": "Algunos muertos son reivindicados a la vez por el Paraíso y por ti.",
+    "choices": {
+      "A": "Clamar que toda ambigüedad se regula a tu favor.",
+      "B": "Crear un tribunal de arbitraje con reglas infernalmente complejas.",
+      "C": "Dejar que algunos casos se pierdan en milagros o visiones en la Tierra."
+    }
+  },
+  "hk_254": {
+    "title": "Cantos celestiales parásitos",
+    "body": "Cantos venidos del Paraíso se hacen oír hasta el fondo de tus fosas.",
+    "choices": {
+      "A": "Cubrir estos cantos con un estruendo de lamentos.",
+      "B": "Analizarlos y clasificarlos meticulosamente en tus registros.",
+      "C": "Dejar filtrar estas melodías en los sueños de los vivos, pero deformadas."
+    }
+  },
+  "hk_255": {
+    "title": "Petición de los santos",
+    "body": "Un grupo de santos reclama oficialmente más compasión para ciertas almas condenadas.",
+    "choices": {
+      "A": "Reírse abiertamente de su ingenuidad.",
+      "B": "Abrir un expediente de «reexamen» largo como la eternidad.",
+      "C": "Dejar que la idea de amnistía contamine algunos corazones mortales."
+    }
+  },
+  "hk_256": {
+    "title": "Acuerdo de no injerencia",
+    "body": "El Paraíso propone un pacto: menos tentaciones directas, a cambio de menos milagros espectaculares.",
+    "choices": {
+      "A": "Rechazar y continuar la guerra de influencia total.",
+      "B": "Aceptar codificando precisamente cada excepción.",
+      "C": "Firmar oficialmente, mientras desvías el juego en la superficie."
+    }
+  },
+  "hk_257": {
+    "title": "Ángeles desbordados",
+    "body": "Unos ángeles de la guarda se quejan arriba: demasiadas almas se deslizan hacia ti.",
+    "choices": {
+      "A": "Multiplicar las ocasiones de caída para probar sus límites.",
+      "B": "Aceptar algunos «pasillos de gracia» para guardar el orden global.",
+      "C": "Dejar a ciertos ángeles frustrados influir en los mortales de una forma… menos pura."
+    }
+  },
+  "hk_258": {
+    "title": "Puente de luz agrietado",
+    "body": "Un antiguo puente de luz entre el Paraíso y el Infierno cruje, exponiendo pasajes inesperados.",
+    "choices": {
+      "A": "Sabotear el puente para cortar todo vínculo directo.",
+      "B": "Poner el puente bajo control administrativo estricto.",
+      "C": "Dejar que algunas grietas desemboquen al azar en la superficie."
+    }
+  },
+  "hk_259": {
+    "title": "Alma fugitiva",
+    "body": "Un alma prometida al Paraíso ha logrado deslizarse en tus círculos por astucia.",
+    "choices": {
+      "A": "Guardarla como trofeo, a riesgo de provocar un incidente diplomático.",
+      "B": "Devolverla con un informe detallado probando tu buena fe.",
+      "C": "Devolverla solo después de haberle mostrado el Infierno… y la superficie."
+    }
+  },
+  "hk_260": {
+    "title": "Milagro cancelado",
+    "body": "Un milagro en preparación en la Tierra es repentinamente cancelado por tus maniobras.",
+    "choices": {
+      "A": "Jactarte ante los ángeles de haber roto su pequeño espectáculo.",
+      "B": "Consignar este fracaso celestial en tus archivos para más tarde.",
+      "C": "Dejar que rumores de «milagro fallido» envenenen la fe de los mortales."
+    }
+  },
+  "hk_261": {
+    "title": "Concurso de mesías",
+    "body": "Varias figuras se presentan como salvadores enviados de arriba… algunos no vienen del Paraíso.",
+    "choices": {
+      "A": "Multiplicar los falsos profetas para diluir toda luz verdadera.",
+      "B": "Encuadrar sus movimientos con reglas infernales de control.",
+      "C": "Dejar algunos elegidos sinceros, pero bajo fuerte presión de las tinieblas."
+    }
+  },
+  "hk_262": {
+    "title": "Cólera de un arcángel",
+    "body": "Un arcángel amenaza con desatar su cólera sobre algunos de tus círculos.",
+    "choices": {
+      "A": "Provocar aún más y probar sus límites.",
+      "B": "Ceder un símbolo menor para preservar el equilibrio.",
+      "C": "Desviar su cólera hacia eventos dramáticos en la Tierra."
+    }
+  },
+  "hk_263": {
+    "title": "Negociaciones sobre el purgatorio",
+    "body": "El Paraíso quiere reforzar una zona intermedia para aliviar tus prisiones.",
+    "choices": {
+      "A": "Rechazar: tú no devuelves ninguna alma en el camino.",
+      "B": "Aceptar, pero imponer reglas estrictas de clasificación.",
+      "C": "Utilizar este purgatorio para influir en los vivos a través de visiones."
+    }
+  },
+  "hk_264": {
+    "title": "Deserción de un ángel",
+    "body": "Se murmura que un ángel ha desertado del Paraíso, asqueado por ciertas decisiones.",
+    "choices": {
+      "A": "Acogerlo y hacer de él un símbolo de tu superioridad.",
+      "B": "Interrogarlo metódicamente y consignar cada detalle.",
+      "C": "Enviar discretamente a este ángel caído a sembrar el desorden en la superficie."
+    }
+  },
+  "hk_265": {
+    "title": "Censura de las oraciones",
+    "body": "Algunos suplicantes ya no reciben ninguna respuesta, ni de arriba, ni de abajo.",
+    "choices": {
+      "A": "Dejar que este silencio alimente la amargura y la duda.",
+      "B": "Imponer una forma de orden: ciertas oraciones serán siempre escuchadas.",
+      "C": "Responder a algunas oraciones a tu manera, haciéndote pasar por el Cielo."
+    }
+  },
+  "hk_266": {
+    "title": "Acusación de injerencia",
+    "body": "El Paraíso te acusa de inmiscuirte en milagros para pervertirlos.",
+    "choices": {
+      "A": "Asumir plenamente y desafiar a los ángeles a intervenir.",
+      "B": "Negar en bloque y exigir una auditoría celestial-infernal.",
+      "C": "Continuar, pero únicamente vía «coincidencias» terrestres."
+    }
+  },
+  "hk_267": {
+    "title": "Fuga de luz",
+    "body": "Una luz venida de arriba se infiltra en una parte de tus túneles.",
+    "choices": {
+      "A": "Devorarla con tus tinieblas antes de que se extienda.",
+      "B": "Encerrarla en una sala sellada, cuidadosamente catalogada.",
+      "C": "Dejar que algunos reflejos repercutan hacia el horizonte de los mortales."
+    }
+  },
+  "hk_268": {
+    "title": "Coro disonante",
+    "body": "Los cantos de tus condenados se superponen a un coro angelical. El resultado es… extraño.",
+    "choices": {
+      "A": "Transformar este caos sonoro en arma de terror.",
+      "B": "Intentar codificar estas disonancias en tus rituales.",
+      "C": "Hacer llegar este eco a los oídos de ciertos artistas mortales."
+    }
+  },
+  "hk_269": {
+    "title": "Santo protector obstinado",
+    "body": "Un santo se niega a dejar que una ciudad caiga completamente bajo tu influencia.",
+    "choices": {
+      "A": "Multiplicar las tentaciones dirigidas para romper su resistencia.",
+      "B": "Rodear a este santo atacando otros lugares.",
+      "C": "Hacer nacer escándalos alrededor de su memoria entre los vivos."
+    }
+  },
+  "hk_270": {
+    "title": "Reliquia verdadera",
+    "body": "Una reliquia auténtica, vinculada al Paraíso, reaparece en la Tierra.",
+    "choices": {
+      "A": "Rodearla de falsos milagros para enturbiar el sentido.",
+      "B": "Inscribirla discretamente en tus registros como objeto a vigilar.",
+      "C": "Empujar a algunos a matarse entre ellos para controlarla."
+    }
+  },
+  "hk_271": {
+    "title": "Procesión celestial",
+    "body": "Una procesión de almas luminosas atraviesa brevemente uno de tus cielos de azufre.",
+    "choices": {
+      "A": "Intentar capturar algunas almas en el paso.",
+      "B": "Dejarlas pasar para evitar un incidente mayor.",
+      "C": "Proyectar esta visión en los sueños de ciertos mortales inestables."
+    }
+  },
+  "hk_272": {
+    "title": "Revisión de las reglas de condenación",
+    "body": "El Paraíso propone revisar la lista de las faltas mortales.",
+    "choices": {
+      "A": "Rechazar toda reforma que limitaría tu cosecha.",
+      "B": "Aceptar, a condición de escribir tú mismo la letra pequeña.",
+      "C": "Reescribir ciertas faltas para atrapar mejor a los mortales modernos."
+    }
+  },
+  "hk_273": {
+    "title": "Culto de los ángeles desenfrenado",
+    "body": "En la Tierra, algunos mortales idealizan a los ángeles hasta hacer de ellos ídolos.",
+    "choices": {
+      "A": "Fomentar la idolatría para desviar la verdadera espiritualidad.",
+      "B": "Dejar al Paraíso gestionar esta deriva embarazosa.",
+      "C": "Deslizar en estos cultos símbolos que te pertenecen."
+    }
+  },
+  "hk_274": {
+    "title": "Negociación sobre los mártires",
+    "body": "El Paraíso quiere recuperar las almas de mártires que tú estimas corruptos.",
+    "choices": {
+      "A": "Rechazar: un mártir fanático te alimenta perfectamente.",
+      "B": "Aceptar caso por caso, tras investigación detallada.",
+      "C": "Dejarlos subir a veces, pero marcados por tus cicatrices."
+    }
+  },
+  "hk_275": {
+    "title": "Lluvia de milagros locales",
+    "body": "Una región conoce una serie de pequeños milagros atribuidos al Paraíso.",
+    "choices": {
+      "A": "Contraatacar con una avalancha de tentaciones dirigidas.",
+      "B": "Vigilar y archivar cada evento sin intervenir directamente.",
+      "C": "Transformar estos milagros en fuente de celos y de caos social."
+    }
+  },
+  "hk_276": {
+    "title": "Arpa rota",
+    "body": "Un arpa celestial cae en pedazos en uno de tus lagos de fuego.",
+    "choices": {
+      "A": "Hacer de ella un instrumento de tortura sonora.",
+      "B": "Conservarla intacta como prueba de un fracaso del Paraíso.",
+      "C": "Dejar fragmentos subir de nuevo al mundo de los artistas."
+    }
+  },
+  "hk_277": {
+    "title": "Rumor de reconciliación",
+    "body": "Corre un ruido: un día, Paraíso e Infierno serían reconciliados.",
+    "choices": {
+      "A": "Ridiculizar esta idea hasta que desaparezca.",
+      "B": "Inscribirla en tus archivos como hipótesis lejana.",
+      "C": "Dejar que este rumor alimente sectas extrañas en la Tierra."
+    }
+  },
+  "hk_278": {
+    "title": "Almas en tránsito",
+    "body": "Un corredor raro permite a las almas vislumbrar brevemente Paraíso e Infierno antes de elegir.",
+    "choices": {
+      "A": "Desajustar el corredor para que desemboque más en ti.",
+      "B": "Fijar reglas estrictas sobre el uso de este paso.",
+      "C": "Proyectar esta elección en los sueños de algunas personas aún vivas."
+    }
+  },
+  "hk_279": {
+    "title": "Disputa sobre las oraciones de niños",
+    "body": "El Paraíso afirma que todas las oraciones de niños deben volver a él.",
+    "choices": {
+      "A": "Disputar: ciertos niños ya son tus criaturas potenciales.",
+      "B": "Conceder oficialmente… mientras juegas con los adultos que los rodean.",
+      "C": "Transformar ciertas oraciones en pesadillas que marcarán su vida."
+    }
+  },
+  "hk_280": {
+    "title": "Biblioteca celestial",
+    "body": "Se descubre una biblioteca arriba que consigna también tus propios actos.",
+    "choices": {
+      "A": "Intentar sabotear estos archivos por influencia indirecta.",
+      "B": "Comparar sus datos con tus registros para ajustar el orden.",
+      "C": "Dejar a ciertos mortales captar briznas de esta biblioteca en sus visiones."
+    }
+  },
+  "hk_281": {
+    "title": "Almas que rechazan los dos",
+    "body": "Algunas almas rechazan a la vez Paraíso e Infierno, reivindicando su propio camino.",
+    "choices": {
+      "A": "Romperlas hasta que elijan por fin.",
+      "B": "Crear un estatus especial de almas «no clasificadas» en tu orden.",
+      "C": "Dejar que esta idea de rechazo total inspire a algunos vivos."
+    }
+  },
+  "hk_282": {
+    "title": "Ángeles infiltrados en la Tierra",
+    "body": "Ángeles descienden discretamente a la superficie para interferir con tus planes.",
+    "choices": {
+      "A": "Rastrearlos vía tus servidores y corromperlos.",
+      "B": "Vigilarlos metódicamente para ajustar tus estrategias.",
+      "C": "Dejar a los humanos tomarlos por tus propios enviados."
+    }
+  },
+  "hk_283": {
+    "title": "Señal en el cielo",
+    "body": "Una aparición visible por multitudes enteras es interpretada como una señal del Paraíso.",
+    "choices": {
+      "A": "Provocar al instante un escándalo o un drama que desvíe el sentido.",
+      "B": "Dejar a las instituciones religiosas desgarrarse sobre el significado.",
+      "C": "Inspirar interpretaciones contradictorias llevando a la división."
+    }
+  },
+  "hk_284": {
+    "title": "Actualización de los ángeles",
+    "body": "El Paraíso «actualiza» a ciertos ángeles para comprender mejor el mundo moderno.",
+    "choices": {
+      "A": "Explotar sus lagunas restantes para atraparlos.",
+      "B": "Observar en detalle estos nuevos métodos para adaptar tu orden.",
+      "C": "Empujarlos a dar a los mortales consejos que acaban mal."
+    }
+  },
+  "hk_285": {
+    "title": "Concurso de compasión",
+    "body": "Una iniciativa celestial propone a los mortales practicar la compasión radical.",
+    "choices": {
+      "A": "Hacer de ello una moda efímera ridiculizada rápidamente.",
+      "B": "Dejar a algunas comunidades aguantar, para mantener un equilibrio.",
+      "C": "Desviar esta compasión hacia causas destructivas a largo plazo."
+    }
+  },
+  "hk_286": {
+    "title": "Disturbio en el Paraíso",
+    "body": "Se murmura que una querella estalla incluso entre los bienaventurados.",
+    "choices": {
+      "A": "Propagar el rumor por todas partes para debilitar la imagen del Cielo.",
+      "B": "Consignar cuidadosamente cada detalle para una futura negociación.",
+      "C": "Dejar a ciertos vivos recibir visiones de este desorden."
+    }
+  },
+  "hk_287": {
+    "title": "Almas repescadas",
+    "body": "El Paraíso propone «repescar» algunas almas de tus fosas más profundas.",
+    "choices": {
+      "A": "Rechazar toda remisión de pena.",
+      "B": "Aceptar una cuota minúscula a cambio de concesiones oficiales.",
+      "C": "Dejar subir casos que contarán horrores a los vivos."
+    }
+  },
+  "hk_288": {
+    "title": "Conciliación impuesta",
+    "body": "Una fuerza superior exige que Paraíso e Infierno encuentren un terreno de entendimiento sobre ciertos temas.",
+    "choices": {
+      "A": "Resistir a toda obligación, aunque se provoque una crisis.",
+      "B": "Aceptar un marco de conciliación extremadamente burocrático.",
+      "C": "Transponer este conflicto a las instituciones humanas."
+    }
+  },
+  "hk_289": {
+    "title": "Conflicto sobre los animales",
+    "body": "La cuestión se plantea: ¿tienen los animales un sitio en el Paraíso, en el Infierno, en otro lugar?",
+    "choices": {
+      "A": "Reclamar todas las bestias feroces y crueles para ti.",
+      "B": "Proponer una zona de archivo neutra muy ordenada.",
+      "C": "Dejar a los vivos debatir, crear religiones centradas en los animales."
+    }
+  },
+  "hk_290": {
+    "title": "Lago de luz en medio del fuego",
+    "body": "Un lago de luz pura aparece de repente en el corazón de uno de tus volcanes.",
+    "choices": {
+      "A": "Intentar apagarlo por la fuerza bruta.",
+      "B": "Delimitarlo, inventariarlo, e integrarlo a tu orden.",
+      "C": "Dejar aparecer sus reflejos en ciertos lugares sagrados terrestres."
+    }
+  },
+  "hk_291": {
+    "title": "Litigio sobre los artistas",
+    "body": "El Paraíso pretende que ciertos artistas inspirados no deberían acabar nunca contigo.",
+    "choices": {
+      "A": "Responder que el genio no excusa nada.",
+      "B": "Poner en marcha una comisión especial para sus casos.",
+      "C": "Inspirar en la Tierra un culto de los artistas malditos."
+    }
+  },
+  "hk_292": {
+    "title": "Sello roto en la Tierra",
+    "body": "Un sello antiguo, supuestamente para proteger un lugar sagrado, se rompe. Paraíso e Infierno se acusan.",
+    "choices": {
+      "A": "Aprovechar inmediatamente la brecha.",
+      "B": "Proponer una investigación conjunta para fijar responsabilidades.",
+      "C": "Transformar este lugar en punto focal de apariciones ambiguas."
+    }
+  },
+  "hk_293": {
+    "title": "Profecía contradictoria",
+    "body": "Una profecía terrestre anuncia a la vez la victoria del Paraíso… y la tuya.",
+    "choices": {
+      "A": "Empujar a los mortales a elegir la interpretación más destructiva.",
+      "B": "Clasificar la profecía entre los expedientes a vigilar.",
+      "C": "Hacer surgir sectas rivales reclamando cada una el «verdadero» sentido."
+    }
+  },
+  "hk_294": {
+    "title": "Intercambio de liturgias",
+    "body": "Se propone un intercambio de estudios sobre las liturgias: oraciones de arriba, rituales de abajo.",
+    "choices": {
+      "A": "Rechazar dejar subir tus secretos.",
+      "B": "Aceptar pero censurar todo lo que te implique demasiado.",
+      "C": "Transformar algunos de tus rituales en prácticas populares en la Tierra."
+    }
+  },
+  "hk_295": {
+    "title": "Fiesta común abortada",
+    "body": "Una idea loca circula: organizar una fiesta simbólica entre Cielo e Infiernos.",
+    "choices": {
+      "A": "Sabotear el proyecto desde el principio.",
+      "B": "Exigir un protocolo tan estricto que nada será espontáneo.",
+      "C": "Dejar descender la idea a la Tierra para inspirar una celebración ambigua."
+    }
+  },
+  "hk_296": {
+    "title": "Alma ejemplar",
+    "body": "Un alma, incluso después de haber visto tus horrores, continúa amando el Paraíso.",
+    "choices": {
+      "A": "Torturarla hasta romper este apego.",
+      "B": "Estudiarla como caso de escuela en tu administración.",
+      "C": "Dejar filtrar su historia hasta algunos mortales… exagerándola."
+    }
+  },
+  "hk_297": {
+    "title": "Rey de los Infiernos canonizado",
+    "body": "En la Tierra, un culto empieza a presentarte como una figura necesaria del equilibrio.",
+    "choices": {
+      "A": "Fomentar este culto: ser venerado es siempre útil.",
+      "B": "Vigilarlo para que no perturbe demasiado tu orden interno.",
+      "C": "Dejar que sea condenado por las autoridades religiosas, aumentando su popularidad."
+    }
+  },
+  "hk_298": {
+    "title": "Ángel en misión punitiva",
+    "body": "Un ángel es enviado para castigar algunas de tus «exageraciones» en la Tierra.",
+    "choices": {
+      "A": "Desafiarlo abiertamente mediante prodigios infernales.",
+      "B": "Dejarle golpear algunos objetivos secundarios para calmar al Paraíso.",
+      "C": "Empujarlo a ir demasiado lejos, volviendo a los mortales contra él."
+    }
+  },
+  "hk_299": {
+    "title": "Visión de un Infierno vacío",
+    "body": "Algunos mortales afirman haber visto una visión: un Infierno sin almas.",
+    "choices": {
+      "A": "Volver ridícula esta visión, una simple ilusión.",
+      "B": "Registrarla como variable improbable en tus cálculos.",
+      "C": "Dejar que esta visión alimente movimientos predicando que «nadie será condenado»."
+    }
+  },
+  "hk_300": {
+    "title": "Último compromiso imposible",
+    "body": "Un último texto de compromiso entre Paraíso e Infierno es posado sobre tu mesa de piedra.",
+    "choices": {
+      "A": "Reducirlo a cenizas y elegir la confrontación eterna.",
+      "B": "Firmarlo, añadiendo una capa de reglas a tu imperio.",
+      "C": "Firmarlo… luego desplazar el verdadero campo de batalla al corazón de los mortales."
+    }
+  },
+
+  "hk_301": {
+    "title": "Revuelta de los escribas",
+    "body": "Los escribas infernales se quejan: demasiadas almas, no hay tiempo suficiente para consignarlo todo.",
+    "choices": {
+      "A": "Exigir que escriban hasta que se rompan sus plumas.",
+      "B": "Reorganizar la administración creando nuevas oficinas.",
+      "C": "Automatizar una parte de la clasificación delegándola a la superficie."
+    }
+  },
+  "hk_302": {
+    "title": "Gladiadores demoníacos",
+    "body": "Los demonios quieren crear una arena permanente para combates de prestigio.",
+    "choices": {
+      "A": "Dejar que se despedacen para entretener a los condenados.",
+      "B": "Estructurar reglas estrictas y rangos de élite.",
+      "C": "Difundir el espectáculo en los sueños de los mortales."
+    }
+  },
+  "hk_303": {
+    "title": "Rumor de traición",
+    "body": "Uno de tus lugartenientes estaría montando su propia facción.",
+    "choices": {
+      "A": "Tenderle una trampa públicamente para asentar tu dominio.",
+      "B": "Ponerlo bajo vigilancia estrecha en una celda de orden.",
+      "C": "Utilizarlo como peón para infiltrar otros círculos."
+    }
+  },
+  "hk_304": {
+    "title": "Reforma de las torturas",
+    "body": "Algunos demonios proponen métodos «psicológicos» en lugar de físicos.",
+    "choices": {
+      "A": "Fomentar estos refinamientos para cosechar más almas rotas.",
+      "B": "Codificar estos métodos en un nuevo manual oficial.",
+      "C": "Probar estas técnicas primero en los vivos a través de la superficie."
+    }
+  },
+  "hk_305": {
+    "title": "Sindicato de los condenados",
+    "body": "Un grupo de condenados reclama «derechos básicos» en tus fosas.",
+    "choices": {
+      "A": "Aplastar este movimiento para recordar qué es el Infierno.",
+      "B": "Crear una pseudocarta muy estricta, puramente decorativa.",
+      "C": "Dejar que este sindicato inspire algunas revueltas humanas."
+    }
+  },
+  "hk_306": {
+    "title": "Festival de las llamas",
+    "body": "Tus legiones quieren organizar un festival para celebrar tus victorias.",
+    "choices": {
+      "A": "Autorizar un desencadenamiento total de violencia festiva.",
+      "B": "Encuadrar la fiesta en un protocolo militar riguroso.",
+      "C": "Proyectar visiones del festival en la mente de artistas mortales."
+    }
+  },
+  "hk_307": {
+    "title": "Escuela de corrupción",
+    "body": "Se propone abrir una gran escuela donde formar a los mejores corruptores.",
+    "choices": {
+      "A": "Aceptar y reclutar a los talentos más crueles.",
+      "B": "Integrar esta escuela en el orden administrativo existente.",
+      "C": "Enviar a sus mejores diplomados a enseñar en la Tierra."
+    }
+  },
+  "hk_308": {
+    "title": "Tormenta de almas",
+    "body": "Una tormenta extraña hace girar a las almas y mezcla los registros.",
+    "choices": {
+      "A": "Sumergirse en el caos para aumentar tu cosecha.",
+      "B": "Suspender todo juicio y clasificar todo a mano.",
+      "C": "Dejar que la tormenta sople hasta las fronteras de la superficie."
+    }
+  },
+  "hk_309": {
+    "title": "Cronista inmortal",
+    "body": "Un demonio propone escribir una crónica completa de todos tus reinados.",
+    "choices": {
+      "A": "Darle acceso a todo y dejar que se pierda en los detalles.",
+      "B": "Supervisar cada página para controlar el relato oficial.",
+      "C": "Dejar caer algunos capítulos en la Tierra en forma de leyendas."
+    }
+  },
+  "hk_310": {
+    "title": "Racionamiento de llamas",
+    "body": "Las llamas eternas parecen debilitarse en ciertos distritos.",
+    "choices": {
+      "A": "Reasignar las llamas hacia las zonas más productivas.",
+      "B": "Poner en marcha un sistema de cuotas estrictas.",
+      "C": "Contar con la superficie para proporcionar nuevos combustibles."
+    }
+  },
+  "hk_311": {
+    "title": "Mercado negro de dolores",
+    "body": "Un comercio secreto de intercambio de sufrimientos se ha desarrollado entre los condenados.",
+    "choices": {
+      "A": "Dejar hacer: todo lo que aumente el dolor global te conviene.",
+      "B": "Regular este mercado para evitar desequilibrios.",
+      "C": "Exportar este sistema a los sueños de los vivos."
+    }
+  },
+  "hk_312": {
+    "title": "Arquitectos de los abismos",
+    "body": "Arquitectos demoníacos quieren remodelar ciertos círculos.",
+    "choices": {
+      "A": "Darles carta blanca para crear horrores inéditos.",
+      "B": "Validar planos detallados respetando un orden estricto.",
+      "C": "Inspirarse en estructuras humanas para hacer el Infierno familiar a las nuevas almas."
+    }
+  },
+  "hk_313": {
+    "title": "Biblioteca de los arrepentimientos",
+    "body": "Te proponen reunir todos los arrepentimientos de los mortales en un solo lugar.",
+    "choices": {
+      "A": "Hacer de ello un pozo de tormentos consultable a voluntad.",
+      "B": "Indexar cada arrepentimiento para afinar tus futuras tentaciones.",
+      "C": "Dejar a ciertos mortales sentir el eco de esta biblioteca."
+    }
+  },
+  "hk_314": {
+    "title": "Torneo de los tentadores",
+    "body": "Los mejores tentadores compiten para probar su superioridad.",
+    "choices": {
+      "A": "Recompensar a los más crueles e inventivos.",
+      "B": "Formalizar una clasificación y un orden de ascenso.",
+      "C": "Dar a ciertos vencedores misiones especiales en la Tierra."
+    }
+  },
+  "hk_315": {
+    "title": "Epidemia de hastío",
+    "body": "Incluso algunos demonios parecen cansados de torturar siempre de la misma manera.",
+    "choices": {
+      "A": "Empujarlos a redescubrir la crueldad pura.",
+      "B": "Poner en marcha una rotación de tareas muy organizada.",
+      "C": "Dejar que este hastío contamine a los vivos en forma de vacío existencial."
+    }
+  },
+  "hk_316": {
+    "title": "Huida hacia los sueños",
+    "body": "Una parte de los condenados se refugia en especies de sueños lúcidos para huir del dolor.",
+    "choices": {
+      "A": "Romper estos refugios con pesadillas aún peores.",
+      "B": "Catalogar estas escapatorias para controlarlas.",
+      "C": "Probar estos mecanismos de huida en ciertos mortales."
+    }
+  },
+  "hk_317": {
+    "title": "Experimentos sobre el tiempo",
+    "body": "Demonios científicos quieren doblar el tiempo para repetir el mismo dolor hasta el infinito.",
+    "choices": {
+      "A": "Dejarlos experimentar con almas anónimas.",
+      "B": "Encuadrar estos experimentos para mantener una estructura global.",
+      "C": "Aplicar estas distorsiones temporales en vidas humanas clave."
+    }
+  },
+  "hk_318": {
+    "title": "Corte de los placeres prohibidos",
+    "body": "Una corte infernal se crea alrededor de placeres perversos reservados a algunos privilegiados.",
+    "choices": {
+      "A": "Hacer la vista gorda mientras atraiga a más almas.",
+      "B": "Integrar esta corte en el orden oficial, con rangos y títulos.",
+      "C": "Proyectar esta lógica de privilegio en las élites humanas."
+    }
+  },
+  "hk_319": {
+    "title": "Competición de blasfemias",
+    "body": "Se organiza un concurso para inventar las blasfemias más refinadas.",
+    "choices": {
+      "A": "Dejar que la creatividad negra se desate.",
+      "B": "Conservar las más eficaces en un manual oficial.",
+      "C": "Hacer subir ciertas blasfemias hasta la cultura popular."
+    }
+  },
+  "hk_320": {
+    "title": "Círculo desierto",
+    "body": "Un círculo antaño muy frecuentado está extrañamente menos poblado.",
+    "choices": {
+      "A": "Transferir allí nuevas almas para relanzar la actividad.",
+      "B": "Reacondicionar enteramente este círculo para un nuevo concepto.",
+      "C": "Utilizar este desierto como zona de experimentación para la superficie."
+    }
+  },
+  "hk_321": {
+    "title": "Lealtad de un reino olvidado",
+    "body": "Un antiguo reino humano, casi borrado de la historia, renueva su fidelidad a tu nombre.",
+    "choices": {
+      "A": "Honrarlo resucitando sus símbolos en tus ejércitos.",
+      "B": "Archivarlo cuidadosamente para uso estratégico.",
+      "C": "Dejar que algunos vestigios reaparezcan en la Tierra."
+    }
+  },
+  "hk_322": {
+    "title": "Fraguas silenciosas",
+    "body": "Las fraguas demoníacas se ralentizan, por falta de nuevos metales e ideas.",
+    "choices": {
+      "A": "Forzar la producción reciclando todo lo que haya tirado.",
+      "B": "Planificar una reforma completa de los talleres.",
+      "C": "Traer ideas de máquinas inspirando a inventores humanos."
+    }
+  },
+  "hk_323": {
+    "title": "Carnaval invertido",
+    "body": "Tus demonios quieren organizar un carnaval donde verdugos y víctimas intercambien sus papeles.",
+    "choices": {
+      "A": "Lanzar este carnaval para romper todas las referencias.",
+      "B": "Fijar límites para evitar la ruptura total del orden.",
+      "C": "Hacer resonar este concepto en fiestas humanas."
+    }
+  },
+  "hk_324": {
+    "title": "Ritual desconocido",
+    "body": "Un ritual olvidado se reactiva espontáneamente en un rincón recóndito del Infierno.",
+    "choices": {
+      "A": "Dejar que se desarrolle y observar.",
+      "B": "Integrarlo en tu sistema tras haberlo diseccionado.",
+      "C": "Hacer subir fragmentos de este ritual en grimorios humanos."
+    }
+  },
+  "hk_325": {
+    "title": "Concurso de mentiras",
+    "body": "Tus agentes organizan un concurso: quién contará la mentira más destructiva.",
+    "choices": {
+      "A": "Recompensar las mentiras que destruyen vidas enteras.",
+      "B": "Anotar meticulosamente cada técnica para tus archivos.",
+      "C": "Implantar estas mentiras en discursos públicos humanos."
+    }
+  },
+  "hk_326": {
+    "title": "Consejo de los antiguos demonios",
+    "body": "Los demonios más viejos reclaman un consejo especial para darte su opinión.",
+    "choices": {
+      "A": "Ignorarlos y dejarlos rumiar.",
+      "B": "Escucharlos e integrar algunas de sus ideas en tu orden.",
+      "C": "Enviarlos a «aconsejar» a dirigentes humanos."
+    }
+  },
+  "hk_327": {
+    "title": "Taller de recuerdos falseados",
+    "body": "Un taller propone reescribir los recuerdos de los condenados para torturarlos mejor.",
+    "choices": {
+      "A": "Validar el taller y permitir la falsificación total.",
+      "B": "Crear protocolos para clasificar cada recuerdo manipulado.",
+      "C": "Aplicar estas técnicas de falsa memoria en los vivos."
+    }
+  },
+  "hk_328": {
+    "title": "Prueba del espejo",
+    "body": "Un espejo de obsidiana muestra a las almas lo que podrían haber sido.",
+    "choices": {
+      "A": "Forzar a cada alma a mirar hasta la locura.",
+      "B": "Reservar el espejo para casos seleccionados, en un ritual preciso.",
+      "C": "Dejar que su imagen aparezca en ciertos sueños humanos."
+    }
+  },
+  "hk_329": {
+    "title": "Caza de fugitivos",
+    "body": "Algunas almas intentan esconderse en zonas olvidadas del Infierno.",
+    "choices": {
+      "A": "Lanzar una caza sin piedad.",
+      "B": "Instaurar una policía especial de fugas.",
+      "C": "Observar e inspirarse en sus estrategias para atrapar a vivos."
+    }
+  },
+  "hk_330": {
+    "title": "Culto de las cenizas",
+    "body": "Un pequeño culto de condenados venera tus cenizas como reliquias.",
+    "choices": {
+      "A": "Fomentarlos: la veneración es siempre útil.",
+      "B": "Integrar este culto en la liturgia oficial.",
+      "C": "Dejar que esta idea se difunda entre algunos humanos fascinados por la destrucción."
+    }
+  },
+  "hk_331": {
+    "title": "Acuerdo con las pesadillas",
+    "body": "Las entidades que pueblan las pesadillas reivindican más independencia.",
+    "choices": {
+      "A": "Someterlas por la fuerza a tu autoridad.",
+      "B": "Negociar un tratado donde sus acciones sigan contabilizadas.",
+      "C": "Dejarlas experimentar libremente en las noches humanas."
+    }
+  },
+  "hk_332": {
+    "title": "Clases de ironía negra",
+    "body": "Un demonio propone enseñar ironía negra a los condenados para que se destruyan entre ellos.",
+    "choices": {
+      "A": "Autorizar estas clases con el fin de multiplicar las heridas invisibles.",
+      "B": "Institucionalizar estas lecciones como disciplina obligatoria.",
+      "C": "Enviar estas técnicas en forma de «humor» entre los vivos."
+    }
+  },
+  "hk_333": {
+    "title": "Megalomanía de un general",
+    "body": "Un general de tus legiones ya se ve como rey en tu lugar.",
+    "choices": {
+      "A": "Romperlo como ejemplo para todos.",
+      "B": "Promoverlo a un papel controlado pero prestigioso.",
+      "C": "Dejarle dirigir operaciones en la Tierra, lejos de tu trono."
+    }
+  },
+  "hk_334": {
+    "title": "Fiebre de colección",
+    "body": "Ciertos demonios coleccionan objetos insignificantes de los mortales.",
+    "choices": {
+      "A": "Ridiculizar esta manía y castigarla.",
+      "B": "Organizar estas colecciones en un museo infernal ordenado.",
+      "C": "Hacer que unos humanos sientan una falta sin saber por qué."
+    }
+  },
+  "hk_335": {
+    "title": "Ruido de pasos en el fondo de la sima",
+    "body": "Se oyen pasos en una sima que se supone vacía.",
+    "choices": {
+      "A": "Enviar exploradores armados a investigar.",
+      "B": "Instalar una guardia permanente y protocolos de vigilancia.",
+      "C": "Dejar que este misterio influya en ciertos relatos humanos."
+    }
+  },
+  "hk_336": {
+    "title": "Mercado de las promesas incumplidas",
+    "body": "Un mercado clandestino intercambia promesas rotas entre condenados.",
+    "choices": {
+      "A": "Hacer de él un centro oficial de tortura moral.",
+      "B": "Poner en marcha un registro preciso de cada promesa.",
+      "C": "Hacer circular este concepto en la política humana."
+    }
+  },
+  "hk_337": {
+    "title": "Concurso de muecas demoníacas",
+    "body": "Tus demonios organizan un concurso de rostros lo más aterradores posible.",
+    "choices": {
+      "A": "Fomentar la creatividad para reforzar el miedo.",
+      "B": "Estandarizar las mejores máscaras para tus legiones.",
+      "C": "Proyectar estas figuras en las pesadillas de los niños humanos."
+    }
+  },
+  "hk_338": {
+    "title": "Lago de silencio",
+    "body": "Un lago donde ningún grito puede oírse aparece en tus dominios.",
+    "choices": {
+      "A": "Arrojar allí a las almas que gritan demasiado.",
+      "B": "Estudiarlo e integrarlo en un plan de orden global.",
+      "C": "Relacionar este lago con ciertos lugares de soledad extrema en la Tierra."
+    }
+  },
+  "hk_339": {
+    "title": "Invasión de pequeñas criaturas",
+    "body": "Diminutas criaturas infernales invaden las celdas de los condenados.",
+    "choices": {
+      "A": "Dejarlas roer todo, incluidos los nervios.",
+      "B": "Adiestrarlas y clasificarlas en unidades especializadas.",
+      "C": "Enviarlas a infestar algunas casas humanas."
+    }
+  },
+  "hk_340": {
+    "title": "Escuela de diplomacia oscura",
+    "body": "Te proponen una escuela dedicada a la negociación, el chantaje y el doble lenguaje.",
+    "choices": {
+      "A": "Lanzar la escuela y reclutar a los más viciosos.",
+      "B": "Integrarla en tu administración para misiones precisas.",
+      "C": "Dejar que sus diplomados tejan acuerdos tóxicos entre mortales."
+    }
+  },
+  "hk_341": {
+    "title": "Relojes de eternidad",
+    "body": "Relojes gigantes aparecen, marcando no el tiempo, sino el sufrimiento acumulado.",
+    "choices": {
+      "A": "Instalarlos por todas partes para aplastar a las almas.",
+      "B": "Reservarlos para lugares estratégicos para guardar un orden de terror.",
+      "C": "Hacer sentir su tictac en la cabeza de ciertos vivos."
+    }
+  },
+  "hk_342": {
+    "title": "Concurso de sarcasmo",
+    "body": "Una sala entera resuena de sarcasmos que laceran las almas.",
+    "choices": {
+      "A": "Fomentar este deporte cruel.",
+      "B": "Normativizar los mejores rasgos para manuales oficiales.",
+      "C": "Transformar este estilo en humor de moda entre los humanos."
+    }
+  },
+  "hk_343": {
+    "title": "Tumbas volcadas",
+    "body": "Ciertas tumbas en la superficie se vuelcan misteriosamente.",
+    "choices": {
+      "A": "Ver en ello una señal de tu poder y amplificarla.",
+      "B": "Censar cada caso y correlacionarlo con tus registros.",
+      "C": "Utilizar estos vuelcos para desencadenar leyendas locales."
+    }
+  },
+  "hk_344": {
+    "title": "Duelo de adivinos",
+    "body": "Dos adivinos infernales se disputan la mejor manera de prever las caídas humanas.",
+    "choices": {
+      "A": "Empujarlos a una competición encarnizada.",
+      "B": "Crear una oficina oficial de predicciones.",
+      "C": "Hacer filtrar ciertas profecías hasta los mortales."
+    }
+  },
+  "hk_345": {
+    "title": "Puente de cadenas",
+    "body": "Un puente de cadenas une dos regiones del Infierno que ya no se hablaban.",
+    "choices": {
+      "A": "Utilizarlo para intensificar los intercambios de almas.",
+      "B": "Reglamentar estrictamente este paso.",
+      "C": "Vincular simbólicamente este puente a alianzas humanas."
+    }
+  },
+  "hk_346": {
+    "title": "Fuga de brasas",
+    "body": "Unas brasas escapan de tus volcanes y aparecen en ciertos hogares terrestres.",
+    "choices": {
+      "A": "Dejar que estas brasas aviven la violencia doméstica.",
+      "B": "Cartografiar cada punto de aparición.",
+      "C": "Transformar estas brasas en símbolos recurrentes de tus pactos."
+    }
+  },
+  "hk_347": {
+    "title": "Falta de nuevos pecados",
+    "body": "Tus consejeros se quejan: tienen la impresión de haberlo probado todo.",
+    "choices": {
+      "A": "Forzarlos a innovar bajo pena de castigo.",
+      "B": "Organizar talleres estructurados de «creatividad maléfica».",
+      "C": "Inspirarse en las rarezas humanas más recientes."
+    }
+  },
+  "hk_348": {
+    "title": "Puertas que ríen",
+    "body": "Ciertas puertas del Infierno estallan de risa cada vez que un alma pasa.",
+    "choices": {
+      "A": "Fomentar esta burla permanente.",
+      "B": "Ajustar las puertas para que rían en momentos precisos.",
+      "C": "Hacer oír esta risa en lugares muy serios en la Tierra."
+    }
+  },
+  "hk_349": {
+    "title": "Simulacro de perdón",
+    "body": "Un demonio propone interpretar la comedia del perdón para torturar mejor después.",
+    "choices": {
+      "A": "Autorizar esta puesta en escena cruel.",
+      "B": "Integrarla en un procedimiento oficial de «gracia».",
+      "C": "Probar este simulacro en relaciones humanas cercanas."
+    }
+  },
+  "hk_350": {
+    "title": "Corona agrietada",
+    "body": "Tu propia corona muestra una grieta ligera, visible solo de cerca.",
+    "choices": {
+      "A": "Ignorar la grieta y hacer como si nada.",
+      "B": "Estudiarla con tus expertos para reforzar tu orden.",
+      "C": "Dejar que ciertos demonios y algunos humanos adivinen que incluso tú cambias."
+    }
+  },
+  "hk_351": {
+    "title": "Marcha de los cascos de hierro",
+    "body": "Tus legiones pesadas reclaman el derecho de desfilar cada día ante tu trono.",
+    "choices": {
+      "A": "Autorizar un desfile permanente que aplaste a los condenados.",
+      "B": "Instaurar un protocolo estricto con horarios e itinerarios.",
+      "C": "Utilizar estos desfiles como visiones de terror para ciertos mortales."
+    }
+  },
+  "hk_352": {
+    "title": "Estatuas de soberanos caídos",
+    "body": "Una galería entera agrupa las estatuas de reyes humanos caídos en tu esfera.",
+    "choices": {
+      "A": "Exhibirlas para humillar aún más sus almas.",
+      "B": "Clasificar cada estatua por tipo de caída en tus registros.",
+      "C": "Dejar que algunas estatuas se manifiesten en sueños a los dirigentes actuales."
+    }
+  },
+  "hk_353": {
+    "title": "Muro de los juramentos rotos",
+    "body": "Un muro infinito lleva cada juramento jamás cumplido, grabado en la piedra negra.",
+    "choices": {
+      "A": "Pegar allí por la fuerza todos los nuevos perjurios.",
+      "B": "Organizar los juramentos por categorías en una estricta jerarquía.",
+      "C": "Proyectar este muro en las pesadillas de los que se disponen a mentir."
+    }
+  },
+  "hk_354": {
+    "title": "Concurso de eslóganes infernales",
+    "body": "Tus consejeros proponen crear eslóganes para vender mejor la desesperación.",
+    "choices": {
+      "A": "Validar los más chocantes y repetirlos por todas partes.",
+      "B": "Archivarlos y probar cada fórmula metódicamente.",
+      "C": "Sembrar estos eslóganes en la publicidad humana."
+    }
+  },
+  "hk_355": {
+    "title": "Campanas de brasa",
+    "body": "Grandes campanas de brasa suenan con cada nueva condenación.",
+    "choices": {
+      "A": "Hacerlas resonar hasta volver locas a las almas.",
+      "B": "Ajustar un reloj preciso para cada toque.",
+      "C": "Hacer eco de estas campanas en ciertos lugares sagrados humanos."
+    }
+  },
+  "hk_356": {
+    "title": "Manuscritos ilegibles",
+    "body": "Aparecen manuscritos, cubiertos de una escritura que incluso tus demonios sufren para leer.",
+    "choices": {
+      "A": "Dárselos a los condenados para volverlos locos a fuerza de intentarlo.",
+      "B": "Crear una sección especializada para descifrarlos lentamente.",
+      "C": "Dejar que fragmentos de estos textos se infiltren en la literatura humana."
+    }
+  },
+  "hk_357": {
+    "title": "Torre de los murmullos",
+    "body": "Una torre nueva devuelve en bucle las confidencias más vergonzosas de las almas.",
+    "choices": {
+      "A": "Aprisionar allí a los mayores hipócritas.",
+      "B": "Clasificar los murmullos por tema para optimizar las torturas.",
+      "C": "Hacer oír ciertos murmullos a oídos de vivos influyentes."
+    }
+  },
+  "hk_358": {
+    "title": "Baile de las máscaras agrietadas",
+    "body": "Tus demonios organizan un baile donde cada uno lleva una máscara partida revelando su verdadera fealdad.",
+    "choices": {
+      "A": "Fomentar esta mascarada permanente.",
+      "B": "Utilizar estas máscaras para identificar y clasificar a tus servidores.",
+      "C": "Inspirar este baile en fiestas humanas mundanas."
+    }
+  },
+  "hk_359": {
+    "title": "Laboratorio de las ilusiones",
+    "body": "Un laboratorio experimenta con ilusiones capaces de sustituir la realidad para los condenados.",
+    "choices": {
+      "A": "Sumergir a ciertas almas en una falsa vida perfecta antes de romperlo todo.",
+      "B": "Catalogar cada ilusión como una herramienta de orden.",
+      "C": "Probar estas ilusiones en los sueños de personas clave en la Tierra."
+    }
+  },
+  "hk_360": {
+    "title": "Juego de las sillas de brasa",
+    "body": "Tus carceleros inventan un juego cruel donde los condenados se disputan asientos ardientes.",
+    "choices": {
+      "A": "Fomentar esta competición sin reglas.",
+      "B": "Poner en marcha un reglamento preciso para hacer de ello un ritual.",
+      "C": "Importar este concepto a la vida de oficina humana."
+    }
+  },
+  "hk_361": {
+    "title": "Cartógrafos del abismo",
+    "body": "Cartógrafos demoníacos quieren trazar el mapa completo de tus simas.",
+    "choices": {
+      "A": "Dejar que se pierdan, mientras las almas sufran.",
+      "B": "Controlar cada mapa para estructurar aún más el Infierno.",
+      "C": "Dejar llegar algunos fragmentos de estos mapas a manos humanas."
+    }
+  },
+  "hk_362": {
+    "title": "Torneo de suplicios innovadores",
+    "body": "Un concurso recompensa los métodos de tortura más originales.",
+    "choices": {
+      "A": "Dar poder total a los vencedores sobre barrios enteros.",
+      "B": "Estandarizar los mejores suplicios en tu manual oficial.",
+      "C": "Inspirar crueldades más discretas entre los humanos."
+    }
+  },
+  "hk_363": {
+    "title": "Río de nombres olvidados",
+    "body": "Un río se lleva los nombres de los que ya nadie recuerda.",
+    "choices": {
+      "A": "Arrojar allí a las almas que se niegan a admitir su insignificancia.",
+      "B": "Repertoriar cada nombre en un registro antes de que desaparezca.",
+      "C": "Hacer fluir este río en los sueños de los que tienen miedo al olvido."
+    }
+  },
+  "hk_364": {
+    "title": "Jueces burlones",
+    "body": "Un colegio de jueces demoníacos se pone a reír ante cada alegato de las almas.",
+    "choices": {
+      "A": "Fomentar que ridiculicen todo intento de defensa.",
+      "B": "Pautar sus burlas para guardar un simulacro de procedimiento.",
+      "C": "Insuflar este estilo en ciertos tribunales humanos."
+    }
+  },
+  "hk_365": {
+    "title": "Cementerio de tronos",
+    "body": "Un cementerio agrupa todos los tronos rotos de los poderosos caídos bajo tu dominio.",
+    "choices": {
+      "A": "Organizar visitas forzadas para los nuevos soberanos condenados.",
+      "B": "Clasificar cada trono por tipo de régimen para tu orden interno.",
+      "C": "Hacer aparecer visiones de este cementerio a los dirigentes actuales."
+    }
+  },
+  "hk_366": {
+    "title": "Niños de la ira",
+    "body": "Un grupo de almas de niños desarrolla una rabia fría e inteligente.",
+    "choices": {
+      "A": "Utilizarlos como armas imprevisibles contra otros condenados.",
+      "B": "Estudiarlos para comprender esta cólera y ordenarla.",
+      "C": "Dejar que su odio desborde en los sueños de familias humanas."
+    }
+  },
+  "hk_367": {
+    "title": "Cuchillas que murmuran",
+    "body": "Las armas de tus torturadores empiezan a susurrar a los oídos de las almas.",
+    "choices": {
+      "A": "Dejarlas soplar la desesperación y la paranoia.",
+      "B": "Redactar un protocolo para estas armas conscientes.",
+      "C": "Proyectar estos susurros en los pensamientos de ciertos criminales humanos."
+    }
+  },
+  "hk_368": {
+    "title": "Sala de las decisiones anuladas",
+    "body": "Una sala muestra cada gran decisión humana que podría haber cambiado de dirección.",
+    "choices": {
+      "A": "Forzar a las almas a revivir eternamente sus elecciones fallidas.",
+      "B": "Indexar estas decisiones para afinar tus futuras manipulaciones.",
+      "C": "Dejar que algunas visiones de esta sala atormenten a dirigentes aún vivos."
+    }
+  },
+  "hk_369": {
+    "title": "Feria de los milagros fallidos",
+    "body": "Una feria expone todos los milagros casi cumplidos que fracasaron.",
+    "choices": {
+      "A": "Hacer de ello un espectáculo constante para humillar la fe de las almas.",
+      "B": "Clasificar cada fracaso por tipo de interferencia.",
+      "C": "Deslizar la idea de estos milagros fallidos en los sermones humanos."
+    }
+  },
+  "hk_370": {
+    "title": "Coro de las últimas palabras",
+    "body": "Un coro repite en bucle las últimas palabras de millones de mortales.",
+    "choices": {
+      "A": "Añadirle un eco deformado que triture la esperanza.",
+      "B": "Anotar las frases más útiles para tus archivos.",
+      "C": "Hacer oír este coro en el silencio de ciertas habitaciones de hospital."
+    }
+  },
+  "hk_371": {
+    "title": "Demonios costureros",
+    "body": "Demonios quieren tejer mantos con las ilusiones de los mortales.",
+    "choices": {
+      "A": "Dejarles confeccionar adornos que aplasten las almas.",
+      "B": "Organizar estos talleres en gremios bien jerarquizados.",
+      "C": "Enviar algunos de estos motivos a la moda humana."
+    }
+  },
+  "hk_372": {
+    "title": "Sala de las confesiones forzadas",
+    "body": "Una sala empuja a las almas a confesarlo todo, incluso lo inconfesable.",
+    "choices": {
+      "A": "Arrojar allí a los más orgullosos hasta que se rompan.",
+      "B": "Consignar cada confesión en un archivo meticuloso.",
+      "C": "Hacer resonar estas confesiones en la mente de ciertos vivos frágiles."
+    }
+  },
+  "hk_373": {
+    "title": "Festival del polvo",
+    "body": "Se propone un festival para celebrar todo lo que acaba en polvo contigo.",
+    "choices": {
+      "A": "Fomentar esta fiesta del borrado.",
+      "B": "Estructurarla como calendario oficial del Infierno.",
+      "C": "Dejar que este tema inspire obras humanas desesperadas."
+    }
+  },
+  "hk_374": {
+    "title": "Máscaras de respetabilidad",
+    "body": "Máscaras dan a los condenados la apariencia de personas honorables.",
+    "choices": {
+      "A": "Forzarlos a llevarlas sabiendo lo que esconden.",
+      "B": "Repartir estas máscaras según un orden muy preciso.",
+      "C": "Hacer nacer esta misma máscara social entre las élites humanas."
+    }
+  },
+  "hk_375": {
+    "title": "Reloj de las traiciones",
+    "body": "Un reloj da las horas con cada traición cometida en la Tierra.",
+    "choices": {
+      "A": "Amplificar el ruido para que los condenados no oigan nada más.",
+      "B": "Vincular cada toque a un expediente en tu administración.",
+      "C": "Hacer sentir un malestar a los traidores humanos a cada toque de campana."
+    }
+  },
+  "hk_376": {
+    "title": "Laberinto de expedientes",
+    "body": "Un laberinto de archivadores contiene las vidas completas de miles de millones de mortales.",
+    "choices": {
+      "A": "Abandonar allí a ciertas almas hasta que se pierdan.",
+      "B": "Nombrar a un archivero supremo para organizarlo todo.",
+      "C": "Dejar que fragmentos de expedientes se manifiesten en investigaciones humanas."
+    }
+  },
+  "hk_377": {
+    "title": "Rebelión de las cadenas",
+    "body": "Las propias cadenas parecen querer decidir a quién retener.",
+    "choices": {
+      "A": "Romperlas para recordar quién manda.",
+      "B": "Negociar una forma de orden con estas cadenas conscientes.",
+      "C": "Vincular simbólicamente estas cadenas a ciertas dependencias humanas."
+    }
+  },
+  "hk_378": {
+    "title": "Grandes juegos del abismo",
+    "body": "Tus lugartenientes quieren organizar juegos gigantes para desempatar a los condenados.",
+    "choices": {
+      "A": "Dejar que los fuertes devoren a los débiles.",
+      "B": "Establecer reglas, equipos y clasificaciones.",
+      "C": "Provocar copias de estos juegos en la sociedad del espectáculo humana."
+    }
+  },
+  "hk_379": {
+    "title": "Escuela de nostalgia tóxica",
+    "body": "Una escuela enseña a las almas a lamentar un pasado idealizado que nunca existió.",
+    "choices": {
+      "A": "Hacer de ello una disciplina central de tortura.",
+      "B": "Evaluar los niveles de nostalgia y consignarlos.",
+      "C": "Insuflar este veneno en los discursos políticos humanos."
+    }
+  },
+  "hk_380": {
+    "title": "Puerto de brumas rojas",
+    "body": "Un puerto donde brumas rojas traen sin cesar nuevas almas se desarrolla.",
+    "choices": {
+      "A": "Dejar atracar a los navíos de bruma sin control.",
+      "B": "Instaurar un control de los flujos según tus prioridades.",
+      "C": "Vincular simbólicamente este puerto a ciertos lugares costeros en la Tierra."
+    }
+  },
+  "hk_381": {
+    "title": "Compañía de teatro infernal",
+    "body": "Una compañía representa en bucle escenas de vida deformadas para los condenados.",
+    "choices": {
+      "A": "Fomentar las versiones más crueles y humillantes.",
+      "B": "Estructurar las obras en ciclos bien organizados.",
+      "C": "Hacer desbordar este teatro en los sueños de artistas humanos."
+    }
+  },
+  "hk_382": {
+    "title": "Juramentos de lealtad forzados",
+    "body": "Tus escribas proponen hacer jurar a cada alma sobre tu nombre.",
+    "choices": {
+      "A": "Imponer este juramento a todos, bajo amenaza.",
+      "B": "Consignar cada juramento en un registro oficial.",
+      "C": "Hacer eco de este tipo de juramento en ciertas sectas terrestres."
+    }
+  },
+  "hk_383": {
+    "title": "Fragmentos de paraíso roto",
+    "body": "Se encuentran fragmentos luminosos caídos de un lugar más alto.",
+    "choices": {
+      "A": "Pisotearlos y burlarse de ellos.",
+      "B": "Guardarlos en una vitrina cerrada, bien etiquetada.",
+      "C": "Hacer brillar estos fragmentos en lugares sagrados humanos."
+    }
+  },
+  "hk_384": {
+    "title": "Ronda de los vigilantes",
+    "body": "Tus vigilantes quieren poderes extendidos para controlar cada rincón.",
+    "choices": {
+      "A": "Dejarlos imponer el terror total.",
+      "B": "Organizarlos en jerarquía estricta con informes regulares.",
+      "C": "Proyectar este modelo de vigilancia en las ciudades humanas."
+    }
+  },
+  "hk_385": {
+    "title": "Mercaderes de consuelo adulterado",
+    "body": "Demonios venden a los condenados falsos consuelos a cambio de más sufrimiento después.",
+    "choices": {
+      "A": "Hacer la vista gorda mientras eso rompa más a las almas.",
+      "B": "Gravar y encuadrar este comercio en tu orden.",
+      "C": "Exportar este modelo a ciertos mercados humanos."
+    }
+  },
+  "hk_386": {
+    "title": "Río reversible",
+    "body": "Un río de almas parece a veces subir, a veces bajar.",
+    "choices": {
+      "A": "Dejarlo caprichoso para turbar a los condenados.",
+      "B": "Estudiar este fenómeno e integrarlo en tus planes.",
+      "C": "Vincular este río a las historias humanas de segunda oportunidad."
+    }
+  },
+  "hk_387": {
+    "title": "Escuela de mentiras a sí mismo",
+    "body": "Una escuela enseña a las almas a mentirse a sí mismas una y otra vez.",
+    "choices": {
+      "A": "Hacer de ello una base central de tortura psicológica.",
+      "B": "Clasificar los tipos de mentiras para tus archivos.",
+      "C": "Hacer de estas técnicas una norma en las sociedades humanas."
+    }
+  },
+  "hk_388": {
+    "title": "Jardín de cenizas congeladas",
+    "body": "Un jardín donde cada flor es una ceniza de esperanza definitivamente extinguida.",
+    "choices": {
+      "A": "Pasear allí a las almas optimistas hasta que renuncien.",
+      "B": "Repertoriar cada flor por origen de la esperanza rota.",
+      "C": "Dejar aparecer este jardín en las visiones de místicos humanos."
+    }
+  },
+  "hk_389": {
+    "title": "Espectáculo de caídas repetidas",
+    "body": "Un espectáculo reproduce la caída de ciertas almas en bucle.",
+    "choices": {
+      "A": "Invitar allí a los que creen aún ser inocentes.",
+      "B": "Sincronizar estas escenas con tu calendario de orden.",
+      "C": "Proyectar estas caídas en símbolos en los medios humanos."
+    }
+  },
+  "hk_390": {
+    "title": "Fraguas de pactos",
+    "body": "Fraguas especiales crean pactos grabados en el metal.",
+    "choices": {
+      "A": "Reforzar así cada compromiso desesperado.",
+      "B": "Numerar y clasificar cada pacto firmado.",
+      "C": "Vincular estos pactos a los contratos humanos más abusivos."
+    }
+  },
+  "hk_391": {
+    "title": "Despertar de las estatuas de dolor",
+    "body": "Estatuas hechas de dolor congelado se ponen a moverse ligeramente.",
+    "choices": {
+      "A": "Utilizarlas como guardianes terroríficos.",
+      "B": "Estudiarlas para comprender la evolución del sufrimiento.",
+      "C": "Dejar aparecer su silueta en ciertas pesadillas humanas."
+    }
+  },
+  "hk_392": {
+    "title": "Sala de los arrepentimientos contagiosos",
+    "body": "En esta sala, un solo arrepentimiento desencadena otros mil.",
+    "choices": {
+      "A": "Encerrar allí a los indecisos para romperlos.",
+      "B": "Medir la propagación de los arrepentimientos para tu orden.",
+      "C": "Hacer nacer este mecanismo en perfeccionistas humanos."
+    }
+  },
+  "hk_393": {
+    "title": "Demonios contables",
+    "body": "Demonios cuentan cada lágrima, cada grito, cada suspiro.",
+    "choices": {
+      "A": "Empujarlos a una eficacia inhumana.",
+      "B": "Integrar sus balances a tu estrategia global.",
+      "C": "Inocular esta obsesión por la cifra en ciertas economías humanas."
+    }
+  },
+  "hk_394": {
+    "title": "Hogueras sin llamas",
+    "body": "Hogueras que no queman el cuerpo, sino otra cosa.",
+    "choices": {
+      "A": "Atar allí a los que se aferran a su imagen.",
+      "B": "Clasificar cada quemadura invisible como dato de orden.",
+      "C": "Hacer eco de estas hogueras en la vergüenza social humana."
+    }
+  },
+  "hk_395": {
+    "title": "Puente colgante sobre el vacío",
+    "body": "Un puente de cuerda frágil une dos acantilados de almas aulladoras.",
+    "choices": {
+      "A": "Forzar a los condenados a cruzarlo una y otra vez.",
+      "B": "Establecer reglas de paso para controlar el miedo.",
+      "C": "Utilizar este puente como símbolo en las visiones de crisis humanas."
+    }
+  },
+  "hk_396": {
+    "title": "Biblioteca de las excusas",
+    "body": "Una biblioteca ordena todas las excusas pronunciadas para evitar asumir.",
+    "choices": {
+      "A": "Hacer leer estas excusas a quienes las pronunciaron.",
+      "B": "Clasificar las excusas por eficacia para tus tentaciones futuras.",
+      "C": "Dejar que ciertas excusas se conviertan en frases hechas en la Tierra."
+    }
+  },
+  "hk_397": {
+    "title": "Meteoros de hollín",
+    "body": "Meteoros de hollín caen regularmente en tus fosas.",
+    "choices": {
+      "A": "Dejarlos aplastar a las almas al azar.",
+      "B": "Planificar sus caídas para remodelar ciertos sectores.",
+      "C": "Vincular estas lluvias oscuras a eventos naturales en la Tierra."
+    }
+  },
+  "hk_398": {
+    "title": "Cuerno de convocación",
+    "body": "Un cuerno gigante puede reunir en un instante a todas tus fuerzas.",
+    "choices": {
+      "A": "Hacerlo sonar a menudo para afirmar tu presencia.",
+      "B": "Reservarlo para los momentos más críticos.",
+      "C": "Hacer sentir este sonido como una angustia difusa en ciertos mortales."
+    }
+  },
+  "hk_399": {
+    "title": "Trono secundario",
+    "body": "Tus consejeros sugieren crear un segundo trono para delegar.",
+    "choices": {
+      "A": "Rechazar compartir la menor parcela de tu poder.",
+      "B": "Nombrar un regente temporal muy encuadrado.",
+      "C": "Dar este trono simbólico a una figura que influirá en los mortales."
+    }
+  },
+  "hk_400": {
+    "title": "Balance de un reinado infernal",
+    "body": "Tus escribas depositan ante ti los balances completos de tu reinado actual.",
+    "choices": {
+      "A": "Ignorar las cifras y continuar en el exceso.",
+      "B": "Estudiar cada dato para optimizar tu orden.",
+      "C": "Decidir orientar más tus esfuerzos hacia la superficie."
+    }
+  }
+}

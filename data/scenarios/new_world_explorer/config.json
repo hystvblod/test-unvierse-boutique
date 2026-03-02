@@ -1,0 +1,59 @@
+{
+  "id": "new_world_explorer",
+  "gauges": [
+    {
+      "id": "conquered_territory",
+      "label_fr": "Territoire conquis",
+      "label_en": "Conquered territory",
+      "label_de": "Erobertes Gebiet",
+      "label_es": "Territorio conquistado",
+      "label_pt": "Território conquistado",
+      "label_ptbr": "Território conquistado",
+      "label_ko": "정복한 영토",
+      "label_ja": "征服した領土",
+      "label_id": "Wilayah yang ditaklukkan"
+    },
+    {
+      "id": "found_wealth",
+      "label_fr": "Richesses trouvées",
+      "label_en": "Found wealth",
+      "label_de": "Gefundener Reichtum",
+      "label_es": "Riquezas encontradas",
+      "label_pt": "Riquezas encontradas",
+      "label_ptbr": "Riquezas encontradas",
+      "label_ko": "발견한 부",
+      "label_ja": "見つけた富",
+      "label_id": "Kekayaan yang ditemukan"
+    },
+    {
+      "id": "converted_population",
+      "label_fr": "Population convertie",
+      "label_en": "Converted population",
+      "label_de": "Bekehrte Bevölkerung",
+      "label_es": "Población convertida",
+      "label_pt": "População convertida",
+      "label_ptbr": "População convertida",
+      "label_ko": "개종한 인구",
+      "label_ja": "改宗した住民",
+      "label_id": "Populasi yang dikonversi"
+    },
+    {
+      "id": "royal_treasury",
+      "label_fr": "Compte à la couronne",
+      "label_en": "Royal treasury",
+      "label_de": "Königliche Schatzkammer",
+      "label_es": "Tesoro real",
+      "label_pt": "Tesouro real",
+      "label_ptbr": "Tesouro real",
+      "label_ko": "왕실 금고",
+      "label_ja": "王室の金庫",
+      "label_id": "Kas kerajaan"
+    }
+  ],
+  "initialGauges": {
+    "conquered_territory": 50,
+    "found_wealth": 50,
+    "converted_population": 50,
+    "royal_treasury": 50
+  }
+}

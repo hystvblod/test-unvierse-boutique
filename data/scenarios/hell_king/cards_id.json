@@ -1,0 +1,3605 @@
+{
+  "hk_001": {
+    "title": "Kedatangan Jiwa Besar-besaran",
+    "body": "Sebuah perang baru saja menghancurkan kerajaan fana. Ribuan jiwa tiba di gerbang wilayahmu.",
+    "choices": {
+      "A": "Buka gerbang lebar-lebar, kita ambil semuanya.",
+      "B": "Saring dengan ketat, hanya yang paling berguna yang masuk.",
+      "C": "Kirim sebagian kembali ke Bumi, biarkan kekacauan berlanjut."
+    }
+  },
+  "hk_002": {
+    "title": "Kecemburuan Para Jenderal Iblis",
+    "body": "Jenderal-jenderalmu menuntut lebih banyak kekuasaan dan hak untuk meluncurkan kampanye teror mereka sendiri.",
+    "choices": {
+      "A": "Berikan mereka legiun, meski berisiko kehilangan kendali.",
+      "B": "Perketat kendali, semuanya harus melaluimu.",
+      "C": "Biarkan mereka bersenang-senang di Bumi di bawah pengawasan."
+    }
+  },
+  "hk_003": {
+    "title": "Pengaruh di Dunia Orang Hidup",
+    "body": "Sebuah sekte neraka ingin menyebarkan kultusmu di permukaan. Beberapa iblis takut hal ini akan menarik perhatian.",
+    "choices": {
+      "A": "Dukung kultus itu, kekuasaan adalah yang utama.",
+      "B": "Batasi ritual di tempat-tempat terpencil.",
+      "C": "Bubarkan sekte itu sebelum menjadi tidak terkendali."
+    }
+  },
+  "hk_004": {
+    "title": "Kemacetan di Gerbang Neraka",
+    "body": "Antrean orang-orang terkutuk yang baru datang membentang berkilo-kilometer. Keluhan menumpuk, begitu juga dokumennya.",
+    "choices": {
+      "A": "Percepat pemilahan, meski menjadi kurang akurat.",
+      "B": "Perkuat prosedur, ketertiban di atas segalanya.",
+      "C": "Delegasikan pemilahan kepada iblis yang ambisius."
+    }
+  },
+  "hk_005": {
+    "title": "Pengadilan Neraka Kewalahan",
+    "body": "Para hakim neraka mengeluh tidak bisa mengikuti ritme. Ada jiwa-jiwa yang menunggu hukuman mereka selama berabad-abad.",
+    "choices": {
+      "A": "Tetapkan kuota penghakiman harian.",
+      "B": "Rekrut hakim baru dari kalangan orang terkutuk.",
+      "C": "Tunda kasus-kasus kecil, prioritaskan penjahat besar."
+    }
+  },
+  "hk_006": {
+    "title": "Pemberontakan di Lingkaran Penyiksaan",
+    "body": "Di sebuah lingkaran, orang-orang terkutuk berhasil melucuti senjata beberapa penjaga dan menggunakan alat penyiksaan untuk melawan mereka.",
+    "choices": {
+      "A": "Hancurkan pemberontakan dengan legiun tambahan.",
+      "B": "Negosiasikan 'keringanan' hukuman dengan imbalan ketenangan.",
+      "C": "Buat contoh publik untuk menakuti lingkaran lainnya."
+    }
+  },
+  "hk_007": {
+    "title": "Percobaan Kudeta Iblis",
+    "body": "Seorang pangeran iblis diam-diam mengumpulkan pasukan dan berbisik bahwa dia akan menjadi raja Neraka yang lebih baik.",
+    "choices": {
+      "A": "Biarkan dia percaya dia mendapat restumu, lalu serang.",
+      "B": "Undang dia secara resmi, beri dia peran yang diawasi ketat.",
+      "C": "Abaikan rumor itu, legiunmu cukup untuk mencegahnya."
+    }
+  },
+  "hk_008": {
+    "title": "Kontrak dengan Raja Fana",
+    "body": "Seorang raja manusia ingin menandatangani pakta: sebagai imbalan atas bantuanmu, dia menjanjikan jiwanya dan jiwa keturunannya.",
+    "choices": {
+      "A": "Terima dan perkuat pengaruhmu di Bumi.",
+      "B": "Modifikasi pakta, lebih sedikit jiwa tapi lebih tahan lama.",
+      "C": "Tolak, pakta semacam ini terlalu menarik perhatian dari atas."
+    }
+  },
+  "hk_009": {
+    "title": "Inspeksi Malaikat Agung",
+    "body": "Seorang malaikat agung turun untuk mengamati keadaan kerajaanmu. Dia mengaku ingin memeriksa apakah 'keseimbangan' dihormati.",
+    "choices": {
+      "A": "Sembunyikan kekacauan dan tunjukkan Neraka yang disiplin.",
+      "B": "Tunjukkan kelebihan dengan bangga, ini kerajaanmu.",
+      "C": "Pandu dia ke zona yang didekorasi khusus untuknya."
+    }
+  },
+  "hk_010": {
+    "title": "Kebocoran Jiwa ke Permukaan",
+    "body": "Retakan di portal kuno memungkinkan beberapa jiwa terkutuk naik kembali untuk menghantui orang hidup.",
+    "choices": {
+      "A": "Biarkan mereka menebar ketakutan, kau bisa mengambilnya nanti.",
+      "B": "Segel portal, setiap jiwa harus tetap di tempatnya.",
+      "C": "Ubah retakan menjadi jalur yang terkendali."
+    }
+  },
+  "hk_011": {
+    "title": "Mogok Kerja Para Penyiksa",
+    "body": "Para penyiksa menuntut kondisi yang lebih baik: rantai yang lebih kuat, api yang lebih stabil, jam kerja yang jelas.",
+    "choices": {
+      "A": "Penuhi beberapa tuntutan untuk menghindari kemacetan.",
+      "B": "Tindas pemogokan, tidak ada yang bernegosiasi denganmu.",
+      "C": "Ganti para penyiksa dengan orang terkutuk yang bersemangat."
+    }
+  },
+  "hk_012": {
+    "title": "Pasar Gelap Janji",
+    "body": "Sebuah pasar rahasia menjual dan menukar janji kutukan antara iblis dan manusia fana.",
+    "choices": {
+      "A": "Legalkan dan kenakan pajak pada pasar ini.",
+      "B": "Hancurkan, kontrak harus tetap di bawah kendalimu.",
+      "C": "Biarkan ada selama tetap tidak mencolok."
+    }
+  },
+  "hk_013": {
+    "title": "Artefak dari Kedalaman",
+    "body": "Sebuah artefak yang sangat tua, yang asalnya pun kau tidak tahu, telah ditemukan. Benda itu memancarkan energi yang meresahkan.",
+    "choices": {
+      "A": "Simpan di dekat takhtamu, di bawah pengawasan.",
+      "B": "Kubur lebih dalam lagi.",
+      "C": "Kirim ke dunia orang hidup untuk mengalihkan perhatian."
+    }
+  },
+  "hk_014": {
+    "title": "Rumor Penebusan",
+    "body": "Beredar rumor: beberapa jiwa bisa dimurnikan bahkan di sini. Penasihatmu terbagi pendapatnya.",
+    "choices": {
+      "A": "Bungkam rumor itu, Neraka bukan tempat spa.",
+      "B": "Buat zona khusus untuk menguji 'penebusan' ini.",
+      "C": "Biarkan saja, jika beberapa menjadi tenang, itu akan lebih mudah dikelola."
+    }
+  },
+  "hk_015": {
+    "title": "Permainan Mengerikan Antar Iblis",
+    "body": "Para iblis mengadakan permainan di mana mereka bertaruh jiwa, legiun, dan wilayah di permukaan.",
+    "choices": {
+      "A": "Larang permainan ini, terlalu berbahaya.",
+      "B": "Atur permainannya, dengan kau sebagai wasit tertinggi.",
+      "C": "Ikut serta secara anonim, untuk memengaruhi hasil."
+    }
+  },
+  "hk_016": {
+    "title": "Festival Siksaan",
+    "body": "Para iblis menuntut festival besar untuk merayakan ribuan tahun pemerintahanmu.",
+    "choices": {
+      "A": "Adakan pertunjukan megah, agar seluruh Neraka mengingatnya.",
+      "B": "Adakan upacara sederhana, ketertiban adalah yang utama.",
+      "C": "Pindahkan festival ke zona yang dekat dengan permukaan."
+    }
+  },
+  "hk_017": {
+    "title": "Nabi Gila di Bumi",
+    "body": "Seorang manusia fana mengaku berbicara atas namamu. Pidatonya menarik banyak pengikut... dan musuh.",
+    "choices": {
+      "A": "Perkuat penglihatannya, biarkan dia membakar semangat massa.",
+      "B": "Tahan kata-katanya, dia sudah cukup berbahaya.",
+      "C": "Biarkan dia tenggelam dalam kegilaan tanpa campur tangan."
+    }
+  },
+  "hk_018": {
+    "title": "Tawaran Gencatan Senjata Surga",
+    "body": "Seorang utusan surga menawarkan gencatan senjata sementara: kurangi intervensi di permukaan, dengan imbalan stabilitas kosmik yang lebih baik.",
+    "choices": {
+      "A": "Terima, ketertiban kosmik juga menguntungkanmu.",
+      "B": "Tolak, Neraka tidak menerima perintah.",
+      "C": "Terima secara resmi tetapi langgar gencatan senjata secara diam-diam."
+    }
+  },
+  "hk_019": {
+    "title": "Badai Abu",
+    "body": "Badai abu menelan beberapa lingkaran. Jarak pandang turun, orang-orang terkutuk panik.",
+    "choices": {
+      "A": "Biarkan badai berlalu, itu pemandangan normal.",
+      "B": "Kirim legiun untuk memulihkan ketertiban.",
+      "C": "Manfaatkan kekacauan untuk mendistribusikan ulang jiwa ke tempat yang kau inginkan."
+    }
+  },
+  "hk_020": {
+    "title": "Lingkaran Eksperimental Baru",
+    "body": "Salah satu arsitekmu mengusulkan jenis lingkaran baru, lebih efisien tetapi tidak stabil.",
+    "choices": {
+      "A": "Validasi proyek dan buka segera.",
+      "B": "Uji pada sejumlah kecil jiwa terlebih dahulu.",
+      "C": "Tolak, keseimbangan saat ini sudah cukup rapuh."
+    }
+  },
+  "hk_021": {
+    "title": "Kerusuhan Filsuf Terkutuk",
+    "body": "Beberapa orang terkutuk memperdebatkan makna hukuman abadi dan menantang legitimasimu.",
+    "choices": {
+      "A": "Bungkam mereka, dengan cara apa pun.",
+      "B": "Buat lingkaran khusus untuk debat mereka, terisolasi dengan baik.",
+      "C": "Kirim mereka berkhotbah di Bumi untuk mengacaukan kepercayaan."
+    }
+  },
+  "hk_022": {
+    "title": "Iblis Akuntan Terlalu Bersemangat",
+    "body": "Seorang iblis yang bertanggung jawab atas catatan jiwa melaporkan ketidakkonsistenan dan ingin menghitung ulang semuanya.",
+    "choices": {
+      "A": "Biarkan dia memeriksa semuanya, ketertiban akan diperkuat.",
+      "B": "Abaikan dia, tidak ada yang akan membaca semua catatan itu.",
+      "C": "Gunakan semangatnya untuk menemukan jiwa-jiwa strategis."
+    }
+  },
+  "hk_023": {
+    "title": "Turnamen Pemimpin Legiun",
+    "body": "Para komandan legiun ingin mengadakan turnamen untuk membuktikan siapa yang pantas mendapatkan lebih banyak pasukan.",
+    "choices": {
+      "A": "Izinkan turnamen, dengan kau sebagai wasit akhir.",
+      "B": "Tolak, legiun harus patuh, bukan bersenang-senang.",
+      "C": "Izinkan, tetapi manipulasi hasilnya demi keuntunganmu."
+    }
+  },
+  "hk_024": {
+    "title": "Jiwa Pahlawan Legendaris",
+    "body": "Jiwa seorang pahlawan yang sangat dihormati oleh manusia fana akhirnya turun ke kerajaanmu.",
+    "choices": {
+      "A": "Pamerkan dia sebagai trofi untuk menginspirasi ketakutan.",
+      "B": "Gunakan dia sebagai penasihat, dia mengenal manusia dengan baik.",
+      "C": "Kirim dia kembali sebentar ke Bumi sebagai juara terkutuk."
+    }
+  },
+  "hk_025": {
+    "title": "Nyanyian Aneh di Kedalaman",
+    "body": "Sebuah nyanyian dari kedalaman bergema. Bahkan iblis tertua pun merasa tidak nyaman.",
+    "choices": {
+      "A": "Selidiki secara pribadi, dikelilingi oleh pengawalmu.",
+      "B": "Segel zona itu dan nyatakan akses terlarang.",
+      "C": "Biarkan nyanyian itu menyebar, lihat siapa yang menjawabnya."
+    }
+  },
+  "hk_026": {
+    "title": "Tawaran Kultus yang Terlupakan",
+    "body": "Sebuah kultus kuno, yang hampir punah, ingin kembali dengan imbalan beberapa 'bantuan' neraka.",
+    "choices": {
+      "A": "Terima, bahkan kultus yang lemah tetap berguna.",
+      "B": "Tolak, peninggalan masa lalu ini merumitkan segalanya.",
+      "C": "Serap kultus itu dan ubah wajahnya sepenuhnya."
+    }
+  },
+  "hk_027": {
+    "title": "Kontes Siksaan Terburuk",
+    "body": "Para penyiksa meluncurkan kontes untuk menciptakan siksaan paling kreatif.",
+    "choices": {
+      "A": "Dukung, kreativitas bagus untuk moral para iblis.",
+      "B": "Batasi kerusakan, beberapa percobaan terlalu berlebihan.",
+      "C": "Batasi kontes ini pada lingkaran yang sangat, sangat terisolasi."
+    }
+  },
+  "hk_028": {
+    "title": "Dewan Iblis Kuno",
+    "body": "Para iblis tertua meminta audiensi untuk membicarakan masa depan Neraka.",
+    "choices": {
+      "A": "Dengarkan mereka dan integrasikan beberapa ide mereka.",
+      "B": "Berterima kasih dengan sopan lalu lanjutkan seperti sebelumnya.",
+      "C": "Pecah belah mereka dengan memberikan hak istimewa yang bertentangan."
+    }
+  },
+  "hk_029": {
+    "title": "Kedutaan Neraka Tetangga",
+    "body": "Kerajaan neraka lain mengirim kedutaan. Penguasanya mengusulkan aliansi: pertukaran jiwa, legiun, dan wilayah di permukaan.",
+    "choices": {
+      "A": "Tanda tangani pakta agresif, berfokus pada panen jiwa.",
+      "B": "Negosiasikan kesepakatan yang sangat diawasi, untuk menjaga kendali.",
+      "C": "Fokus pada pengaruh di Bumi, meski menyinggung pasukanmu."
+    }
+  },
+  "hk_030": {
+    "title": "Tempaan Senjata Terkutuk",
+    "body": "Sebuah tempaan iblis menciptakan jenis senjata baru yang membuat legiun hampir tak terhentikan, tetapi tidak stabil.",
+    "choices": {
+      "A": "Persenjatai legiunmu secara massal dengan senjata ini.",
+      "B": "Cadangkan senjata ini untuk beberapa unit elit.",
+      "C": "Batasi produksinya, prioritaskan disiplin."
+    }
+  },
+  "hk_031": {
+    "title": "Portal Tak Berizin",
+    "body": "Iblis telah membuka portal ke permukaan tanpa izinmu. Kebocoran energi menarik perhatian dunia atas.",
+    "choices": {
+      "A": "Perluas portal-portal ini, kesempatannya terlalu bagus.",
+      "B": "Tutup dengan benar, dengan menerapkan aturan ketat.",
+      "C": "Simpan beberapa saja di zona tersembunyi."
+    }
+  },
+  "hk_032": {
+    "title": "Duel Antar Juara",
+    "body": "Juara terbaikmu, campuran jiwa dan iblis, terus bertarung untuk menarik perhatianmu dan menuntut lebih banyak kekuatan.",
+    "choices": {
+      "A": "Dukung iblis yang paling brutal.",
+      "B": "Hadiahi jiwa yang paling licik.",
+      "C": "Tetapkan kode kehormatan untuk mengatur duel."
+    }
+  },
+  "hk_033": {
+    "title": "Kota Neraka di Bumi",
+    "body": "Sebuah distrik di kota besar manusia semakin mirip dengan cabang Neraka: kultus, kekerasan, simbol terukir di mana-mana.",
+    "choices": {
+      "A": "Ubah menjadi benteng neraka yang sesungguhnya.",
+      "B": "Ambil terutama jiwa-jiwa berharga, secara diam-diam.",
+      "C": "Persenjatai beberapa legiun untuk mengendalikan kekacauan kota ini."
+    }
+  },
+  "hk_034": {
+    "title": "Lotre Orang Terkutuk",
+    "body": "Seorang iblis menciptakan lotre di mana orang terkutuk bisa 'memenangkan' siksaan yang lebih ringan dengan imbalan pengaduan dan layanan.",
+    "choices": {
+      "A": "Dukung sistem ini, ini menarik banyak jiwa.",
+      "B": "Ubah menjadi alat kontrol yang ketat.",
+      "C": "Serahkan pada legiunmu agar mereka mendapat untung."
+    }
+  },
+  "hk_035": {
+    "title": "Menara Pengakuan",
+    "body": "Menara besar tempat orang terkutuk datang mengakui apa yang tidak pernah mereka katakan semasa hidup. Rahasia ini bisa berguna bagimu.",
+    "choices": {
+      "A": "Gunakan pengakuan ini untuk memperkuat stok jiwamu.",
+      "B": "Manfaatkan rahasia tertentu untuk memengaruhi permukaan.",
+      "C": "Arsipkan catatan ini untuk meningkatkan ketertiban neraka."
+    }
+  },
+  "hk_036": {
+    "title": "Perang Gaya Penyiksaan",
+    "body": "Dua aliran penyiksaan berselisih: satu menganjurkan kehalusan, yang lain kebrutalan murni. Pertengkaran semakin membesar.",
+    "choices": {
+      "A": "Dukung aliran brutal, berguna bagi legiunmu.",
+      "B": "Dukung aliran halus, lebih kompatibel dengan ketertiban.",
+      "C": "Biarkan mereka bersaing, kau mendapat untung dari kedua sisi."
+    }
+  },
+  "hk_037": {
+    "title": "Ekspor Mimpi Buruk",
+    "body": "Sebuah departemen mengusulkan sistematisasi pengiriman mimpi buruk ke manusia fana untuk mempersiapkan jiwa mereka bergabung denganmu.",
+    "choices": {
+      "A": "Banjiri malam mereka dengan penglihatan neraka.",
+      "B": "Targetkan terutama para pemimpin dan penguasa manusia.",
+      "C": "Kalibrasi mimpi buruk untuk menjaga keseimbangan."
+    }
+  },
+  "hk_038": {
+    "title": "Pemberontakan Juru Tulis Neraka",
+    "body": "Para juru tulis yang mencatat setiap dosa, kontrak, dan siksaan mengeluh diabaikan meskipun mereka penting.",
+    "choices": {
+      "A": "Beri mereka imbalan dengan kekuatan militer lebih.",
+      "B": "Integrasikan mereka lebih dalam ke rantai komando.",
+      "C": "Sanjung mereka di depan umum, tanpa terlalu banyak konsesi."
+    }
+  },
+  "hk_039": {
+    "title": "Kuil Runtuh di Permukaan",
+    "body": "Sebuah kuil kuno yang didedikasikan untuk kultusmu baru saja runtuh. Beberapa manusia melihatnya sebagai tanda, yang lain hanya reruntuhan.",
+    "choices": {
+      "A": "Perkuat kehadiran agenmu secara diam-diam di area tersebut.",
+      "B": "Manfaatkan peristiwa itu untuk menarik jiwa baru.",
+      "C": "Ubah tempat itu menjadi titik jangkar yang lebih terstruktur."
+    }
+  },
+  "hk_040": {
+    "title": "Dewan Strategis Neraka",
+    "body": "Penasihatmu yang paling berpengaruh berkumpul. Masing-masing ingin kau memprioritaskan bidang mereka: jiwa, tentara, ketertiban, atau permukaan.",
+    "choices": {
+      "A": "Berikan sedikit lebih banyak kepada masing-masing, dengan risiko menegangkan ketertiban.",
+      "B": "Terapkan keutamaan ketertiban, meski kehilangan jiwa.",
+      "C": "Investasikan di permukaan, tempat bermain masa depanmu."
+    }
+  },
+  "hk_041": {
+    "title": "Pameran Tujuh Dosa Mematikan",
+    "body": "Ada usulan untuk mengadakan 'pameran' besar di mana setiap dosa mematikan akan memiliki paviliun, atraksi, dan duta iblisnya.",
+    "choices": {
+      "A": "Fokus pada memikat jiwa, dengan segala cara.",
+      "B": "Strukturkan acara sebagai pameran yang sangat teratur.",
+      "C": "Jadikan ini terutama sebagai etalase untuk pasukan elitmu."
+    }
+  },
+  "hk_042": {
+    "title": "Akademi Militer Neraka",
+    "body": "Jenderalmu ingin mendirikan akademi resmi untuk melatih komandan legiun masa depan.",
+    "choices": {
+      "A": "Fokus pada kekuatan brutal dan ketakutan.",
+      "B": "Hargai kesetiaan dan disiplin di atas segalanya.",
+      "C": "Sertakan kursus tentang manipulasi permukaan."
+    }
+  },
+  "hk_043": {
+    "title": "Gerhana Besar Neraka",
+    "body": "Gerhana langka menggelapkan Neraka dan permukaan secara bersamaan. Batas antar dunia menjadi lebih tipis.",
+    "choices": {
+      "A": "Manfaatkan untuk mendorong lebih banyak jiwa ke arahmu.",
+      "B": "Perkuat penghalang untuk menghindari kebocoran.",
+      "C": "Biarkan iblismu menyusup ke mimpi manusia fana."
+    }
+  },
+  "hk_044": {
+    "title": "Penyusunan Kode Neraka Baru",
+    "body": "Ahli hukummu ingin menulis ulang Kode Hukuman sepenuhnya untuk menyesuaikannya dengan kejahatan modern.",
+    "choices": {
+      "A": "Buat Kode yang lebih kejam bagi jiwa-jiwa.",
+      "B": "Integrasikan tuntutan beberapa jenderal.",
+      "C": "Tekankan pada kejelasan dan efisiensi aturan."
+    }
+  },
+  "hk_045": {
+    "title": "Konklaf Penggoda",
+    "body": "Para penggoda yang bekerja di permukaan menginginkan suara yang lebih penting dalam strategi global.",
+    "choices": {
+      "A": "Beri mereka lebih banyak kebebasan untuk memanen jiwa.",
+      "B": "Integrasikan mereka ke dalam hierarki yang lebih ketat.",
+      "C": "Wajibkan mereka untuk mengoordinasikan tindakan dengan legiun."
+    }
+  },
+  "hk_046": {
+    "title": "Wabah Kebosanan Neraka",
+    "body": "Bahkan beberapa iblis tampak lelah menghukum dosa yang sama selama berabad-abad.",
+    "choices": {
+      "A": "Ganti mereka dengan rekrutan yang lebih segar.",
+      "B": "Adakan kampanye perang untuk membangunkan mereka.",
+      "C": "Tata ulang beberapa lingkaran untuk memvariasikan kesenangan."
+    }
+  },
+  "hk_047": {
+    "title": "Menara Jeritan Terdistorsi",
+    "body": "Sebuah menara mengumpulkan dan memperkuat jeritan orang terkutuk. Baru-baru ini, gema itu mulai mengganggu prajuritmu sendiri.",
+    "choices": {
+      "A": "Arahkan jeritan ini ke permukaan untuk menghantuinya.",
+      "B": "Isolasi menara di zona yang sangat terkendali.",
+      "C": "Gunakan gema ini untuk melatih mental legiunmu."
+    }
+  },
+  "hk_048": {
+    "title": "Pasar Ilusi Terkutuk",
+    "body": "Sebuah pasar menawarkan ilusi sementara kehidupan masa lalu kepada orang terkutuk dengan imbalan tahun-tahun siksaan tambahan.",
+    "choices": {
+      "A": "Dukung pasar ini, itu mengisi cadanganmu dengan cepat.",
+      "B": "Atur kontrak untuk menjaga ketertiban minimum.",
+      "C": "Cadangkan ilusi tertentu untuk mereka yang paling berguna bagi rencanamu."
+    }
+  },
+  "hk_049": {
+    "title": "Permainan Penaklukan Antar Iblis",
+    "body": "Sebuah permainan strategi yang beredar di antara iblis mensimulasikan penaklukan tanah baru di permukaan.",
+    "choices": {
+      "A": "Jadikan alat resmi untuk memilih kampanye.",
+      "B": "Batasi untuk pelatihan beberapa perwira.",
+      "C": "Biarkan iblis bermain bebas, tanpa terlalu banyak aturan."
+    }
+  },
+  "hk_050": {
+    "title": "Ramalan Terukir di Lahar",
+    "body": "Prasasti yang muncul di lahar mengumumkan jatuhnya 'raja api' jika keseimbangan terlalu rusak.",
+    "choices": {
+      "A": "Abaikan ramalan dan percepat kutukan lebih jauh lagi.",
+      "B": "Perkuat ketertiban untuk menghindari pembalikan brutal.",
+      "C": "Bagi kekacauan antara permukaan, legiun, dan jiwa."
+    }
+  },
+  "hk_051": {
+    "title": "Terowongan ke Neraka Kuno yang Terlupakan",
+    "body": "Penambang iblis telah menembus jalur ke zona yang sangat tua, yang ditinggalkan selama ribuan tahun.",
+    "choices": {
+      "A": "Segera kirim jiwa baru ke sana untuk dieksploitasi.",
+      "B": "Jelajahi dengan hati-hati menggunakan pasukan disiplin.",
+      "C": "Gunakan sebagai pangkalan rahasia untuk operasi di Bumi."
+    }
+  },
+  "hk_052": {
+    "title": "Komplotan Pengarsip Bayangan",
+    "body": "Pengarsip yang bertugas mencatat pakta dan dosa mengancam akan mengungkapkan kesalahan manajemen beberapa jenderal.",
+    "choices": {
+      "A": "Lindungi rahasiamu dengan memberi mereka makan jiwa.",
+      "B": "Letakkan arsip ini di bawah kendali militer yang ketat.",
+      "C": "Biarkan beberapa skandal bocor untuk menyeimbangkan kembali kekuasaan."
+    }
+  },
+  "hk_053": {
+    "title": "Badai Bunga Api di Permukaan",
+    "body": "Hujan bunga api kecil dari bawah jatuh di tempat-tempat tertentu di permukaan dan memicu konflik.",
+    "choices": {
+      "A": "Intensifkan hujan ini untuk memanen lebih banyak jiwa.",
+      "B": "Batasi frekuensinya agar tidak terlalu menarik perhatian.",
+      "C": "Salurkan ke zona yang sudah tidak stabil."
+    }
+  },
+  "hk_054": {
+    "title": "Reformasi Rantai Suci",
+    "body": "Ada usulan untuk mengganti rantai neraka tua dengan ikatan yang lebih halus, berdasarkan janji dan penyesalan.",
+    "choices": {
+      "A": "Fokuskan reformasi pada jumlah jiwa yang terikat.",
+      "B": "Prioritaskan kekuatan dan penguasaan aliran.",
+      "C": "Uji rantai ini terutama pada pemimpin fana tertentu."
+    }
+  },
+  "hk_055": {
+    "title": "Karnaval Ilusi Mengerikan",
+    "body": "Pasukan iblis ilusionis ingin mengadakan karnaval permanen di lingkaran tertentu.",
+    "choices": {
+      "A": "Jadikan itu perangkap jiwa yang tak tertahankan.",
+      "B": "Integrasikan ke dalam tatanan umum sebagai zona eksperimental.",
+      "C": "Hubungkan ke tempat-tempat tertentu di permukaan pada malam khusus."
+    }
+  },
+  "hk_056": {
+    "title": "Sungai Darah Meluap",
+    "body": "Salah satu sungai darah besar meluap dan mengancam beberapa fasilitas penting.",
+    "choices": {
+      "A": "Salurkan luapan ke lingkaran yang terlalu padat.",
+      "B": "Bangun tanggul neraka dengan unit disiplinmu.",
+      "C": "Biarkan sungai itu menggambar ulang lanskap neraka."
+    }
+  },
+  "hk_057": {
+    "title": "Kontes Korupsi di Bumi",
+    "body": "Iblis saling menantang: merusak tokoh publik yang semakin berpengaruh.",
+    "choices": {
+      "A": "Hadiahi panen jiwa besar-besaran.",
+      "B": "Tuntut pendekatan yang lebih tertarget dan terkendali.",
+      "C": "Hargai operasi spektakuler di permukaan."
+    }
+  },
+  "hk_058": {
+    "title": "Menara Pengawas Dunia",
+    "body": "Sebuah menara memungkinkan pengamatan mimpi, perang, dan doa manusia secara real-time.",
+    "choices": {
+      "A": "Gunakan penglihatan ini untuk menjebak lebih banyak jiwa.",
+      "B": "Gunakan untuk menyesuaikan ketertiban internalmu dengan tepat.",
+      "C": "Berikan akses kepada beberapa komandan terpilih."
+    }
+  },
+  "hk_059": {
+    "title": "Pemujaan Raja Neraka",
+    "body": "Beberapa iblis mulai memujamu sebagai dewa dan menuntut ritual untuk menghormatimu.",
+    "choices": {
+      "A": "Dukung pemujaan ini, meski berisiko memicu kelebihan.",
+      "B": "Strukturkan dalam hierarki yang jelas.",
+      "C": "Toleransi hanya di permukaan, sebagai alat politik."
+    }
+  },
+  "hk_060": {
+    "title": "Suara Tak Dikenal di Terowongan",
+    "body": "Patroli mendengar suara yang membisikkan rahasia tentang kelemahan pemerintahanmu.",
+    "choices": {
+      "A": "Kirim kelompok jiwa terhukum untuk menyelidiki.",
+      "B": "Tugaskan legiun disiplin untuk mengamankan zona tersebut.",
+      "C": "Manfaatkan bisikan ini secara diam-diam untuk menyesuaikan strategimu."
+    }
+  },
+  "hk_061": {
+    "title": "Laboratorium Dosa Baru",
+    "body": "Lingkaran eksperimental mencoba menciptakan bentuk-bentuk kejahatan yang disesuaikan dengan era modern.",
+    "choices": {
+      "A": "Uji inovasi ini pada sebanyak mungkin manusia.",
+      "B": "Integrasikan ke dalam protokol yang dikontrol ketat.",
+      "C": "Sebarkan hanya yang paling efektif ke permukaan."
+    }
+  },
+  "hk_062": {
+    "title": "Pertandingan Besar Neraka",
+    "body": "Permainan mengerikan dengan ujian, taruhan, dan tantangan yang mengadu orang terkutuk, iblis, dan kadang-kadang jiwa pahlawan.",
+    "choices": {
+      "A": "Arahkan untuk pengumpulan jiwa massal.",
+      "B": "Jadikan alat pelatihan untuk legiunmu.",
+      "C": "Hubungkan dengan acara di permukaan untuk memperkuat pengaruhmu."
+    }
+  },
+  "hk_063": {
+    "title": "Pemberontakan Lingkaran Otonom",
+    "body": "Sebuah lingkaran mulai mengatur dirinya sendiri, tanpa mengirimkan laporan biasa.",
+    "choices": {
+      "A": "Tenggelamkan dengan jiwa baru untuk mengambil alih kendali.",
+      "B": "Kirim pasukan disiplin untuk memulihkan otoritas pusat.",
+      "C": "Amati dulu, untuk melihat apakah model ini bisa digunakan di tempat lain."
+    }
+  },
+  "hk_064": {
+    "title": "Perpustakaan Kepercayaan yang Hancur",
+    "body": "Sebuah perpustakaan mengumpulkan teks, doa, dan harapan yang dikhianati dari manusia fana.",
+    "choices": {
+      "A": "Jadikan senjata psikologis untuk menyiksa lebih banyak.",
+      "B": "Atur untuk meningkatkan manajemen jiwa secara keseluruhan.",
+      "C": "Gunakan untuk menyempurnakan operasi di permukaan."
+    }
+  },
+  "hk_065": {
+    "title": "Krisis Diplomatik dengan Alam Lain",
+    "body": "Alam tetangga, tidak sepenuhnya surga atau neraka, memprotes seranganmu.",
+    "choices": {
+      "A": "Tanggapi dengan demonstrasi kekuatan yang brutal.",
+      "B": "Negosiasikan perbatasan dan aturan yang tepat.",
+      "C": "Alihkan konflik ke zona-zona di permukaan."
+    }
+  },
+  "hk_066": {
+    "title": "Kontes Jiwa Paling Tak Tersembuhkan",
+    "body": "Penyiksamu memperebutkan gelar 'kasus terburuk' yang pernah ditangani.",
+    "choices": {
+      "A": "Perbesar hukuman untuk memanen lebih banyak energi.",
+      "B": "Terapkan kerangka kerja yang ketat, bahkan dalam horor.",
+      "C": "Gunakan kasus ini sebagai contoh untuk menakut-nakuti permukaan."
+    }
+  },
+  "hk_067": {
+    "title": "Festival Topeng Iblis",
+    "body": "Festival di mana iblis dan orang terkutuk mengenakan topeng yang mewakili kesalahan dan ambisi mereka.",
+    "choices": {
+      "A": "Ubah festival ini menjadi perangkap besar untuk jiwa baru.",
+      "B": "Strukturkan sebagai ritual ketertiban dan hierarki.",
+      "C": "Hubungkan secara simbolis dengan kultus tertentu di permukaan."
+    }
+  },
+  "hk_068": {
+    "title": "Negosiasi dengan Dewa yang Terlupakan",
+    "body": "Dewa yang hampir terhapus dari dunia manusia mencari perlindungan dan pengaruh di wilayahmu.",
+    "choices": {
+      "A": "Gunakan dia untuk menarik aliran jiwa yang bernostalgia.",
+      "B": "Integrasikan dia ke dalam tatananmu sebagai bawahan yang sangat diawasi.",
+      "C": "Kirim dia untuk memainkan peran diam-diam di permukaan."
+    }
+  },
+  "hk_069": {
+    "title": "Raksasa Abu",
+    "body": "Raksasa abu yang sangat besar terbentuk di gurun neraka dan menarik perhatian seluruh kerajaan.",
+    "choices": {
+      "A": "Beri makan jiwa untuk menjadikannya senjata.",
+      "B": "Rantai dan integrasikan ke dalam lanskap yang terkendali.",
+      "C": "Hubungkan ke tempat-tempat tertentu di permukaan sebagai simbol hidup."
+    }
+  },
+  "hk_070": {
+    "title": "Majelis Seribu Bisikan",
+    "body": "Ribuan suara orang terkutuk membisikkan namamu dan memperdebatkan setiap keputusan yang kau buat.",
+    "choices": {
+      "A": "Manfaatkan paduan suara ini untuk menyelidiki massa jiwa.",
+      "B": "Salurkan bisikan ini ke dalam struktur dewan.",
+      "C": "Biarkan suara ini menyebar ke permukaan untuk memengaruhi para pemimpi."
+    }
+  },
+  "hk_071": {
+    "title": "Kongres Pendosa Terkenal",
+    "body": "Beberapa jiwa yang sangat terkenal di kalangan manusia berkumpul di lingkaran yang sama dan ingin diperlakukan sebagai elit.",
+    "choices": {
+      "A": "Pamerkan mereka sebagai trofi untuk menarik lebih banyak jiwa.",
+      "B": "Tundukkan mereka pada aturan yang sama seperti orang lain.",
+      "C": "Gunakan mereka untuk memengaruhi permukaan secara diam-diam."
+    }
+  },
+  "hk_072": {
+    "title": "Manuver Militer di Perbatasan",
+    "body": "Legiunmu berlatih di dekat batas kerajaanmu, yang mengkhawatirkan alam tetangga.",
+    "choices": {
+      "A": "Ubah latihan menjadi demonstrasi kekuatan yang nyata.",
+      "B": "Yakinkan secara resmi, sambil tetap melanjutkan latihan.",
+      "C": "Pindahkan sebagian pasukan ke target di bumi."
+    }
+  },
+  "hk_073": {
+    "title": "Lingkaran Penghujat Kreatif",
+    "body": "Sebuah lingkaran mengumpulkan mereka yang telah menemukan bentuk penistaan baru. Ide mereka bisa berguna atau merusak segalanya.",
+    "choices": {
+      "A": "Manfaatkan kreativitas mereka untuk menarik lebih banyak jiwa.",
+      "B": "Isolasi mereka dengan ketat untuk menjaga ketertiban.",
+      "C": "Biarkan beberapa ide mereka bocor ke permukaan."
+    }
+  },
+  "hk_074": {
+    "title": "Pengadilan Siksaan Halus",
+    "body": "Pengadilan pengrajin siksaan menawarkan penderitaan yang halus, hampir artistik.",
+    "choices": {
+      "A": "Maksimalkan jumlah jiwa yang ditangani.",
+      "B": "Terapkan protokol kaku untuk setiap siksaan.",
+      "C": "Cadangkan kehalusan ini untuk target berpengaruh di Bumi."
+    }
+  },
+  "hk_075": {
+    "title": "Kemarahan Jenderal Legendaris",
+    "body": "Seorang jenderal legendaris, yang ditakuti semua orang, secara terbuka mengkritik manajemenmu.",
+    "choices": {
+      "A": "Tempatkan dia pada posisinya dengan aliran besar jiwa untuk dikelola.",
+      "B": "Promosikan dia ke peran yang lebih diawasi.",
+      "C": "Kirim dia memimpin kampanye yang sangat berisiko di permukaan."
+    }
+  },
+  "hk_076": {
+    "title": "Inventaris Dosa Tak Terbatas",
+    "body": "Para juru tulis mengeluh: setiap hari, dosa baru menumpuk lebih cepat daripada catatan.",
+    "choices": {
+      "A": "Desak mereka untuk mencatat semuanya, meski terjadi kekacauan.",
+      "B": "Sederhanakan kategori untuk menjaga ketertiban global.",
+      "C": "Hanya catat secara detail dosa-dosa kunci di permukaan."
+    }
+  },
+  "hk_077": {
+    "title": "Ziarah Orang Terkutuk yang Bertobat",
+    "body": "Sekelompok orang terkutuk mencoba 'ziarah' dadakan untuk meminta pengurangan hukuman mereka.",
+    "choices": {
+      "A": "Hukum mereka dengan keras dan jadikan contoh.",
+      "B": "Buat ritual resmi penebusan palsu yang sangat terkendali.",
+      "C": "Kirim mereka kembali sebentar ke permukaan, ditandai selamanya."
+    }
+  },
+  "hk_078": {
+    "title": "Kontes Jeritan Harmonis",
+    "body": "Penyiksa mengadakan kontes untuk mengubah jeritan menjadi paduan suara yang hampir musikal.",
+    "choices": {
+      "A": "Dukung untuk menarik lebih banyak jiwa yang penasaran.",
+      "B": "Tempatkan kontes ini di bawah aturan ketat.",
+      "C": "Siarkan 'nyanyian' ini dalam mimpi buruk manusia."
+    }
+  },
+  "hk_079": {
+    "title": "Lingkaran Pakta yang Hancur",
+    "body": "Sebuah lingkaran penuh dengan mereka yang mengkhianati pakta mereka, baik pakta neraka atau bukan.",
+    "choices": {
+      "A": "Eksploitasi mereka untuk mendapatkan pengakuan dan rahasia.",
+      "B": "Perkuat struktur hukuman mereka sebagai contoh.",
+      "C": "Kirim beberapa dari mereka untuk menabur perselisihan di Bumi."
+    }
+  },
+  "hk_080": {
+    "title": "Kunjungan Raja Kuno yang Digulingkan",
+    "body": "Seorang mantan raja Neraka, yang sudah lama jatuh, kembali menemuimu dan mengomentari pemerintahanmu.",
+    "choices": {
+      "A": "Gunakan dia untuk membenarkan intensifikasi kutukan.",
+      "B": "Integrasikan dia sebagai penasihat di bawah pengawasan ketat.",
+      "C": "Kirim dia untuk memeriksa zona dekat permukaan."
+    }
+  },
+  "hk_081": {
+    "title": "Sekolah Godaan Modern",
+    "body": "Sebuah sekolah mengusulkan untuk melatih iblis yang berspesialisasi dalam jaringan, layar, dan kecanduan kontemporer.",
+    "choices": {
+      "A": "Fokus pada volume jiwa yang dipanen.",
+      "B": "Atur metode dengan kuat untuk menjaga kendali.",
+      "C": "Targetkan tempat-tempat kekuasaan di permukaan sebagai prioritas."
+    }
+  },
+  "hk_082": {
+    "title": "Lingkaran yang Bersaing",
+    "body": "Dua lingkaran membanggakan diri sebagai 'yang paling neraka' dan memperebutkan sumber daya.",
+    "choices": {
+      "A": "Beri makan keduanya dengan lebih banyak jiwa.",
+      "B": "Terapkan hierarki yang jelas di antara mereka.",
+      "C": "Berikan masing-masing misi yang berbeda di permukaan."
+    }
+  },
+  "hk_083": {
+    "title": "Munculnya Celah Bercahaya",
+    "body": "Celah bercahaya terbuka di dasar jurang. Beberapa melihatnya sebagai gangguan dari atas.",
+    "choices": {
+      "A": "Banjiri dengan jiwa untuk menjenuhkannya.",
+      "B": "Kirim legiun disiplin untuk mengendalikannya.",
+      "C": "Arahkan sebagian aliran ke tempat-tempat tertentu di Bumi."
+    }
+  },
+  "hk_084": {
+    "title": "Menara Meditasi Terbalik",
+    "body": "Sebuah menara tempat orang terkutuk tidak bermeditasi untuk menemukan kedamaian, tetapi untuk merenungkan kesalahan mereka.",
+    "choices": {
+      "A": "Tingkatkan jumlah jiwa yang diterima di menara ini.",
+      "B": "Strukturkan operasinya seperti biara neraka.",
+      "C": "Gunakan perenungan ini untuk memandu godaanmu di Bumi."
+    }
+  },
+  "hk_085": {
+    "title": "Parade Binatang Neraka",
+    "body": "Makhluk-makhlukmu yang paling mengerikan berparade di koridor di tengah orang-orang terkutuk yang ketakutan.",
+    "choices": {
+      "A": "Jadikan pertunjukan rutin untuk mematahkan perlawanan.",
+      "B": "Tempatkan parade di bawah protokol keamanan yang ketat.",
+      "C": "Kirim beberapa binatang buas berkeliaran di perbatasan permukaan."
+    }
+  },
+  "hk_086": {
+    "title": "Malam Api Terbalik",
+    "body": "Malam aneh di mana api menyala terbalik, dari tanah ke langit, membuat semua orang tidak stabil.",
+    "choices": {
+      "A": "Biarkan fenomena ini menarik jiwa sebanyak mungkin.",
+      "B": "Kontrol dan petakan setiap zona yang terkena dampak.",
+      "C": "Sinkronkan malam ini dengan ritual permukaan tertentu."
+    }
+  },
+  "hk_087": {
+    "title": "Pertemuan Ahli Penyiksaan",
+    "body": "Para ahli penyiksaan ingin diajak berkonsultasi tentang strategi global.",
+    "choices": {
+      "A": "Beri mereka lebih banyak jiwa untuk dikelola.",
+      "B": "Integrasikan mereka ke dalam dewan yang sangat hierarkis.",
+      "C": "Berikan mereka target khusus di permukaan."
+    }
+  },
+  "hk_088": {
+    "title": "Celah ke Neraka Kecil",
+    "body": "Sebuah celah mengarah ke neraka lokal kecil yang tidak terorganisir, yang menirumu dengan kasar.",
+    "choices": {
+      "A": "Curi jiwanya dan serap neraka itu.",
+      "B": "Restrukturisasi dan integrasikan ke dalam tatananmu.",
+      "C": "Gunakan sebagai basis poros untuk serangan darat."
+    }
+  },
+  "hk_089": {
+    "title": "Prosesi Topeng Rusak",
+    "body": "Prosesi orang terkutuk yang mengenakan topeng retak melintasi beberapa lingkaran.",
+    "choices": {
+      "A": "Tarik lebih banyak jiwa yang mencari tontonan ke sana.",
+      "B": "Jadikan prosesi ini ritual yang sangat terkode.",
+      "C": "Gunakan sebagai simbol dalam kultus permukaan tertentu."
+    }
+  },
+  "hk_090": {
+    "title": "Festival Abu Merah",
+    "body": "Hujan abu merah turun di seluruh kerajaanmu. Beberapa melihatnya sebagai pertanda.",
+    "choices": {
+      "A": "Proklamasikan perburuan jiwa besar-besaran.",
+      "B": "Jadikan upacara ketertiban dan pemurnian terbalik.",
+      "C": "Kaitkan festival ini dengan peristiwa tertentu di Bumi."
+    }
+  },
+  "hk_091": {
+    "title": "Pemberontakan Penjaga Jembatan",
+    "body": "Mereka yang menjaga jembatan antar lingkaran menuntut lebih banyak perhatian.",
+    "choices": {
+      "A": "Beri mereka jiwa baru untuk disaring.",
+      "B": "Klarifikasi hak dan kewajiban mereka secara ketat.",
+      "C": "Tugaskan mereka juga untuk mengawasi jalur ke permukaan."
+    }
+  },
+  "hk_092": {
+    "title": "Menara Sumpah Mustahil",
+    "body": "Sebuah menara tempat orang terkutuk dipaksa bersumpah apa yang tidak akan pernah bisa mereka tepati.",
+    "choices": {
+      "A": "Perbanyak sumpah ini untuk menjebak lebih banyak jiwa.",
+      "B": "Indeks setiap sumpah dalam sistem yang sangat teratur.",
+      "C": "Ekspor sumpah tertentu ke pakta permukaan."
+    }
+  },
+  "hk_093": {
+    "title": "Ladang Patung Abu",
+    "body": "Orang-orang terkutuk yang membeku menjadi patung abu menghiasi dataran, siap hancur atau bangkit.",
+    "choices": {
+      "A": "Hancurkan mereka secara massal untuk memberi makan kerajaanmu.",
+      "B": "Katalogkan dan awasi mereka menurut aturan ketat.",
+      "C": "Kirim beberapa untuk menghantui permukaan secara diam-diam."
+    }
+  },
+  "hk_094": {
+    "title": "Majelis Lidah Api",
+    "body": "Lidah api membisikkan rahasia terburuk orang hidup dan orang mati.",
+    "choices": {
+      "A": "Jenuhkan lingkaranmu dengan wahyu ini untuk mematahkan jiwa.",
+      "B": "Klasifikasikan sebagai informasi strategis.",
+      "C": "Biarkan beberapa bocor ke telinga berpengaruh di Bumi."
+    }
+  },
+  "hk_095": {
+    "title": "Pengadilan Pakta Halus",
+    "body": "Sebuah pengadilan berspesialisasi dalam pakta yang sangat rinci, hampir seperti hukum.",
+    "choices": {
+      "A": "Maksimalkan jumlah jiwa yang tercakup.",
+      "B": "Jadikan pilar ketertiban neraka.",
+      "C": "Gunakan pakta ini sebagai alat cengkeraman politik di permukaan."
+    }
+  },
+  "hk_096": {
+    "title": "Danau Kaca Terbakar",
+    "body": "Danau kaca cair memantulkan kenangan terburuk orang terkutuk dan beberapa iblis.",
+    "choices": {
+      "A": "Celupkan jiwa sebanyak mungkin ke sana.",
+      "B": "Petakan pantulan ini untuk mengatur hukuman dengan lebih baik.",
+      "C": "Tampilkan gambar permukaan di sana untuk memengaruhi keputusanmu."
+    }
+  },
+  "hk_097": {
+    "title": "Konklaf Tawa Gila",
+    "body": "Sekelompok iblis tidak lagi menganggap serius apa pun dan mengubah setiap siksaan menjadi lelucon kejam.",
+    "choices": {
+      "A": "Biarkan mereka menarik jiwa dengan hal yang aneh.",
+      "B": "Kembalikan protokol ketat di domain mereka.",
+      "C": "Kirim mereka untuk mengguncang tempat-tempat tertentu di Bumi."
+    }
+  },
+  "hk_098": {
+    "title": "Malam Cermin Terbalik",
+    "body": "Cermin muncul di mana-mana, menunjukkan kepada orang terkutuk apa yang akan mereka lakukan jika mereka lebih buruk lagi.",
+    "choices": {
+      "A": "Eksploitasi penglihatan ini untuk memperkuat rasa sakit.",
+      "B": "Simpan cermin ini dengan hati-hati di ruang berkode.",
+      "C": "Proyeksikan pantulan tertentu ke dalam mimpi manusia."
+    }
+  },
+  "hk_099": {
+    "title": "Proses Promosi Iblis",
+    "body": "Iblismu meminta sistem promosi yang jelas, dengan pangkat, hak istimewa, dan gelar.",
+    "choices": {
+      "A": "Hargai mereka yang membawa paling banyak jiwa.",
+      "B": "Dasarkan promosi pada kepatuhan dan ketertiban.",
+      "C": "Beri imbalan khusus kepada mereka yang bertindak di permukaan."
+    }
+  },
+  "hk_100": {
+    "title": "Sensus Besar Neraka",
+    "body": "Ada usulan sensus lengkap jiwa, legiun, struktur, dan pengaruh di permukaan.",
+    "choices": {
+      "A": "Fokuskan sensus pada massa jiwa.",
+      "B": "Jadikan alat ketertiban dan kendali mutlak.",
+      "C": "Gunakan terutama untuk merencanakan kampanye di Bumi."
+    }
+  },
+
+  "hk_101": {
+    "title": "Bank Orang Terkutuk",
+    "body": "Sebuah bank neraka menawarkan kepada orang terkutuk untuk 'meminjamkan' serpihan jiwa mereka dengan imbalan bantuan sementara.",
+    "choices": {
+      "A": "Dorong pinjaman ini untuk membesarkan cadangan jiwamu.",
+      "B": "Atur dengan ketat untuk menghindari kekacauan.",
+      "C": "Gunakan kontrak ini untuk mendanai operasi di permukaan."
+    }
+  },
+  "hk_102": {
+    "title": "Kampanye Perekrutan Massal",
+    "body": "Jenderalmu meluncurkan kampanye untuk merekrut legiun baru dari kalangan orang terkutuk yang paling kejam.",
+    "choices": {
+      "A": "Terima semua sukarelawan, meskipun tidak stabil.",
+      "B": "Hanya terima yang paling ganas dan disiplin.",
+      "C": "Ambil profil tertentu untuk misi di permukaan."
+    }
+  },
+  "hk_103": {
+    "title": "Pasar Gelap Relik",
+    "body": "Relik yang dicuri dari permukaan beredar di pasar gelap neraka.",
+    "choices": {
+      "A": "Banjiri pasar untuk menarik lebih banyak jiwa korup.",
+      "B": "Sita dan inventarisir setiap relik.",
+      "C": "Kirim kembali beberapa relik terkutuk ke permukaan."
+    }
+  },
+  "hk_104": {
+    "title": "Sekolah Ahli Strategi Neraka",
+    "body": "Sebuah sekolah ahli strategi mengusulkan rencana tepat untuk perang, korupsi, dan ketertiban.",
+    "choices": {
+      "A": "Tugaskan mereka untuk memaksimalkan panen jiwa.",
+      "B": "Integrasikan mereka ke dalam rantai hierarki yang ketat.",
+      "C": "Arahkan sebagian rencana mereka ke permukaan."
+    }
+  },
+  "hk_105": {
+    "title": "Prosesi Raja-Raja yang Terlupakan",
+    "body": "Mantan raja manusia yang jatuh berparade di depan takhtamu, menuntut status khusus.",
+    "choices": {
+      "A": "Pamerkan mereka untuk menarik jiwa-jiwa yang ambisius.",
+      "B": "Kembalikan mereka ke dalam protokol hukuman yang kaku.",
+      "C": "Kirim beberapa dari mereka untuk memengaruhi bekas tanah mereka."
+    }
+  },
+  "hk_106": {
+    "title": "Kontes Siksaan Inovatif",
+    "body": "Penyiksamu mengadakan kontes untuk menciptakan siksaan baru yang disesuaikan dengan kejahatan kontemporer.",
+    "choices": {
+      "A": "Hadiahi siksaan yang paling menguntungkan dalam hal jiwa.",
+      "B": "Standarisasi setiap teknik dalam manual resmi.",
+      "C": "Cadangkan yang paling kreatif untuk elit permukaan."
+    }
+  },
+  "hk_107": {
+    "title": "Perang Dingin Antara Dua Lingkaran",
+    "body": "Dua lingkaran saling menuduh mencuri orang terkutuk dan penjaga mereka.",
+    "choices": {
+      "A": "Beri mereka makan jiwa untuk meredakan ketegangan... sementara.",
+      "B": "Kirim legiun elit untuk memulihkan ketertiban.",
+      "C": "Salurkan persaingan mereka menuju penaklukan permukaan."
+    }
+  },
+  "hk_108": {
+    "title": "Rumor Neraka yang Lebih Lembut",
+    "body": "Beredar rumor: di suatu tempat ada neraka yang lebih 'bisa ditanggung'.",
+    "choices": {
+      "A": "Biarkan rumor menyebar, itu sumber keputusasaan.",
+      "B": "Identifikasi dan hancurkan setiap upaya pelarian yang terorganisir.",
+      "C": "Gunakan legenda ini untuk memikat manusia fana tertentu."
+    }
+  },
+  "hk_109": {
+    "title": "Menara Gema Militer",
+    "body": "Sebuah menara memantulkan gema teriakan dan perintah legiunmu.",
+    "choices": {
+      "A": "Perkuat gema ini untuk memicu semangat jiwa-jiwa.",
+      "B": "Atur menara dalam protokol militer yang ketat.",
+      "C": "Gunakan untuk mengoordinasikan serangan di permukaan."
+    }
+  },
+  "hk_110": {
+    "title": "Salon Kontrak Mustahil",
+    "body": "Sebuah salon menarik manusia fana dan orang terkutuk dengan kontrak yang tidak akan diterima oleh makhluk waras mana pun.",
+    "choices": {
+      "A": "Tanda tangani secara massal untuk mengumpulkan jiwa.",
+      "B": "Saring kesepakatan untuk menjaga ketertiban yang terbaca.",
+      "C": "Cadangkan klausul tertentu untuk orang kuat di permukaan."
+    }
+  },
+  "hk_111": {
+    "title": "Pemberontakan di Jembatan Terkutuk",
+    "body": "Sebuah jembatan yang menghubungkan dua lingkaran diduduki oleh orang terkutuk yang memberontak.",
+    "choices": {
+      "A": "Tenggelamkan mereka di bawah aliran jiwa tambahan.",
+      "B": "Kirim pasukan disiplin untuk mengambil alih kendali.",
+      "C": "Ubah jembatan ini menjadi pos pengamatan permukaan."
+    }
+  },
+  "hk_112": {
+    "title": "Kalender Kekejian Besar",
+    "body": "Ada usulan kalender 'kekejian besar' untuk dirayakan setiap tahun neraka.",
+    "choices": {
+      "A": "Sesuaikan tanggal ini dengan puncak pengutukan.",
+      "B": "Strukturkan kalender ini sebagai kerangka ketertiban.",
+      "C": "Sinkronkan tanggal tertentu dengan permukaan."
+    }
+  },
+  "hk_113": {
+    "title": "Jurang Bayangan Bergerak",
+    "body": "Sebuah jurang memuntahkan bayangan yang meniru manusia hidup.",
+    "choices": {
+      "A": "Lemparkan jiwa ke dalamnya untuk memberi makan bayangan ini.",
+      "B": "Tempatkan jurang di bawah pengawasan militer yang ketat.",
+      "C": "Kirim bayangan ini untuk memproyeksikan ketakutan di permukaan."
+    }
+  },
+  "hk_114": {
+    "title": "Kultus Api Sunyi",
+    "body": "Sebuah kultus baru memuja api yang tidak membakar tetapi menghabiskan kemauan.",
+    "choices": {
+      "A": "Biarkan api melahap sebanyak mungkin jiwa.",
+      "B": "Integrasikan ke dalam ritual resmi yang sangat terstruktur.",
+      "C": "Hubungkan kultus ini dengan sekte manusia."
+    }
+  },
+  "hk_115": {
+    "title": "Sekolah Mentor Neraka",
+    "body": "Sebuah sekolah melatih 'mentor' yang berspesialisasi dalam perusakan karakter secara perlahan.",
+    "choices": {
+      "A": "Ukur kesuksesan mereka dari jumlah jiwa.",
+      "B": "Nilai terutama disiplin dan kepatuhan mereka.",
+      "C": "Tugaskan mereka pada tokoh kunci di permukaan."
+    }
+  },
+  "hk_116": {
+    "title": "Sungai Kenangan yang Terenggut",
+    "body": "Sebuah sungai membawa kenangan paling gelap dari orang-orang terkutuk.",
+    "choices": {
+      "A": "Lemparkan lebih banyak jiwa ke dalamnya.",
+      "B": "Indeks kenangan ini dalam arsip ketertiban.",
+      "C": "Gunakan kenangan ini untuk memandu korupsi orang hidup."
+    }
+  },
+  "hk_117": {
+    "title": "Permainan Takhta Miniatur",
+    "body": "Para iblis telah membuat model takhtamu dan memainkan ulang keputusanmu dalam bentuk miniatur.",
+    "choices": {
+      "A": "Dukung permainan ini untuk memperkuat auramu.",
+      "B": "Terapkan aturan ketat: tidak ada yang boleh lolos darimu.",
+      "C": "Jadikan ini simulasi reaksi permukaan."
+    }
+  },
+  "hk_118": {
+    "title": "Pilar Rantai Putus",
+    "body": "Sebuah pilar rantai putus menyatukan pakta dan sumpah yang dilanggar.",
+    "choices": {
+      "A": "Ikat lebih banyak jiwa di sana untuk menginspirasi teror.",
+      "B": "Atur rantai ini menurut daftar yang ketat.",
+      "C": "Gunakan untuk melemahkan kontrak tertentu di Bumi."
+    }
+  },
+  "hk_119": {
+    "title": "Hujan Bara di Kawasan Bangsawan",
+    "body": "Hujan bara hanya jatuh di zona yang disediakan untuk orang terkutuk yang berpengaruh.",
+    "choices": {
+      "A": "Perbanyak hujan ini untuk mematahkan kesombongan mereka.",
+      "B": "Tetapkan kalender yang tepat untuk hukuman ini.",
+      "C": "Kaitkan peristiwa ini dengan skandal permukaan tertentu."
+    }
+  },
+  "hk_120": {
+    "title": "Konklaf Master Ilusionis",
+    "body": "Para master ilusionis menuntut peran yang lebih penting dalam pemerintahanmu.",
+    "choices": {
+      "A": "Biarkan mereka memanipulasi persepsi massa.",
+      "B": "Bingkai mereka dengan hierarki yang jelas.",
+      "C": "Kirim mereka untuk menabur keraguan dalam mimpi orang hidup."
+    }
+  },
+  "hk_121": {
+    "title": "Kamp Pengungsi Jiwa",
+    "body": "Sebuah kamp jiwa tanpa bentuk mengaku sebagai 'pengungsi' dari alam lain.",
+    "choices": {
+      "A": "Serap mereka secara massal ke dalam sistemmu.",
+      "B": "Tempatkan mereka di bawah rezim yang dikodekan secara ketat.",
+      "C": "Gunakan mereka sebagai mata uang pertukaran dengan permukaan."
+    }
+  },
+  "hk_122": {
+    "title": "Pasar Kenangan Palsu",
+    "body": "Sebuah pasar menjual kenangan yang bukan milik mereka kepada orang terkutuk.",
+    "choices": {
+      "A": "Manfaatkan kebingungan untuk mengumpulkan jiwa.",
+      "B": "Normalisasi pertukaran ini untuk menghindari penyimpangan.",
+      "C": "Ekspor beberapa kenangan palsu ke manusia fana yang mudah dipengaruhi."
+    }
+  },
+  "hk_123": {
+    "title": "Letusan Gunung Berapi Tulang",
+    "body": "Sebuah gunung berapi yang terbuat dari tulang dan tengkorak terbangun.",
+    "choices": {
+      "A": "Beri makan jiwa untuk memperkuat kekuatannya.",
+      "B": "Salurkan ke dalam rencana tata kota neraka.",
+      "C": "Hubungkan kemarahannya dengan tempat-tempat tertentu di permukaan."
+    }
+  },
+  "hk_124": {
+    "title": "Pengadilan Siksaan Administratif",
+    "body": "Sebuah pengadilan berspesialisasi dalam siksaan birokrasi yang tak berujung.",
+    "choices": {
+      "A": "Kirimkan aliran besar jiwa baru ke sana.",
+      "B": "Jadikan ini bagian utama dari ketertiban internalmu.",
+      "C": "Gunakan model ini untuk menginspirasi beberapa administrasi duniawi."
+    }
+  },
+  "hk_125": {
+    "title": "Delegasi Pemuja Fanatik",
+    "body": "Jiwa-jiwa fanatik agama ingin membuktikan kepadamu bahwa mereka pantas mendapatkan perlakuan khusus.",
+    "choices": {
+      "A": "Gunakan mereka sebagai etalase untuk menarik orang percaya lainnya.",
+      "B": "Integrasikan mereka ke dalam lingkaran yang sangat terstandarisasi.",
+      "C": "Adu mereka melawan struktur keagamaan di permukaan."
+    }
+  },
+  "hk_126": {
+    "title": "Labirin Kaca Hitam",
+    "body": "Sebuah labirin kaca hitam memantulkan pilihan terburuk yang mungkin diambil setiap jiwa.",
+    "choices": {
+      "A": "Benamkan lebih banyak jiwa ke dalam labirin ini.",
+      "B": "Petakan jalur untuk menjaga kendali penuh.",
+      "C": "Proyeksikan visi tertentu kepada pengambil keputusan manusia."
+    }
+  },
+  "hk_127": {
+    "title": "Rumor Pengkhianat di Barisanmu",
+    "body": "Dibiakkan bahwa seorang iblis berpangkat tinggi sedang mempersiapkan kudeta.",
+    "choices": {
+      "A": "Pergelap rumor dengan menghukum orang yang tidak bersalah.",
+      "B": "Luncurkan penyelidikan hierarkis dan rahasia.",
+      "C": "Gunakan rumor untuk memicu pembersihan yang ditargetkan di permukaan."
+    }
+  },
+  "hk_128": {
+    "title": "Lotre Besar Kebangkitan yang Gagal",
+    "body": "Beberapa orang terkutuk berharap mendapat kesempatan kedua untuk hidup kembali.",
+    "choices": {
+      "A": "Jual harapan palsu dengan imbalan jiwa.",
+      "B": "Buat protokol pseudo-resmi yang sangat diawasi.",
+      "C": "Lakukan beberapa pengembalian spektakuler untuk menakuti manusia fana."
+    }
+  },
+  "hk_129": {
+    "title": "Ladang Kandang Gantung",
+    "body": "Kandang gantung berisi jiwa-jiwa yang saling melapor tanpa henti.",
+    "choices": {
+      "A": "Tingkatkan jumlah kandang untuk mendapatkan lebih banyak pengakuan.",
+      "B": "Atur ladang ini untuk menghindari luapan.",
+      "C": "Manfaatkan laporan ini untuk memanipulasi permukaan."
+    }
+  },
+  "hk_130": {
+    "title": "Perjamuan Ilusi Beracun",
+    "body": "Ada usulan untuk mengadakan perjamuan di mana semuanya adalah ilusi... kecuali racunnya.",
+    "choices": {
+      "A": "Undang sebanyak mungkin jiwa berpengaruh.",
+      "B": "Jadikan ritual langka, sangat terkode.",
+      "C": "Hubungkan dengan pesta manusia melalui mimpi dan halusinasi."
+    }
+  },
+  "hk_131": {
+    "title": "Jembatan Berkabut ke Permukaan",
+    "body": "Sebuah jembatan kabut muncul, menghubungkan kerajaanmu secara singkat dengan tempat tertentu di dunia orang hidup.",
+    "choices": {
+      "A": "Biarkan jiwa-jiwa membanjir melalui jembatan ini.",
+      "B": "Amankan setiap lintasan dengan penjaga ketat.",
+      "C": "Kirim pasukan elit kecil untuk menjelajahi tempat ini."
+    }
+  },
+  "hk_132": {
+    "title": "Takhta Sekunder Ilusi",
+    "body": "Takhta sekunder memungkinkan simulasi berbagai versi pemerintahanmu.",
+    "choices": {
+      "A": "Uji skenario yang memaksimalkan jiwa.",
+      "B": "Uji skenario yang memaksimalkan ketertiban.",
+      "C": "Uji skenario yang berpusat pada permukaan."
+    }
+  },
+  "hk_133": {
+    "title": "Arena Duel Kesombongan",
+    "body": "Sebuah arena menyaksikan pertarungan jiwa-jiwa yang tidak mampu melepaskan harga diri mereka.",
+    "choices": {
+      "A": "Stimulasi duel ini untuk menghancurkan lebih banyak jiwa.",
+      "B": "Atur arena sebagai pengadilan kesombongan.",
+      "C": "Pilih pemenang tertentu untuk misi darat."
+    }
+  },
+  "hk_134": {
+    "title": "Kuburan Janji Tak Terpenuhi",
+    "body": "Setiap makam menyandang nama janji yang dikhianati.",
+    "choices": {
+      "A": "Kubur lebih banyak jiwa yang hancur di sana.",
+      "B": "Indeks setiap janji untuk ketertiban yang sempurna.",
+      "C": "Bangunkan janji-janji tertentu di permukaan."
+    }
+  },
+  "hk_135": {
+    "title": "Hujan Bulu Terbakar",
+    "body": "Bulu-bulu hangus jatuh, sisa-sisa makhluk dari atas yang kalah.",
+    "choices": {
+      "A": "Jadikan tanda kemenangan untuk menarik jiwa.",
+      "B": "Simpan di arsip suci yang terbalik.",
+      "C": "Biarkan beberapa jatuh ke permukaan."
+    }
+  },
+  "hk_136": {
+    "title": "Dewan Hakim yang Berderit",
+    "body": "Dewan hakim menuntut lebih banyak wewenang dalam putusan.",
+    "choices": {
+      "A": "Ukur efektivitas mereka dari massa jiwa yang diadili.",
+      "B": "Tempatkan mereka dalam hierarki kaku di bawah pengawasanmu.",
+      "C": "Tugaskan mereka untuk mengadili tindakan manusia tertentu juga."
+    }
+  },
+  "hk_137": {
+    "title": "Menara Jam Terbalik",
+    "body": "Jam berputar mundur dan mengubah persepsi waktu.",
+    "choices": {
+      "A": "Benamkan lebih banyak jiwa dalam kebingungan ini.",
+      "B": "Sinkronkan jam ini dengan tatanan internalmu.",
+      "C": "Bocorkan waktu aneh ini ke malam-malam fana."
+    }
+  },
+  "hk_138": {
+    "title": "Ruang Topeng Kerajaan",
+    "body": "Sebuah ruangan menyimpan wajah semua pendahulumu.",
+    "choices": {
+      "A": "Pamerkan untuk menginspirasi ketakutan dan menarik jiwa.",
+      "B": "Klasifikasikan dalam protokol dinasti yang ketat.",
+      "C": "Proyeksikan wajah-wajah ini ke dalam mimpi raja-raja yang masih hidup."
+    }
+  },
+  "hk_139": {
+    "title": "Pameran Mukjizat Terbalik",
+    "body": "Sebuah pameran menawarkan 'mukjizat' yang selalu memperburuk situasi.",
+    "choices": {
+      "A": "Biarkan jiwa-jiwa bergegas ke sana.",
+      "B": "Batasi stan untuk menjaga kendali.",
+      "C": "Hubungkan pameran ini dengan penipu di permukaan."
+    }
+  },
+  "hk_140": {
+    "title": "Tangga Tanpa Akhir",
+    "body": "Tangga tanpa akhir memaksa orang terkutuk untuk naik atau turun tanpa tujuan.",
+    "choices": {
+      "A": "Tingkatkan aliran jiwa yang terperangkap di dalamnya.",
+      "B": "Petakan setiap pendaratan dalam catatanmu.",
+      "C": "Buat penderita insomnia manusia merasakan tangga ini."
+    }
+  },
+  "hk_141": {
+    "title": "Kredit Penderitaan",
+    "body": "Ada usulan sistem 'kredit penderitaan': menderita lebih banyak sekarang untuk 'meringankan' nanti, secara teori.",
+    "choices": {
+      "A": "Luncurkan sistem ini untuk memulihkan jiwa sebanyak mungkin.",
+      "B": "Bingkai dengan aturan yang mustahil dipenuhi.",
+      "C": "Jual ide ini kepada guru spiritual tertentu di permukaan."
+    }
+  },
+  "hk_142": {
+    "title": "Teater Kehidupan Alternatif",
+    "body": "Sebuah teater memainkan apa yang mungkin terjadi pada orang terkutuk jika mereka membuat pilihan lain.",
+    "choices": {
+      "A": "Paksa jiwa-jiwa untuk menonton pertunjukan ini.",
+      "B": "Atur repertoar lengkap yang diklasifikasikan berdasarkan jenis kesalahan.",
+      "C": "Proyeksikan fragmen drama ini ke dalam mimpi orang hidup."
+    }
+  },
+  "hk_143": {
+    "title": "Majelis Juru Tulis Lelah",
+    "body": "Para juru tulis mengatakan bahwa Neraka pun menghasilkan terlalu banyak dokumen.",
+    "choices": {
+      "A": "Beri mereka jiwa tambahan untuk dikelola.",
+      "B": "Sederhanakan beberapa protokol untuk menjaga ketertiban.",
+      "C": "Delegasikan sebagian beban mereka ke birokrat manusia."
+    }
+  },
+  "hk_144": {
+    "title": "Festival Bara Bernyanyi",
+    "body": "Bara api menyanyikan himne yang menyimpang di koridor.",
+    "choices": {
+      "A": "Biarkan nyanyian mereka menarik jiwa-jiwa yang terpesona.",
+      "B": "Tetapkan waktu dan tempat yang tepat untuk festival ini.",
+      "C": "Gema nyanyian ini di tempat-tempat ibadah duniawi."
+    }
+  },
+  "hk_145": {
+    "title": "Rumah Kaca Tanaman Karnivora Jiwa",
+    "body": "Sebuah rumah kaca menanam tanaman yang memakan langsung fragmen jiwa.",
+    "choices": {
+      "A": "Tingkatkan jumlahnya untuk mempercepat panen.",
+      "B": "Atur rumah kaca ini sebagai institusi model.",
+      "C": "Hubungkan tanaman ini dengan tempat-tempat terkutuk tertentu di permukaan."
+    }
+  },
+  "hk_146": {
+    "title": "Turnamen Kebohongan Sempurna",
+    "body": "Sebuah turnamen menghargai kebohongan yang paling merusak.",
+    "choices": {
+      "A": "Hadiahi terutama jumlah jiwa yang hilang.",
+      "B": "Daftarkan setiap kebohongan dalam catatan yang dikodekan.",
+      "C": "Uji kebohongan ini di jaringan permukaan."
+    }
+  },
+  "hk_147": {
+    "title": "Retakan ke Laut Asam",
+    "body": "Laut asam neraka mengancam akan menenggelamkan seluruh lingkaran.",
+    "choices": {
+      "A": "Lemparkan lebih banyak jiwa ke sana untuk menakut-nakuti.",
+      "B": "Bangun tanggul dengan bahan yang sangat terkontrol.",
+      "C": "Gunakan laut ini sebagai citra obsesif bagi manusia fana tertentu."
+    }
+  },
+  "hk_148": {
+    "title": "Ruang Bawah Tanah Rahasia Tak Terucap",
+    "body": "Sebuah ruang bawah tanah berisi semua yang tidak pernah berani diakui oleh orang hidup dan mati.",
+    "choices": {
+      "A": "Benamkan jiwa-jiwa ke dalamnya untuk menghancurkan mereka.",
+      "B": "Indeks rahasia ini sebagai data strategis.",
+      "C": "Biarkan beberapa bocor ke skandal duniawi."
+    }
+  },
+  "hk_149": {
+    "title": "Ruang Takhta Pesaing",
+    "body": "Beberapa takhta kosong tampaknya menunggu raja Neraka lainnya.",
+    "choices": {
+      "A": "Gunakan mereka sebagai ancaman untuk menundukkan jiwa.",
+      "B": "Integrasikan mereka ke dalam protokol dinasti yang kaku.",
+      "C": "Tunjukkan mereka sebagai visi kepada tiran fana tertentu."
+    }
+  },
+  "hk_150": {
+    "title": "Inventarisasi Besar Neraka Paralel",
+    "body": "Ada usulan untuk mendata neraka paralel, pesaing, atau embrio.",
+    "choices": {
+      "A": "Ukur terutama berapa banyak jiwa yang bisa kau serap.",
+      "B": "Jadikan alat ketertiban dan kontrol atas alam lain.",
+      "C": "Gunakan informasi ini untuk mempersiapkan ekspansi di permukaan."
+    }
+  },
+  "hk_151": {
+    "title": "Perbatasan Utara yang Terbakar",
+    "body": "Rumor berbicara tentang 'Utara' neraka yang mulai menyerang wilayahmu.",
+    "choices": {
+      "A": "Kirim legiun untuk menguji pertahanan mereka.",
+      "B": "Amati dari jauh untuk menghindari pelanggaran ketertiban.",
+      "C": "Bisikkan rumor ini ke permukaan untuk menebar ketakutan."
+    }
+  },
+  "hk_152": {
+    "title": "Duta Besar dari Utara",
+    "body": "Seorang utusan dari kerajaan neraka utara meminta audiensi atas namamu.",
+    "choices": {
+      "A": "Terima dia dengan kemegahan untuk menarik jiwanya.",
+      "B": "Tundukkan dia pada etiket yang ketat dan memalukan.",
+      "C": "Tawarkan aliansi rahasia yang ditujukan ke permukaan."
+    }
+  },
+  "hk_153": {
+    "title": "Tawaran Berbagi Orang Terkutuk",
+    "body": "Utara mengusulkan perjanjian: membagi kategori orang terkutuk tertentu secara adil.",
+    "choices": {
+      "A": "Terima untuk sementara waktu membesarkan stokmu.",
+      "B": "Tolak dan perkuat catatanmu sendiri.",
+      "C": "Terima secara resmi tetapi alihkan sebagian ke permukaan."
+    }
+  },
+  "hk_154": {
+    "title": "Mata-mata Beku",
+    "body": "Mata-mata memberitahumu bahwa Utara sedang bereksperimen dengan hukuman es yang tidak biasa.",
+    "choices": {
+      "A": "Bajak penyiksa mereka untuk legiunmu.",
+      "B": "Klasifikasikan metode baru ini dalam manual siksaanmu.",
+      "C": "Uji kengerian ini pada beberapa jiwa yang datang dari permukaan."
+    }
+  },
+  "hk_155": {
+    "title": "Tuduhan Perebutan Kekuasaan",
+    "body": "Seorang penguasa Utara menuduhmu merebut gelar kuno yang terlupakan.",
+    "choices": {
+      "A": "Tanggapi dengan demonstrasi kekuatan neraka.",
+      "B": "Tuntut pengadilan neraka yang dikodekan untuk memutuskan.",
+      "C": "Balikkan tuduhan dengan mengungkapkan kontak fananya."
+    }
+  },
+  "hk_156": {
+    "title": "Retakan di Gletser Neraka",
+    "body": "Sebuah gletser penderitaan di Utara retak, membiarkan jeritan lolos.",
+    "choices": {
+      "A": "Kirim legiunmu untuk mengambil apa yang keluar darinya.",
+      "B": "Buat protokol darurat untuk menahan retakan.",
+      "C": "Buka jalur tidak langsung ke daerah dingin di permukaan."
+    }
+  },
+  "hk_157": {
+    "title": "Perdagangan Jiwa Beku",
+    "body": "Dilaporkan ada perdagangan jiwa beku yang melewati lingkaranmu.",
+    "choices": {
+      "A": "Ambil bagianmu dan tutup mata.",
+      "B": "Atur lalu lintas dan catat setiap transaksi.",
+      "C": "Biarkan sebagian lalu lintas naik ke dunia orang hidup."
+    }
+  },
+  "hk_158": {
+    "title": "Raksasa Es Hidup",
+    "body": "Raksasa es yang dianimasikan oleh jiwa-jiwa yang dirantai menuju perbatasanmu.",
+    "choices": {
+      "A": "Hancurkan dengan kekuatan penuh.",
+      "B": "Penjarakan di lingkaran khusus, di bawah pengawasan ketat.",
+      "C": "Belokkan raksasa ini untuk menakut-nakuti beberapa kota fana."
+    }
+  },
+  "hk_159": {
+    "title": "Sumpah Non-Agresi",
+    "body": "Utara mengirimimu pakta non-agresi yang diukir di es.",
+    "choices": {
+      "A": "Tanda tangani untuk fokus pada sumber jiwa lain.",
+      "B": "Tolak dan perkuat perbatasanmu.",
+      "C": "Tanda tangani, tetapi gunakan jeda ini untuk menyusup ke permukaan."
+    }
+  },
+  "hk_160": {
+    "title": "Panggilan ke Konklaf Neraka",
+    "body": "Beberapa kerajaan neraka, termasuk Utara, mengadakan konklaf luar biasa.",
+    "choices": {
+      "A": "Kirim delegasi militer yang mengesankan ke sana.",
+      "B": "Pergi hanya dengan administrator terketatmu.",
+      "C": "Manfaatkan konklaf untuk menjalin aliansi mengenai permukaan."
+    }
+  },
+  "hk_161": {
+    "title": "Perang Lagu Neraka",
+    "body": "Lagu-lagu perang dari Utara bersaing dengan lagu-lagu legiunmu sendiri.",
+    "choices": {
+      "A": "Gubah lagu yang lebih menakutkan lagi.",
+      "B": "Larang setiap lagu yang tidak divalidasi oleh tatananmu.",
+      "C": "Gema lagu-lagu ini dalam mimpi buruk orang hidup."
+    }
+  },
+  "hk_162": {
+    "title": "Jembatan Kristal Hitam",
+    "body": "Sebuah jembatan kristal hitam sebentar menghubungkan kerajaanmu dengan benteng Utara.",
+    "choices": {
+      "A": "Kirim legiun terbaikmu untuk menguji ketahanannya.",
+      "B": "Kontrol ketat setiap lintasan di jembatan ini.",
+      "C": "Gunakan jembatan ini untuk memata-matai kontak mereka di permukaan."
+    }
+  },
+  "hk_163": {
+    "title": "Perjanjian Berbagi Bidah",
+    "body": "Utara mengusulkan untuk berbagi berbagai bidah dan kultus fana.",
+    "choices": {
+      "A": "Terima untuk meningkatkan perolehan jiwa cepatmu.",
+      "B": "Tolak dan kodifikasi kultus independenmu sendiri.",
+      "C": "Tanda tangani untuk menyusup ke agama manusia secara diam-diam."
+    }
+  },
+  "hk_164": {
+    "title": "Pertempuran Kecil di Galeri Lahar",
+    "body": "Pertempuran kecil pecah di galeri tempat pasukanmu berpapasan dengan pasukan Utara.",
+    "choices": {
+      "A": "Perkuat kehadiran militer untuk memaksakan hukummu di sana.",
+      "B": "Tentukan zona lintas secara resmi.",
+      "C": "Pasang portal rahasia ke dunia orang hidup."
+    }
+  },
+  "hk_165": {
+    "title": "Koalisi Kerajaan Kecil",
+    "body": "Kerajaan neraka kecil berpaling kepadamu karena takut pada Utara.",
+    "choices": {
+      "A": "Serap mereka secara paksa ke dalam kekaisaranmu.",
+      "B": "Buat aliansi yang diawasi oleh protokol ketat.",
+      "C": "Gunakan kerajaan-kerajaan ini sebagai pion di permukaan."
+    }
+  },
+  "hk_166": {
+    "title": "Simposium Penyiksaan Modern",
+    "body": "Utara mengusulkan simposium tentang tren penyiksaan baru.",
+    "choices": {
+      "A": "Kirim penyiksamu yang paling inventif ke sana.",
+      "B": "Izinkan partisipasi hanya di bawah kendali ketat.",
+      "C": "Tuntut agar teknik tertentu diuji terlebih dahulu di permukaan."
+    }
+  },
+  "hk_167": {
+    "title": "Sabotase Tempaan",
+    "body": "Tempaan neraka strategis mengalami sabotase yang dikaitkan dengan Utara.",
+    "choices": {
+      "A": "Balas dengan serangan mendadak ke gudang senjata mereka.",
+      "B": "Luncurkan penyelidikan internal besar-besaran tentang keamanan.",
+      "C": "Manfaatkan kekacauan untuk menyamarkan operasi ke permukaan."
+    }
+  },
+  "hk_168": {
+    "title": "Perdagangan Spanduk Penistaan",
+    "body": "Spanduk Utara yang menampilkan gambarmu yang terdistorsi beredar di lingkaranmu.",
+    "choices": {
+      "A": "Biarkan beredar untuk mengobarkan kebencian... dan ketakutan.",
+      "B": "Sita dan arsipkan setiap spanduk menurut aturan ketat.",
+      "C": "Kirim beberapa spanduk ini ke kultus fana."
+    }
+  },
+  "hk_169": {
+    "title": "Rumor Pengkhianatan Beku",
+    "body": "Dikabarkan bahwa beberapa jenderalmu mengagumi disiplin Utara.",
+    "choices": {
+      "A": "Bersihkan tersangka secara preventif.",
+      "B": "Awasi tindakan mereka melalui rantai hierarki.",
+      "C": "Gunakan mereka sebagai perantara untuk memanipulasi permukaan."
+    }
+  },
+  "hk_170": {
+    "title": "Monster Es Hitam",
+    "body": "Monster yang terbuat dari es hitam terbangun di koridor bersama.",
+    "choices": {
+      "A": "Beri makan jiwa untuk menundukkannya pada keinginanmu.",
+      "B": "Kurung di balik serangkaian segel dan catatan.",
+      "C": "Kirim untuk menghantui zona kutub dunia orang hidup."
+    }
+  },
+  "hk_171": {
+    "title": "Proyek Perbatasan Bersama",
+    "body": "Administratormu mengusulkan untuk mengkodifikasi perbatasan dengan Utara secara resmi.",
+    "choices": {
+      "A": "Tetapkan perbatasan untuk memusatkan legiunmu di tempat lain.",
+      "B": "Tolak: tidak ada perbatasan yang membatasi kerajaanmu.",
+      "C": "Buat perbatasan yang bisa ditembus ke titik-titik tertentu di permukaan."
+    }
+  },
+  "hk_172": {
+    "title": "Pertukaran Tahanan Simbolis",
+    "body": "Utara menyarankan pertukaran tahanan yang sangat simbolis.",
+    "choices": {
+      "A": "Terima untuk memulihkan jiwa yang berguna.",
+      "B": "Tolak dan tetapkan protokol ketat tentang tahanan.",
+      "C": "Terima, tetapi lepaskan tawanan tertentu di permukaan."
+    }
+  },
+  "hk_173": {
+    "title": "Festival Perbandingan Penyiksaan",
+    "body": "Festival resmi membandingkan penyiksaan Utara dan milikmu.",
+    "choices": {
+      "A": "Tekankan efisiensi brutal dalam hal jiwa.",
+      "B": "Tekankan ketelitian dan protokol.",
+      "C": "Ekspor ide-ide terbaik ke masyarakat manusia."
+    }
+  },
+  "hk_174": {
+    "title": "Negosiasi Jiwa Pahlawan",
+    "body": "Utara menuntut bagian dari jiwa pahlawan tertentu yang sangat langka.",
+    "choices": {
+      "A": "Serahkan beberapa jiwa dengan imbalan konsesi lain.",
+      "B": "Tolak dan sucikan jiwa-jiwa ini dalam tatanan internalmu.",
+      "C": "Biarkan mereka kadang-kadang bereinkarnasi untuk memengaruhi permukaan."
+    }
+  },
+  "hk_175": {
+    "title": "Nyanyian Kabut Utara",
+    "body": "Nyanyian dari Utara menggetarkan dinding lingkaranmu.",
+    "choices": {
+      "A": "Perkuat untuk menarik lebih banyak jiwa yang mudah terpengaruh.",
+      "B": "Saring melalui ritual agar bisa diprediksi.",
+      "C": "Biarkan nyanyian ini menyentuh mimpi manusia fana tertentu."
+    }
+  },
+  "hk_176": {
+    "title": "Kesepakatan Rahasia Non-Intervensi",
+    "body": "Seorang utusan menawarkan perjanjian rahasia: masing-masing berhenti merusak yang lain.",
+    "choices": {
+      "A": "Terima untuk menstabilkan kekaisaranmu dalam jangka pendek.",
+      "B": "Tolak dan konsolidasi lagi tatanan internalmu.",
+      "C": "Tanda tangani, tetapi arahkan intrikmu ke permukaan."
+    }
+  },
+  "hk_177": {
+    "title": "Kontes Ahli Strategi",
+    "body": "Ahli strategimu ingin menghadapi ahli strategi Utara dalam kontes pengaruh.",
+    "choices": {
+      "A": "Nilai kemenangan dari jumlah jiwa yang diperoleh.",
+      "B": "Nilai kemenangan dari stabilitas yang dibawa ke lingkaran.",
+      "C": "Nilai kemenangan dari besarnya gangguan di permukaan."
+    }
+  },
+  "hk_178": {
+    "title": "Pertukaran Manual Pengutukan",
+    "body": "Ada usulan pertukaran manual yang menjelaskan berbagai metode pengutukan.",
+    "choices": {
+      "A": "Terima untuk memperkaya teknikmu.",
+      "B": "Tolak dan perkuat standarmu sendiri.",
+      "C": "Adaptasi bab-bab tertentu untuk penggunaan diam-diam di antara orang hidup."
+    }
+  },
+  "hk_179": {
+    "title": "Ritual Penyatuan Perapian",
+    "body": "Sebuah ritual dapat menyatukan perapian tertentu dari Utara dan milikmu untuk sementara.",
+    "choices": {
+      "A": "Uji ritual untuk meningkatkan panen jiwa.",
+      "B": "Larang selama tidak dikendalikan dengan sempurna.",
+      "C": "Arahkan sebagian dari penyatuan ini ke permukaan."
+    }
+  },
+  "hk_180": {
+    "title": "Undangan Berburu Jiwa",
+    "body": "Utara mengundangmu ke 'perburuan jiwa' yang sangat dipublikasikan di lingkaran.",
+    "choices": {
+      "A": "Berpartisipasi dengan melepaskan legiunmu yang paling rakus.",
+      "B": "Tetapkan aturan ketat untuk membatasi kekacauan.",
+      "C": "Perluas perburuan ini ke mimpi dan harapan manusia fana."
+    }
+  },
+  "hk_181": {
+    "title": "Pengadilan Bersama",
+    "body": "Pengadilan yang dipimpin bersama oleh kerajaanmu dan Utara sedang dipertimbangkan untuk kasus-kasus luar biasa tertentu.",
+    "choices": {
+      "A": "Terima untuk lebih mengesankan jiwa-jiwa.",
+      "B": "Tolak dan pertahankan monopoli atas penghakiman.",
+      "C": "Gunakan pengadilan ini untuk menghukum tokoh manusia simbolis."
+    }
+  },
+  "hk_182": {
+    "title": "Berbagi Teknologi Penderitaan",
+    "body": "Utara mengusulkan untuk berbagi 'teknologi' penderitaan berkelanjutan tertentu.",
+    "choices": {
+      "A": "Adaptasi untuk memaksimalkan panen jiwamu.",
+      "B": "Standarisasi dalam arsenalmu, secara teratur.",
+      "C": "Uji efeknya melalui fenomena aneh di Bumi."
+    }
+  },
+  "hk_183": {
+    "title": "Sabotase Arsipmu",
+    "body": "Arsip pusatmu menunjukkan jejak embun beku dan korupsi dari Utara.",
+    "choices": {
+      "A": "Balas dengan membakar sebagian besar catatan mereka.",
+      "B": "Bangun kembali arsipmu dengan ketelitian yang diperkuat.",
+      "C": "Manfaatkan kebingungan untuk menghapus beberapa jejak di permukaan."
+    }
+  },
+  "hk_184": {
+    "title": "Tawaran Penyatuan Pantheon",
+    "body": "Utara menyarankan penyatuan sebagian mitologi kalian di hadapan manusia fana.",
+    "choices": {
+      "A": "Satukan untuk meningkatkan daya tarik kultus kalian.",
+      "B": "Tolak dan lindungi citramu dengan cemburu.",
+      "C": "Terima, tetapi arahkan penyatuan terutama ke sekte duniawi."
+    }
+  },
+  "hk_185": {
+    "title": "Hadiah Beracun",
+    "body": "Utara mengirimimu artefak yang seharusnya memperkuat legiunmu tetapi dengan efek yang tidak diketahui.",
+    "choices": {
+      "A": "Aktifkan untuk memperkuat pasukanmu segera.",
+      "B": "Simpan di peti tertutup, diinventarisasi dengan hati-hati.",
+      "C": "Bereksperimenlah pada beberapa perantara manusia."
+    }
+  },
+  "hk_186": {
+    "title": "Usulan Duel Antar Penguasa",
+    "body": "Seorang penguasa Utara mengusulkan duel simbolis untuk menyelesaikan perbedaan tertentu.",
+    "choices": {
+      "A": "Terima dan jadikan duel ini tontonan megah.",
+      "B": "Tolak, anggap itu tidak layak untuk statusmu.",
+      "C": "Terima, tetapi hubungkan efek duel dengan bencana duniawi."
+    }
+  },
+  "hk_187": {
+    "title": "Jaringan Penyelundupan Jiwa",
+    "body": "Jaringan klandestin memindahkan jiwa dari satu kerajaan ke kerajaan lain tanpa izin.",
+    "choices": {
+      "A": "Biarkan berkembang dengan imbalan bagian tetap.",
+      "B": "Hancurkan dan catat setiap pelakunya.",
+      "C": "Alihkan untuk memberi makan proyek di permukaan."
+    }
+  },
+  "hk_188": {
+    "title": "Banding ke Arbitrase Tinggi",
+    "body": "Utara mengancam akan mengajukan banding ke entitas yang lebih tua untuk memutuskan konflik kalian.",
+    "choices": {
+      "A": "Terima risikonya, yakinlah pada kekuatanmu.",
+      "B": "Perkuat tatananmu untuk menyajikan berkas yang sempurna.",
+      "C": "Siapkan pengorbanan simbolis di antara orang hidup."
+    }
+  },
+  "hk_189": {
+    "title": "Insiden Diplomatik Berdarah",
+    "body": "Delegasi Utara diserang di salah satu lingkaranmu oleh orang terkutuk.",
+    "choices": {
+      "A": "Tuduh Utara melakukan provokasi dan balas.",
+      "B": "Akui kesalahan dan buat kode keamanan yang lebih baik.",
+      "C": "Gunakan insiden itu sebagai dalih untuk memperluas pengaruhmu di Bumi."
+    }
+  },
+  "hk_190": {
+    "title": "Konklaf Api Bersilang",
+    "body": "Konklaf khusus menyatukan apimu dan api Utara di satu aula.",
+    "choices": {
+      "A": "Cobalah untuk mendominasi majelis sepenuhnya.",
+      "B": "Tetapkan aturan ketat untuk setiap intervensi.",
+      "C": "Hubungkan keputusan tertentu dengan fenomena aneh di permukaan."
+    }
+  },
+  "hk_191": {
+    "title": "Perjanjian Bencana Alam",
+    "body": "Utara mengusulkan perjanjian untuk mengoordinasikan bencana alam yang dipengaruhi oleh Neraka.",
+    "choices": {
+      "A": "Raih kesempatan untuk memanen lebih banyak jiwa.",
+      "B": "Terapkan batasan untuk menjaga keseimbangan lingkaranmu.",
+      "C": "Konsentrasikan bencana tertentu di lokasi strategis manusia."
+    }
+  },
+  "hk_192": {
+    "title": "Eksperimen Neraka Bersatu",
+    "body": "Eksperimen berani akan terdiri dari menggabungkan sebagian lingkaranmu dan lingkaran Utara secara singkat.",
+    "choices": {
+      "A": "Terima untuk menciptakan kejutan pengutukan besar-besaran.",
+      "B": "Tolak, karena takut akan kekacauan total.",
+      "C": "Uji penyatuan pertama-tama melalui mimpi buruk manusia."
+    }
+  },
+  "hk_193": {
+    "title": "Pemberontakan Utusan",
+    "body": "Utusanmu, yang kelelahan karena perjalanan bolak-balik dengan Utara, menuntut status khusus.",
+    "choices": {
+      "A": "Bayar mereka dengan fragmen jiwa tambahan.",
+      "B": "Buat korps utusan yang diawasi ketat.",
+      "C": "Alihkan sebagian ke misi di permukaan."
+    }
+  },
+  "hk_194": {
+    "title": "Akuntansi yang Tidak Sesuai",
+    "body": "Catatanmu dan catatan Utara tidak setuju tentang jumlah pasti jiwa yang dibagikan.",
+    "choices": {
+      "A": "Kau memaksakan angkamu, dengan paksaan jika perlu.",
+      "B": "Kau mengatur audit neraka yang sangat ketat.",
+      "C": "Kau memanfaatkan ketidakjelasan untuk 'menghilangkan' jiwa tertentu ke permukaan."
+    }
+  },
+  "hk_195": {
+    "title": "Proposal Kekaisaran Bersama Besar",
+    "body": "Beberapa penasihat menyarankan untuk membuat kekaisaran tunggal yang menggabungkan kerajaanmu dan Utara.",
+    "choices": {
+      "A": "Dukung gagasan itu untuk meningkatkan kekuatan keseluruhan.",
+      "B": "Tolak gagasan itu untuk mempertahankan kendali mutlak atas tatananmu.",
+      "C": "Negosiasikan di belakang layar untuk mengarahkan kekaisaran ini terutama ke permukaan."
+    }
+  },
+  "hk_196": {
+    "title": "Pemberontakan Pengarsip",
+    "body": "Pengarsipmu mengeluh harus terus-menerus menyesuaikan catatanmu sesuai dengan perjanjian dengan Utara.",
+    "choices": {
+      "A": "Desak mereka bekerja lebih keras untuk menyerap lebih banyak jiwa.",
+      "B": "Sederhanakan perjanjian tertentu untuk memulihkan ketertiban yang jelas.",
+      "C": "Delegasikan sebagian manajemen ke lembaga manusia yang korup."
+    }
+  },
+  "hk_197": {
+    "title": "Kamar Kompromi Abadi",
+    "body": "Sebuah kamar khusus mencatat setiap kompromi yang kau buat dengan neraka lain.",
+    "choices": {
+      "A": "Perbanyak kompromi untuk memaksimalkan aliran jiwa.",
+      "B": "Batasi perjanjian ini untuk menghindari dilusi otoritasmu.",
+      "C": "Gunakan kompromi tertentu sebagai dalih untuk acara di Bumi."
+    }
+  },
+  "hk_198": {
+    "title": "Ultimatum Utara",
+    "body": "Utara memberimu ultimatum: serahkan wilayah tertentu atau ambil risiko perang terbuka.",
+    "choices": {
+      "A": "Tolak dan siapkan legiunmu.",
+      "B": "Serahkan zona sekunder untuk mengulur waktu.",
+      "C": "Terima secara resmi, tetapi pindahkan taruhannya ke permukaan."
+    }
+  },
+  "hk_199": {
+    "title": "Persiapan Perjanjian Besar",
+    "body": "Perjanjian besar sedang disiapkan untuk menggambar ulang peta neraka.",
+    "choices": {
+      "A": "Berusaha terutama untuk meningkatkan bagian jiwamu.",
+      "B": "Berusaha terutama untuk menjamin stabilitas tatananmu.",
+      "C": "Masukkan klausul tersembunyi yang berpengaruh pada dunia orang hidup."
+    }
+  },
+  "hk_200": {
+    "title": "Tanda Tangan atau Putus Hubungan",
+    "body": "Penasihatmu mengumumkan bahwa perjanjian dengan Utara siap ditandatangani... atau ditolak.",
+    "choices": {
+      "A": "Tanda tangani dan nyatakan kedatangan zaman neraka baru.",
+      "B": "Tolak dan tanggung periode panjang ketegangan yang terorganisir.",
+      "C": "Tanda tangani sambil mempersiapkan era korupsi baru di permukaan."
+    }
+  },
+
+  "hk_201": {
+    "title": "Krisis Iklim Tak Terkendali",
+    "body": "Manusia fana memicu bencana iklim bertubi-tubi, tanpa benar-benar melambat.",
+    "choices": {
+      "A": "Dorong perilaku destruktif mereka hingga batas maksimal.",
+      "B": "Dukung beberapa langkah ketertiban untuk memperlama kekacauan.",
+      "C": "Salurkan badai tertentu untuk menguji titik puncaknya."
+    }
+  },
+  "hk_202": {
+    "title": "Polusi Spiritual",
+    "body": "Hati manusia fana jenuh dengan rasa bersalah ekologis dan penyangkalan secara bersamaan.",
+    "choices": {
+      "A": "Kobarkan rasa bersalah mereka untuk memanen lebih banyak jiwa.",
+      "B": "Susun narasi 'bertanggung jawab' untuk menjaga ketertiban semu.",
+      "C": "Biarkan ketegangan ini menggerakkan gerakan radikal di permukaan."
+    }
+  },
+  "hk_203": {
+    "title": "Pemberontakan Kota Pesisir",
+    "body": "Kota-kota yang terancam naiknya air laut menuntut keajaiban.",
+    "choices": {
+      "A": "Biarkan bencana memburuk untuk mempercepat pengutukan.",
+      "B": "Berikan inspirasi rencana darurat yang sangat hierarkis namun tidak memadai.",
+      "C": "Gunakan kepanikan untuk membuka jalan bagi kultus yang putus asa."
+    }
+  },
+  "hk_204": {
+    "title": "Kebocoran Limbah Beracun",
+    "body": "Kebocoran limbah massal meracuni tanah dan lautan.",
+    "choices": {
+      "A": "Bisikkan kepada manusia tertentu untuk meremehkan insiden tersebut.",
+      "B": "Dorong penerapan standar yang sudah terlambat.",
+      "C": "Alihkan kemarahan menjadi konflik politik yang penuh kekerasan."
+    }
+  },
+  "hk_205": {
+    "title": "Perang Disinformasi",
+    "body": "Manusia fana saling menuduh berbohong, hingga meragukan segalanya.",
+    "choices": {
+      "A": "Beri makan setiap kubu dengan pengungkapan palsu.",
+      "B": "Promosikan beberapa suara 'masuk akal' untuk menjaga struktur.",
+      "C": "Munculkan guru-guru yang mengambil untung dari kabut ini."
+    }
+  },
+  "hk_206": {
+    "title": "Jejaring Sosial Membara",
+    "body": "Jejaring di permukaan berubah menjadi arena kebencian dan rasa iri.",
+    "choices": {
+      "A": "Perkuat perbandingan beracun dan penghinaan publik.",
+      "B": "Dukung aturan moderasi yang menenangkan tanpa bertindak mendalam.",
+      "C": "Gunakan platform ini untuk menyebarkan kultus baru yang menyamar."
+    }
+  },
+  "hk_207": {
+    "title": "Influencer Keputusasaan",
+    "body": "Tokoh-tokoh berpengaruh memuja kelelahan, kemarahan, dan nihilisme.",
+    "choices": {
+      "A": "Tingkatkan jumlah pengikut mereka untuk memanen jiwa yang hancur.",
+      "B": "Bingkai pesan mereka untuk menghindari keruntuhan total ketertiban.",
+      "C": "Dorong mereka untuk membimbing pengikut ke tindakan yang tak bisa diubah."
+    }
+  },
+  "hk_208": {
+    "title": "Runtuhnya Sistem Kesehatan",
+    "body": "Sebuah negara melihat sistem kesehatannya jenuh, yang lemah ditinggalkan.",
+    "choices": {
+      "A": "Biarkan pemimpin meremehkan krisis untuk memperburuk situasi.",
+      "B": "Berikan inspirasi reformasi kaku yang tidak memadai namun terstruktur.",
+      "C": "Arahkan kemarahan menuju gerakan ekstremis."
+    }
+  },
+  "hk_209": {
+    "title": "Proliferasi Sekte Modern",
+    "body": "Sekte-sekte baru menjanjikan kesembuhan, kekayaan, dan makna... sebagai ganti ketundukan total.",
+    "choices": {
+      "A": "Dorong penyebaran mereka untuk memanen jiwa secara massal.",
+      "B": "Biarkan institusi menetapkan kerangka kontrol.",
+      "C": "Utamakan sekte yang terhubung secara khusus dengan kultusmu."
+    }
+  },
+  "hk_210": {
+    "title": "Krisis Kebenaran",
+    "body": "Manusia fana tidak tahu lagi apa yang harus dipercaya, semuanya terasa sama.",
+    "choices": {
+      "A": "Dorong relativisme absolut untuk menghancurkan patokan dengan lebih baik.",
+      "B": "Perkuat beberapa otoritas 'terpercaya' untuk menjaga ketertiban semu.",
+      "C": "Tanamkan ide keselamatan hanya untuk segelintir orang terpilih di kabut ini."
+    }
+  },
+  "hk_211": {
+    "title": "Perang Sumber Daya",
+    "body": "Beberapa wilayah memperebutkan air, makanan, dan energi.",
+    "choices": {
+      "A": "Dorong keputusan brutal dan penjarahan.",
+      "B": "Dukung perjanjian yang rapuh untuk memperpanjang ketegangan.",
+      "C": "Munculkan pemimpin karismatik yang siap melakukan apa saja."
+    }
+  },
+  "hk_212": {
+    "title": "Proliferasi Senjata Otonom",
+    "body": "Manusia fana menciptakan senjata yang mampu membunuh tanpa rasa kasihan manusia.",
+    "choices": {
+      "A": "Dorong mereka untuk mendelegasikan lebih banyak keputusan pada mesin.",
+      "B": "Dorong regulasi yang kompleks namun mudah dilalui.",
+      "C": "Biarkan beberapa senjata ini 'salah' sasaran."
+    }
+  },
+  "hk_213": {
+    "title": "Pengawasan Massal",
+    "body": "Sistem pengawasan meneliti setiap gerakan dan kata-kata.",
+    "choices": {
+      "A": "Buat pengawasan diterima atas nama keamanan.",
+      "B": "Buat hukum yang presisi namun sangat mengganggu privasi.",
+      "C": "Gunakan data ini untuk memanipulasi seluruh kerumunan."
+    }
+  },
+  "hk_214": {
+    "title": "Serbuan Kecerdasan Buatan",
+    "body": "Manusia fana mempercayakan pilihan dan kreativitas mereka pada sistem yang tak mereka pahami.",
+    "choices": {
+      "A": "Dorong mereka untuk meninggalkan daya kritis mereka.",
+      "B": "Susun aturan ketat yang sering kali diabaikan.",
+      "C": "Arahkan sistem ini ke nilai-nilai dominasi yang halus."
+    }
+  },
+  "hk_215": {
+    "title": "Krisis Kesepian",
+    "body": "Manusia fana tak pernah sehubung ini... namun tak pernah se-terisolasi ini.",
+    "choices": {
+      "A": "Dorong mereka untuk mengisi kekosongan dengan perilaku destruktif.",
+      "B": "Dorong beberapa struktur kolektif untuk menjaga ketertiban sosial.",
+      "C": "Lahirkan komunitas tertutup yang hampir menyerupai sekte."
+    }
+  },
+  "hk_216": {
+    "title": "Kerusuhan Perkotaan",
+    "body": "Seluruh distrik memberontak, terbakar, dan menutup diri.",
+    "choices": {
+      "A": "Kobarkan amarah hingga titik yang tak bisa kembali.",
+      "B": "Berikan inspirasi agar aparat bereaksi sesuai protokol yang kaku.",
+      "C": "Munculkan pemimpin baru yang kejam di tengah kekacauan."
+    }
+  },
+  "hk_217": {
+    "title": "Kebocoran Data Massal",
+    "body": "Rahasia jutaan manusia fana terungkap ke publik.",
+    "choices": {
+      "A": "Manfaatkan data ini untuk mendorong setiap orang ke godaan terburuk mereka.",
+      "B": "Sarankan hukum untuk membingkai kebocoran ini tanpa benar-benar mencegahnya.",
+      "C": "Gunakan rahasia tertentu untuk memanipulasi para pemimpin manusia."
+    }
+  },
+  "hk_218": {
+    "title": "Keramahtamahan yang Ditolak",
+    "body": "Kerumunan yang terusir oleh perang atau iklim terbentur perbatasan yang tertutup.",
+    "choices": {
+      "A": "Kobarkan rasa takut terhadap orang asing dan sikap menutup diri.",
+      "B": "Dukung kebijakan kaku yang disajikan secara rasional.",
+      "C": "Ciptakan kelompok kekerasan yang hidup dari ketegangan ini."
+    }
+  },
+  "hk_219": {
+    "title": "Krisis Keuangan Global",
+    "body": "Pasar runtuh, kekayaan menguap, rasa takut meningkat.",
+    "choices": {
+      "A": "Dorong manusia fana untuk mempertaruhkan segalanya demi keuntungan instan.",
+      "B": "Berikan inspirasi rencana penyelamatan yang rumit dan tidak adil.",
+      "C": "Gunakan kekacauan ini untuk mengikat orang kuat tertentu ke paktamu."
+    }
+  },
+  "hk_220": {
+    "title": "Normalisasi Korupsi",
+    "body": "Korupsi menjadi rahasia umum di lembaga-lembaga kunci.",
+    "choices": {
+      "A": "Dorong kepasrahan: 'semua orang juga melakukannya'.",
+      "B": "Pamerkan beberapa peradilan teladan yang dikelola dengan baik.",
+      "C": "Tawarkan kontrak neraka secara rahasia kepada mereka yang paling berkompromi."
+    }
+  },
+  "hk_221": {
+    "title": "Krisis Kepercayaan pada Sains",
+    "body": "Manusia fana meragukan segalanya, bahkan pengetahuan yang paling mapan.",
+    "choices": {
+      "A": "Dorong teori yang paling absurd namun menggoda.",
+      "B": "Dukung beberapa institusi sains untuk menjaga kemiripan ketertiban.",
+      "C": "Ciptakan tokoh publik yang mencampur sains, konspirasi, dan kultus."
+    }
+  },
+  "hk_222": {
+    "title": "Pertunjukan Kekerasan Permanen",
+    "body": "Kekerasan difilmkan, disebarkan, dan dikomentari secara langsung di mana-mana.",
+    "choices": {
+      "A": "Dorong manusia fana untuk mengalami desensitisasi total.",
+      "B": "Dorong kebijakan kontrol gambar yang ketat... yang tak pernah diterapkan sepenuhnya.",
+      "C": "Gunakan pertunjukan ini untuk merekrut jiwa yang terpesona oleh kekejaman."
+    }
+  },
+  "hk_223": {
+    "title": "Komersialisasi Segalanya",
+    "body": "Bahkan keintiman, belas kasih, dan duka menjadi produk komersial.",
+    "choices": {
+      "A": "Dorong penjualan segala sesuatu yang dianggap suci.",
+      "B": "Biarkan beberapa hukum membatasi ekses yang paling terlihat.",
+      "C": "Ciptakan badan amal palsu yang melayani kepentinganmu."
+    }
+  },
+  "hk_224": {
+    "title": "Kultus Performa",
+    "body": "Manusia fana hanya mendefinisikan diri melalui hasil, angka, dan prestasi.",
+    "choices": {
+      "A": "Dorong kultus ini hingga ke tahap penghancuran diri.",
+      "B": "Susun aturan 'kesejahteraan' yang terintegrasi dalam produktivitas.",
+      "C": "Gunakan tekanan ini untuk membuat individu kunci menandatangani pakta."
+    }
+  },
+  "hk_225": {
+    "title": "Runtuhnya Kehidupan Liar",
+    "body": "Permukaan kehilangan spesies, hutan, dan keseimbangan kunonya.",
+    "choices": {
+      "A": "Dorong perasaan fatalisme dan kata 'sudah terlambat'.",
+      "B": "Dukung kebijakan perlindungan yang sangat teratur namun tidak memadai.",
+      "C": "Ubah kehilangan ini menjadi bahan bakar bagi gerakan ekstremis."
+    }
+  },
+  "hk_226": {
+    "title": "Eksploitasi Tanpa Istirahat",
+    "body": "Kerja malam, jadwal yang terfragmentasi, kurang tidur: manusia fana tak lagi beristirahat.",
+    "choices": {
+      "A": "Dorong para pemimpin untuk menuntut lebih banyak lagi.",
+      "B": "Berikan regulasi waktu kerja... yang penuh dengan pengecualian.",
+      "C": "Ciptakan ketergantungan yang membuat semua orang tetap terjaga, apa pun harganya."
+    }
+  },
+  "hk_227": {
+    "title": "Gurun Batin",
+    "body": "Manusia fana kehilangan selera akan nuansa, seni, dan kelambanan.",
+    "choices": {
+      "A": "Dorong mereka ke arah hiburan kosong yang tak henti-hentinya.",
+      "B": "Dorong beberapa institusi budaya yang sangat kaku.",
+      "C": "Munculkan gerakan artistik yang dipenuhi keputusasaan."
+    }
+  },
+  "hk_228": {
+    "title": "Krisis Keluarga",
+    "body": "Ikatan keluarga robek karena kekerasan, kebisuan, dan pelarian.",
+    "choices": {
+      "A": "Beri makan rasa dendam, hal-hal yang tak terucap, dan pemutusan hubungan yang brutal.",
+      "B": "Promosikan model keluarga yang kaku, terkadang menyesakkan.",
+      "C": "Gunakan keretakan ini untuk merekrut jiwa yang haus akan rasa memiliki."
+    }
+  },
+  "hk_229": {
+    "title": "Pasar Kenangan Buatan",
+    "body": "Perusahaan menjanjikan untuk menciptakan kembali atau menghapus kenangan.",
+    "choices": {
+      "A": "Dorong manusia fana untuk melarikan diri dari realitas dalam ilusi ini.",
+      "B": "Bingkai praktik ini dengan hukum kompleks yang mudah diakali.",
+      "C": "Masukkan jejak pengaruhmu ke dalam kenangan-kenangan ini."
+    }
+  },
+  "hk_230": {
+    "title": "Punahnya Harapan Kolektif",
+    "body": "Gelombang sunyi melanda permukaan: tak ada lagi yang percaya pada masa depan yang lebih baik.",
+    "choices": {
+      "A": "Ubah keputusasaan ini menjadi apati total dan perilaku buruk yang menyendiri.",
+      "B": "Biarkan muncul beberapa proyek bersama yang dikontrol dengan ketat.",
+      "C": "Tawarkan, melalui nabi-nabi pilihan, 'keselamatan' yang menuju ke pelukanmu."
+    }
+  },
+  "hk_231": {
+    "title": "Koloni Luar Angkasa yang Hanyut",
+    "body": "Stasiun orbit dan koloni jauh perlahan lepas dari kendali Bumi.",
+    "choices": {
+      "A": "Dorong koloni untuk memutus hubungan sepenuhnya dengan Bumi.",
+      "B": "Berikan inspirasi piagam kaku untuk mencoba mempertahankan keteraturan.",
+      "C": "Masukkan kultus yang memujamu ke dalam komunitas yang terisolasi ini."
+    }
+  },
+  "hk_232": {
+    "title": "Perebutan Sumber Daya Ekstraterestrial",
+    "body": "Manusia fana mendambakan asteroid, bulan, dan segala yang bisa dieksploitasi.",
+    "choices": {
+      "A": "Kobarkan haus akan laba dengan mengabaikan segala kehati-hatian.",
+      "B": "Dorong perjanjian luar angkasa yang rumit namun tidak stabil.",
+      "C": "Ubah pertaruhan ini menjadi persaingan hampir religius antar negara."
+    }
+  },
+  "hk_233": {
+    "title": "Metaverse Total",
+    "body": "Jutaan manusia fana menghabiskan hidup mereka di dunia virtual yang lebih menarik daripada realitas.",
+    "choices": {
+      "A": "Dorong mereka untuk tersesat di sana hingga melupakan diri sendiri.",
+      "B": "Terapkan aturan waktu layar untuk menyelamatkan ilusi ketertiban.",
+      "C": "Masukkan zona rahasia khusus untuk kultusmu ke dalam metaverse ini."
+    }
+  },
+  "hk_234": {
+    "title": "Avatar Abadi",
+    "body": "Teknologi menawarkan untuk mengabadikan kesadaran manusia dalam avatar digital.",
+    "choices": {
+      "A": "Dorong pelarian dari kematian yang nyata ini.",
+      "B": "Bingkai akses ke keabadian semu ini dengan protokol yang ketat.",
+      "C": "Masukkan celah yang membiarkan pengaruhmu menyaring masuk ke avatar ini."
+    }
+  },
+  "hk_235": {
+    "title": "Transhumanisme yang Kacau",
+    "body": "Implan, modifikasi genetik, optimasi tubuh: beberapa manusia mendefinisikan ulang diri mereka.",
+    "choices": {
+      "A": "Dorong modifikasi yang paling ekstrem.",
+      "B": "Ciptakan norma hukum yang kontradiktif dan kompleks.",
+      "C": "Cadangkan beberapa 'peningkatan' untuk pelayan yang terikat padamu."
+    }
+  },
+  "hk_236": {
+    "title": "Kloning Tidak Resmi",
+    "body": "Laboratorium rahasia bermain dengan kloning manusia tanpa kerangka kerja apa pun.",
+    "choices": {
+      "A": "Biarkan eksperimen ini berkembang biak dalam rahasia.",
+      "B": "Biarkan beberapa info bocor untuk memaksakan hukum yang spektakuler.",
+      "C": "Tandai klon tertentu dengan segel yang hanya dikenali pelayanmu."
+    }
+  },
+  "hk_237": {
+    "title": "Pasar Gelap Organ",
+    "body": "Ekonomi organ bawah tanah berkembang dalam skala besar.",
+    "choices": {
+      "A": "Dorong sinisme: segalanya ada harganya, bahkan tubuh.",
+      "B": "Dukung operasi polisi yang terlihat mencolok namun dangkal.",
+      "C": "Gunakan saluran tertentu untuk mengikat ahli bedah ke paktamu."
+    }
+  },
+  "hk_238": {
+    "title": "Revolusi Bio-rekayasa",
+    "body": "Tanaman, hewan, dan bakteri yang dimodifikasi mulai mengubah seluruh ekosistem.",
+    "choices": {
+      "A": "Dorong manusia fana untuk mencoba tanpa menunggu konsekuensi.",
+      "B": "Terapkan protokol uji yang cepat diakali.",
+      "C": "Ciptakan galur khusus yang menguntungkan kultus masa depanmu."
+    }
+  },
+  "hk_239": {
+    "title": "Wisata Bencana",
+    "body": "Manusia fana membayar untuk mengunjungi zona bencana, medan perang, atau tempat tragedi.",
+    "choices": {
+      "A": "Jadikan wisata ini sebagai hiburan massa yang lumrah.",
+      "B": "Bingkai praktik ini dengan aturan moral kaku namun simbolis.",
+      "C": "Tarik pengunjung ke pengalaman yang menghancurkan empati mereka."
+    }
+  },
+  "hk_240": {
+    "title": "Industri Memori Orang Mati",
+    "body": "Perusahaan mengelola profil, video, dan pesan almarhum sebagai sumber daya komersial.",
+    "choices": {
+      "A": "Maksimalkan monetisasi kehadiran orang mati dalam kehidupan orang hidup.",
+      "B": "Tetapkan batasan hukum dalam penggunaan data ini.",
+      "C": "Masukkan pesan ke dalam arsip ini yang mengarahkan orang hidup kepadamu."
+    }
+  },
+  "hk_241": {
+    "title": "Politik Kambing Hitam",
+    "body": "Pemimpin secara sistematis menunjuk kelompok tertentu sebagai penanggung jawab atas segalanya.",
+    "choices": {
+      "A": "Perkuat strategi ini hingga terjadi persekusi terbuka.",
+      "B": "Dorong komisi resmi untuk memberikan bentuk keteraturan.",
+      "C": "Ubah ketegangan ini menjadi konflik yang hampir religius."
+    }
+  },
+  "hk_242": {
+    "title": "Keadilan Pertunjukan",
+    "body": "Persidangan menjadi acara hiburan media daripada tempat mencari kebenaran.",
+    "choices": {
+      "A": "Dorong vonis yang cepat dan spektakuler.",
+      "B": "Terapkan kode prosedur yang kaku yang sering kali disalahgunakan.",
+      "C": "Gunakan pertunjukan ini untuk menghancurkan musuhmu dan mengangkat pionmu."
+    }
+  },
+  "hk_243": {
+    "title": "Pendidikan yang Hancur",
+    "body": "Sistem pendidikan runtuh akibat ketimpangan, ketegangan, dan kelelahan.",
+    "choices": {
+      "A": "Dorong setiap generasi untuk keluar dengan rasa kecewa yang lebih besar.",
+      "B": "Susun reformasi kompleks yang berubah setiap lima tahun.",
+      "C": "Ciptakan sekolah tandingan yang melayani ideologimu."
+    }
+  },
+  "hk_244": {
+    "title": "Ledakan Psikotropika",
+    "body": "Antara obat-obatan, narkoba, dan penggantinya, permukaan mengambang dalam kabut kimia.",
+    "choices": {
+      "A": "Normalisasi penggunaan harian untuk menghindari introspeksi nyata.",
+      "B": "Regulasi produk tertentu sambil membiarkan yang lain berkembang.",
+      "C": "Ikat jaringan distribusi tertentu dengan pelayanmu."
+    }
+  },
+  "hk_245": {
+    "title": "Kolonisasi Mimpi",
+    "body": "Iklan, layar, dan kelelahan menyerang bahkan hingga ke dalam tidur manusia fana.",
+    "choices": {
+      "A": "Kaburkan batas antara mimpi dan tekanan sosial secara permanen.",
+      "B": "Biarkan muncul wacana tentang 'istirahat suci' yang jarang diikuti.",
+      "C": "Gunakan mimpi ini untuk menanamkan simbol yang mengarah kepadamu."
+    }
+  },
+  "hk_246": {
+    "title": "Pasar Spiritualitas",
+    "body": "Banyak spiritualitas kecil menjual kedamaian batin, kesuksesan, dan ketenangan dalam bentuk paket.",
+    "choices": {
+      "A": "Dorong perilaku bergonta-ganti spiritualitas secara terus-menerus.",
+      "B": "Bingkai praktik ini dalam institusi yang terhormat.",
+      "C": "Samarkan ritualmu menjadi lokakarya 'pengembangan diri'."
+    }
+  },
+  "hk_247": {
+    "title": "Sakralisasi Selebritas",
+    "body": "Menjadi terkenal menjadi lebih penting daripada jati diri yang sebenarnya.",
+    "choices": {
+      "A": "Dorong manusia fana untuk mengorbankan segalanya demi ketenaran sekejap.",
+      "B": "Ciptakan kode moral di sekitar selebritas yang 'baik'.",
+      "C": "Gunakan kehausan ini untuk menawarkan pakta yang cepat dan berbahaya."
+    }
+  },
+  "hk_248": {
+    "title": "Pelarian ke Surga Pajak",
+    "body": "Kekayaan merosot ke zona di luar jangkauan sebagian besar hukum.",
+    "choices": {
+      "A": "Dorong konsentrasi kekayaan yang ekstrem.",
+      "B": "Dukung perjanjian internasional yang buram dan tidak lengkap.",
+      "C": "Jalin pakta pribadi dengan beberapa pemegang kekayaan besar ini."
+    }
+  },
+  "hk_249": {
+    "title": "Normalisasi Siksaan Psikologis",
+    "body": "Pelecehan di tempat kerja, daring, atau di sekolah: siksaan ini bersifat mental dan ditoleransi.",
+    "choices": {
+      "A": "Jadikan kekerasan sunyi ini sebagai norma budaya.",
+      "B": "Terapkan piagam dan prosedur yang memberikan ilusi perlindungan.",
+      "C": "Ubah korban tertentu menjadi algojo, lalu menjadi pelayan."
+    }
+  },
+  "hk_250": {
+    "title": "Penolakan terhadap Penuaan",
+    "body": "Permukaan menolak penuaan, kelemahan, dan ketergantungan: segalanya harus tetap muda dan produktif.",
+    "choices": {
+      "A": "Dorong manusia fana untuk menyangkal kefanaan mereka hingga akhir.",
+      "B": "Promosikan kebijakan 'martabat' yang kaku namun sering kali tak terjangkau.",
+      "C": "Gunakan rasa takut ini untuk menawarkan perpanjangan hidup... dengan harga abadi."
+    }
+  },
+  "hk_251": {
+    "title": "Hujan Bulu",
+    "body": "Hujan bulu emas jatuh hingga ke lingkaranmu. Orang terkutuk menatap ke atas: Surga memanifestasikan dirinya.",
+    "choices": {
+      "A": "Nodai bulu-bulu ini dengan membakarnya diiringi jeritan jiwa.",
+      "B": "Simpan sebagai barang bukti dalam arsipmu.",
+      "C": "Biarkan bulu-bulu itu naik ke permukaan sebagai 'mukjizat' yang ambigu."
+    }
+  },
+  "hk_252": {
+    "title": "Utusan Bersayap Terlalu Putih",
+    "body": "Malaikat pembawa pesan turun membawa perkamen: Surga menuntut negosiasi ulang perbatasan.",
+    "choices": {
+      "A": "Sobek perkamen itu di depan matanya dan tegaskan kedaulatanmu.",
+      "B": "Terima protokol diskusi yang sangat kaku.",
+      "C": "Bocorkan keberadaan malaikat ini kepada beberapa manusia fana."
+    }
+  },
+  "hk_253": {
+    "title": "Jiwa yang Diperebutkan",
+    "body": "Beberapa orang mati diklaim oleh Surga dan juga olehmu.",
+    "choices": {
+      "A": "Klaim bahwa setiap ambiguitas harus diselesaikan demi keuntunganmu.",
+      "B": "Ciptakan pengadilan arbitrase dengan aturan yang sangat rumit.",
+      "C": "Biarkan beberapa kasus hilang dalam mukjizat atau visi di Bumi."
+    }
+  },
+  "hk_254": {
+    "title": "Nyanyian Surgawi Parasit",
+    "body": "Nyanyian dari Surga terdengar hingga ke dasar lubangmu.",
+    "choices": {
+      "A": "Tutupi nyanyian ini dengan kebisingan ratapan.",
+      "B": "Analisis dan klasifikasikan secara cermat dalam daftar catatanmu.",
+      "C": "Biarkan melodi ini menyaring ke dalam mimpi orang hidup, namun dalam bentuk terdistorsi."
+    }
+  },
+  "hk_255": {
+    "title": "Petisi Para Santo",
+    "body": "Sekelompok santo secara resmi menuntut lebih banyak belas kasih bagi jiwa terkutuk tertentu.",
+    "choices": {
+      "A": "Tertawakan kenaifan mereka secara terang-terangan.",
+      "B": "Buka berkas 'peninjauan kembali' yang panjangnya sepanjang keabadian.",
+      "C": "Biarkan ide tentang amnesti menulari beberapa hati manusia fana."
+    }
+  },
+  "hk_256": {
+    "title": "Perjanjian Tidak Saling Mengganggu",
+    "body": "Surga menawarkan pakta: kurangi godaan langsung, sebagai ganti pengurangan mukjizat spektakuler.",
+    "choices": {
+      "A": "Tolak dan lanjutkan perang pengaruh total.",
+      "B": "Terima dengan mengkodifikasi setiap pengecualian secara presisi.",
+      "C": "Tanda tangani secara resmi, sambil membajak permainan di permukaan."
+    }
+  },
+  "hk_257": {
+    "title": "Malaikat yang Kewalahan",
+    "body": "Malaikat pelindung mengeluh di atas sana: terlalu banyak jiwa meluncur ke arahmu.",
+    "choices": {
+      "A": "Perbanyak kesempatan untuk jatuh demi menguji batas mereka.",
+      "B": "Terima beberapa 'koridor rahmat' untuk menjaga ketertiban global.",
+      "C": "Biarkan malaikat yang frustrasi memengaruhi manusia dengan cara yang... kurang murni."
+    }
+  },
+  "hk_258": {
+    "title": "Jembatan Cahaya Retak",
+    "body": "Jembatan cahaya kuno antara Surga dan Neraka retak, memperlihatkan jalur tak terduga.",
+    "choices": {
+      "A": "Sabotase jembatan untuk memutus semua hubungan langsung.",
+      "B": "Tempatkan jembatan di bawah kendali administratif yang ketat.",
+      "C": "Biarkan beberapa retakan berujung secara acak ke permukaan."
+    }
+  },
+  "hk_259": {
+    "title": "Jiwa yang Melarikan Diri",
+    "body": "Jiwa yang dijanjikan ke Surga berhasil menyelinap ke lingkaranmu dengan tipu muslihat.",
+    "choices": {
+      "A": "Simpan sebagai trofi, meski berisiko memicu insiden diplomatik.",
+      "B": "Kirim kembali dengan laporan mendalam yang membuktikan itikad baikmu.",
+      "C": "Kirim kembali hanya setelah menunjukkan Neraka... dan permukaan kepadanya."
+    }
+  },
+  "hk_260": {
+    "title": "Mukjizat Dibatalkan",
+    "body": "Mukjizat yang sedang dipersiapkan di Bumi tiba-tiba dibatalkan oleh manuvermu.",
+    "choices": {
+      "A": "Banggakan pada para malaikat karena telah merusak pertunjukan kecil mereka.",
+      "B": "Simpan kegagalan surgawi ini dalam arsipmu untuk nanti.",
+      "C": "Biarkan rumor 'mukjizat gagal' meracuni iman manusia fana."
+    }
+  },
+  "hk_261": {
+    "title": "Kontes Mesias",
+    "body": "Beberapa tokoh mengaku sebagai penyelamat yang dikirim dari atas... ada yang tidak datang dari Surga.",
+    "choices": {
+      "A": "Perbanyak nabi palsu untuk mengencerkan setiap cahaya sejati.",
+      "B": "Bingkai gerakan mereka dengan aturan kontrol neraka.",
+      "C": "Biarkan beberapa orang terpilih yang tulus, namun di bawah tekanan kegelapan yang kuat."
+    }
+  },
+  "hk_262": {
+    "title": "Kemarahan Malaikat Agung",
+    "body": "Seorang malaikat agung mengancam akan melepaskan kemarahannya pada beberapa lingkaranmu.",
+    "choices": {
+      "A": "Provokasi lagi dan uji batas kesabarannya.",
+      "B": "Serahkan simbol kecil untuk menjaga keseimbangan.",
+      "C": "Alihkan kemarahannya menuju peristiwa dramatis di Bumi."
+    }
+  },
+  "hk_263": {
+    "title": "Negosiasi tentang Purgatori",
+    "body": "Surga ingin memperkuat zona perantara untuk meringankan beban penjaramu.",
+    "choices": {
+      "A": "Tolak: kau tidak akan mengembalikan jiwa mana pun di tengah jalan.",
+      "B": "Terima, namun terapkan aturan pemilahan yang ketat.",
+      "C": "Gunakan purgatori ini untuk memengaruhi orang hidup melalui visi."
+    }
+  },
+  "hk_264": {
+    "title": "Disersi Malaikat",
+    "body": "Beredar kabar bahwa seorang malaikat meninggalkan Surga karena muak dengan keputusan tertentu.",
+    "choices": {
+      "A": "Sambut dia dan jadikan simbol keunggulanmu.",
+      "B": "Interogasi secara metodis dan catat setiap detailnya.",
+      "C": "Kirim malaikat jatuh ini secara diam-diam untuk menabur kekacauan di permukaan."
+    }
+  },
+  "hk_265": {
+    "title": "Penyensoran Doa",
+    "body": "Beberapa orang yang berdoa tidak lagi menerima jawaban, baik dari atas maupun bawah.",
+    "choices": {
+      "A": "Biarkan keheningan ini memupuk rasa pahit dan keraguan.",
+      "B": "Terapkan bentuk keteraturan: doa tertentu akan selalu didengar.",
+      "C": "Jawab beberapa doa dengan caramu sendiri, dengan berpura-pura menjadi Langit."
+    }
+  },
+  "hk_266": {
+    "title": "Tuduhan Intervensi",
+    "body": "Surga menuduhmu mencampuri mukjizat untuk menyesatkannya.",
+    "choices": {
+      "A": "Akui sepenuhnya dan tantang para malaikat untuk campur tangan.",
+      "B": "Sangkalan total dan tuntut audit surgawi-neraka.",
+      "C": "Lanjutkan, namun hanya melalui 'kebetulan' di bumi."
+    }
+  },
+  "hk_267": {
+    "title": "Kebocoran Cahaya",
+    "body": "Cahaya dari atas menyusup ke sebagian terowonganmu.",
+    "choices": {
+      "A": "Lahap dengan kegelapanmu sebelum menyebar.",
+      "B": "Kurung dalam ruang tersegel, dikatalogkan dengan hati-hati.",
+      "C": "Biarkan beberapa pantulan bergema menuju cakrawala manusia fana."
+    }
+  },
+  "hk_268": {
+    "title": "Paduan Suara Disonan",
+    "body": "Nyanyian orang terkutukmu tumpang tindih dengan paduan suara malaikat. Hasilnya... aneh.",
+    "choices": {
+      "A": "Ubah kekacauan suara ini menjadi senjata teror.",
+      "B": "Cobalah mengkodifikasi disonansi ini dalam ritualmu.",
+      "C": "Sampaikan gema ini ke telinga seniman manusia tertentu."
+    }
+  },
+  "hk_269": {
+    "title": "Santo Pelindung yang Keras Kepala",
+    "body": "Seorang santo menolak membiarkan sebuah kota jatuh sepenuhnya di bawah pengaruhmu.",
+    "choices": {
+      "A": "Perbanyak godaan terarah untuk mematahkan perlawanannya.",
+      "B": "Hindari santo ini dengan menyerang tempat lain.",
+      "C": "Munculkan skandal di sekitar ingatannya di antara orang hidup."
+    }
+  },
+  "hk_270": {
+    "title": "Relik Sejati",
+    "body": "Relik asli yang terhubung dengan Surga muncul kembali di Bumi.",
+    "choices": {
+      "A": "Kelilingi dengan mukjizat palsu untuk mengaburkan maknanya.",
+      "B": "Daftarkan secara diam-diam dalam catatanmu sebagai objek yang harus diawasi.",
+      "C": "Dorong beberapa orang untuk saling membunuh demi mengendalikannya."
+    }
+  },
+  "hk_271": {
+    "title": "Prosesi Surgawi",
+    "body": "Prosesi jiwa-jiwa bercahaya melintasi salah satu langit belerangmu sebentar.",
+    "choices": {
+      "A": "Mencoba menangkap beberapa jiwa saat mereka lewat.",
+      "B": "Biarkan mereka lewat untuk menghindari insiden besar.",
+      "C": "Proyeksikan visi ini ke dalam mimpi beberapa manusia fana yang tidak stabil."
+    }
+  },
+  "hk_272": {
+    "title": "Revisi Aturan Pengutukan",
+    "body": "Surga mengusulkan untuk meninjau kembali daftar dosa mematikan.",
+    "choices": {
+      "A": "Tolak reformasi apa pun yang akan membatasi panenmu.",
+      "B": "Terima, dengan syarat kau sendiri yang menulis catatan kakinya.",
+      "C": "Tulis ulang dosa tertentu untuk menjebak manusia fana modern dengan lebih baik."
+    }
+  },
+  "hk_273": {
+    "title": "Kultus Malaikat yang Tak Terkendali",
+    "body": "Di Bumi, beberapa manusia mengidealkan malaikat hingga menjadikannya idola.",
+    "choices": {
+      "A": "Dorong pemberhalaan untuk menyimpangkan spiritualitas sejati.",
+      "B": "Biarkan Surga menangani penyimpangan yang memalukan ini.",
+      "C": "Masukkan simbol milikmu ke dalam kultus ini."
+    }
+  },
+  "hk_274": {
+    "title": "Negosiasi tentang Martir",
+    "body": "Surga ingin memulihkan jiwa para martir yang kau anggap korup.",
+    "choices": {
+      "A": "Tolak: martir yang fanatik memberimu makan dengan sempurna.",
+      "B": "Terima kasus demi kasus setelah penyelidikan mendalam.",
+      "C": "Biarkan mereka naik sesekali, namun dengan bekas luka darimu."
+    }
+  },
+  "hk_275": {
+    "title": "Hujan Mukjizat Lokal",
+    "body": "Sebuah wilayah mengalami serangkaian mukjizat kecil yang dikaitkan dengan Surga.",
+    "choices": {
+      "A": "Balas dengan serangan godaan yang terarah.",
+      "B": "Awasi dan arsipkan setiap peristiwa tanpa campur tangan langsung.",
+      "C": "Ubah mukjizat ini menjadi sumber kecemburuan dan kekacauan sosial."
+    }
+  },
+  "hk_276": {
+    "title": "Harpa Rusak",
+    "body": "Harpa surgawi jatuh berkeping-keping di salah satu danau apimu.",
+    "choices": {
+      "A": "Jadikan sebagai instrumen siksaan suara.",
+      "B": "Simpan dalam keadaan utuh sebagai bukti kegagalan Surga.",
+      "C": "Biarkan fragmen-fragmennya naik kembali ke dunia seniman."
+    }
+  },
+  "hk_277": {
+    "title": "Rumor Rekonsiliasi",
+    "body": "Beredar kabar: suatu hari nanti, Surga dan Neraka akan berdamai.",
+    "choices": {
+      "A": "Ejek ide ini hingga menghilang.",
+      "B": "Catat dalam arsipmu sebagai hipotesis yang jauh.",
+      "C": "Biarkan rumor ini menghidupi sekte-sekte aneh di Bumi."
+    }
+  },
+  "hk_278": {
+    "title": "Jiwa yang Transit",
+    "body": "Lorong langka yang membiarkan jiwa melihat sekilas Surga dan Neraka sebelum memilih.",
+    "choices": {
+      "A": "Kacaukan lorong tersebut agar lebih banyak yang berakhir di tempatmu.",
+      "B": "Tetapkan aturan ketat dalam penggunaan jalur ini.",
+      "C": "Proyeksikan pilihan ini ke dalam mimpi beberapa orang yang masih hidup."
+    }
+  },
+  "hk_279": {
+    "title": "Perselisihan tentang Doa Anak-anak",
+    "body": "Surga menyatakan bahwa semua doa anak-anak harus ditujukan kepada mereka.",
+    "choices": {
+      "A": "Gugat: beberapa anak sudah menjadi makhluk potensialmu.",
+      "B": "Mengalah secara resmi... sambil memanfaatkan orang dewasa di sekitar mereka.",
+      "C": "Ubah doa tertentu menjadi mimpi buruk yang akan menandai hidup mereka."
+    }
+  },
+  "hk_280": {
+    "title": "Perpustakaan Surgawi",
+    "body": "Ditemukan sebuah perpustakaan di atas sana yang juga mencatat tindakanmu sendiri.",
+    "choices": {
+      "A": "Coba sabotase arsip ini melalui pengaruh tidak langsung.",
+      "B": "Bandingkan data mereka dengan catatanmu untuk menyesuaikan ketertiban.",
+      "C": "Biarkan beberapa manusia fana menangkap potongan perpustakaan ini dalam visi mereka."
+    }
+  },
+  "hk_281": {
+    "title": "Jiwa yang Menolak Keduanya",
+    "body": "Beberapa jiwa menolak Surga dan Neraka, menuntut jalan mereka sendiri.",
+    "choices": {
+      "A": "Hancurkan mereka hingga mereka akhirnya memilih.",
+      "B": "Ciptakan status khusus jiwa 'tak terklasifikasi' dalam tatananmu.",
+      "C": "Biarkan ide penolakan total ini menginspirasi beberapa orang hidup."
+    }
+  },
+  "hk_282": {
+    "title": "Malaikat Penyamar di Bumi",
+    "body": "Malaikat-malaikat turun secara diam-diam ke permukaan untuk mengganggu rencanamu.",
+    "choices": {
+      "A": "Lacak mereka melalui pelayanmu dan rusaklah mereka.",
+      "B": "Awasi mereka secara metodis untuk menyesuaikan strategimu.",
+      "C": "Biarkan manusia menganggap mereka sebagai utusanmu."
+    }
+  },
+  "hk_283": {
+    "title": "Pertanda di Langit",
+    "body": "Penampakan yang terlihat oleh seluruh kerumunan ditafsirkan sebagai tanda dari Surga.",
+    "choices": {
+      "A": "Segera picu skandal atau drama yang mengalihkan maknanya.",
+      "B": "Biarkan institusi agama bertikai tentang maknanya.",
+      "C": "Berikan inspirasi tafsir yang kontradiktif yang berujung pada perpecahan."
+    }
+  },
+  "hk_284": {
+    "title": "Pembaruan Malaikat",
+    "body": "Surga 'memperbarui' malaikat tertentu agar lebih memahami dunia modern.",
+    "choices": {
+      "A": "Manfaatkan celah yang tersisa untuk menjebak mereka.",
+      "B": "Amati metode baru ini secara detail untuk menyesuaikan tatananmu.",
+      "C": "Dorong mereka untuk memberi saran kepada manusia fana yang berakhir buruk."
+    }
+  },
+  "hk_285": {
+    "title": "Kontes Belas Kasih",
+    "body": "Inisiatif surgawi menawarkan manusia fana untuk mempraktikkan belas kasih radikal.",
+    "choices": {
+      "A": "Jadikan itu tren sesaat yang cepat diejek.",
+      "B": "Biarkan beberapa komunitas bertahan untuk menjaga keseimbangan.",
+      "C": "Alihkan belas kasih ini menuju penyebab yang destruktif dalam jangka panjang."
+    }
+  },
+  "hk_286": {
+    "title": "Kerusuhan di Surga",
+    "body": "Dikabarkan bahwa pertengkaran pecah bahkan di antara para penghuni surga.",
+    "choices": {
+      "A": "Sebarkan rumor tersebut ke mana-mana untuk memperlemah citra Langit.",
+      "B": "Catat setiap detailnya secara cermat untuk negosiasi masa depan.",
+      "C": "Biarkan beberapa orang hidup menerima visi tentang kekacauan ini."
+    }
+  },
+  "hk_287": {
+    "title": "Jiwa yang Diselamatkan",
+    "body": "Surga menawarkan untuk 'menyelamatkan' beberapa jiwa dari lubang terdalammu.",
+    "choices": {
+      "A": "Tolak setiap pengurangan hukuman.",
+      "B": "Terima kuota sangat kecil sebagai ganti konsesi resmi.",
+      "C": "Biarkan kasus-kasus yang akan menceritakan kengerian pada orang hidup untuk naik."
+    }
+  },
+  "hk_288": {
+    "title": "Rekonsiliasi yang Dipaksakan",
+    "body": "Kekuatan yang lebih tinggi menuntut Surga dan Neraka menemukan titik temu pada subjek tertentu.",
+    "choices": {
+      "A": "Lawan setiap paksaan, meski berisiko memicu krisis.",
+      "B": "Terima kerangka kerja rekonsiliasi yang sangat birokratis.",
+      "C": "Pindahkan konflik ini ke dalam institusi manusia."
+    }
+  },
+  "hk_289": {
+    "title": "Konflik tentang Hewan",
+    "body": "Muncul pertanyaan: apakah hewan memiliki tempat di Surga, di Neraka, atau di tempat lain?",
+    "choices": {
+      "A": "Klaim semua binatang buas dan kejam untuk dirimu.",
+      "B": "Tawarkan zona penyimpanan netral yang sangat teratur.",
+      "C": "Biarkan orang hidup berdebat, ciptakan agama yang berpusat pada hewan."
+    }
+  },
+  "hk_290": {
+    "title": "Danau Cahaya di Tengah Api",
+    "body": "Sebuah danau cahaya murni tiba-tiba muncul di jantung salah satu gunung berapimu.",
+    "choices": {
+      "A": "Coba padamkan dengan kekuatan brutal.",
+      "B": "Batasi, inventarisir, dan integrasikan ke dalam tatananmu.",
+      "C": "Biarkan pantulannya muncul di tempat-tempat suci bumi tertentu."
+    }
+  },
+  "hk_291": {
+    "title": "Sengketa tentang Seniman",
+    "body": "Surga mengklaim bahwa seniman terinspirasi tertentu tidak boleh berakhir di tempatmu.",
+    "choices": {
+      "A": "Jawab bahwa kejeniusan bukan alasan untuk apa pun.",
+      "B": "Bentuk komisi khusus untuk kasus mereka.",
+      "C": "Berikan inspirasi kultus seniman terkutuk di Bumi."
+    }
+  },
+  "hk_292": {
+    "title": "Segel Pecah di Bumi",
+    "body": "Segel kuno yang seharusnya melindungi tempat suci pecah. Surga dan Neraka saling menuduh.",
+    "choices": {
+      "A": "Segera manfaatkan celah tersebut.",
+      "B": "Tawarkan penyelidikan bersama untuk menetapkan tanggung jawab.",
+      "C": "Ubah tempat ini menjadi titik fokus penampakan yang ambigu."
+    }
+  },
+  "hk_293": {
+    "title": "Ramalan Kontradiktif",
+    "body": "Ramalan bumi mengumumkan kemenangan Surga... sekaligus kemenanganmu.",
+    "choices": {
+      "A": "Dorong manusia fana untuk memilih tafsir yang paling destruktif.",
+      "B": "Klasifikasikan ramalan tersebut di antara berkas yang harus diawasi.",
+      "C": "Munculkan sekte-sekte rival yang masing-masing mengklaim makna 'sebenarnya'."
+    }
+  },
+  "hk_294": {
+    "title": "Pertukaran Liturgi",
+    "body": "Ada usulan pertukaran studi tentang liturgi: doa dari atas, ritual dari bawah.",
+    "choices": {
+      "A": "Tolak untuk membiarkan rahasiamu naik ke atas.",
+      "B": "Terima namun sensor segala hal yang terlalu menyudutkanmu.",
+      "C": "Ubah beberapa ritualmu menjadi praktik populer di Bumi."
+    }
+  },
+  "hk_295": {
+    "title": "Pesta Bersama yang Gagal",
+    "body": "Ide gila beredar: mengadakan pesta simbolis antara Langit dan Neraka.",
+    "choices": {
+      "A": "Sabotase proyek tersebut sejak awal.",
+      "B": "Tuntut protokol yang sangat ketat sehingga tak ada yang spontan.",
+      "C": "Biarkan ide itu turun ke Bumi untuk menginspirasi perayaan yang ambigu."
+    }
+  },
+  "hk_296": {
+    "title": "Jiwa Teladan",
+    "body": "Sesosok jiwa, bahkan setelah melihat kengerianmu, tetap mencintai Surga.",
+    "choices": {
+      "A": "Siksa dia hingga memutus keterikatan tersebut.",
+      "B": "Pelajari sebagai kasus percontohan dalam administrasimu.",
+      "C": "Biarkan kisahnya bocor ke beberapa manusia fana... dengan melebih-lebihkannya."
+    }
+  },
+  "hk_297": {
+    "title": "Raja Neraka yang Dikanonisasi",
+    "body": "Di Bumi, sebuah kultus mulai menonjolkanmu sebagai sosok yang diperlukan bagi keseimbangan.",
+    "choices": {
+      "A": "Dukung kultus ini: dipuja itu selalu berguna.",
+      "B": "Awasi agar tidak terlalu mengganggu tatanan internalmu.",
+      "C": "Biarkan dikutuk oleh otoritas agama, demi meningkatkan popularitasnya."
+    }
+  },
+  "hk_298": {
+    "title": "Malaikat dalam Misi Hukuman",
+    "body": "Seorang malaikat dikirim untuk menghukum beberapa 'kelebihanmu' di Bumi.",
+    "choices": {
+      "A": "Tantang secara terbuka dengan mukjizat neraka.",
+      "B": "Biarkan dia menyerang beberapa target sekunder untuk menenangkan Surga.",
+      "C": "Dorong dia untuk bertindak terlalu jauh, membuat manusia fana berbalik melawannya."
+    }
+  },
+  "hk_299": {
+    "title": "Visi Neraka Kosong",
+    "body": "Beberapa manusia fana mengklaim telah melihat visi: Neraka tanpa jiwa.",
+    "choices": {
+      "A": "Jadikan visi itu bahan ejekan, sekadar ilusi.",
+      "B": "Catat sebagai variabel yang tak mungkin dalam kalkulasimu.",
+      "C": "Biarkan visi ini menghidupi gerakan yang mengajar bahwa 'tak ada yang akan dihukum'."
+    }
+  },
+  "hk_300": {
+    "title": "Kompromi Terakhir yang Mustahil",
+    "body": "Teks kompromi terakhir antara Surga dan Neraka diletakkan di meja batumu.",
+    "choices": {
+      "A": "Bakar menjadi abu dan pilih konfrontasi abadi.",
+      "B": "Tanda tangani, tambahkan lapisan aturan pada kekaisaranmu.",
+      "C": "Tanda tangani... lalu pindahkan medan perang yang sesungguhnya ke dalam hati manusia fana."
+    }
+  },
+
+  "hk_301": {
+    "title": "Pemberontakan Juru Tulis",
+    "body": "Juru tulis neraka mengeluh: terlalu banyak jiwa, tidak cukup waktu untuk mencatat semuanya.",
+    "choices": {
+      "A": "Tuntut agar mereka menulis sampai pena mereka patah.",
+      "B": "Reorganisasi administrasi dengan membuat kantor-kantor baru.",
+      "C": "Otomatisasi sebagian pemilahan dengan mendelegasikannya ke permukaan."
+    }
+  },
+  "hk_302": {
+    "title": "Gladiator Iblis",
+    "body": "Para iblis ingin membuat arena permanen untuk pertarungan prestisius.",
+    "choices": {
+      "A": "Biarkan mereka saling mencabik untuk menghibur orang terkutuk.",
+      "B": "Susun aturan ketat dan peringkat elit.",
+      "C": "Siarkan pertunjukan ini ke dalam mimpi manusia fana."
+    }
+  },
+  "hk_303": {
+    "title": "Rumor Pengkhianatan",
+    "body": "Salah satu letnanmu dikabarkan sedang membangun faksi sendiri.",
+    "choices": {
+      "A": "Jebak dia di depan umum untuk menegaskan dominasimu.",
+      "B": "Tempatkan dia di bawah pengawasan ketat dalam sel isolasi.",
+      "C": "Gunakan dia sebagai pion untuk menyusup ke lingkaran lain."
+    }
+  },
+  "hk_304": {
+    "title": "Reformasi Siksaan",
+    "body": "Beberapa iblis mengusulkan metode 'psikologis' daripada fisik.",
+    "choices": {
+      "A": "Dukung kehalusan ini untuk memanen lebih banyak jiwa yang hancur.",
+      "B": "Kodifikasi metode ini dalam manual resmi yang baru.",
+      "C": "Uji teknik ini terlebih dahulu pada orang hidup melalui permukaan."
+    }
+  },
+  "hk_305": {
+    "title": "Serikat Pekerja Terkutuk",
+    "body": "Sekelompok orang terkutuk menuntut 'hak dasar' di lubangmu.",
+    "choices": {
+      "A": "Hancurkan gerakan ini untuk mengingatkan apa itu Neraka.",
+      "B": "Buat piagam semu yang sangat ketat, murni sebagai hiasan.",
+      "C": "Biarkan serikat ini menginspirasi beberapa pemberontakan manusia."
+    }
+  },
+  "hk_306": {
+    "title": "Festival Api",
+    "body": "Legiunmu ingin mengadakan festival untuk merayakan kemenanganmu.",
+    "choices": {
+      "A": "Izinkan pelepasan kekerasan festival secara total.",
+      "B": "Bingkai pesta dalam protokol militer yang kaku.",
+      "C": "Proyeksikan visi festival ini ke dalam kepala seniman fana."
+    }
+  },
+  "hk_307": {
+    "title": "Sekolah Korupsi",
+    "body": "Ada usulan untuk membuka sekolah besar guna melatih para koruptor terbaik.",
+    "choices": {
+      "A": "Terima dan rekrut bakat yang paling kejam.",
+      "B": "Integrasikan sekolah ini ke dalam tatanan administrasi yang ada.",
+      "C": "Kirim lulusan terbaiknya untuk mengajar di Bumi."
+    }
+  },
+  "hk_308": {
+    "title": "Badai Jiwa",
+    "body": "Badai aneh membuat jiwa-jiwa berputar dan mengacaukan daftar catatan.",
+    "choices": {
+      "A": "Terjunlah ke dalam kekacauan untuk meningkatkan panenmu.",
+      "B": "Tangguhkan semua penghakiman dan sortir semuanya secara manual.",
+      "C": "Biarkan badai bertiup hingga ke perbatasan permukaan."
+    }
+  },
+  "hk_309": {
+    "title": "Kronikus Abadi",
+    "body": "Seorang iblis mengusulkan untuk menulis kronik lengkap dari seluruh masa pemerintahanmu.",
+    "choices": {
+      "A": "Berikan dia akses ke segalanya dan biarkan dia tenggelam dalam detail.",
+      "B": "Awasi setiap halaman untuk mengontrol narasi resmi.",
+      "C": "Jatuhkan beberapa bab ke Bumi dalam bentuk legenda."
+    }
+  },
+  "hk_310": {
+    "title": "Penjatahan Api",
+    "body": "Api abadi tampaknya melemah di distrik-distrik tertentu.",
+    "choices": {
+      "A": "Alokasikan kembali api ke zona yang paling produktif.",
+      "B": "Terapkan sistem kuota yang ketat.",
+      "C": "Andalkan permukaan untuk menyediakan bahan bakar baru."
+    }
+  },
+  "hk_311": {
+    "title": "Pasar Gelap Rasa Sakit",
+    "body": "Perdagangan rahasia pertukaran penderitaan telah berkembang di antara orang terkutuk.",
+    "choices": {
+      "A": "Biarkan saja: apa pun yang meningkatkan rasa sakit global menguntungkanmu.",
+      "B": "Atur pasar ini untuk menghindari ketidakseimbangan.",
+      "C": "Ekspor sistem ini ke dalam mimpi orang hidup."
+    }
+  },
+  "hk_312": {
+    "title": "Arsitek Jurang",
+    "body": "Arsitek iblis ingin merombak beberapa lingkaran.",
+    "choices": {
+      "A": "Beri mereka kebebasan penuh untuk menciptakan kengerian baru.",
+      "B": "Validasi rencana terperinci yang menghormati tatanan ketat.",
+      "C": "Ambil inspirasi dari struktur manusia agar Neraka terasa akrab bagi jiwa baru."
+    }
+  },
+  "hk_313": {
+    "title": "Perpustakaan Penyesalan",
+    "body": "Ada usulan untuk mengumpulkan semua penyesalan manusia fana di satu tempat.",
+    "choices": {
+      "A": "Jadikan sumur siksaan yang bisa dikonsultasikan sesuka hati.",
+      "B": "Indeks setiap penyesalan untuk menyempurnakan godaan masa depanmu.",
+      "C": "Biarkan manusia fana tertentu merasakan gema dari perpustakaan ini."
+    }
+  },
+  "hk_314": {
+    "title": "Turnamen Penggoda",
+    "body": "Para penggoda terbaik bersaing untuk membuktikan keunggulan mereka.",
+    "choices": {
+      "A": "Hadiahi yang paling kejam dan inventif.",
+      "B": "Formalisasikan peringkat dan urutan promosi.",
+      "C": "Berikan pemenang tertentu misi khusus di Bumi."
+    }
+  },
+  "hk_315": {
+    "title": "Wabah Keletihan",
+    "body": "Bahkan beberapa iblis tampak lelah menyiksa dengan cara yang selalu sama.",
+    "choices": {
+      "A": "Dorong mereka untuk menemukan kembali kekejaman murni.",
+      "B": "Terapkan rotasi tugas yang sangat terorganisir.",
+      "C": "Biarkan keletihan ini menulari orang hidup dalam bentuk kehampaan eksistensial."
+    }
+  },
+  "hk_316": {
+    "title": "Pelarian ke Dalam Mimpi",
+    "body": "Sebagian orang terkutuk berlindung dalam semacam mimpi sadar untuk melarikan diri dari rasa sakit.",
+    "choices": {
+      "A": "Hancurkan perlindungan ini dengan mimpi buruk yang lebih buruk lagi.",
+      "B": "Katalogkan jalan keluar ini untuk mengontrolnya.",
+      "C": "Uji mekanisme pelarian ini pada manusia fana tertentu."
+    }
+  },
+  "hk_317": {
+    "title": "Eksperimen Waktu",
+    "body": "Ilmuwan iblis ingin membengkokkan waktu untuk mengulang rasa sakit yang sama selamanya.",
+    "choices": {
+      "A": "Biarkan mereka bereksperimen pada jiwa-jiwa anonim.",
+      "B": "Bingkai eksperimen ini untuk menjaga struktur global.",
+      "C": "Terapkan distorsi temporal ini pada kehidupan manusia kunci."
+    }
+  },
+  "hk_318": {
+    "title": "Pengadilan Kesenangan Terlarang",
+    "body": "Sebuah pengadilan neraka tercipta di sekitar kesenangan menyimpang yang disediakan untuk segelintir orang istimewa.",
+    "choices": {
+      "A": "Tutup mata selama hal itu menarik lebih banyak jiwa.",
+      "B": "Integrasikan pengadilan ini ke dalam tatanan resmi, dengan pangkat dan gelar.",
+      "C": "Proyeksikan logika hak istimewa ini ke dalam elit manusia."
+    }
+  },
+  "hk_319": {
+    "title": "Kompetisi Penistaan",
+    "body": "Sebuah kontes diadakan untuk menciptakan penistaan yang paling halus.",
+    "choices": {
+      "A": "Biarkan kreativitas hitam dilepaskan.",
+      "B": "Simpan yang paling efektif dalam manual resmi.",
+      "C": "Naikkan penistaan tertentu ke dalam budaya populer."
+    }
+  },
+  "hk_320": {
+    "title": "Lingkaran Kosong",
+    "body": "Sebuah lingkaran yang dulunya sangat ramai, kini anehnya menjadi sepi penduduk.",
+    "choices": {
+      "A": "Pindahkan jiwa baru ke sana untuk menghidupkan kembali aktivitas.",
+      "B": "Tata ulang lingkaran ini sepenuhnya untuk konsep baru.",
+      "C": "Gunakan gurun ini sebagai zona eksperimen untuk permukaan."
+    }
+  },
+  "hk_321": {
+    "title": "Kesetiaan Kerajaan yang Terlupakan",
+    "body": "Sebuah kerajaan manusia kuno, yang hampir terhapus dari sejarah, memperbarui kesetiaannya pada namamu.",
+    "choices": {
+      "A": "Hormati dengan membangkitkan simbol-simbolnya di pasukanmu.",
+      "B": "Arsipkan dengan hati-hati untuk penggunaan strategis.",
+      "C": "Biarkan beberapa peninggalan muncul kembali di Bumi."
+    }
+  },
+  "hk_322": {
+    "title": "Tempaan Sunyi",
+    "body": "Tempaan iblis melambat karena kurangnya logam dan ide baru.",
+    "choices": {
+      "A": "Paksa produksi dengan mendaur ulang apa pun yang terserak.",
+      "B": "Rencanakan perombakan total bengkel kerja.",
+      "C": "Datangkan ide mesin dengan menginspirasi penemu manusia."
+    }
+  },
+  "hk_323": {
+    "title": "Karnaval Terbalik",
+    "body": "Iblismu ingin mengadakan karnaval di mana algojo dan korban bertukar peran.",
+    "choices": {
+      "A": "Luncurkan karnaval ini untuk menghancurkan semua patokan.",
+      "B": "Tetapkan batasan untuk menghindari keruntuhan total ketertiban.",
+      "C": "Gematkan konsep ini dalam perayaan manusia."
+    }
+  },
+  "hk_324": {
+    "title": "Ritual Tak Dikenal",
+    "body": "Sebuah ritual yang terlupakan aktif kembali secara spontan di sudut terpencil Neraka.",
+    "choices": {
+      "A": "Biarkan berlangsung dan amati.",
+      "B": "Integrasikan ke dalam sistemmu setelah membedahnya.",
+      "C": "Munculkan potongan ritual ini dalam buku mantra manusia."
+    }
+  },
+  "hk_325": {
+    "title": "Kontes Kebohongan",
+    "body": "Agen-agenmu mengadakan kontes: siapa yang bisa menceritakan kebohongan paling merusak.",
+    "choices": {
+      "A": "Hadiahi kebohongan yang menghancurkan seluruh kehidupan.",
+      "B": "Catat secara teliti setiap teknik untuk arsipmu.",
+      "C": "Tanamkan kebohongan ini dalam pidato publik manusia."
+    }
+  },
+  "hk_326": {
+    "title": "Dewan Iblis Kuno",
+    "body": "Iblis tertua menuntut dewan khusus untuk memberimu pendapat mereka.",
+    "choices": {
+      "A": "Abaikan mereka dan biarkan mereka merenung.",
+      "B": "Dengarkan mereka dan integrasikan beberapa ide mereka ke dalam tatananmu.",
+      "C": "Kirim mereka untuk 'menasihati' para pemimpin manusia."
+    }
+  },
+  "hk_327": {
+    "title": "Lokakarya Memori Palsu",
+    "body": "Sebuah lokakarya mengusulkan penulisan ulang memori orang terkutuk agar bisa menyiksa lebih baik.",
+    "choices": {
+      "A": "Validasi lokakarya dan biarkan pemalsuan total terjadi.",
+      "B": "Ciptakan protokol untuk mengklasifikasikan setiap memori yang dimanipulasi.",
+      "C": "Terapkan teknik memori palsu ini pada orang hidup."
+    }
+  },
+  "hk_328": {
+    "title": "Ujian Cermin",
+    "body": "Cermin obsidian menunjukkan kepada jiwa-jiwa apa yang seharusnya bisa mereka capai.",
+    "choices": {
+      "A": "Paksa setiap jiwa untuk menatap hingga gila.",
+      "B": "Cadangkan cermin untuk kasus-kasus pilihan, dalam ritual yang presisi.",
+      "C": "Biarkan bayangannya muncul dalam mimpi manusia tertentu."
+    }
+  },
+  "hk_329": {
+    "title": "Perburuan Buronan",
+    "body": "Beberapa jiwa mencoba bersembunyi di zona Neraka yang terlupakan.",
+    "choices": {
+      "A": "Luncurkan perburuan tanpa ampun.",
+      "B": "Bentuk polisi khusus untuk pelarian.",
+      "C": "Amati dan ambil inspirasi dari strategi mereka untuk menjebak orang hidup."
+    }
+  },
+  "hk_330": {
+    "title": "Kultus Abu",
+    "body": "Sebuah kultus kecil orang terkutuk memuja abumu sebagai relik.",
+    "choices": {
+      "A": "Dukung mereka: dipuja itu selalu berguna.",
+      "B": "Integrasikan kultus ini ke dalam liturgi resmi.",
+      "C": "Biarkan ide ini menyebar pada beberapa manusia yang terpesona oleh kehancuran."
+    }
+  },
+  "hk_331": {
+    "title": "Perjanjian dengan Mimpi Buruk",
+    "body": "Entitas yang mendiami mimpi buruk menuntut kemandirian lebih besar.",
+    "choices": {
+      "A": "Tundukkan mereka dengan kekerasan di bawah otoritasmu.",
+      "B": "Negosiasikan perjanjian di mana tindakan mereka tetap tercatat.",
+      "C": "Biarkan mereka bereksperimen secara bebas dalam malam-malam manusia."
+    }
+  },
+  "hk_332": {
+    "title": "Pelajaran Ironi Hitam",
+    "body": "Seorang iblis mengusulkan untuk mengajarkan ironi hitam kepada orang terkutuk agar mereka saling menghancurkan.",
+    "choices": {
+      "A": "Izinkan pelajaran ini demi melipatgandakan luka yang tak terlihat.",
+      "B": "Institusikan pelajaran ini sebagai disiplin wajib.",
+      "C": "Kirim teknik ini dalam bentuk 'humor' kepada orang hidup."
+    }
+  },
+  "hk_333": {
+    "title": "Megalomania Jenderal",
+    "body": "Salah satu jenderal legiunmu sudah membayangkan dirinya menjadi raja menggantikanmu.",
+    "choices": {
+      "A": "Hancurkan dia sebagai contoh bagi semua orang.",
+      "B": "Promosikan dia ke peran yang terkontrol namun prestisius.",
+      "C": "Biarkan dia memimpin operasi di Bumi, jauh dari takhtamu."
+    }
+  },
+  "hk_334": {
+    "title": "Demam Koleksi",
+    "body": "Beberapa iblis mengoleksi benda-benda remeh milik manusia fana.",
+    "choices": {
+      "A": "Ejek kegemaran ini dan beri hukuman.",
+      "B": "Organisir koleksi ini dalam museum neraka yang tertata.",
+      "C": "Buat manusia merasakan kehilangan tanpa tahu alasannya."
+    }
+  },
+  "hk_335": {
+    "title": "Suara Langkah di Dasar Jurang",
+    "body": "Langkah kaki terdengar di jurang yang seharusnya kosong.",
+    "choices": {
+      "A": "Kirim pengintai bersenjata untuk menjelajah.",
+      "B": "Pasang penjaga permanen dan protokol pengawasan.",
+      "C": "Biarkan misteri ini memengaruhi narasi manusia tertentu."
+    }
+  },
+  "hk_336": {
+    "title": "Pasar Janji yang Tak Ditepati",
+    "body": "Pasar gelap menukar janji-janji yang diingkari di antara orang terkutuk.",
+    "choices": {
+      "A": "Jadikan pusat resmi siksaan moral.",
+      "B": "Terapkan daftar yang tepat untuk setiap janji.",
+      "C": "Edarkan konsep ini dalam politik manusia."
+    }
+  },
+  "hk_337": {
+    "title": "Kontes Muka Iblis",
+    "body": "Iblismu mengadakan kontes wajah yang paling menakutkan.",
+    "choices": {
+      "A": "Dukung kreativitas untuk memperkuat rasa takut.",
+      "B": "Standarisasi topeng terbaik untuk legiunmu.",
+      "C": "Proyeksikan sosok-sosok ini ke dalam mimpi buruk anak-anak manusia."
+    }
+  },
+  "hk_338": {
+    "title": "Danau Keheningan",
+    "body": "Sebuah danau di mana tidak ada teriakan yang bisa terdengar muncul di domainmu.",
+    "choices": {
+      "A": "Lemparkan jiwa-jiwa yang terlalu banyak berteriak ke sana.",
+      "B": "Pelajari dan integrasikan ke dalam rencana keteraturan global.",
+      "C": "Hubungkan danau ini dengan tempat-tempat kesepian ekstrem di Bumi."
+    }
+  },
+  "hk_339": {
+    "title": "Invasi Makhluk Kecil",
+    "body": "Makhluk-makhluk neraka yang mungil menyerbu sel-sel orang terkutuk.",
+    "choices": {
+      "A": "Biarkan mereka menggerogoti segalanya, termasuk saraf.",
+      "B": "Latih dan klasifikasikan mereka dalam unit spesialis.",
+      "C": "Kirim mereka untuk menjangkiti beberapa rumah manusia."
+    }
+  },
+  "hk_340": {
+    "title": "Sekolah Diplomasi Hitam",
+    "body": "Ada usulan sekolah yang didedikasikan untuk negosiasi, pemerasan, dan bermuka dua.",
+    "choices": {
+      "A": "Luncurkan sekolah dan rekrut yang paling jahat.",
+      "B": "Integrasikan ke dalam administrasimu untuk misi-misi presisi.",
+      "C": "Biarkan lulusannya merajut kesepakatan beracun di antara manusia fana."
+    }
+  },
+  "hk_341": {
+    "title": "Jam Keabadian",
+    "body": "Jam-jam raksasa muncul, menandai bukan waktu, melainkan akumulasi penderitaan.",
+    "choices": {
+      "A": "Pasang di mana-mana untuk menindas jiwa-jiwa.",
+      "B": "Cadangkan untuk tempat strategis guna menjaga keteraturan teror.",
+      "C": "Buat detaknya terasa di kepala orang hidup tertentu."
+    }
+  },
+  "hk_342": {
+    "title": "Kontes Sarkasme",
+    "body": "Seluruh aula bergema dengan sarkasme yang menyayat jiwa.",
+    "choices": {
+      "A": "Dukung olahraga kejam ini.",
+      "B": "Normalkan sindiran terbaik untuk manual resmi.",
+      "C": "Ubah gaya ini menjadi humor populer di kalangan manusia."
+    }
+  },
+  "hk_343": {
+    "title": "Makam Terbalik",
+    "body": "Beberapa makam di permukaan terbalik secara misterius.",
+    "choices": {
+      "A": "Lihat sebagai tanda kekuatanmu dan perkuat itu.",
+      "B": "Data setiap kasus dan korelasi dengan catatanmu.",
+      "C": "Gunakan pembalikan ini untuk memicu legenda lokal."
+    }
+  },
+  "hk_344": {
+    "title": "Duel Peramal",
+    "body": "Dua peramal neraka memperebutkan cara terbaik untuk meramalkan kejatuhan manusia.",
+    "choices": {
+      "A": "Dorong mereka ke kompetisi sengit.",
+      "B": "Buat biro resmi untuk prediksi.",
+      "C": "Bocorkan ramalan tertentu kepada manusia fana."
+    }
+  },
+  "hk_345": {
+    "title": "Jembatan Rantai",
+    "body": "Sebuah jembatan rantai menghubungkan dua wilayah Neraka yang tidak lagi saling bicara.",
+    "choices": {
+      "A": "Gunakan untuk mengintensifkan pertukaran jiwa.",
+      "B": "Atur lintasan ini dengan ketat.",
+      "C": "Hubungkan jembatan ini secara simbolis dengan aliansi manusia."
+    }
+  },
+  "hk_346": {
+    "title": "Kebocoran Bara",
+    "body": "Bara api lolos dari gunung berapimu dan muncul di perapian bumi tertentu.",
+    "choices": {
+      "A": "Biarkan bara ini menyulut kekerasan domestik.",
+      "B": "Petakan setiap titik kemunculan.",
+      "C": "Ubah bara ini menjadi simbol berulang dari paktamu."
+    }
+  },
+  "hk_347": {
+    "title": "Kurangnya Dosa Baru",
+    "body": "Penasihatmu mengeluh: mereka merasa sudah mencoba segalanya.",
+    "choices": {
+      "A": "Paksa mereka berinovasi di bawah ancaman hukuman.",
+      "B": "Atur lokakarya terstruktur 'kreativitas jahat'.",
+      "C": "Ambil inspirasi dari keanehan manusia terbaru."
+    }
+  },
+  "hk_348": {
+    "title": "Pintu yang Tertawa",
+    "body": "Beberapa pintu Neraka tertawa terbahak-bahak setiap kali ada jiwa lewat.",
+    "choices": {
+      "A": "Dukung ejekan permanen ini.",
+      "B": "Atur pintu agar tertawa di saat-saat yang tepat.",
+      "C": "Perdengarkan tawa ini di tempat-tempat yang sangat serius di Bumi."
+    }
+  },
+  "hk_349": {
+    "title": "Simulasi Pengampunan",
+    "body": "Seorang iblis mengusulkan untuk memainkan komedi pengampunan agar bisa menyiksa lebih baik setelahnya.",
+    "choices": {
+      "A": "Izinkan pementasan kejam ini.",
+      "B": "Integrasikan dalam prosedur resmi 'grasi'.",
+      "C": "Uji simulasi ini dalam hubungan manusia yang dekat."
+    }
+  },
+  "hk_350": {
+    "title": "Mahkota Retak",
+    "body": "Mahkotamu sendiri menunjukkan retakan kecil, hanya terlihat dari dekat.",
+    "choices": {
+      "A": "Abaikan retakan dan bertindaklah seolah tidak ada apa-apa.",
+      "B": "Pelajari dengan para ahlmu untuk memperkuat tatananmu.",
+      "C": "Biarkan beberapa iblis dan manusia menebak bahwa kau pun bisa berubah."
+    }
+  },
+  "hk_351": {
+    "title": "Barisan Helm Besi",
+    "body": "Legiun beratmu menuntut hak untuk berparade setiap hari di depan takhtamu.",
+    "choices": {
+      "A": "Izinkan parade permanen yang menggilas orang terkutuk.",
+      "B": "Terapkan protokol ketat dengan jadwal dan rute.",
+      "C": "Gunakan parade ini sebagai visi teror bagi manusia fana tertentu."
+    }
+  },
+  "hk_352": {
+    "title": "Patung Penguasa Jatuh",
+    "body": "Sebuah galeri mengumpulkan patung-patung raja manusia yang jatuh ke wilayahmu.",
+    "choices": {
+      "A": "Pamerkan untuk menghina jiwa mereka lebih jauh.",
+      "B": "Klasifikasikan setiap patung berdasarkan jenis kejatuhan dalam catatanmu.",
+      "C": "Biarkan beberapa patung muncul dalam mimpi para pemimpin saat ini."
+    }
+  },
+  "hk_353": {
+    "title": "Tembok Sumpah Rusak",
+    "body": "Tembok tak berujung membawa setiap sumpah yang tak pernah ditepati, terukir di batu hitam.",
+    "choices": {
+      "A": "Tempelkan secara paksa semua sumpah palsu baru di sana.",
+      "B": "Atur sumpah berdasarkan kategori dalam hierarki yang ketat.",
+      "C": "Proyeksikan tembok ini dalam mimpi buruk mereka yang bersiap untuk berbohong."
+    }
+  },
+  "hk_354": {
+    "title": "Kontes Slogan Neraka",
+    "body": "Penasihatmu mengusulkan pembuatan slogan untuk menjual keputusasaan dengan lebih baik.",
+    "choices": {
+      "A": "Validasi yang paling mengejutkan dan ulangi di mana-mana.",
+      "B": "Arsipkan dan uji setiap formula secara metodis.",
+      "C": "Sebarkan slogan-slogan ini dalam iklan manusia."
+    }
+  },
+  "hk_355": {
+    "title": "Lonceng Bara",
+    "body": "Lonceng bara besar berdentang setiap ada pengutukan baru.",
+    "choices": {
+      "A": "Bunyikan hingga membuat jiwa-jiwa gila.",
+      "B": "Atur jam yang presisi untuk setiap dentangan.",
+      "C": "Gematkan lonceng ini di tempat-tempat suci manusia tertentu."
+    }
+  },
+  "hk_356": {
+    "title": "Manuskrip Tak Terbaca",
+    "body": "Manuskrip muncul, tertutup tulisan yang bahkan iblismu pun sulit membacanya.",
+    "choices": {
+      "A": "Berikan pada orang terkutuk agar mereka gila karena mencoba membacanya.",
+      "B": "Buat bagian spesialis untuk memecahkan kodenya perlahan.",
+      "C": "Biarkan fragmen teks ini menyusup ke dalam literatur manusia."
+    }
+  },
+  "hk_357": {
+    "title": "Menara Bisikan",
+    "body": "Sebuah menara baru mengulang terus-menerus pengakuan jiwa yang paling memalukan.",
+    "choices": {
+      "A": "Penjarakan para munafik terbesar di sana.",
+      "B": "Klasifikasikan bisikan berdasarkan tema untuk mengoptimalkan siksaan.",
+      "C": "Perdengarkan bisikan tertentu ke telinga orang hidup yang berpengaruh."
+    }
+  },
+  "hk_358": {
+    "title": "Pesta Topeng Retak",
+    "body": "Iblismu mengadakan pesta di mana semua orang memakai topeng retak yang mengungkap keburukan asli mereka.",
+    "choices": {
+      "A": "Dukung sandiwara permanen ini.",
+      "B": "Gunakan topeng ini untuk mengidentifikasi dan menyortir pelayanmu.",
+      "C": "Berikan inspirasi pesta ini dalam acara sosial manusia."
+    }
+  },
+  "hk_359": {
+    "title": "Laboratorium Ilusi",
+    "body": "Laboratorium bereksperimen dengan ilusi yang mampu menggantikan realitas bagi orang terkutuk.",
+    "choices": {
+      "A": "Benamkan jiwa tertentu dalam kehidupan palsu yang sempurna sebelum menghancurkan semuanya.",
+      "B": "Katalogkan setiap ilusi sebagai alat keteraturan.",
+      "C": "Uji ilusi ini dalam mimpi tokoh-tokoh kunci di Bumi."
+    }
+  },
+  "hk_360": {
+    "title": "Permainan Kursi Bara",
+    "body": "Penjagamu menemukan permainan kejam di mana orang terkutuk memperebutkan kursi panas.",
+    "choices": {
+      "A": "Dukung kompetisi tanpa aturan ini.",
+      "B": "Terapkan peraturan tepat agar menjadi sebuah ritual.",
+      "C": "Impor konsep ini ke dalam kehidupan kantor manusia."
+    }
+  },
+  "hk_361": {
+    "title": "Kartografer Kedalaman",
+    "body": "Kartografer iblis ingin menggambar peta lengkap dari jurang-jurangmu.",
+    "choices": {
+      "A": "Biarkan mereka tersesat, selama jiwa-jiwa tetap menderita.",
+      "B": "Kontrol setiap peta untuk lebih menstrukturkan Neraka.",
+      "C": "Biarkan beberapa fragmen peta ini sampai ke tangan manusia."
+    }
+  },
+  "hk_362": {
+    "title": "Turnamen Siksaan Inovatif",
+    "body": "Sebuah kontes memberi penghargaan pada metode siksaan yang paling orisinal.",
+    "choices": {
+      "A": "Beri kekuasaan total pada pemenang atas seluruh distrik.",
+      "B": "Standarisasi siksaan terbaik dalam manual resmimu.",
+      "C": "Berikan inspirasi kekejaman yang lebih halus pada manusia."
+    }
+  },
+  "hk_363": {
+    "title": "Sungai Nama Terlupakan",
+    "body": "Sebuah sungai menghanyutkan nama-nama mereka yang tak lagi diingat siapa pun.",
+    "choices": {
+      "A": "Lemparkan jiwa-jiwa yang menolak mengakui ketidakberartian mereka ke sana.",
+      "B": "Catat setiap nama dalam daftar sebelum menghilang.",
+      "C": "Alirkan sungai ini dalam mimpi mereka yang takut dilupakan."
+    }
+  },
+  "hk_364": {
+    "title": "Hakim yang Mengejek",
+    "body": "Sekelompok hakim iblis mulai tertawa pada setiap pembelaan jiwa-jiwa.",
+    "choices": {
+      "A": "Dukung mereka untuk mengejek setiap upaya pembelaan.",
+      "B": "Atur ritme ejekan mereka agar tetap terlihat seperti prosedur.",
+      "C": "Berikan gaya ini pada pengadilan manusia tertentu."
+    }
+  },
+  "hk_365": {
+    "title": "Kuburan Takhta",
+    "body": "Sebuah kuburan mengumpulkan semua takhta yang hancur dari para penguasa yang jatuh kepadamu.",
+    "choices": {
+      "A": "Organisir kunjungan paksa bagi para penguasa terkutuk yang baru.",
+      "B": "Klasifikasikan setiap takhta berdasarkan jenis rezim untuk tatanan internalmu.",
+      "C": "Munculkan visi kuburan ini kepada para pemimpin saat ini."
+    }
+  },
+  "hk_366": {
+    "title": "Anak-anak Amarah",
+    "body": "Sekelompok jiwa anak-anak mengembangkan amarah yang dingin dan cerdas.",
+    "choices": {
+      "A": "Gunakan mereka sebagai senjata tak terduga melawan orang terkutuk lainnya.",
+      "B": "Pelajari mereka untuk memahami amarah ini dan mengaturnya.",
+      "C": "Biarkan kebencian mereka meluap ke dalam mimpi keluarga manusia."
+    }
+  },
+  "hk_367": {
+    "title": "Bilah yang Berbisik",
+    "body": "Senjata para penyiksamu mulai berbisik di telinga jiwa-jiwa.",
+    "choices": {
+      "A": "Biarkan senjata itu membisikkan keputusasaan dan paranoia.",
+      "B": "Susun protokol untuk senjata-senjata yang memiliki kesadaran ini.",
+      "C": "Proyeksikan bisikan ini dalam pikiran penjahat manusia tertentu."
+    }
+  },
+  "hk_368": {
+    "title": "Ruang Keputusan yang Dibatalkan",
+    "body": "Sebuah ruangan menunjukkan setiap keputusan besar manusia yang seharusnya bisa mengubah arah.",
+    "choices": {
+      "A": "Paksa jiwa-jiwa untuk selamanya mengalami kembali pilihan mereka yang terlewat.",
+      "B": "Indeks keputusan ini untuk menyempurnakan manipulasi masa depanmu.",
+      "C": "Biarkan visi ruangan ini menghantui para pemimpin yang masih hidup."
+    }
+  },
+  "hk_369": {
+    "title": "Pekan Raya Mukjizat Gagal",
+    "body": "Sebuah pekan raya memamerkan semua mukjizat yang hampir terjadi namun gagal.",
+    "choices": {
+      "A": "Jadikan pertunjukan permanen untuk menghina iman jiwa-jiwa.",
+      "B": "Klasifikasikan setiap kegagalan berdasarkan jenis gangguan.",
+      "C": "Selipkan ide mukjizat gagal ini ke dalam khotbah manusia."
+    }
+  },
+  "hk_370": {
+    "title": "Paduan Suara Kata Terakhir",
+    "body": "Paduan suara mengulang terus-menerus kata-kata terakhir jutaan manusia fana.",
+    "choices": {
+      "A": "Tambahkan gema terdistorsi yang menghancurkan harapan.",
+      "B": "Catat frasa yang paling berguna untuk arsipmu.",
+      "C": "Perdengarkan paduan suara ini di keheningan kamar rumah sakit tertentu."
+    }
+  },
+  "hk_371": {
+    "title": "Iblis Penjahit",
+    "body": "Para iblis ingin menenun jubah dengan ilusi manusia fana.",
+    "choices": {
+      "A": "Biarkan mereka membuat perhiasan yang menindas jiwa.",
+      "B": "Atur bengkel-bengkel ini dalam gilda yang terstruktur rapi.",
+      "C": "Kirim beberapa motif ini ke dalam mode manusia."
+    }
+  },
+  "hk_372": {
+    "title": "Ruang Pengakuan Paksa",
+    "body": "Sebuah ruangan mendorong jiwa-jiwa untuk mengakui segalanya, bahkan yang tak terkatakan.",
+    "choices": {
+      "A": "Lemparkan mereka yang paling sombong sampai mereka hancur.",
+      "B": "Catat setiap pengakuan dalam berkas yang teliti.",
+      "C": "Gematkan pengakuan ini dalam pikiran beberapa orang hidup yang rapuh."
+    }
+  },
+  "hk_373": {
+    "title": "Festival Debu",
+    "body": "Ada usulan festival untuk merayakan segala sesuatu yang berakhir menjadi debu di tempatmu.",
+    "choices": {
+      "A": "Dukung pesta penghapusan ini.",
+      "B": "Strukturkan sebagai kalender resmi Neraka.",
+      "C": "Biarkan tema ini menginspirasi karya manusia yang putus asa."
+    }
+  },
+  "hk_374": {
+    "title": "Topeng Kehormatan",
+    "body": "Topeng-topeng yang memberikan penampilan orang terhormat kepada orang terkutuk.",
+    "choices": {
+      "A": "Paksa mereka memakainya sambil tahu apa yang disembunyikan.",
+      "B": "Distribusikan topeng ini menurut urutan yang sangat tepat.",
+      "C": "Lahirkan topeng sosial yang sama ini di kalangan elit manusia."
+    }
+  },
+  "hk_375": {
+    "title": "Jam Pengkhianatan",
+    "body": "Sebuah jam berdentang setiap kali pengkhianatan dilakukan di Bumi.",
+    "choices": {
+      "A": "Perkuat suaranya agar orang terkutuk tidak mendengar hal lain.",
+      "B": "Hubungkan setiap dentangan dengan berkas di administrasimu.",
+      "C": "Buat para pengkhianat manusia merasa tidak enak setiap kali lonceng berbunyi."
+    }
+  },
+  "hk_376": {
+    "title": "Labirin Berkas",
+    "body": "Labirin lemari arsip berisi kehidupan lengkap miliaran manusia fana.",
+    "choices": {
+      "A": "Tinggalkan jiwa tertentu di sana sampai mereka tersesat.",
+      "B": "Tunjuk pengarsip agung untuk mengatur semuanya.",
+      "C": "Biarkan fragmen berkas muncul dalam penyelidikan manusia."
+    }
+  },
+  "hk_377": {
+    "title": "Pemberontakan Rantai",
+    "body": "Rantai itu sendiri tampaknya ingin memutuskan siapa yang harus ditahan.",
+    "choices": {
+      "A": "Hancurkan mereka untuk mengingatkan siapa komandannya.",
+      "B": "Negosiasikan bentuk keteraturan dengan rantai-rantai sadar ini.",
+      "C": "Hubungkan rantai ini secara simbolis dengan kecanduan manusia tertentu."
+    }
+  },
+  "hk_378": {
+    "title": "Permainan Besar Kedalaman",
+    "body": "Letnanmu ingin mengadakan permainan raksasa untuk memilah orang terkutuk.",
+    "choices": {
+      "A": "Biarkan yang kuat melahap yang lemah.",
+      "B": "Tetapkan aturan, tim, dan klasifikasi.",
+      "C": "Picu salinan permainan ini dalam masyarakat tontonan manusia."
+    }
+  },
+  "hk_379": {
+    "title": "Sekolah Nostalgia Beracun",
+    "body": "Sekolah yang mengajarkan jiwa untuk menyesali masa lalu ideal yang tak pernah ada.",
+    "choices": {
+      "A": "Jadikan disiplin siksaan mental yang utama.",
+      "B": "Evaluasi tingkat nostalgia dan catatlah.",
+      "C": "Infundir racun ini ke dalam diskursus politik manusia."
+    }
+  },
+  "hk_380": {
+    "title": "Pelabuhan Kabut Merah",
+    "body": "Pelabuhan tempat kabut merah terus-menerus membawa jiwa baru mulai berkembang.",
+    "choices": {
+      "A": "Biarkan kapal-kapal kabut merapat tanpa kontrol.",
+      "B": "Terapkan kontrol aliran menurut prioritasmu.",
+      "C": "Hubungkan pelabuhan ini secara simbolis dengan tempat pesisir tertentu di Bumi."
+    }
+  },
+  "hk_381": {
+    "title": "Grup Teater Neraka",
+    "body": "Sebuah grup teater memainkan terus-menerus adegan kehidupan yang terdistorsi bagi orang terkutuk.",
+    "choices": {
+      "A": "Dukung versi yang paling kejam dan memalukan.",
+      "B": "Strukturkan drama dalam siklus yang terorganisir dengan baik.",
+      "C": "Biarkan teater ini meluap ke dalam mimpi seniman manusia."
+    }
+  },
+  "hk_382": {
+    "title": "Sumpah Setia Paksa",
+    "body": "Juru tulismu mengusulkan agar setiap jiwa bersumpah atas namamu.",
+    "choices": {
+      "A": "Paksakan sumpah ini pada semua orang di bawah ancaman.",
+      "B": "Catat setiap sumpah dalam daftar resmi.",
+      "C": "Gematkan sumpah semacam ini di sekte-sekte bumi tertentu."
+    }
+  },
+  "hk_383": {
+    "title": "Fragmen Surga yang Hancur",
+    "body": "Ditemukan fragmen bercahaya yang jatuh dari tempat yang lebih tinggi.",
+    "choices": {
+      "A": "Injak-injak dan ejek fragmen tersebut.",
+      "B": "Simpan dalam lemari kaca tertutup, diberi label dengan benar.",
+      "C": "Buat fragmen ini berkilauan di tempat-tempat suci manusia."
+    }
+  },
+  "hk_384": {
+    "title": "Patroli Pengawas",
+    "body": "Para pengawasmu menginginkan kekuasaan luas untuk mengontrol setiap sudut.",
+    "choices": {
+      "A": "Biarkan mereka memaksakan teror total.",
+      "B": "Atur mereka dalam hierarki ketat dengan laporan rutin.",
+      "C": "Proyeksikan model pengawasan ini ke kota-kota manusia."
+    }
+  },
+  "hk_385": {
+    "title": "Pedagang Penghiburan Palsu",
+    "body": "Iblis menjual penghiburan palsu kepada orang terkutuk dengan imbalan penderitaan lebih besar nantinya.",
+    "choices": {
+      "A": "Tutup mata selama hal itu semakin menghancurkan jiwa.",
+      "B": "Pajaki dan bingkai perdagangan ini dalam tatananmu.",
+      "C": "Ekspor model ini ke pasar manusia tertentu."
+    }
+  },
+  "hk_386": {
+    "title": "Sungai yang Bisa Berbalik",
+    "body": "Sungai jiwa terkadang tampak mengalir naik, terkadang turun.",
+    "choices": {
+      "A": "Biarkan sungai itu berubah-ubah untuk membingungkan orang terkutuk.",
+      "B": "Pelajari fenomena ini dan integrasikan dalam rencanamu.",
+      "C": "Hubungkan sungai ini dengan kisah manusia tentang kesempatan kedua."
+    }
+  },
+  "hk_387": {
+    "title": "Sekolah Kebohongan pada Diri Sendiri",
+    "body": "Sekolah yang mengajarkan jiwa untuk membohongi diri sendiri berulang kali.",
+    "choices": {
+      "A": "Jadikan basis pusat siksaan psikologis.",
+      "B": "Klasifikasikan jenis kebohongan untuk arsipmu.",
+      "C": "Jadikan teknik ini sebagai norma dalam masyarakat manusia."
+    }
+  },
+  "hk_388": {
+    "title": "Taman Abu Beku",
+    "body": "Taman di mana setiap bunga adalah abu dari harapan yang benar-benar padam.",
+    "choices": {
+      "A": "Ajak jiwa-jiwa optimis berjalan di sana sampai mereka menyerah.",
+      "B": "Daftarkan setiap bunga berdasarkan asal harapan yang hancur.",
+      "C": "Biarkan taman ini muncul dalam visi mistikus manusia."
+    }
+  },
+  "hk_389": {
+    "title": "Pertunjukan Kejatuhan Berulang",
+    "body": "Pertunjukan yang memutar ulang kejatuhan jiwa tertentu terus-menerus.",
+    "choices": {
+      "A": "Undang mereka yang masih percaya bahwa mereka tidak bersalah.",
+      "B": "Sinkronkan adegan ini dengan kalender tatananmu.",
+      "C": "Proyeksikan kejatuhan ini dalam simbol-simbol di media manusia."
+    }
+  },
+  "hk_390": {
+    "title": "Tempaan Pakta",
+    "body": "Tempaan khusus menciptakan pakta yang terukir di logam.",
+    "choices": {
+      "A": "Perkuat setiap komitmen yang putus asa dengan cara ini.",
+      "B": "Beri nomor dan klasifikasikan setiap pakta yang ditandatangani.",
+      "C": "Hubungkan pakta ini dengan kontrak manusia yang paling kasar."
+    }
+  },
+  "hk_391": {
+    "title": "Kebangkitan Patung Penderitaan",
+    "body": "Patung-patung yang terbuat dari penderitaan beku mulai bergerak sedikit.",
+    "choices": {
+      "A": "Gunakan mereka sebagai penjaga yang mengerikan.",
+      "B": "Pelajari mereka untuk memahami evolusi penderitaan.",
+      "C": "Biarkan siluet mereka muncul dalam mimpi buruk manusia tertentu."
+    }
+  },
+  "hk_392": {
+    "title": "Ruang Penyesalan Menular",
+    "body": "Di ruangan ini, satu penyesalan memicu seribu penyesalan lainnya.",
+    "choices": {
+      "A": "Kurung mereka yang bimbang sampai mereka hancur.",
+      "B": "Ukur penyebaran penyesalan untuk tatananmu.",
+      "C": "Munculkan mekanisme ini pada manusia perfeksionis."
+    }
+  },
+  "hk_393": {
+    "title": "Iblis Akuntan",
+    "body": "Iblis menghitung setiap air mata, jeritan, dan desahan.",
+    "choices": {
+      "A": "Dorong mereka ke efisiensi yang tidak manusiawi.",
+      "B": "Integrasikan neraca mereka ke dalam strategi globalmu.",
+      "C": "Suntikkan obsesi angka ini ke dalam ekonomi manusia tertentu."
+    }
+  },
+  "hk_394": {
+    "title": "Pembakaran Tanpa Api",
+    "body": "Pembakaran yang tidak membakar tubuh, tapi sesuatu yang lain.",
+    "choices": {
+      "A": "Ikat mereka yang terpaku pada citra diri mereka.",
+      "B": "Klasifikasikan setiap luka bakar tak terlihat sebagai data tatanan.",
+      "C": "Gematkan pembakaran ini dalam rasa malu sosial manusia."
+    }
+  },
+  "hk_395": {
+    "title": "Jembatan Gantung di Atas Kehampaan",
+    "body": "Jembatan tali yang rapuh menghubungkan dua tebing jiwa yang melolong.",
+    "choices": {
+      "A": "Paksa orang terkutuk menyeberanginya berulang kali.",
+      "B": "Tetapkan aturan lintas untuk mengontrol rasa takut.",
+      "C": "Gunakan jembatan ini sebagai simbol dalam visi krisis manusia."
+    }
+  },
+  "hk_396": {
+    "title": "Perpustakaan Alasan",
+    "body": "Perpustakaan yang menyimpan semua alasan yang pernah diucapkan untuk menghindari tanggung jawab.",
+    "choices": {
+      "A": "Biarkan mereka yang mengucapkannya membacanya kembali.",
+      "B": "Klasifikasikan alasan berdasarkan efektivitas untuk godaan masa depanmu.",
+      "C": "Biarkan alasan tertentu menjadi frasa klise di Bumi."
+    }
+  },
+  "hk_397": {
+    "title": "Meteor Jelaga",
+    "body": "Meteor jelaga jatuh secara teratur ke dalam lubangmu.",
+    "choices": {
+      "A": "Biarkan meteor itu menggilas jiwa secara acak.",
+      "B": "Rencanakan jatuhnya meteor untuk membentuk kembali sektor tertentu.",
+      "C": "Hubungkan hujan gelap ini dengan peristiwa alam di Bumi."
+    }
+  },
+  "hk_398": {
+    "title": "Sangkakala Pemanggilan",
+    "body": "Sangkakala raksasa yang mampu mengumpulkan seluruh kekuatanmu dalam sekejap.",
+    "choices": {
+      "A": "Tiup sesering mungkin untuk menegaskan kehadiranmu.",
+      "B": "Cadangkan untuk saat-saat paling kritis.",
+      "C": "Buat suara ini terasa sebagai kecemasan yang meluas pada manusia tertentu."
+    }
+  },
+  "hk_399": {
+    "title": "Takhta Sekunder",
+    "body": "Penasihatmu menyarankan pembuatan takhta kedua untuk delegasi.",
+    "choices": {
+      "A": "Tolak untuk berbagi sedikit pun dari kekuasaanmu.",
+      "B": "Tunjuk wali sementara yang sangat dibatasi.",
+      "C": "Berikan takhta simbolis ini kepada sosok yang akan memengaruhi manusia fana."
+    }
+  },
+  "hk_400": {
+    "title": "Neraca Pemerintahan Neraka",
+    "body": "Juru tulismu meletakkan neraca lengkap dari pemerintahanmu saat ini di depanmu.",
+    "choices": {
+      "A": "Abaikan angka-angkanya dan lanjutkan kelebihanmu.",
+      "B": "Pelajari setiap data untuk mengoptimalkan tatananmu.",
+      "C": "Putuskan untuk lebih mengarahkan upayamu ke permukaan."
+    }
+  }
+}

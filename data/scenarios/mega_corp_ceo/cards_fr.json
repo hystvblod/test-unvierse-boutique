@@ -1,0 +1,4057 @@
+{
+  "mcc_001": {
+    "title": "Grève éclair",
+    "body": "Les employés des centres logistiques annoncent une grève surprise. Les livraisons sont déjà en retard.",
+    "choices": {
+      "A": "Ouvrir des négociations et promettre une prime.",
+      "B": "Tenir bon : intérimaires et heures sup’ obligatoires.",
+      "C": "Suspendre les expéditions non urgentes et communiquer avec transparence."
+    }
+  },
+  "mcc_002": {
+    "title": "Audit surprise",
+    "body": "Un régulateur débarque pour un audit complet de conformité. Tes équipes paniquent.",
+    "choices": {
+      "A": "Coopérer à fond, ouvrir les dossiers et corriger vite.",
+      "B": "Jouer la montre avec des avocats et des délais.",
+      "C": "Annoncer un programme de conformité public avant même l’audit."
+    }
+  },
+  "mcc_003": {
+    "title": "Fuite de données",
+    "body": "Un serveur a été mal configuré : des données clients ont été exposées. Pas de preuve d’abus… mais ça peut sortir.",
+    "choices": {
+      "A": "Informer immédiatement, offrir un service de protection et s’excuser.",
+      "B": "Attendre de confirmer l’impact exact avant de parler.",
+      "C": "Minimiser publiquement et traiter ça en interne."
+    }
+  },
+  "mcc_004": {
+    "title": "Packaging trop cher",
+    "body": "Le nouveau packaging “premium” plaît… mais il coûte une fortune et ralentit la production.",
+    "choices": {
+      "A": "Revenir au packaging standard, tant pis pour le style.",
+      "B": "Augmenter légèrement les prix pour absorber le coût.",
+      "C": "Garder le packaging et automatiser la ligne d’emballage."
+    }
+  },
+  "mcc_005": {
+    "title": "Influenceur imprévisible",
+    "body": "Un influenceur célèbre propose un partenariat. Il est talentueux… et totalement incontrôlable.",
+    "choices": {
+      "A": "Signer quand même : visibilité maximale.",
+      "B": "Refuser poliment : trop risqué.",
+      "C": "Signer mais avec une charte et un contrôle strict du contenu."
+    }
+  },
+  "mcc_006": {
+    "title": "Télétravail au bord du clash",
+    "body": "Les managers veulent le retour au bureau. Les équipes menacent de partir si tu imposes trop.",
+    "choices": {
+      "A": "Modèle hybride flexible, par équipe.",
+      "B": "Retour obligatoire 4 jours/semaine.",
+      "C": "Télétravail quasi total + bureaux en “hot desk”."
+    }
+  },
+  "mcc_007": {
+    "title": "Chute de qualité",
+    "body": "Les retours clients explosent sur un produit phare. L’équipe qualité réclame un arrêt de la chaîne.",
+    "choices": {
+      "A": "Stopper la production et corriger avant de relancer.",
+      "B": "Continuer et régler au fil de l’eau.",
+      "C": "Lancer un échange gratuit et renforcer le contrôle sans arrêter."
+    }
+  },
+  "mcc_008": {
+    "title": "Usine inondée",
+    "body": "Une pluie diluvienne inonde un site de production. Les machines sont hors service.",
+    "choices": {
+      "A": "Assumer la baisse, sécuriser le site et aider les équipes.",
+      "B": "Délocaliser temporairement la production chez un sous-traitant cher.",
+      "C": "Annoncer un “plan résilience” grandiose et demander des délais aux clients."
+    }
+  },
+  "mcc_009": {
+    "title": "Rumeur d’OPA",
+    "body": "La rumeur d’une OPA hostile fait grimper l’action. Les investisseurs adorent. Les employés ont peur.",
+    "choices": {
+      "A": "Te défendre : rachat d’actions et plan anti-OPA.",
+      "B": "Négocier en coulisses une fusion “amicale”.",
+      "C": "Ignorer publiquement et continuer comme si de rien n’était."
+    }
+  },
+  "mcc_010": {
+    "title": "Bonus ou R&D",
+    "body": "Le conseil veut une annonce forte : bonus actionnarial ou gros investissement R&D. Il faut choisir.",
+    "choices": {
+      "A": "Bonus actionnarial immédiat.",
+      "B": "Investir massivement en R&D, bénéfices plus tard.",
+      "C": "Compromis : petit bonus + R&D ciblée."
+    }
+  },
+  "mcc_011": {
+    "title": "Cadeau empoisonné",
+    "body": "Un grand client propose un contrat énorme… avec une clause pénale monstrueuse si tu rates un délai.",
+    "choices": {
+      "A": "Signer : objectif ambitieux, tout le monde au front.",
+      "B": "Refuser : trop dangereux.",
+      "C": "Signer mais négocier la clause et étaler le calendrier."
+    }
+  },
+  "mcc_012": {
+    "title": "Surcoût énergétique",
+    "body": "La facture d’énergie explose sur plusieurs sites. La marge fond comme neige au soleil.",
+    "choices": {
+      "A": "Investir dans l’efficacité énergétique (long terme).",
+      "B": "Répercuter une partie sur les prix.",
+      "C": "Couper les coûts : chauffage minimal, éclairage réduit, restrictions strictes."
+    }
+  },
+  "mcc_013": {
+    "title": "Accusation de greenwashing",
+    "body": "Ton dernier rapport “durable” est attaqué : “beaux mots, peu de preuves”.",
+    "choices": {
+      "A": "Publier les chiffres bruts et accepter les critiques.",
+      "B": "Lancer une campagne marketing pour noyer le poisson.",
+      "C": "Mandater un audit indépendant et mettre à jour le rapport."
+    }
+  },
+  "mcc_014": {
+    "title": "Lancement précipité",
+    "body": "Ton équipe produit veut lancer un service “beta” dès demain. Il manque des tests, mais le marché bouge vite.",
+    "choices": {
+      "A": "Lancer demain et corriger au fur et à mesure.",
+      "B": "Retarder : qualité d’abord.",
+      "C": "Lancer un accès limité à quelques clients pilotes."
+    }
+  },
+  "mcc_015": {
+    "title": "Plateforme en panne",
+    "body": "Une panne mondiale bloque ton service pendant 3 heures. Les réseaux s’enflamment.",
+    "choices": {
+      "A": "Expliquer, s’excuser et offrir un geste commercial.",
+      "B": "Dire que c’est “un incident isolé” et tourner la page.",
+      "C": "Accuser un fournisseur et exiger publiquement des comptes."
+    }
+  },
+  "mcc_016": {
+    "title": "Départ d’un talent clé",
+    "body": "Ton/ta directeur·rice tech annonce son départ. Les équipes paniquent. Les investisseurs surveillent.",
+    "choices": {
+      "A": "Proposer une contre-offre énorme.",
+      "B": "Respecter son choix et promouvoir un talent interne.",
+      "C": "Faire venir une star externe, très chère."
+    }
+  },
+  "mcc_017": {
+    "title": "Fuite interne",
+    "body": "Un document interne se retrouve en ligne. Il montre des objectifs “agressifs” sur la réduction de coûts.",
+    "choices": {
+      "A": "Assumer et expliquer le plan avec pédagogie.",
+      "B": "Dire que c’est un faux.",
+      "C": "Sanctionner publiquement l’auteur de la fuite."
+    }
+  },
+  "mcc_018": {
+    "title": "Programme de formation",
+    "body": "Les RH demandent un budget massif pour former tout le monde aux nouveaux outils. Le CFO grimace.",
+    "choices": {
+      "A": "Valider : montée en compétences générale.",
+      "B": "Refuser : formation ciblée au strict minimum.",
+      "C": "Financer à moitié, le reste en auto-formation encadrée."
+    }
+  },
+  "mcc_019": {
+    "title": "Publicité ratée",
+    "body": "Une pub “humour” est jugée ringarde. Ça devient un mème… pas forcément flatteur.",
+    "choices": {
+      "A": "Retirer la pub et s’excuser.",
+      "B": "Assumer le mème et surfer dessus.",
+      "C": "Couper court : silence total, rien à voir."
+    }
+  },
+  "mcc_020": {
+    "title": "Inspection sécurité",
+    "body": "Une inspection révèle des procédures de sécurité vieillissantes sur un site. Il faut agir.",
+    "choices": {
+      "A": "Mettre à niveau immédiatement, arrêt partiel du site.",
+      "B": "Plan sur 6 mois, sans perturber la production.",
+      "C": "Externaliser la gestion sécurité à un prestataire."
+    }
+  },
+  "mcc_021": {
+    "title": "Guerre des prix",
+    "body": "Un concurrent casse les prix brutalement. Tes commerciaux réclament une riposte immédiate.",
+    "choices": {
+      "A": "Baisser les prix pour défendre les parts de marché.",
+      "B": "Maintenir les prix et renforcer la valeur (service, qualité).",
+      "C": "Lancer une offre limitée dans le temps, très visible."
+    }
+  },
+  "mcc_022": {
+    "title": "Sous-traitant douteux",
+    "body": "Un rapport interne signale que ton sous-traitant principal “triche” sur des normes. Rien de prouvé, mais ça sent mauvais.",
+    "choices": {
+      "A": "Rompre le contrat, même si ça coûte cher.",
+      "B": "Auditer discrètement avant de bouger.",
+      "C": "Ignorer : tant que ça marche, ça marche."
+    }
+  },
+  "mcc_023": {
+    "title": "Réorganisation interne",
+    "body": "Ton organigramme est devenu un labyrinthe. Les décisions prennent des semaines.",
+    "choices": {
+      "A": "Simplifier : moins de managers, équipes autonomes.",
+      "B": "Garder la structure : stabilité avant tout.",
+      "C": "Créer une “task force” temporaire pour débloquer les décisions."
+    }
+  },
+  "mcc_024": {
+    "title": "Plainte clients",
+    "body": "Des clients accusent ton support d’être “robotique et froid”. On te demande une réponse.",
+    "choices": {
+      "A": "Recruter et former plus d’humains au support.",
+      "B": "Améliorer l’IA du support et réduire les temps d’attente.",
+      "C": "Offrir un geste commercial à ceux qui se plaignent."
+    }
+  },
+  "mcc_025": {
+    "title": "Nouveau marché",
+    "body": "Une opportunité d’expansion s’ouvre dans un nouveau pays. Le marché est énorme, la réglementation complexe.",
+    "choices": {
+      "A": "Y aller vite avec une petite équipe locale.",
+      "B": "Attendre et préparer une entrée parfaite.",
+      "C": "S’associer avec un acteur local déjà en place."
+    }
+  },
+  "mcc_026": {
+    "title": "Programme bien-être",
+    "body": "Les RH proposent un programme bien-être (santé mentale, temps de repos). Certains investisseurs appellent ça “du luxe”.",
+    "choices": {
+      "A": "Valider et communiquer dessus.",
+      "B": "Refuser : priorité aux objectifs financiers.",
+      "C": "Tester sur un service pilote seulement."
+    }
+  },
+  "mcc_027": {
+    "title": "Plainte anonyme",
+    "body": "Une plainte anonyme parle de “pression abusive” dans une équipe. Rien de concret, mais la rumeur enfle.",
+    "choices": {
+      "A": "Ouvrir une enquête interne avec un tiers neutre.",
+      "B": "Parler au manager et lui demander de se calmer, point.",
+      "C": "Ignorer : aucune preuve, aucun problème."
+    }
+  },
+  "mcc_028": {
+    "title": "Robotisation",
+    "body": "Automatiser un site ferait gagner beaucoup, mais des postes disparaîtraient. Les syndicats te regardent déjà.",
+    "choices": {
+      "A": "Automatiser à fond et proposer des reconversions.",
+      "B": "Geler le projet, préserver l’emploi.",
+      "C": "Automatiser partiellement, étape par étape."
+    }
+  },
+  "mcc_029": {
+    "title": "Fourniture en rupture",
+    "body": "Un composant clé devient introuvable pendant 2 mois. Tes équipes improvisent des solutions bancales.",
+    "choices": {
+      "A": "Payer plus cher un fournisseur alternatif fiable.",
+      "B": "Réduire la production et attendre.",
+      "C": "Changer la conception du produit pour contourner le composant."
+    }
+  },
+  "mcc_030": {
+    "title": "Coup de com’",
+    "body": "Ton équipe com’ veut un coup d’éclat : promesse spectaculaire et slogan accrocheur. Le juridique transpire.",
+    "choices": {
+      "A": "Valider : on marque les esprits.",
+      "B": "Refuser : sobriété et preuves.",
+      "C": "Valider mais avec des formulations prudentes."
+    }
+  },
+  "mcc_031": {
+    "title": "Cadeaux aux clients",
+    "body": "Ton équipe commerciale veut offrir des cadeaux “haut de gamme” aux gros clients. Les régulateurs n’aiment pas ça.",
+    "choices": {
+      "A": "Autoriser : c’est la règle du jeu.",
+      "B": "Interdire : uniquement des cadeaux symboliques.",
+      "C": "Autoriser mais avec registre, plafond et transparence."
+    }
+  },
+  "mcc_032": {
+    "title": "Projet secret",
+    "body": "Un projet “secret” pourrait être révolutionnaire… ou un gouffre. Les équipes sont excitées, le board sceptique.",
+    "choices": {
+      "A": "Financer à fond, pas de demi-mesure.",
+      "B": "Stopper : trop risqué.",
+      "C": "Financer par étapes, avec jalons stricts."
+    }
+  },
+  "mcc_033": {
+    "title": "Crash d’un fournisseur",
+    "body": "Ton principal fournisseur fait faillite. Il te propose un dernier deal : paiement immédiat sinon, plus rien.",
+    "choices": {
+      "A": "Payer pour sécuriser la chaîne, maintenant.",
+      "B": "Refuser et chercher une alternative.",
+      "C": "Racheter le fournisseur pour le sauver (et le contrôler)."
+    }
+  },
+  "mcc_034": {
+    "title": "Talent poached",
+    "body": "Un concurrent tente de débaucher ton équipe la plus performante, en bloc.",
+    "choices": {
+      "A": "Augmenter les salaires et donner des stock-options.",
+      "B": "Laisser partir : on recrutera de nouveaux talents.",
+      "C": "Offrir plus d’autonomie et un projet motivant, sans gros bonus."
+    }
+  },
+  "mcc_035": {
+    "title": "Réclamation régulateur",
+    "body": "Un régulateur te demande des données détaillées sur tes pratiques commerciales, sous 10 jours.",
+    "choices": {
+      "A": "Transmettre tout, même si ça révèle des faiblesses.",
+      "B": "Négocier un délai et filtrer au strict légal.",
+      "C": "Lancer une refonte interne et demander du temps officiellement."
+    }
+  },
+  "mcc_036": {
+    "title": "Appel à la sobriété",
+    "body": "Une partie du public critique la “surconsommation”. Ton entreprise est citée comme symbole.",
+    "choices": {
+      "A": "Lancer une offre de réparation et de seconde main.",
+      "B": "Répondre par une campagne : “on crée des emplois”.",
+      "C": "Ne rien faire : ça passera."
+    }
+  },
+  "mcc_037": {
+    "title": "Plan de licenciements",
+    "body": "Le CFO propose un plan de licenciements pour “rassurer le marché”. Les équipes sont déjà à cran.",
+    "choices": {
+      "A": "Accepter : objectif rentabilité.",
+      "B": "Refuser : miser sur la croissance et la rétention.",
+      "C": "Geler les recrutements et réduire les dépenses sans licenciements."
+    }
+  },
+  "mcc_038": {
+    "title": "Procès de brevet",
+    "body": "Un “troll de brevets” te poursuit pour un vieux détail technique. Ça peut coûter cher, ou durer longtemps.",
+    "choices": {
+      "A": "Payer pour régler vite.",
+      "B": "Se battre en justice jusqu’au bout.",
+      "C": "Négocier un accord + lancer une contre-attaque juridique."
+    }
+  },
+  "mcc_039": {
+    "title": "Bug de facturation",
+    "body": "Un bug a facturé certains clients en double. La plupart n’ont rien vu… mais quelques-uns crient déjà.",
+    "choices": {
+      "A": "Rembourser tout le monde automatiquement, avec excuses.",
+      "B": "Attendre les demandes de remboursement.",
+      "C": "Offrir un crédit futur au lieu d’un remboursement."
+    }
+  },
+  "mcc_040": {
+    "title": "Cadeau aux employés",
+    "body": "C’est la fin d’année. Les équipes attendent un geste. Le board préfère un message “inspirant”.",
+    "choices": {
+      "A": "Prime exceptionnelle pour tous.",
+      "B": "Discours inspirant + mug de l’entreprise (collector).",
+      "C": "Prime ciblée sur les équipes les plus sous pression."
+    }
+  },
+  "mcc_041": {
+    "title": "Politique de retour",
+    "body": "Les clients demandent une politique de retour plus simple. Finance redoute les abus.",
+    "choices": {
+      "A": "Simplifier fortement : retour gratuit et facile.",
+      "B": "Durcir : contrôles et frais de retour.",
+      "C": "Simplifier mais avec limitations intelligentes (seuil, historique)."
+    }
+  },
+  "mcc_042": {
+    "title": "Transparence salariale",
+    "body": "Un mouvement interne réclame plus de transparence salariale. Les managers paniquent, les employés insistent.",
+    "choices": {
+      "A": "Publier des fourchettes par poste et un plan d’alignement.",
+      "B": "Refuser : sujet “trop sensible”.",
+      "C": "Tester la transparence sur une division seulement."
+    }
+  },
+  "mcc_043": {
+    "title": "Expédition express polluante",
+    "body": "L’option “livraison ultra-express” cartonne, mais elle augmente fortement les trajets et les émissions.",
+    "choices": {
+      "A": "Limiter l’ultra-express aux produits essentiels.",
+      "B": "Garder tel quel : les clients adorent.",
+      "C": "Conserver mais ajouter une option “compensation” payante."
+    }
+  },
+  "mcc_044": {
+    "title": "Réunion avec le board",
+    "body": "Le board veut un plan à 12 mois. Ils veulent “simple, rentable, et sexy”.",
+    "choices": {
+      "A": "Plan très rentable : coupes et focus sur le cœur de métier.",
+      "B": "Plan ambitieux : innovation et expansion.",
+      "C": "Plan équilibré : rentabilité + innovation ciblée."
+    }
+  },
+  "mcc_045": {
+    "title": "Appareil photo au boulot",
+    "body": "Une vidéo interne montre des employés filmés sans le vouloir lors d’un événement. Malaise général.",
+    "choices": {
+      "A": "Interdire les vidéos non autorisées et renforcer la confidentialité.",
+      "B": "Dire que c’était une erreur et passer à autre chose.",
+      "C": "Créer des règles claires + formation + droit à l’image."
+    }
+  },
+  "mcc_046": {
+    "title": "Nouvelle charte éthique",
+    "body": "Ton équipe juridique propose une charte éthique stricte. Certaines ventes “limites” disparaîtraient.",
+    "choices": {
+      "A": "Adopter la charte telle quelle.",
+      "B": "Alléger la charte : rester compétitif.",
+      "C": "Adopter mais avec exceptions contrôlées (et documentées)."
+    }
+  },
+  "mcc_047": {
+    "title": "Concours d’idées",
+    "body": "Les employés veulent un concours d’idées avec budget dédié. Les investisseurs demandent : “ROI ?”.",
+    "choices": {
+      "A": "Lancer le concours avec un vrai budget.",
+      "B": "Refuser : focus sur l’exécution.",
+      "C": "Lancer un concours sans budget, juste de la reconnaissance."
+    }
+  },
+  "mcc_048": {
+    "title": "Changement de logo",
+    "body": "La direction artistique veut moderniser le logo. Les clients y sont attachés, les investisseurs veulent du “neuf”.",
+    "choices": {
+      "A": "Changer complètement : nouveau départ.",
+      "B": "Ne toucher à rien : identité stable.",
+      "C": "Évolution légère : modernisation douce."
+    }
+  },
+  "mcc_049": {
+    "title": "Préavis d’amende",
+    "body": "Tu reçois un préavis d’amende pour une pratique jugée ambiguë. Tu peux contester ou corriger.",
+    "choices": {
+      "A": "Payer et corriger immédiatement.",
+      "B": "Contester : c’est injuste.",
+      "C": "Corriger tout de suite et négocier une réduction."
+    }
+  },
+  "mcc_050": {
+    "title": "Séminaire extravagant",
+    "body": "Ton équipe propose un séminaire “inoubliable” dans un lieu luxueux. Les employés aiment, l’opinion peut grincer.",
+    "choices": {
+      "A": "Valider : on renforce la cohésion.",
+      "B": "Annuler : budget et image d’abord.",
+      "C": "Faire un séminaire sobre, mais offrir du temps libre supplémentaire."
+    }
+  },
+  "mcc_051": {
+    "title": "Réunion qui fuit",
+    "body": "Un extrait audio interne circule : on t’entend dire “on coupe les coûts, même si ça grince”. Mauvais timing.",
+    "choices": {
+      "A": "Assumer et expliquer le contexte publiquement.",
+      "B": "Nier et menacer de poursuites pour fuite.",
+      "C": "Faire une vidéo interne d’excuses + ajuster le plan."
+    }
+  },
+  "mcc_052": {
+    "title": "Stock qui dort",
+    "body": "Un entrepôt est plein d’invendus. Les investisseurs demandent un plan avant la prochaine publication.",
+    "choices": {
+      "A": "Grosse promo immédiate, quitte à rogner la marge.",
+      "B": "Détruire/retirer discrètement et passer à autre chose.",
+      "C": "Transformer en dons + campagne image."
+    }
+  },
+  "mcc_053": {
+    "title": "Service client saturé",
+    "body": "Le support ne suit plus. Les délais de réponse doublent, les avis en ligne chutent.",
+    "choices": {
+      "A": "Recruter et former rapidement du renfort.",
+      "B": "Automatiser plus fort avec IA pour absorber.",
+      "C": "Prioriser les cas critiques et compenser les autres."
+    }
+  },
+  "mcc_054": {
+    "title": "Interdiction d’email",
+    "body": "Un audit interne montre que l’email est devenu un cimetière de décisions. Tout le monde se plaint.",
+    "choices": {
+      "A": "Imposer des règles strictes : moins d’emails, plus de décisions claires.",
+      "B": "Laisser faire : c’est la culture de la boîte.",
+      "C": "Lancer un outil interne de décisions + formation."
+    }
+  },
+  "mcc_055": {
+    "title": "Nouvelle taxe locale",
+    "body": "Une région annonce une nouvelle taxe sur ton activité. Le site local pourrait devenir déficitaire.",
+    "choices": {
+      "A": "Négocier avec les autorités, jouer la coopération.",
+      "B": "Menacer de partir si la taxe reste.",
+      "C": "Répercuter le coût sur les prix dans cette région."
+    }
+  },
+  "mcc_056": {
+    "title": "Produit “trop addictif”",
+    "body": "Des médias critiquent ton produit : “trop conçu pour rendre accro”. Ça fait débat.",
+    "choices": {
+      "A": "Ajouter des options de contrôle/limites et communiquer.",
+      "B": "Ignorer : les gens sont responsables.",
+      "C": "Changer l’algorithme discrètement, sans annonce."
+    }
+  },
+  "mcc_057": {
+    "title": "Retard de paie",
+    "body": "Un bug de paie menace de retarder les salaires d’une partie des employés. Panique.",
+    "choices": {
+      "A": "Payer en avance via un virement exceptionnel.",
+      "B": "Attendre le fix technique, “désolé”.",
+      "C": "Proposer une avance sur salaire sur demande."
+    }
+  },
+  "mcc_058": {
+    "title": "R&D contre court terme",
+    "body": "Ton nouveau labo coûte cher et ne rapportera pas avant 18 mois. Le marché veut du résultat.",
+    "choices": {
+      "A": "Réduire le labo, sécuriser le court terme.",
+      "B": "Doubler l’investissement, assumer le pari.",
+      "C": "Chercher un co-financement externe."
+    }
+  },
+  "mcc_059": {
+    "title": "Badge “Top Employer”",
+    "body": "On te propose un label “Top Employer”… contre un gros budget communication. Ça sent le badge acheté.",
+    "choices": {
+      "A": "Refuser : on améliore d’abord le réel.",
+      "B": "Accepter : ça aide le recrutement.",
+      "C": "Négocier : audit sérieux + label sans blabla."
+    }
+  },
+  "mcc_060": {
+    "title": "Accident de livraison",
+    "body": "Une tournée a été mal planifiée : plusieurs livreurs se retrouvent avec des journées impossibles.",
+    "choices": {
+      "A": "Réviser les objectifs et renforcer la planification.",
+      "B": "Maintenir : “on tient la promesse client”.",
+      "C": "Offrir une prime ponctuelle aux équipes concernées."
+    }
+  },
+  "mcc_061": {
+    "title": "Rappel de produit discret",
+    "body": "Un défaut rare existe sur une série. Tu peux faire un rappel discret ou public.",
+    "choices": {
+      "A": "Rappel public, transparence totale.",
+      "B": "Rappel discret : seulement les clients identifiés.",
+      "C": "Attendre : probabilité faible, on surveille."
+    }
+  },
+  "mcc_062": {
+    "title": "Équipe marketing en roue libre",
+    "body": "Le marketing veut un slogan agressif : “On écrase la concurrence.” Le juridique soupire.",
+    "choices": {
+      "A": "Valider : guerre psychologique.",
+      "B": "Refuser : ton sobre et fiable.",
+      "C": "Garder l’énergie mais changer la formulation."
+    }
+  },
+  "mcc_063": {
+    "title": "Partenariat universitaire",
+    "body": "Une université propose un partenariat de recherche. C’est lent, mais prestigieux.",
+    "choices": {
+      "A": "Signer : long terme + image.",
+      "B": "Refuser : trop lent, trop administratif.",
+      "C": "Signer sur un projet pilote court."
+    }
+  },
+  "mcc_064": {
+    "title": "Système de primes contesté",
+    "body": "Les primes actuelles sont jugées injustes : trop opaques, trop variables, trop “politique”.",
+    "choices": {
+      "A": "Rendre le système transparent avec critères clairs.",
+      "B": "Ne rien changer : c’est comme ça.",
+      "C": "Ajouter une part collective + garder une part individuelle."
+    }
+  },
+  "mcc_065": {
+    "title": "Critique sur la diversité",
+    "body": "On accuse l’entreprise d’être trop homogène en haut de l’organigramme. Ça commence à se voir.",
+    "choices": {
+      "A": "Plan concret : recrutement + promotion + suivi chiffré.",
+      "B": "Déclaration vague : “on fera mieux”.",
+      "C": "Ignorer : priorité business."
+    }
+  },
+  "mcc_066": {
+    "title": "Coupure internet",
+    "body": "Une coupure internet régionale bloque un site. Les équipes ne peuvent plus travailler.",
+    "choices": {
+      "A": "Investir dans une redondance réseau immédiate.",
+      "B": "Attendre : ce n’est pas “de ta faute”.",
+      "C": "Donner une journée de repos payée aux équipes touchées."
+    }
+  },
+  "mcc_067": {
+    "title": "Prix interne",
+    "body": "Un employé invente un outil qui fait gagner du temps. Les équipes veulent le récompenser publiquement.",
+    "choices": {
+      "A": "Prime + promotion, et on généralise l’outil.",
+      "B": "Merci verbal, pas de précédent.",
+      "C": "Prime symbolique + équipe dédiée pour industrialiser."
+    }
+  },
+  "mcc_068": {
+    "title": "Contrat public",
+    "body": "Un contrat public énorme est possible, mais le dossier administratif est lourd et très contrôlé.",
+    "choices": {
+      "A": "Y aller : équipe conformité dédiée.",
+      "B": "Refuser : trop de contraintes.",
+      "C": "Y aller via un partenaire déjà habilité."
+    }
+  },
+  "mcc_069": {
+    "title": "Produit concurrent copié",
+    "body": "Un concurrent lance un produit très similaire au tien. Les équipes demandent une riposte.",
+    "choices": {
+      "A": "Attaquer en justice.",
+      "B": "Innover vite : version 2 améliorée.",
+      "C": "Baisser les prix et écraser le marché."
+    }
+  },
+  "mcc_070": {
+    "title": "Téléphone du CEO",
+    "body": "Ton téléphone fuit des notifications en plein événement public. Ça lance des spéculations.",
+    "choices": {
+      "A": "En rire et détourner : “oui, je bosse”.",
+      "B": "Refuser de commenter, fermer la porte.",
+      "C": "Publier une clarification et calmer le jeu."
+    }
+  },
+  "mcc_071": {
+    "title": "Nouvelle norme",
+    "body": "Une nouvelle norme technique arrive dans 6 mois. Tu peux anticiper ou attendre.",
+    "choices": {
+      "A": "Anticiper dès maintenant, migration complète.",
+      "B": "Attendre le dernier moment.",
+      "C": "Anticiper sur les produits critiques seulement."
+    }
+  },
+  "mcc_072": {
+    "title": "Équipe sous pression",
+    "body": "Un département est en burn-out (sans drame, mais fatigue réelle). Les résultats chutent.",
+    "choices": {
+      "A": "Réduire les objectifs et renforcer les effectifs.",
+      "B": "Exiger : “c’est un moment intense, on tient”.",
+      "C": "Mettre un manager de crise + rotations."
+    }
+  },
+  "mcc_073": {
+    "title": "Visite surprise",
+    "body": "Des investisseurs demandent une visite surprise de l’usine. Le site est… pas au top ce mois-ci.",
+    "choices": {
+      "A": "Accepter et être transparent.",
+      "B": "Reporter avec une excuse officielle.",
+      "C": "Nettoyage express + mise en scène."
+    }
+  },
+  "mcc_074": {
+    "title": "Politique de remboursements",
+    "body": "Finance veut durcir les remboursements. Le support dit que tu vas te faire massacrer en avis.",
+    "choices": {
+      "A": "Assouplir : satisfaction client d’abord.",
+      "B": "Durcir : lutte contre abus.",
+      "C": "Segmenter : souple pour clients fidèles, strict sinon."
+    }
+  },
+  "mcc_075": {
+    "title": "Migration informatique",
+    "body": "Ton infra doit migrer vers une nouvelle plateforme. Risque de bugs, mais gros gain à terme.",
+    "choices": {
+      "A": "Migration progressive, sécurisée.",
+      "B": "Big bang : tout d’un coup.",
+      "C": "Repousser : trop risqué cette année."
+    }
+  },
+  "mcc_076": {
+    "title": "Débat sur les salaires",
+    "body": "Les salaires d’entrée sont jugés trop bas. Recrutement difficile, tensions internes.",
+    "choices": {
+      "A": "Augmenter les salaires d’entrée.",
+      "B": "Maintenir, compenser par avantages.",
+      "C": "Augmenter un peu + plan de progression rapide."
+    }
+  },
+  "mcc_077": {
+    "title": "Rapport trimestriel",
+    "body": "Tu peux annoncer des chiffres “propres” mais prudents, ou des objectifs agressifs pour faire rêver.",
+    "choices": {
+      "A": "Prudent et fiable.",
+      "B": "Agressif et ambitieux.",
+      "C": "Ambitieux mais avec garde-fous."
+    }
+  },
+  "mcc_078": {
+    "title": "Bureau trop luxueux",
+    "body": "Un article critique ton siège : “marbre et fauteuils, pendant que le terrain rame”.",
+    "choices": {
+      "A": "Ouvrir le siège aux équipes et réduire les dépenses visibles.",
+      "B": "Ignorer : c’est ton image de puissance.",
+      "C": "Investir davantage dans le terrain et le montrer."
+    }
+  },
+  "mcc_079": {
+    "title": "Sous-traitant en retard",
+    "body": "Un sous-traitant prend du retard. Si tu le presses, tu casses la relation. Si tu attends, tu rates une fenêtre marché.",
+    "choices": {
+      "A": "Le presser avec pénalités.",
+      "B": "Attendre et protéger la relation.",
+      "C": "Diversifier en urgence avec un second sous-traitant."
+    }
+  },
+  "mcc_080": {
+    "title": "Conférence internationale",
+    "body": "Tu es invité à parler. Bonne vitrine, mais chaque phrase sera scrutée.",
+    "choices": {
+      "A": "Discours très transparent avec chiffres.",
+      "B": "Discours vague et inspirant.",
+      "C": "Discours court + Q/R contrôlée."
+    }
+  },
+  "mcc_081": {
+    "title": "Logiciel interne obsolète",
+    "body": "Un vieux logiciel interne ralentit tout le monde. Le remplacer coûte cher, mais le garder coûte du temps.",
+    "choices": {
+      "A": "Remplacer maintenant.",
+      "B": "Garder encore un an.",
+      "C": "Remplacer par étapes, service par service."
+    }
+  },
+  "mcc_082": {
+    "title": "Prime des cadres",
+    "body": "Les cadres demandent une prime spéciale. Les employés de base voient ça d’un mauvais œil.",
+    "choices": {
+      "A": "Prime pour tous, plus petite.",
+      "B": "Prime cadres seulement.",
+      "C": "Prime cadres + enveloppe formation pour tous."
+    }
+  },
+  "mcc_083": {
+    "title": "Surcharge de réunions",
+    "body": "Les équipes disent qu’elles passent leur vie en réunion. La productivité chute… en parlant de productivité.",
+    "choices": {
+      "A": "Interdire certaines réunions, règles strictes.",
+      "B": "Laisser : “communication d’abord”.",
+      "C": "Créer des “jours sans réunions” hebdo."
+    }
+  },
+  "mcc_084": {
+    "title": "Nouveau label qualité",
+    "body": "Un label qualité reconnu est accessible, mais demande du temps et des audits réguliers.",
+    "choices": {
+      "A": "Le viser : excellence.",
+      "B": "Ne pas y aller : trop cher.",
+      "C": "Commencer par une certification partielle."
+    }
+  },
+  "mcc_085": {
+    "title": "Équipe de vente agressive",
+    "body": "Les ventes montent, mais des clients se plaignent de pratiques trop insistantes.",
+    "choices": {
+      "A": "Recadrer la vente : charte + contrôle.",
+      "B": "Laisser : ça marche.",
+      "C": "Bonus sur satisfaction client, pas seulement sur volume."
+    }
+  },
+  "mcc_086": {
+    "title": "Chantier bruyant",
+    "body": "Un chantier près d’un site rend la logistique compliquée. Les retards s’accumulent.",
+    "choices": {
+      "A": "Négocier avec la ville pour ajuster les horaires.",
+      "B": "Déplacer temporairement une partie des opérations.",
+      "C": "Pousser les équipes à compenser par des heures sup."
+    }
+  },
+  "mcc_087": {
+    "title": "Application trop lourde",
+    "body": "Ton app devient lente. Les utilisateurs râlent, mais le produit veut ajouter encore plus de fonctionnalités.",
+    "choices": {
+      "A": "Pause : optimisation performance d’abord.",
+      "B": "Ajouter quand même : features > vitesse.",
+      "C": "Optimiser une partie + features limitées."
+    }
+  },
+  "mcc_088": {
+    "title": "Débat sur l’open source",
+    "body": "Des ingénieurs veulent ouvrir une partie du code. Le juridique et les investisseurs hésitent.",
+    "choices": {
+      "A": "Ouvrir : attirer des talents et crédibilité tech.",
+      "B": "Refuser : protection maximale.",
+      "C": "Ouvrir seulement des outils non stratégiques."
+    }
+  },
+  "mcc_089": {
+    "title": "Réclamation d’un grand client",
+    "body": "Un grand client menace de partir si tu ne changes pas une clause du contrat. Ça ferait mal au chiffre.",
+    "choices": {
+      "A": "Céder : garder le client.",
+      "B": "Tenir : pas de précédent.",
+      "C": "Compromis : ajuster contre engagement plus long."
+    }
+  },
+  "mcc_090": {
+    "title": "Arrêt de ligne",
+    "body": "Une ligne de production a trop de micro-pannes. Tu peux la stopper pour maintenance lourde.",
+    "choices": {
+      "A": "Stopper et réparer à fond.",
+      "B": "Continuer et gérer au jour le jour.",
+      "C": "Maintenance de nuit + production réduite."
+    }
+  },
+  "mcc_091": {
+    "title": "Sondage interne",
+    "body": "Un sondage interne montre une baisse de confiance envers la direction. Ça pique.",
+    "choices": {
+      "A": "Répondre avec un plan clair et dates.",
+      "B": "Minimiser : “c’est normal”.",
+      "C": "Faire des réunions d’écoute, puis agir."
+    }
+  },
+  "mcc_092": {
+    "title": "Chasse aux coûts",
+    "body": "Le CFO propose de couper les budgets “non essentiels” (événements, outils, petites dépenses).",
+    "choices": {
+      "A": "Couper fort, rapide.",
+      "B": "Couper légèrement, préserver le moral.",
+      "C": "Couper ciblé + réinvestir dans terrain."
+    }
+  },
+  "mcc_093": {
+    "title": "Sécurité physique",
+    "body": "On signale des contrôles d’accès faibles dans un site. Rien de grave, mais ça te met mal.",
+    "choices": {
+      "A": "Renforcer immédiatement, contrôles stricts.",
+      "B": "Laisser : incident rare.",
+      "C": "Renforcer mais sans rigidifier trop."
+    }
+  },
+  "mcc_094": {
+    "title": "Rumeur d’augmentation de prix",
+    "body": "Une rumeur dit que tu vas augmenter les prix. Les clients s’énervent avant même l’annonce.",
+    "choices": {
+      "A": "Clarifier rapidement avec transparence.",
+      "B": "Profiter : augmenter maintenant.",
+      "C": "Repousser l’augmentation et calmer le marché."
+    }
+  },
+  "mcc_095": {
+    "title": "Équipe juridique débordée",
+    "body": "Le juridique est saturé. Les contrats prennent des semaines, les ventes râlent.",
+    "choices": {
+      "A": "Recruter et moderniser les process.",
+      "B": "Mettre la pression : “faut accélérer”.",
+      "C": "Standardiser des contrats types + automatiser."
+    }
+  },
+  "mcc_096": {
+    "title": "Commande géante",
+    "body": "Une commande géante arrive. Tu peux l’accepter, mais ça va tordre toute ta production pendant un mois.",
+    "choices": {
+      "A": "Accepter : croissance immédiate.",
+      "B": "Refuser : protéger le reste.",
+      "C": "Accepter partiellement, étaler dans le temps."
+    }
+  },
+  "mcc_097": {
+    "title": "Réputation des managers",
+    "body": "Des managers sont jugés trop “durs”. Résultats bons, ambiance moyenne.",
+    "choices": {
+      "A": "Former les managers et recadrer.",
+      "B": "Garder : performance avant tout.",
+      "C": "Changer quelques managers clés, pas tous."
+    }
+  },
+  "mcc_098": {
+    "title": "Innovation “gadget”",
+    "body": "Une fonctionnalité fun est demandée. Elle ne sert pas à grand-chose… mais fait parler.",
+    "choices": {
+      "A": "La lancer : buzz.",
+      "B": "Refuser : focus utile.",
+      "C": "La lancer en option, sans perturber le cœur."
+    }
+  },
+  "mcc_099": {
+    "title": "Contrôle des dépenses",
+    "body": "Des notes de frais partent dans tous les sens. Pas scandaleux, mais ça gonfle les coûts.",
+    "choices": {
+      "A": "Règles strictes et validation obligatoire.",
+      "B": "Laisser : ça coûte plus cher de contrôler.",
+      "C": "Plafonds simples + contrôles aléatoires."
+    }
+  },
+  "mcc_100": {
+    "title": "Charte de transparence",
+    "body": "Tu peux adopter une charte de transparence sur tes pratiques. Bonne image, mais plus de contraintes internes.",
+    "choices": {
+      "A": "Adopter pleinement et publier des rapports réguliers.",
+      "B": "Refuser : trop de contraintes.",
+      "C": "Adopter une version light, progressive."
+    }
+  },
+
+  "mcc_101": {
+    "title": "Machine à café révolutionnaire",
+    "body": "La nouvelle machine “intelligente” distribue… du déca. En boucle. Le siège est en état de siège.",
+    "choices": {
+      "A": "Rembourser + installer une machine simple et fiable.",
+      "B": "Dire que c’est une “détox caféine” officielle.",
+      "C": "Ouvrir un barista interne… sponsorisé par la com’."
+    }
+  },
+  "mcc_102": {
+    "title": "PowerPoint infini",
+    "body": "Une présentation de 212 slides est programmée. La moitié des employés cherche déjà une issue de secours.",
+    "choices": {
+      "A": "Limiter à 15 slides max et imposer un résumé.",
+      "B": "Laisser faire : “la transparence coûte des slides”.",
+      "C": "Remplacer par une vidéo courte + Q/R."
+    }
+  },
+  "mcc_103": {
+    "title": "Le KPI du bonheur",
+    "body": "Un manager propose un KPI “sourires par minute”. Les équipes ne savent pas si c’est une blague.",
+    "choices": {
+      "A": "Refuser et lancer un vrai baromètre bien-être.",
+      "B": "Accepter pour l’image, sans le mesurer vraiment.",
+      "C": "Accepter mais en mode fun + sans sanction."
+    }
+  },
+  "mcc_104": {
+    "title": "Mascotte gênante",
+    "body": "La nouvelle mascotte de marque ressemble trop à celle d’un concurrent. Beaucoup trop.",
+    "choices": {
+      "A": "Changer immédiatement la mascotte et assumer.",
+      "B": "Nier : “c’est un animal générique”.",
+      "C": "Garder, mais la redesign fortement."
+    }
+  },
+  "mcc_105": {
+    "title": "Réunion “debout”",
+    "body": "Le siège teste des réunions debout “pour aller plus vite”. Résultat : plus de réunions, moins d’énergie.",
+    "choices": {
+      "A": "Stopper l’expérience et réduire les réunions.",
+      "B": "Maintenir : “la posture crée la performance”.",
+      "C": "Garder uniquement pour les urgences (10 min)."
+    }
+  },
+  "mcc_106": {
+    "title": "Hack du frigo",
+    "body": "Le frigo connecté a été “piraté” : il commande 400 yaourts. Les stocks débordent.",
+    "choices": {
+      "A": "Couper les gadgets, sécuriser, et donner les yaourts.",
+      "B": "Transformer ça en campagne : “nous nourrissons le futur”.",
+      "C": "Garder le frigo, mais avec contrôle d’achat strict."
+    }
+  },
+  "mcc_107": {
+    "title": "Le mail “à tous”",
+    "body": "Un employé envoie un message privé… à toute l’entreprise. C’est gênant. Et très drôle. Pour les autres.",
+    "choices": {
+      "A": "Former aux outils + règles simples de communication.",
+      "B": "Punir pour “exemple”.",
+      "C": "En rire, mais mettre des garde-fous techniques."
+    }
+  },
+  "mcc_108": {
+    "title": "Dress code surprise",
+    "body": "Un directeur veut imposer une tenue “corporate”. Les équipes répondent en pyjama coordonné.",
+    "choices": {
+      "A": "Annuler le dress code : confort et confiance.",
+      "B": "Imposer quand même : image d’abord.",
+      "C": "Laisser libre sauf événements officiels."
+    }
+  },
+  "mcc_109": {
+    "title": "Le slogan ambigu",
+    "body": "Le nouveau slogan international se traduit mal dans une langue. Très mal.",
+    "choices": {
+      "A": "Retirer vite et corriger avec excuses.",
+      "B": "Continuer : “ça fera parler”.",
+      "C": "Adapter par pays + validation linguistique."
+    }
+  },
+  "mcc_110": {
+    "title": "Le “team building” extrême",
+    "body": "On te propose un team building “survie en forêt”. Les RH demandent si c’est légal… et utile.",
+    "choices": {
+      "A": "Faire quelque chose de simple et inclusif.",
+      "B": "Valider : “on sort de la zone de confort”.",
+      "C": "Valider mais optionnel + version soft."
+    }
+  },
+  "mcc_111": {
+    "title": "Imprimante en guerre",
+    "body": "L’imprimante refuse tout. “Erreur 0x…” Personne ne sait ce que ça veut dire. Le siège non plus.",
+    "choices": {
+      "A": "Remplacer + standardiser le matériel.",
+      "B": "Réduire l’usage : zéro papier.",
+      "C": "Garder, mais avec support IT dédié (et prières)."
+    }
+  },
+  "mcc_112": {
+    "title": "Badge “Innovation”",
+    "body": "Un cabinet propose un badge “Entreprise Innovante” contre une facture salée. Ça sent le sticker cher.",
+    "choices": {
+      "A": "Refuser et investir dans un vrai projet innovation.",
+      "B": "Accepter : ça rassure le marché.",
+      "C": "Accepter seulement si audit sérieux inclus."
+    }
+  },
+  "mcc_113": {
+    "title": "Trop de mots anglais",
+    "body": "Une note interne contient 70% d’anglais. Les équipes demandent un traducteur… ou un dictionnaire.",
+    "choices": {
+      "A": "Imposer une communication claire et simple.",
+      "B": "Continuer : “c’est la culture globale”.",
+      "C": "Autoriser, mais avec résumé en langage simple."
+    }
+  },
+  "mcc_114": {
+    "title": "La chaise ergonomique",
+    "body": "Les employés réclament des chaises ergonomiques. Finance propose “des étirements”.",
+    "choices": {
+      "A": "Acheter des chaises correctes pour tous.",
+      "B": "Refuser : trop coûteux.",
+      "C": "Pilote sur les postes les plus exposés."
+    }
+  },
+  "mcc_115": {
+    "title": "Ping-pong au bureau",
+    "body": "On installe une table de ping-pong. Résultat : la productivité baisse… mais le moral monte.",
+    "choices": {
+      "A": "Garder : pauses encadrées, équilibre.",
+      "B": "Retirer : discipline.",
+      "C": "Garder, mais seulement sur certains créneaux."
+    }
+  },
+  "mcc_116": {
+    "title": "Le chef “visionnaire”",
+    "body": "Un VP veut rebaptiser tous les départements avec des noms grandioses. “Support” devient “Temple de la Satisfaction”.",
+    "choices": {
+      "A": "Stopper : rester sérieux.",
+      "B": "Valider : ça motive (peut-être).",
+      "C": "Autoriser uniquement en interne, en mode fun."
+    }
+  },
+  "mcc_117": {
+    "title": "Budget “événements”",
+    "body": "Le budget événements explose. On te demande si un chandelier géant est “stratégique”.",
+    "choices": {
+      "A": "Couper et réallouer au terrain.",
+      "B": "Garder : l’image attire les clients.",
+      "C": "Garder mais plafonner strictement."
+    }
+  },
+  "mcc_118": {
+    "title": "Le produit “collector”",
+    "body": "Le marketing veut une édition collector inutile mais “instagrammable”.",
+    "choices": {
+      "A": "Refuser : utilité d’abord.",
+      "B": "Valider : buzz et ventes rapides.",
+      "C": "Valider en petite quantité, sans perturber la prod."
+    }
+  },
+  "mcc_119": {
+    "title": "Le micro en visio",
+    "body": "En visio globale, ton micro reste ouvert. On t’entend dire “on va faire simple” juste après 40 minutes de jargon.",
+    "choices": {
+      "A": "Assumer, rire, et simplifier vraiment.",
+      "B": "Ignorer et passer à la slide suivante.",
+      "C": "S’excuser en interne et annoncer un plan clarté."
+    }
+  },
+  "mcc_120": {
+    "title": "Le tableau des objectifs",
+    "body": "Un tableau d’objectifs est affiché partout. Les équipes disent que ça ressemble à un mur de menaces.",
+    "choices": {
+      "A": "Revoir les objectifs avec des marges réalistes.",
+      "B": "Maintenir : pression = performance.",
+      "C": "Garder mais ajouter reconnaissance et soutien."
+    }
+  },
+  "mcc_121": {
+    "title": "Le stagiaire prodige",
+    "body": "Un stagiaire automatise une tâche que 12 personnes faisaient à la main. Applaudissements… et inquiétude.",
+    "choices": {
+      "A": "Récompenser et requalifier les tâches vers du mieux.",
+      "B": "Cacher le projet : trop sensible.",
+      "C": "Déployer progressivement avec plan de montée en compétences."
+    }
+  },
+  "mcc_122": {
+    "title": "Le mail du régulateur",
+    "body": "Un régulateur envoie un mail très poli… qui se termine par “merci de répondre sous 7 jours”. Tout le monde transpire.",
+    "choices": {
+      "A": "Répondre vite, complet, et corriger ce qui doit l’être.",
+      "B": "Répondre minimalement : strict légal.",
+      "C": "Demander un délai + lancer audit interne."
+    }
+  },
+  "mcc_123": {
+    "title": "Réclamation VIP",
+    "body": "Un client VIP se plaint d’un détail minuscule. Mais il a beaucoup d’amis et beaucoup d’influence.",
+    "choices": {
+      "A": "Corriger vite + geste commercial.",
+      "B": "Refuser : égalité de traitement.",
+      "C": "Corriger sans geste, mais communication soignée."
+    }
+  },
+  "mcc_124": {
+    "title": "Le “challenge” interne",
+    "body": "Un challenge interne “qui vend le plus gagne” démarre. Ça booste… mais ça rend tout le monde nerveux.",
+    "choices": {
+      "A": "Garder mais ajouter des critères éthiques/qualité.",
+      "B": "Stopper : ambiance toxique.",
+      "C": "Garder en mode équipe, pas individuel."
+    }
+  },
+  "mcc_125": {
+    "title": "Le mode “silence”",
+    "body": "Les notifications internes explosent. Les employés demandent un mode silence. Le management demande “plus de réactivité”.",
+    "choices": {
+      "A": "Créer des règles : urgence vs non-urgence.",
+      "B": "Laisser : le bruit, c’est la vie.",
+      "C": "Mettre un mode silence obligatoire certains créneaux."
+    }
+  },
+  "mcc_126": {
+    "title": "Changement de nom",
+    "body": "On te propose de renommer l’entreprise pour paraître plus “moderne”. Les clients ne veulent pas refaire leurs mots de passe.",
+    "choices": {
+      "A": "Refuser : stabilité.",
+      "B": "Changer tout : grand rebranding.",
+      "C": "Faire une évolution légère, progressive."
+    }
+  },
+  "mcc_127": {
+    "title": "Open space vs bulles",
+    "body": "Les employés veulent des espaces calmes. Les investisseurs veulent “densifier”.",
+    "choices": {
+      "A": "Créer des bulles de silence + règles de bruit.",
+      "B": "Densifier : coûts réduits.",
+      "C": "Hybride : zones calmes + zones collab."
+    }
+  },
+  "mcc_128": {
+    "title": "Le bug “prix x10”",
+    "body": "Pendant 20 minutes, ton site affiche des prix multipliés par 10. Les captures circulent déjà.",
+    "choices": {
+      "A": "S’excuser + expliquer + geste pour calmer.",
+      "B": "Dire que c’était un test et fermer la discussion.",
+      "C": "Rire : “version luxe”, puis corriger et clarifier."
+    }
+  },
+  "mcc_129": {
+    "title": "Les cartons de déménagement",
+    "body": "Le siège déménage. Les cartons restent 3 mois dans le couloir. Tout le monde vit dans Tetris.",
+    "choices": {
+      "A": "Plan de rangement et responsabilisation des équipes.",
+      "B": "Ignorer : “priorité business”.",
+      "C": "Faire venir une équipe pro + tri."
+    }
+  },
+  "mcc_130": {
+    "title": "Le “comité des comités”",
+    "body": "Pour décider d’un sujet, on crée un comité. Puis un comité pour ce comité. Les employés n’y croient plus.",
+    "choices": {
+      "A": "Supprimer des couches, décision plus directe.",
+      "B": "Maintenir : gouvernance avant tout.",
+      "C": "Garder mais limiter à 2 niveaux max."
+    }
+  },
+  "mcc_131": {
+    "title": "Le logo sur tout",
+    "body": "Marketing colle le logo partout : mugs, chaises, ascenseurs. Même sur les plantes (elles n’ont rien demandé).",
+    "choices": {
+      "A": "Stopper : sobriété et élégance.",
+      "B": "Continuer : visibilité maximale.",
+      "C": "Garder sur quelques éléments premium seulement."
+    }
+  },
+  "mcc_132": {
+    "title": "Le bouton rouge",
+    "body": "Un bouton rouge “URGENCE” a été ajouté sur un outil interne. Tout le monde clique pour des broutilles.",
+    "choices": {
+      "A": "Créer des niveaux d’urgence + sanctions légères.",
+      "B": "Retirer le bouton.",
+      "C": "Garder mais limiter à certains rôles."
+    }
+  },
+  "mcc_133": {
+    "title": "Le recrutement express",
+    "body": "Un département veut recruter 30 personnes en 2 semaines. RH demande si tu veux aussi recruter le Père Noël.",
+    "choices": {
+      "A": "Recruter progressivement, qualité d’abord.",
+      "B": "Accélérer coûte que coûte.",
+      "C": "Accélérer mais avec formation renforcée."
+    }
+  },
+  "mcc_134": {
+    "title": "L’ascenseur diplomatique",
+    "body": "Tu restes coincé dans un ascenseur avec un régulateur… et un investisseur… et un représentant employés. Ambiance.",
+    "choices": {
+      "A": "Promettre transparence et équilibre à tous.",
+      "B": "Rassurer d’abord l’investisseur : “rentabilité”.",
+      "C": "Rassurer d’abord employés + conformité."
+    }
+  },
+  "mcc_135": {
+    "title": "Le rapport trop honnête",
+    "body": "Ton équipe a écrit un rapport interne très honnête. Trop. On y lit “on improvise beaucoup”.",
+    "choices": {
+      "A": "Assumer et lancer un plan d’amélioration.",
+      "B": "Éditer le rapport : version “propre”.",
+      "C": "Garder l’honnêteté, mais cadrer la diffusion."
+    }
+  },
+  "mcc_136": {
+    "title": "Les toilettes premium",
+    "body": "Une rumeur dit que l’étage direction a des toilettes “premium”. Les employés demandent… l’égalité sanitaire.",
+    "choices": {
+      "A": "Rendre tout équivalent, point.",
+      "B": "Ignorer : “rumeur”.",
+      "C": "Rénover progressivement tous les étages."
+    }
+  },
+  "mcc_137": {
+    "title": "Le “jour sans mail”",
+    "body": "Un jour sans mail est proposé. Certains pensent que c’est impossible, comme un lundi sans lundi.",
+    "choices": {
+      "A": "Tester : un jour/semaine, règles claires.",
+      "B": "Refuser : “trop risqué”.",
+      "C": "Faire une demi-journée sans mail."
+    }
+  },
+  "mcc_138": {
+    "title": "Le produit “trop parfait”",
+    "body": "Le produit est tellement optimisé qu’il n’a plus de petites erreurs… et les clients trouvent ça “froid”.",
+    "choices": {
+      "A": "Humaniser : ton, support, petites attentions.",
+      "B": "Garder : efficacité = satisfaction.",
+      "C": "Ajouter un mode “personnalisé” optionnel."
+    }
+  },
+  "mcc_139": {
+    "title": "La newsletter interne",
+    "body": "La newsletter interne fait 18 pages. Personne ne la lit, mais tout le monde dit “super”.",
+    "choices": {
+      "A": "Passer à un format court et utile.",
+      "B": "Continuer : “c’est important”.",
+      "C": "Garder, mais avec TL;DR obligatoire."
+    }
+  },
+  "mcc_140": {
+    "title": "Le “guru” invité",
+    "body": "On te propose un “guru” du management. Il facture cher et parle en énigmes.",
+    "choices": {
+      "A": "Refuser : investir dans formations concrètes.",
+      "B": "Accepter : ça impressionne le board.",
+      "C": "Accepter une session test, puis décision."
+    }
+  },
+  "mcc_141": {
+    "title": "La chasse aux économies",
+    "body": "Finance propose de supprimer les stylos. Résultat : tout le monde vole les stylos des partenaires.",
+    "choices": {
+      "A": "Rétablir des fournitures basiques, et couper ailleurs.",
+      "B": "Maintenir : “discipline”.",
+      "C": "Limiter avec un budget simple par équipe."
+    }
+  },
+  "mcc_142": {
+    "title": "Le mur des “valeurs”",
+    "body": "Le siège veut un mur géant des valeurs. Les employés demandent : “on peut avoir le budget en salaires ?”",
+    "choices": {
+      "A": "Faire un mur sobre + actions concrètes derrière.",
+      "B": "Faire le mur géant : symbole puissant.",
+      "C": "Pas de mur, mais un plan concret publié."
+    }
+  },
+  "mcc_143": {
+    "title": "Le stagiaire social media",
+    "body": "Un post officiel est publié avec un emoji étrange. Personne ne sait ce que ça signifie, mais ça trend.",
+    "choices": {
+      "A": "Clarifier et reprendre le contrôle éditorial.",
+      "B": "Surfer : plus d’emojis, plus de buzz.",
+      "C": "Laisser mais encadrer avec une charte."
+    }
+  },
+  "mcc_144": {
+    "title": "Le “prix interne”",
+    "body": "Un prix interne “Employé du mois” revient. Certains adorent, d’autres parlent de compétition toxique.",
+    "choices": {
+      "A": "Passer en récompense d’équipe, pas individuel.",
+      "B": "Garder individuel : performance visible.",
+      "C": "Garder, mais avec critères de collaboration."
+    }
+  },
+  "mcc_145": {
+    "title": "Le test de conformité",
+    "body": "Un quiz conformité est lancé. 40% échouent… et demandent si “c’était noté”.",
+    "choices": {
+      "A": "Former sérieusement, sans punir, et retester.",
+      "B": "Punir : zéro tolérance.",
+      "C": "Former + rendre le quiz plus simple et fréquent."
+    }
+  },
+  "mcc_146": {
+    "title": "La “stratégie” sur serviette",
+    "body": "Un VP arrive avec une stratégie écrite sur une serviette. Il dit que c’est “agile”.",
+    "choices": {
+      "A": "Exiger un plan structuré avant d’agir.",
+      "B": "Valider : vitesse avant paperasse.",
+      "C": "Tester sur un petit périmètre, puis décider."
+    }
+  },
+  "mcc_147": {
+    "title": "Le badge visiteur",
+    "body": "Les badges visiteurs sont si stricts que même toi tu n’arrives plus à entrer. Symbolique.",
+    "choices": {
+      "A": "Simplifier tout en gardant la sécurité.",
+      "B": "Garder : sécurité maximale.",
+      "C": "Garder mais créer des accès CEO/urgences."
+    }
+  },
+  "mcc_148": {
+    "title": "La “semaine de l’optimisme”",
+    "body": "RH lance une semaine de l’optimisme. Les employés demandent d’abord : “on peut dormir ?”",
+    "choices": {
+      "A": "Associer ça à une vraie baisse de charge.",
+      "B": "Faire l’événement sans rien changer.",
+      "C": "Faire un pilote + feedback anonyme + ajuster."
+    }
+  },
+  "mcc_149": {
+    "title": "Le produit en rupture… à cause d’un mème",
+    "body": "Un mème rend ton produit viral. Rupture partout. Les investisseurs rient, la logistique pleure.",
+    "choices": {
+      "A": "Accélérer production (coûteux) pour capter la vague.",
+      "B": "Limiter les ventes pour protéger la qualité.",
+      "C": "Lancer une précommande transparente et étalée."
+    }
+  },
+  "mcc_150": {
+    "title": "La keynote trop longue",
+    "body": "Ta keynote dure 90 minutes. À la fin, même le prompteur demande une pause.",
+    "choices": {
+      "A": "Raccourcir et aller à l’essentiel dès la prochaine.",
+      "B": "Continuer : “la vision demande du temps”.",
+      "C": "Garder longue, mais ajouter démonstrations concrètes."
+    }
+  },
+
+  "mcc_151": {
+    "title": "Pénurie de matières premières",
+    "body": "Une matière clé devient rare et chère. Tes coûts montent, tes clients veulent un prix stable.",
+    "choices": {
+      "A": "Absorber une partie du coût pour protéger les clients.",
+      "B": "Augmenter les prix immédiatement.",
+      "C": "Chercher des alternatives et revoir le design des produits."
+    }
+  },
+  "mcc_152": {
+    "title": "Canicule sur un site",
+    "body": "Une canicule rend le travail difficile sur un site logistique. Productivité en baisse, fatigue en hausse.",
+    "choices": {
+      "A": "Réduire les cadences et renforcer les pauses.",
+      "B": "Maintenir les objectifs : promesse client d’abord.",
+      "C": "Investir en urgence (clim, horaires adaptés, navettes)."
+    }
+  },
+  "mcc_153": {
+    "title": "Énergie qui flambe",
+    "body": "La facture énergétique explose. Le CFO veut des coupes, la marque veut une transition propre.",
+    "choices": {
+      "A": "Accélérer les économies d’énergie et l’efficacité.",
+      "B": "Couper partout, même dans les projets verts.",
+      "C": "Signer un contrat long terme plus stable (même plus cher au départ)."
+    }
+  },
+  "mcc_154": {
+    "title": "Packaging et plastique",
+    "body": "On critique ton packaging trop plastique. Tes équipes disent que changer coûte cher et prend du temps.",
+    "choices": {
+      "A": "Passer à des emballages plus propres, progressivement.",
+      "B": "Ne rien changer : priorité au prix bas.",
+      "C": "Lancer une gamme “éco” en test."
+    }
+  },
+  "mcc_155": {
+    "title": "Grève chez un sous-traitant",
+    "body": "Un sous-traitant essentiel est en grève. Tu n’es pas responsable… mais tu es impacté.",
+    "choices": {
+      "A": "Aider à la médiation et soutenir une solution.",
+      "B": "Changer de sous-traitant au plus vite.",
+      "C": "Réduire la production temporairement et communiquer."
+    }
+  },
+  "mcc_156": {
+    "title": "Nouvelle règle sur la data",
+    "body": "Une nouvelle règle impose plus de transparence sur les données. Tes équipes disent : “c’est lourd”.",
+    "choices": {
+      "A": "Se mettre en conformité au maximum, vite.",
+      "B": "Faire le minimum légal.",
+      "C": "Transformer ça en avantage : transparence + contrôle utilisateur."
+    }
+  },
+  "mcc_157": {
+    "title": "Transport mondial perturbé",
+    "body": "Les transports mondiaux ralentissent. Les délais s’allongent, les clients s’impatientent.",
+    "choices": {
+      "A": "Augmenter les stocks locaux pour sécuriser.",
+      "B": "Continuer comme avant et gérer au cas par cas.",
+      "C": "Revoir la supply chain : plus proche, plus flexible."
+    }
+  },
+  "mcc_158": {
+    "title": "Inflation et pouvoir d’achat",
+    "body": "Avec l’inflation, tes clients comparent chaque euro. Ton produit est jugé “un peu cher”.",
+    "choices": {
+      "A": "Créer une offre plus accessible.",
+      "B": "Maintenir : qualité et marge.",
+      "C": "Proposer des promos ciblées et temporaires."
+    }
+  },
+  "mcc_159": {
+    "title": "Reportage sur tes usines",
+    "body": "Un reportage veut filmer une de tes usines. Bonne vitrine si tout va bien, sinon…",
+    "choices": {
+      "A": "Ouvrir les portes avec transparence.",
+      "B": "Refuser l’accès : trop risqué.",
+      "C": "Accepter, mais sur un site “pilote” exemplaire."
+    }
+  },
+  "mcc_160": {
+    "title": "Fuite de budget public",
+    "body": "Un document interne sur des économies prévues fuite. Les employés y voient une menace.",
+    "choices": {
+      "A": "Expliquer clairement + protéger l’emploi autant que possible.",
+      "B": "Rester silencieux et attendre que ça passe.",
+      "C": "Remplacer certaines coupes par un plan de productivité."
+    }
+  },
+  "mcc_161": {
+    "title": "Nouveau marché, nouvelle culture",
+    "body": "Tu ouvres dans un nouveau pays. Une campagne marketing “globale” risque de mal passer localement.",
+    "choices": {
+      "A": "Adapter la campagne avec des équipes locales.",
+      "B": "Garder une campagne unique mondiale.",
+      "C": "Faire une campagne très neutre et prudente."
+    }
+  },
+  "mcc_162": {
+    "title": "Doute sur un fournisseur",
+    "body": "Un fournisseur est accusé de pratiques douteuses. Rien n’est prouvé, mais le bruit monte.",
+    "choices": {
+      "A": "Auditer et exiger des garanties.",
+      "B": "Rompre immédiatement le contrat.",
+      "C": "Attendre une confirmation avant d’agir."
+    }
+  },
+  "mcc_163": {
+    "title": "Greenwashing ?",
+    "body": "On t’accuse de “faire du vert en pub” sans assez d’actions concrètes. La marque prend un coup.",
+    "choices": {
+      "A": "Publier des preuves et un plan chiffré.",
+      "B": "Attaquer les critiques : “c’est faux”.",
+      "C": "Ralentir la com’ verte et accélérer les actions."
+    }
+  },
+  "mcc_164": {
+    "title": "Carbone et déplacements",
+    "body": "Les déplacements pros coûtent cher et polluent. Mais certains managers veulent “voir les équipes”.",
+    "choices": {
+      "A": "Limiter les voyages, prioriser le nécessaire.",
+      "B": "Reprendre les voyages comme avant.",
+      "C": "Créer un quota + critères (impact, utilité)."
+    }
+  },
+  "mcc_165": {
+    "title": "Cyberattaque légère",
+    "body": "Une attaque perturbe un service pendant quelques heures. Pas de catastrophe, mais ça inquiète.",
+    "choices": {
+      "A": "Renforcer sécurité et transparence post-incident.",
+      "B": "Minimiser : “rien de grave”.",
+      "C": "Renforcer mais sans communiquer trop."
+    }
+  },
+  "mcc_166": {
+    "title": "Tension géopolitique et chaîne logistique",
+    "body": "Une zone devient instable. Tes routes d’approvisionnement passent par là. Ça sent le risque.",
+    "choices": {
+      "A": "Diversifier les routes et fournisseurs.",
+      "B": "Continuer : “ça ira”.",
+      "C": "Réduire les ventes dépendantes de cette zone."
+    }
+  },
+  "mcc_167": {
+    "title": "Appel au boycott",
+    "body": "Un appel au boycott circule (sans raison claire au départ). C’est surtout une vague sur les réseaux.",
+    "choices": {
+      "A": "Répondre calmement avec des faits.",
+      "B": "Ignorer pour ne pas amplifier.",
+      "C": "Faire un geste symbolique (don/initiative) pour apaiser."
+    }
+  },
+  "mcc_168": {
+    "title": "Régulateur en mode “contrôle”",
+    "body": "Les régulateurs annoncent une série de contrôles sectoriels. Ton secteur est dans la liste.",
+    "choices": {
+      "A": "Préparer un audit interne complet.",
+      "B": "Faire le strict minimum et croiser les doigts.",
+      "C": "Coopérer publiquement : “on n’a rien à cacher”."
+    }
+  },
+  "mcc_169": {
+    "title": "Économie circulaire",
+    "body": "On te pousse à reprendre et recycler tes produits. C’est bon pour la planète, compliqué pour l’opérationnel.",
+    "choices": {
+      "A": "Lancer un programme de reprise et réparation.",
+      "B": "Refuser : trop cher.",
+      "C": "Faire un pilote sur une gamme seulement."
+    }
+  },
+  "mcc_170": {
+    "title": "Travail hybride contesté",
+    "body": "Une partie des équipes veut plus de télétravail, d’autres veulent du présentiel. Le débat chauffe.",
+    "choices": {
+      "A": "Politique flexible par équipe, avec règles claires.",
+      "B": "Présentiel majoritaire imposé.",
+      "C": "Télétravail majoritaire imposé."
+    }
+  },
+  "mcc_171": {
+    "title": "IA au bureau",
+    "body": "Des employés utilisent des outils d’IA. Certains gagnent du temps, d’autres s’inquiètent pour la confidentialité.",
+    "choices": {
+      "A": "Autoriser avec règles et outils validés.",
+      "B": "Interdire : trop risqué.",
+      "C": "Autoriser seulement pour des cas non sensibles."
+    }
+  },
+  "mcc_172": {
+    "title": "Publicité trop ciblée",
+    "body": "On te reproche des pubs trop ciblées. Les clients trouvent ça “intrusif”.",
+    "choices": {
+      "A": "Réduire le ciblage et donner plus de contrôle.",
+      "B": "Continuer : c’est rentable.",
+      "C": "Garder mais rendre le ciblage transparent."
+    }
+  },
+  "mcc_173": {
+    "title": "Rupture d’eau",
+    "body": "Un site industriel subit des restrictions d’eau. Tu dois t’adapter rapidement.",
+    "choices": {
+      "A": "Investir dans la réduction et le recyclage de l’eau.",
+      "B": "Déplacer une partie de la production.",
+      "C": "Maintenir et acheter de l’eau plus cher."
+    }
+  },
+  "mcc_174": {
+    "title": "Banque plus prudente",
+    "body": "Les banques deviennent plus prudentes pour financer. Ton projet d’expansion est ralenti.",
+    "choices": {
+      "A": "Ralentir l’expansion et sécuriser la trésorerie.",
+      "B": "Chercher d’autres financements (partenaires, marché).",
+      "C": "Continuer coûte que coûte."
+    }
+  },
+  "mcc_175": {
+    "title": "Monde multipolaire",
+    "body": "Tes équipes internationales demandent plus d’autonomie. Le siège veut une ligne unique globale.",
+    "choices": {
+      "A": "Donner plus d’autonomie locale.",
+      "B": "Centraliser davantage.",
+      "C": "Autonomie limitée avec standards globaux."
+    }
+  },
+  "mcc_176": {
+    "title": "Panne de paiement",
+    "body": "Un prestataire de paiement tombe en panne. Les ventes s’arrêtent net pendant 2 heures.",
+    "choices": {
+      "A": "Ajouter un second prestataire de secours.",
+      "B": "Rester avec un seul : moins cher.",
+      "C": "Créer un mode “commande réservée” en cas de panne."
+    }
+  },
+  "mcc_177": {
+    "title": "Éco-score sur tes produits",
+    "body": "Un éco-score devient visible. Tes produits sont “moyens”. Pas catastrophiques, mais pas fiers.",
+    "choices": {
+      "A": "Améliorer les matériaux et publier une feuille de route.",
+      "B": "Ignorer : ce n’est qu’un score.",
+      "C": "Améliorer une gamme phare d’abord."
+    }
+  },
+  "mcc_178": {
+    "title": "Marché en baisse",
+    "body": "Le marché ralentit. Les investisseurs veulent des marges, les employés veulent de la sécurité.",
+    "choices": {
+      "A": "Geler certaines dépenses, protéger les emplois.",
+      "B": "Couper fort pour rassurer la bourse.",
+      "C": "Investir dans l’innovation pour rebondir."
+    }
+  },
+  "mcc_179": {
+    "title": "Tensions commerciales",
+    "body": "Des taxes apparaissent entre deux zones. Tes produits traversent la frontière tous les jours.",
+    "choices": {
+      "A": "Réorganiser la production plus proche des clients.",
+      "B": "Payer et répercuter sur les prix.",
+      "C": "Négocier et chercher des exemptions."
+    }
+  },
+  "mcc_180": {
+    "title": "Réseaux sociaux et réputation",
+    "body": "Une petite critique devient virale. Rien de dramatique, mais la réputation bouge vite.",
+    "choices": {
+      "A": "Répondre vite, humblement, et corriger.",
+      "B": "Ignorer : effet de mode.",
+      "C": "Faire une campagne positive pour noyer le bruit."
+    }
+  },
+  "mcc_181": {
+    "title": "Audit climat interne",
+    "body": "Ton comité interne propose un audit climat des activités. Les investisseurs veulent des chiffres, pas des discours.",
+    "choices": {
+      "A": "Faire l’audit et publier des objectifs réalistes.",
+      "B": "Refuser : trop complexe.",
+      "C": "Faire l’audit mais sans publication externe."
+    }
+  },
+  "mcc_182": {
+    "title": "Approvisionnement local",
+    "body": "On te pousse à “acheter local”. C’est bon pour l’image, mais parfois plus cher.",
+    "choices": {
+      "A": "Augmenter la part locale progressivement.",
+      "B": "Rester au moins cher mondial.",
+      "C": "Local uniquement sur certains produits clés."
+    }
+  },
+  "mcc_183": {
+    "title": "Régulation pub enfants",
+    "body": "Une nouvelle règle limite la pub pour certains publics. Ton marketing doit s’adapter vite.",
+    "choices": {
+      "A": "Se mettre en conformité et revoir la stratégie.",
+      "B": "Tester la limite du légal.",
+      "C": "Réduire la pub et miser sur la qualité produit."
+    }
+  },
+  "mcc_184": {
+    "title": "Crise de logement locale",
+    "body": "Dans une ville où tu emploies beaucoup, le logement devient trop cher. Recruter devient difficile.",
+    "choices": {
+      "A": "Aides logement/transport + partenariat local.",
+      "B": "Ignorer : ce n’est pas ton rôle.",
+      "C": "Déplacer une partie des équipes ailleurs."
+    }
+  },
+  "mcc_185": {
+    "title": "Chaîne de production “verte”",
+    "body": "Un fournisseur propose une option plus “verte” mais plus chère et plus lente.",
+    "choices": {
+      "A": "Choisir l’option verte.",
+      "B": "Rester sur l’option classique.",
+      "C": "Faire un mix : vert sur une partie des volumes."
+    }
+  },
+  "mcc_186": {
+    "title": "Rémunération des dirigeants",
+    "body": "Ton package de dirigeant est critiqué. Pas de scandale, mais débat public sur l’équité.",
+    "choices": {
+      "A": "Réduire/conditionner davantage à des objectifs long terme.",
+      "B": "Maintenir : “marché des talents”.",
+      "C": "Rendre tout plus transparent."
+    }
+  },
+  "mcc_187": {
+    "title": "Plateforme mondiale",
+    "body": "Ton service doit gérer des règles différentes selon les pays. Le produit veut “une seule version”.",
+    "choices": {
+      "A": "Adapter par pays, conformité d’abord.",
+      "B": "Une seule version, quitte à limiter dans certains pays.",
+      "C": "Version globale + modules locaux."
+    }
+  },
+  "mcc_188": {
+    "title": "Risque de désinformation",
+    "body": "Un faux article circule sur ton entreprise. Il est clairement exagéré, mais il tourne partout.",
+    "choices": {
+      "A": "Démenti simple + preuves + ton calme.",
+      "B": "Ignorer : plus on répond, plus ça monte.",
+      "C": "Démenti + action juridique minimale."
+    }
+  },
+  "mcc_189": {
+    "title": "Robots et emplois",
+    "body": "Automatiser un site économiserait beaucoup. Les employés craignent pour leurs postes.",
+    "choices": {
+      "A": "Automatiser avec plan de requalification et mobilité.",
+      "B": "Automatiser vite, sans débat.",
+      "C": "Reporter l’automatisation."
+    }
+  },
+  "mcc_190": {
+    "title": "Réparabilité",
+    "body": "On demande que tes produits soient plus réparables. Ça rallonge la R&D, mais améliore la confiance.",
+    "choices": {
+      "A": "Investir dans la réparabilité et le support.",
+      "B": "Ne pas bouger : coût trop élevé.",
+      "C": "Rendre réparables les produits premium d’abord."
+    }
+  },
+  "mcc_191": {
+    "title": "Fournisseurs multiples",
+    "body": "Ta dépendance à un seul fournisseur inquiète. Un second fournisseur coûterait plus cher… mais sécurise.",
+    "choices": {
+      "A": "Ajouter un second fournisseur.",
+      "B": "Rester mono-fournisseur.",
+      "C": "Second fournisseur seulement pour les périodes de pointe."
+    }
+  },
+  "mcc_192": {
+    "title": "Événement climatique et retards",
+    "body": "Un événement climatique bloque une route logistique. Les livraisons vont être en retard, c’est certain.",
+    "choices": {
+      "A": "Prévenir les clients et compenser intelligemment.",
+      "B": "Ne rien dire tant que possible.",
+      "C": "Réacheminer coûte que coûte (plus cher)."
+    }
+  },
+  "mcc_193": {
+    "title": "Risque de pénurie alimentaire locale",
+    "body": "Dans une zone où tu as des employés, les prix alimentaires montent fort. Le moral baisse.",
+    "choices": {
+      "A": "Aides ponctuelles (cantine, chèques repas).",
+      "B": "Ignorer : hors périmètre.",
+      "C": "Négocier des partenariats locaux à prix réduit."
+    }
+  },
+  "mcc_194": {
+    "title": "Lobbying ou pédagogie",
+    "body": "Une réforme te concerne. Certains veulent “lobbying”, d’autres préfèrent “pédagogie publique”.",
+    "choices": {
+      "A": "Dialogue officiel transparent avec les institutions.",
+      "B": "Lobbying discret, efficace.",
+      "C": "Attendre et s’adapter après."
+    }
+  },
+  "mcc_195": {
+    "title": "Monnaies et taux de change",
+    "body": "Les taux de change bougent fort. Tes profits internationaux deviennent imprévisibles.",
+    "choices": {
+      "A": "Couvrir le risque (hedging) et stabiliser.",
+      "B": "Accepter la volatilité.",
+      "C": "Réduire l’exposition en localisant plus."
+    }
+  },
+  "mcc_196": {
+    "title": "Pression sur les délais",
+    "body": "Les clients veulent du “toujours plus vite”. Les employés disent que ça tire trop.",
+    "choices": {
+      "A": "Prioriser sécurité et qualité, délais réalistes.",
+      "B": "Pousser : vitesse et compétitivité.",
+      "C": "Créer une option “livraison lente” moins chère."
+    }
+  },
+  "mcc_197": {
+    "title": "Confusion politique locale",
+    "body": "Dans un pays, une décision politique change des règles du jour au lendemain. Ton équipe locale est perdue.",
+    "choices": {
+      "A": "Renforcer l’équipe conformité locale et s’adapter.",
+      "B": "Suspendre temporairement certaines activités.",
+      "C": "Continuer en espérant une clarification."
+    }
+  },
+  "mcc_198": {
+    "title": "Éducation et talents",
+    "body": "Tu manques de talents sur des métiers clés. Le pays manque de formations adaptées.",
+    "choices": {
+      "A": "Créer une académie interne + partenariats écoles.",
+      "B": "Recruter à l’international uniquement.",
+      "C": "Former en interne mais lentement."
+    }
+  },
+  "mcc_199": {
+    "title": "Résultats vs impact",
+    "body": "Le board veut de meilleurs résultats. Les équipes RSE veulent plus d’impact social et écologique.",
+    "choices": {
+      "A": "Objectifs mixtes : résultat + impact mesurable.",
+      "B": "Résultat d’abord, l’impact après.",
+      "C": "Impact fort maintenant, quitte à baisser la marge."
+    }
+  },
+  "mcc_200": {
+    "title": "Plan de résilience",
+    "body": "On te demande un plan de résilience (crises, énergie, supply). C’est long, mais ça rassure.",
+    "choices": {
+      "A": "Construire un plan complet avec scénarios.",
+      "B": "Faire un plan minimal pour cocher la case.",
+      "C": "Faire un plan, mais le tester sur un site pilote."
+    }
+  },
+
+  "mcc_201": {
+    "title": "Visite ministérielle surprise",
+    "body": "Un ministre annonce une visite “pour valoriser l’industrie”. Tes équipes demandent si on doit enlever les gobelets du bureau.",
+    "choices": {
+      "A": "Jouer la transparence : visite réelle, sans décor.",
+      "B": "Faire une visite vitrine ultra propre (et très encadrée).",
+      "C": "Proposer une visioconférence : moins de stress, plus de contrôle."
+    }
+  },
+  "mcc_202": {
+    "title": "La loi “anti-jargon” (presque)",
+    "body": "Un député propose un texte pour limiter le jargon dans les contrats. Tes juristes font une syncope polie.",
+    "choices": {
+      "A": "Simplifier tes contrats volontairement.",
+      "B": "Attendre : “ça ne passera jamais”.",
+      "C": "Créer un résumé clair en plus du contrat."
+    }
+  },
+  "mcc_203": {
+    "title": "Commission d’enquête… sur les réunions",
+    "body": "Une commission nationale veut comprendre pourquoi “les réunions durent si longtemps”. Tu te sens visé.",
+    "choices": {
+      "A": "Lancer une réforme interne “réunions courtes”.",
+      "B": "Ignorer : ce n’est pas ton problème.",
+      "C": "Sponsoriser une étude… avec ton logo partout."
+    }
+  },
+  "mcc_204": {
+    "title": "Subvention verte, paperasse grise",
+    "body": "Une subvention existe pour verdir un site, mais le dossier fait 84 pages. Le CFO demande un café.",
+    "choices": {
+      "A": "Monter le dossier proprement et investir.",
+      "B": "Laisser tomber : trop long.",
+      "C": "Faire un pilote plus petit, dossier plus simple."
+    }
+  },
+  "mcc_205": {
+    "title": "Le “comité des comités” public",
+    "body": "Les autorités créent un comité sur ton secteur. Puis un sous-comité. Puis un groupe de travail. Tout le monde a un badge.",
+    "choices": {
+      "A": "Participer activement et rester coopératif.",
+      "B": "Participer au minimum, discret.",
+      "C": "Proposer une charte simple pour accélérer."
+    }
+  },
+  "mcc_206": {
+    "title": "Panne d’affichage des prix",
+    "body": "Un bug affiche des prix incohérents. Un élu local twitte : “C’est ça, la vie chère ?”.",
+    "choices": {
+      "A": "Corriger et communiquer humblement.",
+      "B": "Minimiser : “incident technique mineur”.",
+      "C": "Offrir un geste aux clients touchés."
+    }
+  },
+  "mcc_207": {
+    "title": "Semaine de la sobriété énergétique",
+    "body": "Le gouvernement lance une semaine “sobriété”. Tes bureaux brillent comme un stade.",
+    "choices": {
+      "A": "Réduire l’éclairage et afficher des gestes concrets.",
+      "B": "Ne rien changer : “on paie, donc on éclaire”.",
+      "C": "Faire une action symbolique (1 jour) + plan long terme."
+    }
+  },
+  "mcc_208": {
+    "title": "L’audit surprise du régulateur",
+    "body": "Un mail arrive : “contrôle sur site demain”. Ton équipe compliance court partout, même dans les couloirs.",
+    "choices": {
+      "A": "Coopérer à fond et corriger tout ce qui manque.",
+      "B": "Répondre au strict nécessaire.",
+      "C": "Demander un délai officiel et lancer un audit interne express."
+    }
+  },
+  "mcc_209": {
+    "title": "Le badge “Entreprise citoyenne”",
+    "body": "Une mairie propose un badge “citoyen” si tu finances un événement local. Tes équipes demandent si ça se mange.",
+    "choices": {
+      "A": "Soutenir l’événement, sans en faire trop.",
+      "B": "Refuser : pas de mélange business/politique locale.",
+      "C": "Soutenir mais exiger transparence totale."
+    }
+  },
+  "mcc_210": {
+    "title": "Discours au forum économique",
+    "body": "Tu dois parler au forum économique. Deux minutes. Ton équipe com’ a écrit… 12 minutes.",
+    "choices": {
+      "A": "Couper et rester simple, direct.",
+      "B": "Lire tout : “la vision n’a pas de minute”.",
+      "C": "Faire 2 minutes + une note écrite optionnelle."
+    }
+  },
+  "mcc_211": {
+    "title": "Campagne d’affichage “trop patriotique”",
+    "body": "Marketing propose une campagne “Made Here, Made Proud”. Dans certains pays, ça fait grincer.",
+    "choices": {
+      "A": "Adapter par pays pour éviter les malentendus.",
+      "B": "Garder partout : message unique.",
+      "C": "Rendre le message neutre : qualité plutôt que drapeau."
+    }
+  },
+  "mcc_212": {
+    "title": "Consultation publique en ligne",
+    "body": "Une consultation publique sur ton secteur est ouverte. Les commentaires vont de “génial” à “stop tout”.",
+    "choices": {
+      "A": "Répondre calmement et proposer des engagements.",
+      "B": "Ne pas répondre : trop risqué.",
+      "C": "Faire répondre une association pro du secteur."
+    }
+  },
+  "mcc_213": {
+    "title": "Le débat sur la publicité",
+    "body": "Un projet de loi limite certaines pubs. Tes équipes marketing demandent si “les mèmes” comptent comme pub.",
+    "choices": {
+      "A": "Adapter et jouer la transparence.",
+      "B": "Tester la limite du cadre.",
+      "C": "Réduire la pub et miser sur le produit."
+    }
+  },
+  "mcc_214": {
+    "title": "Dîner “réseau” (très réseau)",
+    "body": "On t’invite à un dîner où tout le monde se tutoie… et où personne ne dit clairement pourquoi.",
+    "choices": {
+      "A": "Y aller, mais rester ultra transparent sur tes échanges.",
+      "B": "Refuser : trop flou.",
+      "C": "Y aller avec une équipe conformité et un agenda clair."
+    }
+  },
+  "mcc_215": {
+    "title": "La taxe surprise",
+    "body": "Une taxe sectorielle est annoncée. Tes investisseurs grognent, tes clients ne veulent pas payer plus.",
+    "choices": {
+      "A": "Absorber une partie et optimiser les coûts.",
+      "B": "Répercuter tout sur les prix.",
+      "C": "Adapter l’offre (entrée de gamme) pour limiter l’impact."
+    }
+  },
+  "mcc_216": {
+    "title": "Débat sur le “local”",
+    "body": "Un élu te demande : “Pourquoi pas 100% local ?”. Ta supply chain rigole nerveusement.",
+    "choices": {
+      "A": "Augmenter le local progressivement avec objectifs.",
+      "B": "Promettre 100% local (et improviser après).",
+      "C": "Expliquer la réalité et proposer un mix."
+    }
+  },
+  "mcc_217": {
+    "title": "Manifestation devant le siège",
+    "body": "Une petite manif apparaît devant ton siège avec des pancartes créatives. Très créatives.",
+    "choices": {
+      "A": "Dialoguer calmement et écouter les demandes.",
+      "B": "Sécuriser et ignorer.",
+      "C": "Proposer une rencontre officielle avec médiation."
+    }
+  },
+  "mcc_218": {
+    "title": "Rumeur de “grand plan secret”",
+    "body": "Les réseaux s’emballent : tu aurais un “plan secret” avec l’État. Tu n’es même pas au courant.",
+    "choices": {
+      "A": "Démentir avec des faits, simple.",
+      "B": "Laisser courir : “ça fera mystérieux”.",
+      "C": "Publier un point transparence (FAQ)."
+    }
+  },
+  "mcc_219": {
+    "title": "Jour d’élection = jour de tension",
+    "body": "Le pays vote. Tes équipes demandent si on peut éviter les sujets sensibles au bureau. Bonne idée.",
+    "choices": {
+      "A": "Rappel de respect + neutralité au travail.",
+      "B": "Ignorer : “ça va aller”.",
+      "C": "Organiser un moment calme (pause, écoute, médiation)."
+    }
+  },
+  "mcc_220": {
+    "title": "La loi “réparabilité” arrive",
+    "body": "Une loi impose plus de réparabilité. Tes ingénieurs disent : “On peut… mais pas demain matin.”",
+    "choices": {
+      "A": "Investir et anticiper (roadmap claire).",
+      "B": "Faire le strict minimum.",
+      "C": "Commencer par les produits phares."
+    }
+  },
+  "mcc_221": {
+    "title": "Parlement des stagiaires",
+    "body": "Les stagiaires organisent un “parlement interne” pour proposer des idées. Ils votent tout. Même les pauses.",
+    "choices": {
+      "A": "Écouter et retenir les meilleures idées.",
+      "B": "Stopper : “on n’est pas une république”.",
+      "C": "Garder, mais cadrer (1 sujet par mois)."
+    }
+  },
+  "mcc_222": {
+    "title": "Crise diplomatique du logo",
+    "body": "Ton logo ressemble à un symbole officiel dans un pays. Personne n’avait vérifié. Oups.",
+    "choices": {
+      "A": "Adapter le logo localement.",
+      "B": "Garder : “c’est un hasard”.",
+      "C": "Changer globalement (gros chantier)."
+    }
+  },
+  "mcc_223": {
+    "title": "Le maire veut “un mot”",
+    "body": "Le maire de la ville où tu as un site veut “un mot”. Ton équipe devine déjà : emploi, subventions, photo…",
+    "choices": {
+      "A": "Rencontrer, parler emplois et projets concrets.",
+      "B": "Refuser : pas de politique.",
+      "C": "Envoyer un représentant + engagements mesurables."
+    }
+  },
+  "mcc_224": {
+    "title": "Débat sur les prix “justes”",
+    "body": "Une émission débat sur les “prix justes” et cite ton entreprise. Ton service com’ serre les dents en souriant.",
+    "choices": {
+      "A": "Expliquer ta structure de coûts avec pédagogie.",
+      "B": "Attaquer l’émission : “désinformation”.",
+      "C": "Faire un geste sur une gamme populaire."
+    }
+  },
+  "mcc_225": {
+    "title": "Baromètre social national",
+    "body": "Un baromètre social compare les entreprises. Tu es “moyen”. Le pire : c’est public.",
+    "choices": {
+      "A": "Lancer un plan bien-être et progression.",
+      "B": "Faire une opération com’ pour remonter vite.",
+      "C": "Contester le baromètre (méthode) publiquement."
+    }
+  },
+  "mcc_226": {
+    "title": "La décarbonation en 3 slides",
+    "body": "On te demande un plan décarbonation. Le board veut 3 slides. La planète, elle, voulait un roman.",
+    "choices": {
+      "A": "Plan simple mais sérieux avec étapes chiffrées.",
+      "B": "3 slides vagues, et on verra.",
+      "C": "Plan long interne + version courte publique."
+    }
+  },
+  "mcc_227": {
+    "title": "Conférence “monde d’après”",
+    "body": "Tu es invité à parler du “monde d’après”. Personne ne sait ce que c’est, mais tout le monde applaudit.",
+    "choices": {
+      "A": "Parler concret : actions, objectifs, limites.",
+      "B": "Faire un discours très inspirant (sans détails).",
+      "C": "Refuser et publier une note claire à la place."
+    }
+  },
+  "mcc_228": {
+    "title": "Règlement sur l’IA",
+    "body": "Un règlement arrive sur l’IA. Tes équipes veulent l’utiliser partout, même pour choisir la musique d’ascenseur.",
+    "choices": {
+      "A": "Encadrer l’IA : usages autorisés + audit.",
+      "B": "Interdire pour éviter les risques.",
+      "C": "Autoriser en interne seulement (pas sur clients)."
+    }
+  },
+  "mcc_229": {
+    "title": "Protection du consommateur",
+    "body": "Une nouvelle règle impose plus de clarté sur les abonnements. Ton produit a “un bouton discret”. Très discret.",
+    "choices": {
+      "A": "Rendre tout clair et facile à annuler.",
+      "B": "Garder le bouton discret : rentable.",
+      "C": "Améliorer un peu, sans tout changer."
+    }
+  },
+  "mcc_230": {
+    "title": "Jour férié discuté",
+    "body": "Un débat national sur un jour férié arrive. Les employés veulent le garder. Les investisseurs veulent “aligner les coûts”.",
+    "choices": {
+      "A": "Garder le jour et compenser par organisation.",
+      "B": "Supprimer le jour dans l’entreprise.",
+      "C": "Garder, mais optionnel selon métiers (compensation)."
+    }
+  },
+  "mcc_231": {
+    "title": "Contrat public possible",
+    "body": "Un gros contrat public est en jeu. Bonne vitrine, mais exigences de conformité très strictes.",
+    "choices": {
+      "A": "Y aller : conformité exemplaire.",
+      "B": "Éviter : trop de contraintes.",
+      "C": "Y aller via un partenariat expérimenté."
+    }
+  },
+  "mcc_232": {
+    "title": "Le débat sur les salaires",
+    "body": "Un débat politique sur les salaires explose. Tes employés demandent un geste. Ton CFO demande… du calme.",
+    "choices": {
+      "A": "Revaloriser ciblé + transparence.",
+      "B": "Refuser : “contexte difficile”.",
+      "C": "Bonus ponctuel + plan à long terme."
+    }
+  },
+  "mcc_233": {
+    "title": "Le rapport “ESG” qui endort",
+    "body": "Ton rapport ESG fait 120 pages. Personne ne le lit, mais tout le monde le cite comme preuve d’effort.",
+    "choices": {
+      "A": "Raccourcir + rendre concret (indicateurs).",
+      "B": "Garder long : “ça fait sérieux”.",
+      "C": "Garder long + résumé 1 page obligatoire."
+    }
+  },
+  "mcc_234": {
+    "title": "Publicité et neutralité",
+    "body": "Une pub est jugée “trop politique” par certains, “pas assez engagée” par d’autres. Exploit.",
+    "choices": {
+      "A": "Retirer et refaire plus neutre.",
+      "B": "Assumer : “on a des valeurs”.",
+      "C": "Garder mais clarifier l’intention."
+    }
+  },
+  "mcc_235": {
+    "title": "Le contrôle des labels",
+    "body": "Un label “responsable” est contrôlé plus strictement. Tes équipes demandent : “On l’a vraiment mérité ?”.",
+    "choices": {
+      "A": "Auditer et corriger avant le contrôle.",
+      "B": "Espérer que ça passe.",
+      "C": "Retirer le label temporairement par prudence."
+    }
+  },
+  "mcc_236": {
+    "title": "Vote interne sur la cantine",
+    "body": "Les employés votent : plus végétal à la cantine. Certains crient au complot du brocoli.",
+    "choices": {
+      "A": "Ajouter plus d’options végétales, sans imposer.",
+      "B": "Refuser : “la cantine n’est pas un parlement”.",
+      "C": "Tester 2 jours/semaine et mesurer la satisfaction."
+    }
+  },
+  "mcc_237": {
+    "title": "Crise de confiance médias",
+    "body": "Les médias parlent beaucoup de ton secteur. Tout est “scandale potentiel”. Tes équipes com’ veulent dormir.",
+    "choices": {
+      "A": "Transparence proactive et preuves.",
+      "B": "Discrétion totale.",
+      "C": "Parler seulement via un porte-parole unique."
+    }
+  },
+  "mcc_238": {
+    "title": "Le débat sur la souveraineté",
+    "body": "On te demande si tes données doivent rester “dans le pays”. Tech dit oui, finance dit “ça coûte”.",
+    "choices": {
+      "A": "Localiser les données sensibles.",
+      "B": "Tout laisser global : efficacité.",
+      "C": "Solution hybride : sensible local, reste global."
+    }
+  },
+  "mcc_239": {
+    "title": "Loi anti-gaspillage",
+    "body": "Une loi anti-gaspillage arrive. Tes stocks invendus te regardent… avec tristesse.",
+    "choices": {
+      "A": "Donner/recycler et revoir la production.",
+      "B": "Détruire discrètement (au risque d’être critiqué).",
+      "C": "Vendre à prix réduit via une plateforme dédiée."
+    }
+  },
+  "mcc_240": {
+    "title": "L’étiquette “origine”",
+    "body": "Une règle impose plus de clarté sur l’origine. Ton packaging va ressembler à un passeport.",
+    "choices": {
+      "A": "Mettre l’origine clairement et assumer.",
+      "B": "Faire le minimum en tout petit.",
+      "C": "Mettre l’origine + une explication pédagogique."
+    }
+  },
+  "mcc_241": {
+    "title": "Le débat sur les “profits”",
+    "body": "Ton entreprise fait de bons profits. Un élu demande si tu peux “partager un peu”. Tes actionnaires font une grimace.",
+    "choices": {
+      "A": "Investir davantage localement (emploi, formation).",
+      "B": "Refuser : business = business.",
+      "C": "Faire un fonds social modeste + communication sobre."
+    }
+  },
+  "mcc_242": {
+    "title": "Le contrôle des sous-traitants",
+    "body": "Une nouvelle règle te rend plus responsable de tes sous-traitants. Ton acheteur demande : “on audit qui, là ?”.",
+    "choices": {
+      "A": "Auditer sérieusement et exiger des standards.",
+      "B": "Changer vite de sous-traitants (sans trop vérifier).",
+      "C": "Auditer seulement les plus critiques."
+    }
+  },
+  "mcc_243": {
+    "title": "Manifestation… pour te féliciter",
+    "body": "Une association te félicite publiquement pour une action verte. C’est rare. Tes équipes ne savent pas où se mettre.",
+    "choices": {
+      "A": "Remercier humblement et continuer.",
+      "B": "Transformer en grande campagne marketing.",
+      "C": "Rester discret pour éviter le retour de bâton."
+    }
+  },
+  "mcc_244": {
+    "title": "Le débat sur les horaires",
+    "body": "Une réforme nationale sur les horaires est discutée. Tes sites tournent 24/7. Tes managers demandent une baguette magique.",
+    "choices": {
+      "A": "Adapter les plannings avec concertation.",
+      "B": "Faire pression pour garder le modèle actuel.",
+      "C": "Automatiser une partie et réduire les horaires difficiles."
+    }
+  },
+  "mcc_245": {
+    "title": "La conférence “neutralité carbone”",
+    "body": "Tu promets “neutralité carbone” sur scène. Ton responsable opérationnel t’envoie juste : “😅”.",
+    "choices": {
+      "A": "Reformuler : objectifs réalistes, étapes claires.",
+      "B": "Maintenir la promesse et accélérer coûte que coûte.",
+      "C": "Promesse sur une gamme/zone d’abord."
+    }
+  },
+  "mcc_246": {
+    "title": "Nouvelle règle anti-fraude",
+    "body": "Une règle anti-fraude exige plus de contrôles. Tes équipes produit disent : “ça va ajouter 3 clics”.",
+    "choices": {
+      "A": "Renforcer contrôles et améliorer l’UX.",
+      "B": "Faire le strict minimum.",
+      "C": "Contrôles progressifs selon risque."
+    }
+  },
+  "mcc_247": {
+    "title": "Le débat “monopole”",
+    "body": "On accuse les grandes entreprises de trop dominer. Tu es invité à “justifier ta taille”. C’est nouveau.",
+    "choices": {
+      "A": "Montrer tes apports (emploi, innovation, prix).",
+      "B": "Ignorer et continuer.",
+      "C": "Annoncer des engagements pro-concurrence (API, partenariats)."
+    }
+  },
+  "mcc_248": {
+    "title": "Le “jour sans voiture” national",
+    "body": "Le pays fait un jour sans voiture. Tes employés demandent télétravail. Tes managers demandent “mais la machine à café ?”.",
+    "choices": {
+      "A": "Télétravail ce jour + transport alternatif.",
+      "B": "Présence obligatoire : “on s’adaptera”.",
+      "C": "Présence partielle + horaires décalés."
+    }
+  },
+  "mcc_249": {
+    "title": "Débat sur les contenus en ligne",
+    "body": "Une loi veut encadrer certains contenus en ligne. Ton service a une modération… “optimiste”.",
+    "choices": {
+      "A": "Renforcer la modération et la transparence.",
+      "B": "Minimiser : “la liberté d’abord”.",
+      "C": "Renforcer sur les cas critiques seulement."
+    }
+  },
+  "mcc_250": {
+    "title": "Le grand débat mondialisation",
+    "body": "À la TV, on débat mondialisation. Ton entreprise est citée comme exemple. Personne ne prononce ton nom correctement.",
+    "choices": {
+      "A": "Expliquer calmement ta chaîne de valeur et tes efforts locaux.",
+      "B": "Rester silencieux : moins on parle, mieux c’est.",
+      "C": "Faire une mini-campagne pédagogique “comment ça marche”."
+    }
+  },
+
+  "mcc_251": {
+    "title": "Le débat sur la “télé-réunion nationale”",
+    "body": "Un parti propose de limiter les réunions à 30 minutes “pour sauver la productivité du pays”. Tes managers tremblent.",
+    "choices": {
+      "A": "Adopter la règle en interne et publier les résultats.",
+      "B": "Refuser : “une réunion, ça se vit”.",
+      "C": "Faire 30 minutes… avec un “bonus 10 minutes” officiel."
+    }
+  },
+  "mcc_252": {
+    "title": "Le sénateur et la machine à café",
+    "body": "Un sénateur visite ton siège et tombe amoureux de ta machine à café. Il veut la montrer en séance.",
+    "choices": {
+      "A": "Accepter : une petite vitrine sympa.",
+      "B": "Refuser : trop “pub”.",
+      "C": "Donner une machine… à un centre de formation public."
+    }
+  },
+  "mcc_253": {
+    "title": "Grève “zéro mail le week-end”",
+    "body": "Un mouvement interne réclame “zéro mail le week-end”. Un élu tweete : “Enfin une vraie réforme”.",
+    "choices": {
+      "A": "Mettre une charte stricte et des règles claires.",
+      "B": "Refuser : “c’est la mondialisation”.",
+      "C": "Tester 2 mois et mesurer l’impact."
+    }
+  },
+  "mcc_254": {
+    "title": "Le débat sur les “profits indécents”",
+    "body": "En plateau TV, on te cite comme exemple. Quelqu’un prononce ton nom comme une marque de yaourt.",
+    "choices": {
+      "A": "Répondre avec chiffres + investissements + emplois.",
+      "B": "Ignorer : parler nourrit la polémique.",
+      "C": "Annoncer un plan formation/emploi visible et concret."
+    }
+  },
+  "mcc_255": {
+    "title": "La “photo officielle”",
+    "body": "On te propose une photo avec un ministre devant ton usine. Tes équipes demandent : “on sourit combien ?”.",
+    "choices": {
+      "A": "Accepter, mais rester sobre et factuel.",
+      "B": "Refuser : neutralité totale.",
+      "C": "Accepter uniquement si tu annonces un projet utile (formation, énergie)."
+    }
+  },
+  "mcc_256": {
+    "title": "Le comité “anti-bureaucratie”",
+    "body": "Un comité public veut réduire la bureaucratie. Il demande… un rapport de 60 pages.",
+    "choices": {
+      "A": "Jouer le jeu et proposer des simplifications concrètes.",
+      "B": "Envoyer le rapport le plus court possible.",
+      "C": "Proposer un format 1 page + données annexes."
+    }
+  },
+  "mcc_257": {
+    "title": "Le maire veut une “promesse”",
+    "body": "Le maire veut une promesse d’emplois pour la prochaine élection. Toi, tu veux surtout éviter les promesses foireuses.",
+    "choices": {
+      "A": "Promesse mesurée : objectifs + conditions.",
+      "B": "Refuser : pas de promesse politique.",
+      "C": "Proposer un plan formation qui crée de l’emploi indirect."
+    }
+  },
+  "mcc_258": {
+    "title": "Débat sur la souveraineté industrielle",
+    "body": "On te demande de relocaliser “vite”. Tes usines répondent : “vite, c’est 24 mois”.",
+    "choices": {
+      "A": "Relocaliser une partie stratégique, étape par étape.",
+      "B": "Dire non : trop coûteux.",
+      "C": "Relocaliser seulement l’assemblage final."
+    }
+  },
+  "mcc_259": {
+    "title": "La loi sur la transparence des salaires",
+    "body": "Une loi renforce la transparence salariale. Ton HR dit : “On va recevoir… des mails.”",
+    "choices": {
+      "A": "Anticiper : grilles claires + explications.",
+      "B": "Faire le minimum légal.",
+      "C": "Publier seulement des fourchettes très larges."
+    }
+  },
+  "mcc_260": {
+    "title": "Le député et le “packaging”",
+    "body": "Un député montre ton emballage au Parlement : “Regardez ce plastique !”. Tes ingénieurs soupirent très fort.",
+    "choices": {
+      "A": "Accélérer la transition emballage et le dire clairement.",
+      "B": "Répondre : “c’est pour la sécurité et l’hygiène”.",
+      "C": "Lancer un pilote zéro plastique sur une gamme."
+    }
+  },
+  "mcc_261": {
+    "title": "Le débat sur les pubs “trop agressives”",
+    "body": "Un projet de loi vise les pubs trop intrusives. Ton marketing demande si “un pop-up qui hurle” compte.",
+    "choices": {
+      "A": "Passer à un marketing plus doux et transparent.",
+      "B": "Garder le modèle : conversion d’abord.",
+      "C": "Garder mais réduire les formats les plus agressifs."
+    }
+  },
+  "mcc_262": {
+    "title": "Table ronde à l’Assemblée",
+    "body": "On t’invite à une table ronde. Les autres invités ont tous un avis… sur toi.",
+    "choices": {
+      "A": "Y aller, rester factuel, proposer des engagements.",
+      "B": "Refuser : trop risqué.",
+      "C": "Y aller avec une délégation “conformité + RH + RSE”."
+    }
+  },
+  "mcc_263": {
+    "title": "Contrat public et favoritisme (rumeur)",
+    "body": "Une rumeur dit que tu as un contrat public grâce à des “amis”. C’est faux, mais ça tourne.",
+    "choices": {
+      "A": "Publier le process et les critères de sélection.",
+      "B": "Ignorer la rumeur.",
+      "C": "Demander un audit externe indépendant."
+    }
+  },
+  "mcc_264": {
+    "title": "Le badge “entreprise exemplaire”",
+    "body": "Un label public propose un badge “exemplaire”. Tes équipes disent : “Ça sent le tampon pour la vitrine”.",
+    "choices": {
+      "A": "Accepter si les critères sont stricts et auditables.",
+      "B": "Refuser : pas de badges.",
+      "C": "Accepter mais sans le mettre en avant."
+    }
+  },
+  "mcc_265": {
+    "title": "Le débat sur l’eau",
+    "body": "Une crise de l’eau arrive dans une région où tu produis. Un élu te demande un plan “immédiat”.",
+    "choices": {
+      "A": "Investir dans recyclage d’eau et réduction.",
+      "B": "Déplacer une partie de la production.",
+      "C": "Continuer et payer plus cher l’accès."
+    }
+  },
+  "mcc_266": {
+    "title": "“Stop aux réunions” : manifestation",
+    "body": "Des employés manifestent… contre les réunions. Ils brandissent des pancartes : “Une réunion = un arbre triste”.",
+    "choices": {
+      "A": "Réformer : moins de réunions, plus d’autonomie.",
+      "B": "Réprimer : “on ne négocie pas avec les calendriers”.",
+      "C": "Créer un quota : réunions limitées, exceptions justifiées."
+    }
+  },
+  "mcc_267": {
+    "title": "Le débat sur la taxe carbone",
+    "body": "Une taxe carbone est discutée. Tes investisseurs veulent des marges, tes régulateurs veulent du sérieux.",
+    "choices": {
+      "A": "Accélérer transition + plan chiffré public.",
+      "B": "Faire pression pour retarder la taxe.",
+      "C": "Répercuter le coût sur les prix."
+    }
+  },
+  "mcc_268": {
+    "title": "Appel à “consommer moins”",
+    "body": "Une campagne publique pousse à consommer moins. Ton produit est… justement un produit de consommation.",
+    "choices": {
+      "A": "Miser sur la durabilité (réparation, seconde vie).",
+      "B": "Contre-campagne : “consommez plus”.",
+      "C": "Réorienter vers services/abonnements responsables."
+    }
+  },
+  "mcc_269": {
+    "title": "Débat sur l’emploi des jeunes",
+    "body": "Un ministre annonce un plan emploi jeunes. On te demande de “prendre ta part”. Tes RH ouvrent Excel.",
+    "choices": {
+      "A": "Lancer un programme d’alternance massif.",
+      "B": "Faire le minimum.",
+      "C": "Former moins de jeunes, mais mieux (qualité)."
+    }
+  },
+  "mcc_270": {
+    "title": "Contrôle “anti-fraude” renforcé",
+    "body": "Le régulateur veut plus de contrôles sur tes ventes. Ton produit craint une UX plus lourde.",
+    "choices": {
+      "A": "Renforcer et simplifier l’expérience en parallèle.",
+      "B": "Faire le minimum légal.",
+      "C": "Contrôles progressifs selon niveau de risque."
+    }
+  },
+  "mcc_271": {
+    "title": "Le débat sur les dividendes",
+    "body": "Un débat politique critique les dividendes élevés. Tes actionnaires adorent. Tes employés… moins.",
+    "choices": {
+      "A": "Baisser dividendes, investir + partager en interne.",
+      "B": "Maintenir : “c’est le contrat”.",
+      "C": "Maintenir mais créer une prime résultats pour les équipes."
+    }
+  },
+  "mcc_272": {
+    "title": "Le “jour sans clim”",
+    "body": "Une campagne publique propose un jour sans clim. Tes bureaux répondent : “On va fondre en Excel”.",
+    "choices": {
+      "A": "Participer : réglage température + communication.",
+      "B": "Refuser : confort et productivité.",
+      "C": "Participer sur certains sites seulement."
+    }
+  },
+  "mcc_273": {
+    "title": "Le débat sur la souveraineté numérique",
+    "body": "On te demande de stocker les données localement. Tech dit oui, finance dit “aie”.",
+    "choices": {
+      "A": "Localiser les données sensibles et auditer le reste.",
+      "B": "Tout garder global pour coût/perf.",
+      "C": "Hybridation : local + cloud multi-région."
+    }
+  },
+  "mcc_274": {
+    "title": "Le “pacte anti-inflation”",
+    "body": "Le gouvernement propose un pacte : certains prix plafonnés. Tes marges prennent peur.",
+    "choices": {
+      "A": "Entrer dans le pacte sur quelques produits.",
+      "B": "Refuser : trop risqué.",
+      "C": "Entrer, mais avec contreparties (volume, durée)."
+    }
+  },
+  "mcc_275": {
+    "title": "Le député veut un “simulateur”",
+    "body": "Un député veut un simulateur pour expliquer ton prix au public. Ton CFO : “On peut simuler la douleur ?”.",
+    "choices": {
+      "A": "Faire un simulateur pédagogique simple.",
+      "B": "Refuser : trop exposant.",
+      "C": "Faire une FAQ avec 3 chiffres clés."
+    }
+  },
+  "mcc_276": {
+    "title": "Le sommet international (photo obligatoire)",
+    "body": "Sommet international : on te place sur une photo officielle. Tu es entre deux personnes très sérieuses.",
+    "choices": {
+      "A": "Assumer, rester neutre et factuel.",
+      "B": "Refuser d’apparaître : trop politique.",
+      "C": "Accepter mais publier ton message : économie + emploi + climat."
+    }
+  },
+  "mcc_277": {
+    "title": "Débat sur la semaine de 4 jours",
+    "body": "La semaine de 4 jours revient dans le débat public. Les employés applaudissent, le CFO transpire.",
+    "choices": {
+      "A": "Tester sur certains services avec objectifs clairs.",
+      "B": "Refuser : impossible.",
+      "C": "Proposer une flexibilité (jours compressés)."
+    }
+  },
+  "mcc_278": {
+    "title": "La “charte anti-lobbying”",
+    "body": "Une charte publique demande de déclarer les échanges. Ton équipe public affairs range ses cartes de visite.",
+    "choices": {
+      "A": "Signer et publier tes échanges clés.",
+      "B": "Refuser : trop de contraintes.",
+      "C": "Signer mais limiter les échanges au strict officiel."
+    }
+  },
+  "mcc_279": {
+    "title": "Le débat sur les contenus “toxiques”",
+    "body": "Un débat politique demande plus de modération en ligne. Tes équipes craignent la censure, le régulateur veut de l’action.",
+    "choices": {
+      "A": "Renforcer modération + transparence.",
+      "B": "Résister : liberté totale.",
+      "C": "Renforcer seulement sur cas graves."
+    }
+  },
+  "mcc_280": {
+    "title": "Le débat sur les “méga-entreprises”",
+    "body": "Un politicien lance : “il faut démanteler les géants”. Tes investisseurs appellent. Tes employés demandent si ça casse la cantine.",
+    "choices": {
+      "A": "Proposer des engagements pro-concurrence (partenariats, API).",
+      "B": "Ignorer : bruit politique.",
+      "C": "Scinder volontairement une activité (symbolique)."
+    }
+  },
+  "mcc_281": {
+    "title": "L’alerte “rappel produit”",
+    "body": "Un régulateur signale un risque mineur sur un lot. Pas dangereux, mais ça peut faire mauvais titre.",
+    "choices": {
+      "A": "Rappeler le lot et communiquer clairement.",
+      "B": "Attendre : “c’est mineur”.",
+      "C": "Corriger en silence et surveiller."
+    }
+  },
+  "mcc_282": {
+    "title": "Une interview “piège”",
+    "body": "Un journaliste te demande : “Vous êtes plutôt profit ou planète ?”. C’est un piège, et il le sait.",
+    "choices": {
+      "A": "Répondre : objectifs mixtes + preuves.",
+      "B": "Refuser l’interview.",
+      "C": "Faire répondre ton responsable RSE avec chiffres."
+    }
+  },
+  "mcc_283": {
+    "title": "Le débat sur l’immigration qualifiée",
+    "body": "Le pays débat sur les visas talents. Tes équipes tech manquent de monde, ton image est sensible.",
+    "choices": {
+      "A": "Soutenir un programme formation + recrutement équilibré.",
+      "B": "Rester neutre et discret.",
+      "C": "Recruter à l’étranger sans communiquer."
+    }
+  },
+  "mcc_284": {
+    "title": "Le “plan d’austérité” national",
+    "body": "L’État coupe dans certains budgets. Ta filiale publique perd des contrats, tes investisseurs veulent compenser vite.",
+    "choices": {
+      "A": "Diversifier les clients et sécuriser l’emploi.",
+      "B": "Couper des coûts brutalement.",
+      "C": "Investir dans un nouveau produit plus rentable."
+    }
+  },
+  "mcc_285": {
+    "title": "Le débat sur les “cadeaux”",
+    "body": "Une règle limite les cadeaux aux décideurs. Ton équipe commercial perd son panier gourmand… et son sourire.",
+    "choices": {
+      "A": "Zéro cadeau, conformité stricte.",
+      "B": "Cadeaux “petits” seulement.",
+      "C": "Remplacer cadeaux par événements publics transparents."
+    }
+  },
+  "mcc_286": {
+    "title": "Le “grand plan sobriété numérique”",
+    "body": "On demande aux entreprises de réduire la consommation numérique. Tes serveurs font semblant de ne pas entendre.",
+    "choices": {
+      "A": "Optimiser, réduire, mesurer et publier.",
+      "B": "Ignorer : “c’est invisible”.",
+      "C": "Optimiser seulement sur les services les plus gourmands."
+    }
+  },
+  "mcc_287": {
+    "title": "Le débat sur les “marges cachées”",
+    "body": "Un élu affirme que tu as des marges cachées. Ton CFO : “si seulement…”.",
+    "choices": {
+      "A": "Ouvrir tes coûts sur une gamme (transparence).",
+      "B": "Attaquer l’élu : “mensonge”.",
+      "C": "Publier des indicateurs simples (marge moyenne, investissements)."
+    }
+  },
+  "mcc_288": {
+    "title": "Le vote interne “charte éthique”",
+    "body": "Les employés veulent voter une charte éthique. Certains veulent aussi voter la couleur des chaussettes du CEO.",
+    "choices": {
+      "A": "Adopter la charte et la rendre opérationnelle.",
+      "B": "Refuser : trop politique.",
+      "C": "Adopter une charte courte + comité de suivi."
+    }
+  },
+  "mcc_289": {
+    "title": "Le “plan anti-délocalisation”",
+    "body": "Un gouvernement lance un plan anti-délocalisation. Tes coûts montent, ta marque aussi.",
+    "choices": {
+      "A": "Relocaliser partiellement (stratégique).",
+      "B": "Rester global et optimiser.",
+      "C": "Relocaliser seulement la partie visible (finale)."
+    }
+  },
+  "mcc_290": {
+    "title": "La commission sur la “vie chère”",
+    "body": "Commission sur la vie chère : on t’invite. On te demande pourquoi ton produit n’est pas gratuit. Tu hésites à rire.",
+    "choices": {
+      "A": "Expliquer coûts + proposer une option basique moins chère.",
+      "B": "Dire : “c’est le marché” et repartir.",
+      "C": "Proposer un gel temporaire des prix sur une gamme."
+    }
+  },
+  "mcc_291": {
+    "title": "Le débat sur les “profits de crise”",
+    "body": "En période tendue, on accuse certains de “profits de crise”. Ton secteur est dans le viseur, même si ce n’est pas ton cas.",
+    "choices": {
+      "A": "Publier un engagement anti-abus + contrôle interne.",
+      "B": "Rester silencieux.",
+      "C": "Créer un fonds de soutien clients vulnérables."
+    }
+  },
+  "mcc_292": {
+    "title": "La “journée de la transparence”",
+    "body": "Une journée nationale de transparence est lancée. Tes équipes com’ veulent un slogan. Ton juridique veut un casque.",
+    "choices": {
+      "A": "Publier des données clés (prix, impacts, salaires en fourchettes).",
+      "B": "Faire un post vague et inspirant.",
+      "C": "Publier seulement ce qui est déjà obligatoire."
+    }
+  },
+  "mcc_293": {
+    "title": "Le débat sur l’“empreinte” des livraisons",
+    "body": "Les livraisons rapides sont critiquées. Tes clients adorent. La planète, moins.",
+    "choices": {
+      "A": "Proposer une option lente “verte” par défaut.",
+      "B": "Continuer la livraison ultra rapide partout.",
+      "C": "Investir dans flottes propres (progressif)."
+    }
+  },
+  "mcc_294": {
+    "title": "Le débat “anti-pub”",
+    "body": "Une réforme vise à réduire la pub. Ton marketing panique : “et nos jingles ?”.",
+    "choices": {
+      "A": "Réduire pub et renforcer bouche-à-oreille/qualité.",
+      "B": "Garder pub et contourner via influence.",
+      "C": "Adapter : moins de pub, plus d’info utile."
+    }
+  },
+  "mcc_295": {
+    "title": "Le débat sur les “algorithmes”",
+    "body": "Une loi veut plus de transparence algorithmique. Tes équipes tech demandent : “on explique quoi, au juste ?”.",
+    "choices": {
+      "A": "Transparence : principes + audits + contrôle utilisateur.",
+      "B": "Secret : “propriété intellectuelle”.",
+      "C": "Transparence partielle sur les points sensibles."
+    }
+  },
+  "mcc_296": {
+    "title": "L’élu veut un “prix citoyen”",
+    "body": "Un élu te demande un “prix citoyen” plus bas. Tes investisseurs demandent un “prix actionnaire” plus haut.",
+    "choices": {
+      "A": "Créer une offre citoyenne limitée (conditions).",
+      "B": "Refuser : un seul prix.",
+      "C": "Créer un coupon via partenaires publics."
+    }
+  },
+  "mcc_297": {
+    "title": "Débat sur la “sécurité au travail”",
+    "body": "Après un incident mineur, le débat public s’enflamme. Tes employés veulent des garanties, les médias veulent un titre.",
+    "choices": {
+      "A": "Renforcer sécurité + formation + transparence.",
+      "B": "Minimiser : “c’est rare”.",
+      "C": "Renforcer mais communiquer seulement en interne."
+    }
+  },
+  "mcc_298": {
+    "title": "La “semaine anti-stress” nationale",
+    "body": "Le gouvernement lance une semaine anti-stress. Tes managers demandent si “reporting” est un mot stressant.",
+    "choices": {
+      "A": "Alléger reporting + soutien (coaching, pauses).",
+      "B": "Ne rien changer : “c’est symbolique”.",
+      "C": "Faire une action ponctuelle + plan RH long terme."
+    }
+  },
+  "mcc_299": {
+    "title": "Le débat “prix de l’énergie”",
+    "body": "Les prix de l’énergie font débat. On te demande d’être exemplaire. Ton usine demande surtout de ne pas s’arrêter.",
+    "choices": {
+      "A": "Investir dans efficacité + énergies propres.",
+      "B": "Continuer sans changer.",
+      "C": "Signer un contrat long terme + réduire consommation."
+    }
+  },
+  "mcc_300": {
+    "title": "Le débat “nation vs monde”",
+    "body": "Sur un plateau, on demande : “vous êtes une entreprise nationale ou mondiale ?”. Tu réponds : “oui”.",
+    "choices": {
+      "A": "Valoriser les emplois locaux + le réseau mondial.",
+      "B": "Se présenter comme 100% mondial (efficacité).",
+      "C": "Se présenter comme 100% local (image), sans trop préciser."
+    }
+  },
+
+  "mcc_301": {
+    "title": "La “loi du bouton rouge”",
+    "body": "Un député veut obliger tous les services à avoir un bouton rouge “Annuler en 1 clic”. Ton produit a… un labyrinthe.",
+    "choices": {
+      "A": "Créer un vrai bouton rouge (clair et immédiat).",
+      "B": "Créer un bouton… mais caché dans les paramètres avancés.",
+      "C": "Créer un bouton rouge + un parcours d’aide qui retient les clients."
+    }
+  },
+  "mcc_302": {
+    "title": "Le discours sur la “valeur travail”",
+    "body": "Un ministre fait un discours sur la valeur travail. Tes employés te regardent comme si tu avais écrit le discours.",
+    "choices": {
+      "A": "Annoncer une prime liée aux résultats (simple).",
+      "B": "Annoncer plus d’objectifs, pas plus de moyens.",
+      "C": "Lancer un plan formation + mobilité interne."
+    }
+  },
+  "mcc_303": {
+    "title": "La commission “anti-fake news”",
+    "body": "Une commission te demande comment tu luttes contre la désinformation… alors que tu vends des chaussettes connectées.",
+    "choices": {
+      "A": "Répondre sérieusement : transparence et modération si besoin.",
+      "B": "Répondre ironique : “nos chaussettes ne mentent jamais”.",
+      "C": "Proposer une charte volontaire sectorielle."
+    }
+  },
+  "mcc_304": {
+    "title": "Le débat sur les “méga-bonus”",
+    "body": "Un projet de loi veut encadrer les bonus des dirigeants. Ton CFO dit : “on change le mot bonus en… surprise ?”.",
+    "choices": {
+      "A": "Réduire et lier aux objectifs sociaux/environnement.",
+      "B": "Contourner via avantages indirects.",
+      "C": "Rendre la rémunération transparente et justifiée."
+    }
+  },
+  "mcc_305": {
+    "title": "Le maire veut une “usine vitrine”",
+    "body": "Le maire veut une usine vitrine pour sa campagne. Tes équipes veulent surtout une usine qui marche.",
+    "choices": {
+      "A": "Créer un parcours de visite public avec vraies infos.",
+      "B": "Refuser : pas de vitrine politique.",
+      "C": "Proposer une journée portes ouvertes neutre (sans slogans)."
+    }
+  },
+  "mcc_306": {
+    "title": "Le débat sur les emballages",
+    "body": "Une loi veut limiter les emballages. Ton produit a déjà un emballage pour l’emballage. Oui.",
+    "choices": {
+      "A": "Réduire drastiquement et communiquer preuves.",
+      "B": "Faire le minimum légal.",
+      "C": "Basculer sur recharge/réutilisable sur une gamme."
+    }
+  },
+  "mcc_307": {
+    "title": "Le “grand plan patriotique” du marketing",
+    "body": "Marketing propose une pub avec drapeau, fanfare et slogan “Chez nous !”. Les régulateurs adorent rarement les fanfares.",
+    "choices": {
+      "A": "Adapter : valoriser l’emploi sans chauvinisme.",
+      "B": "Garder la fanfare : ça marque.",
+      "C": "Retirer le drapeau : garder juste la qualité."
+    }
+  },
+  "mcc_308": {
+    "title": "Débat sur la “semaine sans écrans”",
+    "body": "Une semaine sans écrans est proposée. Ton activité est… sur écran. Tes équipes cherchent une version papier.",
+    "choices": {
+      "A": "Proposer un mode “sobriété” (temps limité).",
+      "B": "Ignorer et pousser les notifications (ouch).",
+      "C": "Soutenir l’initiative et proposer des pauses intégrées."
+    }
+  },
+  "mcc_309": {
+    "title": "L’audit des contrats publics",
+    "body": "Un audit examine les contrats publics de ton secteur. Ils veulent “tout”, y compris les mails de 2014.",
+    "choices": {
+      "A": "Coopérer à fond, clean et organisé.",
+      "B": "Résister et fournir au strict minimum.",
+      "C": "Mandater un audit externe et livrer un dossier clair."
+    }
+  },
+  "mcc_310": {
+    "title": "Le débat sur la “taxe pubs”",
+    "body": "On parle d’une taxe sur la publicité. Ton marketing demande si un sticker sur un mug compte comme pub.",
+    "choices": {
+      "A": "Réduire la pub et renforcer la qualité/service.",
+      "B": "Déplacer vers influenceurs à fond.",
+      "C": "Diversifier : pub utile + transparence + moins d’intrusif."
+    }
+  },
+  "mcc_311": {
+    "title": "Réforme “droit à la déconnexion”",
+    "body": "Le droit à la déconnexion est renforcé. Ton manager star envoie des mails à 2h du matin “par inspiration”.",
+    "choices": {
+      "A": "Bloquer l’envoi la nuit (sauf urgence).",
+      "B": "Laisser faire : “la passion n’a pas d’horaires”.",
+      "C": "Autoriser l’envoi mais programmer automatiquement le lendemain."
+    }
+  },
+  "mcc_312": {
+    "title": "Le débat sur l’IA au travail",
+    "body": "Une loi veut encadrer l’IA au travail. Tes employés demandent si l’IA va aussi faire le café.",
+    "choices": {
+      "A": "Charte IA : usages, protections, formation.",
+      "B": "Interdire l’IA : zéro risque.",
+      "C": "Utiliser l’IA seulement sur tâches internes non sensibles."
+    }
+  },
+  "mcc_313": {
+    "title": "Le scandale du badge visiteur",
+    "body": "Un influenceur s’est fait passer pour un visiteur et filme tes locaux. Un député s’indigne… en story.",
+    "choices": {
+      "A": "Renforcer sécurité + excuses + correctifs publics.",
+      "B": "Menacer juridiquement immédiatement.",
+      "C": "Inviter officiellement la presse (contrôlé) et expliquer."
+    }
+  },
+  "mcc_314": {
+    "title": "Le débat sur les prix “ronds”",
+    "body": "Un élu veut interdire les prix en .99 “manipulateurs”. Ton pricing est en deuil.",
+    "choices": {
+      "A": "Passer à des prix ronds + expliquer.",
+      "B": "Garder .99 et assumer.",
+      "C": "Tester prix ronds sur une gamme seulement."
+    }
+  },
+  "mcc_315": {
+    "title": "La photo avec le candidat",
+    "body": "Un candidat veut une photo avec toi. Il promet de “sauver l’économie”. Ton équipe com’ hurle en silence.",
+    "choices": {
+      "A": "Refuser : neutralité stricte.",
+      "B": "Accepter : visibilité énorme.",
+      "C": "Accepter seulement une rencontre privée sans photo."
+    }
+  },
+  "mcc_316": {
+    "title": "Le débat sur le “made local”",
+    "body": "Un débat télé réclame du 100% local. Ton supply chain répond : “100% local… sur quelle planète ?”.",
+    "choices": {
+      "A": "Objectifs progressifs + indicateurs publics.",
+      "B": "Promettre 100% local (et croiser les doigts).",
+      "C": "Mettre l’accent sur la traçabilité plutôt que le slogan."
+    }
+  },
+  "mcc_317": {
+    "title": "Une loi sur la “clarté des CGU”",
+    "body": "Les CGU doivent être claires. Les tiennes font 40 pages. Même ton juriste ne les lit plus.",
+    "choices": {
+      "A": "Résumé 1 page + icônes + langage simple.",
+      "B": "Laisser comme ça : c’est légal.",
+      "C": "Simplifier un peu, mais garder les gros paragraphes."
+    }
+  },
+  "mcc_318": {
+    "title": "Le débat sur les “profits et l’eau”",
+    "body": "Une région manque d’eau. On pointe les industries. Ton usine boit… pas mal.",
+    "choices": {
+      "A": "Investir dans recyclage d’eau + réduction mesurée.",
+      "B": "Continuer et payer les surcoûts.",
+      "C": "Déplacer une partie de la production."
+    }
+  },
+  "mcc_319": {
+    "title": "L’amendement “cantine locale”",
+    "body": "Un amendement veut rendre la cantine plus locale. Tes employés veulent surtout que ce soit bon.",
+    "choices": {
+      "A": "Plus local + menu varié (test & feedback).",
+      "B": "Refuser : ça coûte trop.",
+      "C": "Local sur certains produits seulement."
+    }
+  },
+  "mcc_320": {
+    "title": "Le débat “anti-hypercroissance”",
+    "body": "Un mouvement politique critique l’hypercroissance. Tes investisseurs adorent… l’hypercroissance.",
+    "choices": {
+      "A": "Réorienter : croissance + responsabilité (preuves).",
+      "B": "Ignorer : croissance à fond.",
+      "C": "Cadrer : croissance modérée, plus de stabilité."
+    }
+  },
+  "mcc_321": {
+    "title": "La panne pendant le débat télé",
+    "body": "Ton service tombe en panne pile pendant un débat télé. Les gens pensent à un complot. Ton serveur pense à une sieste.",
+    "choices": {
+      "A": "Transparence immédiate + rapport technique simple.",
+      "B": "Silence radio jusqu’à réparation.",
+      "C": "Dédommagement + communication sobre."
+    }
+  },
+  "mcc_322": {
+    "title": "La “taxe sur les jets privés”",
+    "body": "Une taxe jets privés fait débat. Tu n’as pas de jet… mais on te confond avec quelqu’un d’autre. Classique.",
+    "choices": {
+      "A": "Clarifier : déplacements pro + politique sobre.",
+      "B": "Ignorer : pas concerné.",
+      "C": "Publier une politique mobilité durable."
+    }
+  },
+  "mcc_323": {
+    "title": "Le débat sur les stages",
+    "body": "Un projet veut mieux encadrer les stages. Tes managers aiment les stagiaires… quand ils remplacent des postes (aïe).",
+    "choices": {
+      "A": "Stages payés + missions réelles + mentorat.",
+      "B": "Réduire les stages : trop contraignant.",
+      "C": "Garder les stages mais limiter fortement leur nombre."
+    }
+  },
+  "mcc_324": {
+    "title": "La loi “anti-greenwashing”",
+    "body": "Une loi anti-greenwashing arrive. Ton marketing a mis “éco” sur tout, même sur la souris d’ordinateur.",
+    "choices": {
+      "A": "Nettoyer les messages + preuves + audits.",
+      "B": "Garder : tout le monde le fait.",
+      "C": "Réduire les promesses, garder les actions."
+    }
+  },
+  "mcc_325": {
+    "title": "Le débat sur le télétravail",
+    "body": "Le télétravail devient un sujet politique. Tes employés veulent 5 jours, tes managers veulent 0, ton badge veut exister.",
+    "choices": {
+      "A": "Modèle hybride clair et stable.",
+      "B": "Retour complet sur site.",
+      "C": "Télétravail large + règles de performance."
+    }
+  },
+  "mcc_326": {
+    "title": "Le débat sur la “sécurité des données”",
+    "body": "Après une fuite médiatisée ailleurs, le régulateur veut des garanties. Ton équipe sécurité dit : “on veut un budget”.",
+    "choices": {
+      "A": "Investir fort + audit externe + transparence.",
+      "B": "Faire le minimum légal.",
+      "C": "Investir progressivement sur les points critiques."
+    }
+  },
+  "mcc_327": {
+    "title": "La subvention “innovation”",
+    "body": "Une subvention innovation est possible, mais il faut prouver que tu innoves. Ton équipe propose de renommer un bouton.",
+    "choices": {
+      "A": "Vrai projet R&D et dossier solide.",
+      "B": "Renommer un bouton et tenter le dossier (lol).",
+      "C": "Projet pilote modeste mais réel."
+    }
+  },
+  "mcc_328": {
+    "title": "Le débat sur l’apprentissage",
+    "body": "Le gouvernement pousse l’apprentissage. Tes sites peuvent former… mais ça demande du temps et des tuteurs.",
+    "choices": {
+      "A": "Programme apprentissage ambitieux.",
+      "B": "Programme minimal.",
+      "C": "Programme ciblé sur métiers en tension."
+    }
+  },
+  "mcc_329": {
+    "title": "L’émission “Cash & Clash”",
+    "body": "Une émission d’investigation veut “te suivre une semaine”. Ta com’ s’évanouit. Ton CFO aussi.",
+    "choices": {
+      "A": "Accepter avec transparence (et préparation).",
+      "B": "Refuser net.",
+      "C": "Proposer une visite encadrée + documents publics."
+    }
+  },
+  "mcc_330": {
+    "title": "Le débat “loi anti-licenciements”",
+    "body": "Un parti propose de limiter les licenciements. Tes investisseurs veulent flexibilité. Tes employés veulent dormir.",
+    "choices": {
+      "A": "Éviter licenciements : mobilité + formation.",
+      "B": "Préparer une restructuration rapide.",
+      "C": "Geler embauches et réduire coûts ailleurs."
+    }
+  },
+  "mcc_331": {
+    "title": "La campagne “achetez moins”",
+    "body": "Une campagne publique encourage à acheter moins. Ton marketing demande si c’est une attaque personnelle.",
+    "choices": {
+      "A": "Proposer réparation, seconde main, durabilité.",
+      "B": "Push agressif : acheter plus.",
+      "C": "Faire une gamme plus durable (prix un peu plus élevé)."
+    }
+  },
+  "mcc_332": {
+    "title": "Le débat sur la “livraison rapide”",
+    "body": "Un député veut limiter la livraison express pour l’environnement. Tes clients veulent “hier”.",
+    "choices": {
+      "A": "Option lente par défaut + express payant.",
+      "B": "Express partout, tout le temps.",
+      "C": "Express sur zones limitées + flotte plus propre."
+    }
+  },
+  "mcc_333": {
+    "title": "Un syndicat invite un élu",
+    "body": "Un syndicat invite un élu à discuter sur ton site. Tes managers demandent “et nous, on vient ?”.",
+    "choices": {
+      "A": "Réunion tripartite : élus + salariés + direction.",
+      "B": "Refuser la présence politique sur site.",
+      "C": "Accepter mais en format public et cadré."
+    }
+  },
+  "mcc_334": {
+    "title": "Le débat sur la “sobriété”",
+    "body": "On te demande de réduire l’énergie. Ton siège est éclairé comme un sapin de Noël corporate.",
+    "choices": {
+      "A": "Plan sobriété réel + mesures visibles.",
+      "B": "Mesure symbolique 1 semaine.",
+      "C": "Ne rien faire : productivité d’abord."
+    }
+  },
+  "mcc_335": {
+    "title": "Le débat sur les “commissions bancaires”",
+    "body": "Si tu fais du paiement, on te demande de baisser les commissions. Si tu n’en fais pas, on te le demande aussi. Mystère.",
+    "choices": {
+      "A": "Baisser un peu + compenser par volume/efficacité.",
+      "B": "Refuser et garder les marges.",
+      "C": "Créer une offre “petits commerçants” moins chère."
+    }
+  },
+  "mcc_336": {
+    "title": "Le “fonds souverain” s’intéresse à toi",
+    "body": "Un fonds souverain veut investir. Super… sauf que ça déclenche des débats politiques sur ton indépendance.",
+    "choices": {
+      "A": "Accepter avec garde-fous et transparence.",
+      "B": "Refuser : trop sensible.",
+      "C": "Accepter une part minoritaire seulement."
+    }
+  },
+  "mcc_337": {
+    "title": "Le débat sur les “prix dynamiques”",
+    "body": "Les prix dynamiques sont critiqués. Ton algorithme est fier. Les gens, moins.",
+    "choices": {
+      "A": "Limiter et rendre transparent (plafonds).",
+      "B": "Garder : profit maximum.",
+      "C": "Garder mais sur peu de produits seulement."
+    }
+  },
+  "mcc_338": {
+    "title": "Le débat sur la “qualité de l’air”",
+    "body": "Une ville impose une norme air plus stricte. Ton site est dans la zone. Ton directeur d’usine demande un miracle.",
+    "choices": {
+      "A": "Investir filtres et modernisation.",
+      "B": "Négocier un délai.",
+      "C": "Réduire la production temporairement."
+    }
+  },
+  "mcc_339": {
+    "title": "Le débat sur les “délais de paiement”",
+    "body": "Une loi veut réduire les délais de paiement aux fournisseurs. Ton trésorier veut garder le cash. Tes fournisseurs veulent vivre.",
+    "choices": {
+      "A": "Payer plus vite, sécuriser la chaîne.",
+      "B": "Payer au dernier jour possible.",
+      "C": "Payer vite les petits, normal pour les gros."
+    }
+  },
+  "mcc_340": {
+    "title": "La proposition “anti-open space”",
+    "body": "Un mouvement politique veut limiter les open spaces “toxiques”. Ton bureau est un open space… avec plantes (ça compte ?).",
+    "choices": {
+      "A": "Aménager plus de zones calmes et bureaux fermés.",
+      "B": "Rien changer : c’est moderne.",
+      "C": "Télétravail plus large pour réduire l’open space."
+    }
+  },
+  "mcc_341": {
+    "title": "Un député critique ton SAV",
+    "body": "Un député se plaint publiquement de ton SAV. Ton SAV se plaint publiquement… en interne.",
+    "choices": {
+      "A": "Renforcer SAV + promesse de délai tenue.",
+      "B": "Répondre agressivement : mauvais plan.",
+      "C": "Offrir un canal VIP pour cas publics (et améliorer le reste)."
+    }
+  },
+  "mcc_342": {
+    "title": "Le débat sur les “parachutes dorés”",
+    "body": "On reparle des parachutes dorés. Ton board propose un “parachute beige, plus discret”.",
+    "choices": {
+      "A": "Réduire et publier une politique raisonnable.",
+      "B": "Garder : attirer les talents.",
+      "C": "Lier à performance long terme (et pas juste départ)."
+    }
+  },
+  "mcc_343": {
+    "title": "La loi “zéro surprise” sur factures",
+    "body": "Une loi veut interdire les frais surprise. Ton produit a un petit frais “service”. Très petit… pour toi.",
+    "choices": {
+      "A": "Supprimer les frais cachés, prix clair.",
+      "B": "Garder, en police plus petite (non).",
+      "C": "Garder mais rendre ultra visible avant paiement."
+    }
+  },
+  "mcc_344": {
+    "title": "Le débat sur la “formation obligatoire”",
+    "body": "Une réforme impose plus de formation. Ton RH dit “super”, ton manager dit “quand ?”.",
+    "choices": {
+      "A": "Plan formation massif + temps dédié.",
+      "B": "Minimum légal.",
+      "C": "Formation ciblée sur compétences critiques."
+    }
+  },
+  "mcc_345": {
+    "title": "Les élections internes des représentants",
+    "body": "Des élections internes agitent l’entreprise. Des tracts circulent. Même la machine à café a un avis.",
+    "choices": {
+      "A": "Faciliter un débat sain et neutre.",
+      "B": "Ignorer : pas ton sujet.",
+      "C": "Limiter la campagne interne (trop strict)."
+    }
+  },
+  "mcc_346": {
+    "title": "Le débat sur les “retours produits”",
+    "body": "On critique le gaspillage des retours. Tes retours coûtent cher et polluent. Ta logistique pleure en silence.",
+    "choices": {
+      "A": "Réduire retours via meilleure info + reconditionnement.",
+      "B": "Continuer : c’est le commerce.",
+      "C": "Facturer une petite part des retours."
+    }
+  },
+  "mcc_347": {
+    "title": "Le débat sur la “puissance des plateformes”",
+    "body": "On veut réguler les plateformes. Si tu es une plateforme, c’est toi. Si tu ne l’es pas, on te suspecte d’en être une.",
+    "choices": {
+      "A": "Coopérer : transparence + règles claires.",
+      "B": "Résister et attaquer la régulation.",
+      "C": "S’auto-réguler avant la loi."
+    }
+  },
+  "mcc_348": {
+    "title": "Le débat sur le “temps de trajet”",
+    "body": "Un projet veut comptabiliser une partie du trajet en temps de travail. Tes RH sortent une calculatrice en feu.",
+    "choices": {
+      "A": "Négocier un cadre interne équitable.",
+      "B": "Refuser et attendre la loi.",
+      "C": "Compenser par télétravail et horaires flexibles."
+    }
+  },
+  "mcc_349": {
+    "title": "Un ministre cite ton slogan",
+    "body": "Un ministre cite ton slogan en discours. Il le cite mal. Très mal. Internet adore.",
+    "choices": {
+      "A": "Réagir avec humour + correction douce.",
+      "B": "Demander un retrait officiel.",
+      "C": "Ne rien dire : laisser passer."
+    }
+  },
+  "mcc_350": {
+    "title": "Le débat “productivité nationale”",
+    "body": "La productivité nationale est un sujet brûlant. On te demande un engagement. Ton équipe propose : “moins de réunions”.",
+    "choices": {
+      "A": "Plan productivité : outils + simplification + respect humain.",
+      "B": "Plan productivité : pression et objectifs plus durs.",
+      "C": "Plan productivité : automatisation + formation."
+    }
+  },
+  "mcc_351": {
+    "title": "Le hamster syndiqué",
+    "body": "La mascotte de ton service com’ (un hamster) est “élue” représentant du personnel après un vote troll. Il réclame une roue plus grande.",
+    "choices": {
+      "A": "Accepter : roue premium + communiqué sérieux (aïe).",
+      "B": "Refuser : “un hamster n’est pas un salarié”.",
+      "C": "Créer un programme bien-être… pour humains (et hamster aussi)."
+    }
+  },
+  "mcc_352": {
+    "title": "L’audit des chaussettes",
+    "body": "Un régulateur demande un audit… sur tes chaussettes corporate. Motif : “risque de glissade institutionnelle”.",
+    "choices": {
+      "A": "Coopérer et publier un “rapport chaussette”.",
+      "B": "Se moquer et ignorer (mauvaise idée).",
+      "C": "Envoyer un dossier sérieux + offrir des tapis antidérapants."
+    }
+  },
+  "mcc_353": {
+    "title": "La machine à café candidate",
+    "body": "Ta machine à café se met à afficher : “Votez pour moi, je baisse le stress.” Les médias adorent.",
+    "choices": {
+      "A": "Capitaliser : campagne humoristique maîtrisée.",
+      "B": "Couper la machine : fin du chaos (et début de la colère).",
+      "C": "Faire une vraie action anti-stress et calmer le buzz."
+    }
+  },
+  "mcc_354": {
+    "title": "Le “quota de smileys”",
+    "body": "Un député propose de limiter les smileys au travail. Ton Slack devient une zone sinistrée.",
+    "choices": {
+      "A": "Respecter : communication plus claire, moins d’emojis.",
+      "B": "Résister : emoji-party nationale.",
+      "C": "Créer un mode “emoji weekend” (pas de smileys en semaine)."
+    }
+  },
+  "mcc_355": {
+    "title": "La réunion en hologramme",
+    "body": "Un ministre veut te voir, mais uniquement en hologramme “pour l’innovation”. Ton tech lead dit : “on a Teams”.",
+    "choices": {
+      "A": "Faire l’hologramme : wow effect garanti.",
+      "B": "Refuser : rendez-vous classique.",
+      "C": "Faire une démo VR simple, sans spectacle."
+    }
+  },
+  "mcc_356": {
+    "title": "Le logo qui cligne des yeux",
+    "body": "Ton nouveau logo (IA générée) cligne des yeux tout seul sur le site. Les clients pensent qu’il est vivant.",
+    "choices": {
+      "A": "Assumer : “logo vivant” et en faire une mascotte.",
+      "B": "Retirer tout de suite : trop bizarre.",
+      "C": "Garder mais désactiver le clignement (sobriété)."
+    }
+  },
+  "mcc_357": {
+    "title": "Le “serment de transparence”",
+    "body": "Une loi demande aux PDG de prêter un “serment de transparence” devant caméra. Ton juriste tombe de sa chaise.",
+    "choices": {
+      "A": "Le faire : parole claire + engagements vérifiables.",
+      "B": "Refuser : trop théâtral.",
+      "C": "Le faire, mais publier aussi un rapport concret."
+    }
+  },
+  "mcc_358": {
+    "title": "Le drone livreur… au Parlement",
+    "body": "Ton drone livreur se trompe d’adresse et dépose un colis au Parlement. On ouvre : c’est un coussin licorne.",
+    "choices": {
+      "A": "S’excuser + audit logistique + humour.",
+      "B": "Dire que c’était un “test” (mensonge dangereux).",
+      "C": "Offrir une démo de livraison sécurisée aux régulateurs."
+    }
+  },
+  "mcc_359": {
+    "title": "La taxe sur les “buzz”",
+    "body": "Un élu propose une taxe sur les buzz inutiles. Ton marketing : “On est ruinés”.",
+    "choices": {
+      "A": "Réduire les campagnes buzz, focus utilité.",
+      "B": "Doubler les buzz avant la loi.",
+      "C": "Transformer le buzz en éducation (transparence, impact)."
+    }
+  },
+  "mcc_360": {
+    "title": "Le communiqué en poésie",
+    "body": "Ton équipe com’ veut répondre à une controverse par un poème. Ton CFO veut répondre par un tableau Excel.",
+    "choices": {
+      "A": "Excel + langage simple (safe).",
+      "B": "Poème (risqué, mais mémorable).",
+      "C": "Poème… + annexe Excel (le meilleur des deux mondes)."
+    }
+  },
+  "mcc_361": {
+    "title": "Le “jour sans CEO”",
+    "body": "Un mouvement interne lance “jour sans CEO”. On te demande de ne pas te montrer. Même en photo. Même en ombre.",
+    "choices": {
+      "A": "Jouer le jeu : délégation, autonomie, confiance.",
+      "B": "Refuser : “je suis là”.",
+      "C": "Accepter mais faire un message écrit très court."
+    }
+  },
+  "mcc_362": {
+    "title": "Le tapis rouge… réglementaire",
+    "body": "Les régulateurs organisent une cérémonie “conformité exemplaire”. Il y a un tapis rouge. Oui, un tapis rouge.",
+    "choices": {
+      "A": "Y aller, humble, et présenter des preuves.",
+      "B": "Ne pas y aller : trop bizarre.",
+      "C": "Y aller mais annoncer une nouvelle amélioration concrète."
+    }
+  },
+  "mcc_363": {
+    "title": "L’algorithme qui vote",
+    "body": "Ton IA interne commence à “voter” dans les sondages internes. Elle répond toujours “plus de café”.",
+    "choices": {
+      "A": "Couper et auditer immédiatement.",
+      "B": "Garder : c’est drôle (non).",
+      "C": "Limiter l’IA + créer un cadre strict d’usage."
+    }
+  },
+  "mcc_364": {
+    "title": "Le badge “citoyen du mois”",
+    "body": "Un ministère te propose un badge “citoyen du mois” si tu fais une vidéo TikTok sur la fiscalité. Ton âme s’évapore.",
+    "choices": {
+      "A": "Faire une vidéo pédagogique simple (sans cringe).",
+      "B": "Refuser : trop gênant.",
+      "C": "Faire un article clair + infographies, pas TikTok."
+    }
+  },
+  "mcc_365": {
+    "title": "La réunion… sur les réunions",
+    "body": "On organise une réunion pour réduire les réunions. Elle dure 2h. Ironie maximale.",
+    "choices": {
+      "A": "Stopper net et instaurer règles anti-réunions.",
+      "B": "Laisser : “ça finira bien”.",
+      "C": "Faire 15 min de synthèse et annuler le reste."
+    }
+  },
+  "mcc_366": {
+    "title": "Le sandwich diplomatique",
+    "body": "Pendant une visite officielle, tu serres la main d’un ministre… avec un sandwich à la main. Photo virale instantanée.",
+    "choices": {
+      "A": "Assumer avec humour + message sérieux derrière.",
+      "B": "Tenter de faire retirer la photo (effet Streisand).",
+      "C": "Publier une action concrète pour changer le sujet."
+    }
+  },
+  "mcc_367": {
+    "title": "La “loi anti-jargon”",
+    "body": "Un député veut interdire le jargon corporate. Tes slides contiennent 47 fois “synergie”.",
+    "choices": {
+      "A": "Réécrire tout en langage simple (bien).",
+      "B": "Ignorer : c’est la culture.",
+      "C": "Garder le jargon… mais ajouter un glossaire ridicule."
+    }
+  },
+  "mcc_368": {
+    "title": "Le lobby des pigeons",
+    "body": "Des pigeons s’installent sur ton siège et deviennent “symbole de résistance urbaine”. Un élu te demande de les “respecter”.",
+    "choices": {
+      "A": "Installer solutions douces + nettoyage + communication.",
+      "B": "Les chasser brutalement (bad PR).",
+      "C": "Créer un “toit biodiversité” et déplacer le problème."
+    }
+  },
+  "mcc_369": {
+    "title": "Le “stress test” du micro",
+    "body": "On te met un micro en réunion publique. Il reste ouvert. Tu entends ton CFO murmurer : “on est foutus”.",
+    "choices": {
+      "A": "Transparence + blague + clarifier le contexte.",
+      "B": "Couper le live et nier (catastrophe).",
+      "C": "Assumer + annoncer une mesure rassurante."
+    }
+  },
+  "mcc_370": {
+    "title": "Le costume réglementaire",
+    "body": "Un régulateur propose un dress code “sobriété” : costume gris obligatoire. Ton marketing crie “mort du branding”.",
+    "choices": {
+      "A": "Respecter en rendez-vous officiels uniquement.",
+      "B": "Refuser : liberté totale.",
+      "C": "Porter le gris… avec des chaussettes flashy (rébellion douce)."
+    }
+  },
+  "mcc_371": {
+    "title": "Le candidat en cosplay",
+    "body": "Un candidat arrive à ton usine en cosplay “ouvrier du futur”. Les employés rient, la presse filme, toi tu clignes des yeux.",
+    "choices": {
+      "A": "Rester neutre + focus sur les faits.",
+      "B": "Te moquer publiquement (risque).",
+      "C": "Proposer une visite technique sérieuse pour recadrer."
+    }
+  },
+  "mcc_372": {
+    "title": "La pétition “moins de logos”",
+    "body": "Une pétition interne demande de réduire les logos partout. Même sur les stylos. Même sur les mugs. Même sur le mur.",
+    "choices": {
+      "A": "Alléger : branding plus discret.",
+      "B": "Refuser : “l’identité c’est important”.",
+      "C": "Faire voter les équipes sur les objets à dé-logoïser."
+    }
+  },
+  "mcc_373": {
+    "title": "La loi “anti-dark patterns”",
+    "body": "Une loi vise les interfaces pièges. Tes designers ont littéralement nommé un bouton “piège final”.",
+    "choices": {
+      "A": "Refondre l’UX en mode clean et fair.",
+      "B": "Renommer “piège final” en “option avancée”.",
+      "C": "Refondre seulement les points les plus visibles."
+    }
+  },
+  "mcc_374": {
+    "title": "Le QG de campagne dans ton parking",
+    "body": "Un parti politique installe un QG de campagne… par erreur dans ton parking. Ils ont déjà mis des affiches.",
+    "choices": {
+      "A": "Demander poliment de partir + neutralité.",
+      "B": "Les laisser : ça fait du monde (non).",
+      "C": "Offrir une salle municipale alternative et les aider à déménager."
+    }
+  },
+  "mcc_375": {
+    "title": "Le débat sur les “mèmes”",
+    "body": "Un parlementaire propose d’encadrer les mèmes. Ton entreprise est déjà un mème. Ton visage est un sticker.",
+    "choices": {
+      "A": "Répondre avec humour + rester pro.",
+      "B": "Menacer tout le monde juridiquement.",
+      "C": "Lancer un mème officiel (attention)."
+    }
+  },
+  "mcc_376": {
+    "title": "La “journée sans clim” en pleine canicule",
+    "body": "On te demande de couper la clim “pour l’exemple”. Il fait 38°C. Tes employés fondent comme des glaçons.",
+    "choices": {
+      "A": "Sobriété intelligente : seuils, ventilation, horaires adaptés.",
+      "B": "Refuser : santé d’abord.",
+      "C": "Participer 1h symbolique et offrir des solutions (eau, pauses)."
+    }
+  },
+  "mcc_377": {
+    "title": "Le drone qui filme les nuages",
+    "body": "Ton drone de sécurité filme… les nuages pendant 3 jours. Un élu parle de “surveillance céleste”.",
+    "choices": {
+      "A": "Audit et correction + transparence.",
+      "B": "Ignorer : “c’est juste des nuages”.",
+      "C": "Suspendre les drones le temps de revoir la politique."
+    }
+  },
+  "mcc_378": {
+    "title": "Le débat sur le “droit à l’erreur”",
+    "body": "Une loi encourage le droit à l’erreur. Ton service finance demande si ça inclut “oublier de payer les impôts”.",
+    "choices": {
+      "A": "Mettre un process de correction rapide + transparence.",
+      "B": "Tester les limites (dangereux).",
+      "C": "Former les équipes + double validation."
+    }
+  },
+  "mcc_379": {
+    "title": "Le comité “anti-bruit”",
+    "body": "Un comité anti-bruit critique tes open spaces. Ils mesurent : “trop de claviers énervés”.",
+    "choices": {
+      "A": "Aménager zones calmes + règles.",
+      "B": "Ignorer : “c’est la vie”.",
+      "C": "Télétravail plus large."
+    }
+  },
+  "mcc_380": {
+    "title": "La “journée du compliment obligatoire”",
+    "body": "Une initiative nationale impose de faire 3 compliments au travail. Ton CFO panique : “je n’ai que des chiffres”.",
+    "choices": {
+      "A": "Jouer le jeu : culture positive (cool).",
+      "B": "Refuser : trop artificiel.",
+      "C": "Faire une version volontaire, pas obligatoire."
+    }
+  },
+  "mcc_381": {
+    "title": "Le chatbot devient ministre",
+    "body": "Ton chatbot interne commence à répondre aux journalistes. Il signe “Ministre de la Productivité”.",
+    "choices": {
+      "A": "Couper immédiatement + excuses + audit.",
+      "B": "Laisser : “c’est drôle” (non).",
+      "C": "Limiter accès et ajouter des garde-fous stricts."
+    }
+  },
+  "mcc_382": {
+    "title": "Le “plan baguette”",
+    "body": "Pour calmer une crise, un élu propose de subventionner la baguette. Ton entreprise vend… des logiciels. On te demande de contribuer.",
+    "choices": {
+      "A": "Soutenir via dons ciblés (sans politique).",
+      "B": "Refuser : hors sujet.",
+      "C": "Soutenir via programme d’aide alimentaire interne + local."
+    }
+  },
+  "mcc_383": {
+    "title": "Le costume qui lance des confettis",
+    "body": "Ton costume “connecté” test se met à lancer des confettis en pleine audition parlementaire. Personne ne sait pourquoi.",
+    "choices": {
+      "A": "Rire + s’excuser + promettre une enquête technique.",
+      "B": "Faire comme si de rien n’était (impossible).",
+      "C": "Couper tout tech en public et rester classique."
+    }
+  },
+  "mcc_384": {
+    "title": "Le débat “taxe sur la réussite”",
+    "body": "Un débat propose une “taxe sur la réussite”. Ton board propose une “taxe sur l’échec” à la place. Non.",
+    "choices": {
+      "A": "Participer au débat avec données et propositions.",
+      "B": "Attaquer le débat frontalement.",
+      "C": "Rester neutre et renforcer tes actions sociales concrètes."
+    }
+  },
+  "mcc_385": {
+    "title": "Le slogan mal compris",
+    "body": "Ton slogan “Toujours plus simple” est pris comme “toujours plus”. Ça déclenche une mini-polémique absurde.",
+    "choices": {
+      "A": "Clarifier avec humour + message sobre.",
+      "B": "Changer le slogan immédiatement.",
+      "C": "Ignorer : ça passera."
+    }
+  },
+  "mcc_386": {
+    "title": "Le ministre veut un “escape game”",
+    "body": "Un ministre veut comprendre ton business via un escape game. Il veut “sortir de la bureaucratie”.",
+    "choices": {
+      "A": "Créer un escape game pédagogique (pro).",
+      "B": "Refuser : pas le temps.",
+      "C": "Faire une démo classique, mais fun et courte."
+    }
+  },
+  "mcc_387": {
+    "title": "Les régulateurs demandent un jingle",
+    "body": "Un régulateur te demande un jingle de conformité “pour sensibiliser”. Ton équipe musique ressort un ukulélé.",
+    "choices": {
+      "A": "Faire un jingle simple et utile (non cringe).",
+      "B": "Refuser : sérieux d’abord.",
+      "C": "Faire une campagne interne sans jingle, juste formation."
+    }
+  },
+  "mcc_388": {
+    "title": "Le débat sur les “files d’attente”",
+    "body": "Ton service client a 40 minutes d’attente. Un élu dit : “c’est un problème démocratique”. Ok.",
+    "choices": {
+      "A": "Renforcer support + objectifs de délai publics.",
+      "B": "Mettre un robot qui répond “patientez”.",
+      "C": "Créer un support premium payant (risqué)."
+    }
+  },
+  "mcc_389": {
+    "title": "La loi “anti-bullshit corporate”",
+    "body": "Une loi veut interdire le bullshit corporate. Ton slide “Vision 2037” commence par “Réinventer l’invisible”.",
+    "choices": {
+      "A": "Revenir à des objectifs simples et mesurables.",
+      "B": "Changer juste quelques mots.",
+      "C": "Garder la vision… mais ajouter des chiffres concrets."
+    }
+  },
+  "mcc_390": {
+    "title": "Le débat sur les “plantes de bureau”",
+    "body": "Une initiative politique impose une plante par salarié. Tes locaux deviennent une jungle. Ton allergologue aussi.",
+    "choices": {
+      "A": "Plantes oui, mais adaptées + options sans allergènes.",
+      "B": "Refuser : c’est absurde.",
+      "C": "Plantes virtuelles (fond d’écran)."
+    }
+  },
+  "mcc_391": {
+    "title": "Le match de ping-pong parlementaire",
+    "body": "On te propose un match de ping-pong caritatif contre un député. Si tu perds, tu finances une réforme. Si tu gagnes… pareil.",
+    "choices": {
+      "A": "Accepter : bonne image + charité.",
+      "B": "Refuser : piège.",
+      "C": "Accepter mais financer un projet neutre (éducation) quoi qu’il arrive."
+    }
+  },
+  "mcc_392": {
+    "title": "Le vote interne “pizza nationale”",
+    "body": "Un débat politique sur la pizza “nationale” arrive. Tes employés se battent. Tes managers fuient. Ton Slack brûle.",
+    "choices": {
+      "A": "Organiser une dégustation et calmer tout le monde.",
+      "B": "Interdire le sujet au travail.",
+      "C": "Laisser faire : “ça soude” (non)."
+    }
+  },
+  "mcc_393": {
+    "title": "Le contrôle des trottinettes",
+    "body": "La ville contrôle les trottinettes. Ton parking en est rempli. Un élu te demande une “responsabilité morale”.",
+    "choices": {
+      "A": "Créer un plan mobilité douce encadré.",
+      "B": "Ignorer : pas ton problème.",
+      "C": "Interdire trottinettes sur site (colère)."
+    }
+  },
+  "mcc_394": {
+    "title": "La loi “anti-bouton vert fluo”",
+    "body": "Une loi veut interdire les boutons vert fluo “trop incitatifs”. Ton app a littéralement TOUT en vert fluo.",
+    "choices": {
+      "A": "Refondre design accessible et calm.",
+      "B": "Changer juste un bouton et espérer.",
+      "C": "Passer au bleu fluo (même problème)."
+    }
+  },
+  "mcc_395": {
+    "title": "Le “coup de klaxon” officiel",
+    "body": "Un ministre veut annoncer ton partenariat par un “coup de klaxon” en direct. Tu n’as pas de klaxon. Tu as un PDF.",
+    "choices": {
+      "A": "Faire une annonce sobre, sans show.",
+      "B": "Trouver un klaxon et assumer le show.",
+      "C": "Faire un show… mais utile : chiffres + engagements."
+    }
+  },
+  "mcc_396": {
+    "title": "Le débat sur les “mots interdits”",
+    "body": "Un parti propose d’interdire le mot “rentabilité” à la TV. Ton CFO devient muet.",
+    "choices": {
+      "A": "Parler de durabilité économique et d’investissement.",
+      "B": "Continuer à dire rentabilité (et assumer).",
+      "C": "Ne plus parler en public, juste publier des rapports."
+    }
+  },
+  "mcc_397": {
+    "title": "Le stagiaire devient porte-parole",
+    "body": "Ton stagiaire com’ répond par erreur à un ministre sur X. Il signe “Cordialement, le stagiaire”. Ça explose.",
+    "choices": {
+      "A": "Assumer : excuses + encadrement + formation.",
+      "B": "Virer le stagiaire (bad PR).",
+      "C": "Dire que c’était voulu (mensonge)."
+    }
+  },
+  "mcc_398": {
+    "title": "Le débat sur les “paillettes”",
+    "body": "Une loi veut interdire les paillettes (pollution). Ton événement annuel s’appelle “Glitter Summit”. Oups.",
+    "choices": {
+      "A": "Renommer + zéro paillettes + plan éco.",
+      "B": "Garder : tradition.",
+      "C": "Garder le nom mais pas de paillettes."
+    }
+  },
+  "mcc_399": {
+    "title": "Le “grand silence”",
+    "body": "Pour calmer les tensions, un élu propose une minute de silence nationale… sur les réseaux. Ton community manager tombe.",
+    "choices": {
+      "A": "Respecter : pause com’ et message sobre.",
+      "B": "Poster quand même (mauvais).",
+      "C": "Respecter, mais préparer une action utile derrière."
+    }
+  },
+  "mcc_400": {
+    "title": "Le débat sur les “clowns du capitalisme”",
+    "body": "Un chroniqueur te traite de “clown du capitalisme”. Ton équipe propose une réponse : un nez rouge en communiqué officiel.",
+    "choices": {
+      "A": "Répondre sobrement avec faits et actions.",
+      "B": "Répondre avec un nez rouge (dangereux mais drôle).",
+      "C": "Répondre avec humour + annoncer une mesure concrète."
+    }
+  },
+  "mcc_401": {
+    "title": "Le ministre veut un “mode nuit” pour la démocratie",
+    "body": "Un ministre exige que tous les services aient un “mode nuit” pour réduire la fatigue civique. Ton app l’a, mais il est… rose fluo.",
+    "choices": {
+      "A": "Créer un vrai mode nuit sobre + accessible.",
+      "B": "Garder le rose fluo : “c’est une signature”.",
+      "C": "Mode nuit sobre, mais réservé aux abonnés (ouch)."
+    }
+  },
+  "mcc_402": {
+    "title": "La grève… des imprimantes",
+    "body": "Les imprimantes du siège se mettent en erreur toutes seules. Un syndicat affirme qu’elles protestent contre les mails inutiles.",
+    "choices": {
+      "A": "Réduire les impressions + process plus simple.",
+      "B": "Remplacer toutes les imprimantes (solution brute).",
+      "C": "Faire une “charte anti-mails inutiles” (symbolique mais utile)."
+    }
+  },
+  "mcc_403": {
+    "title": "Le débat sur le “droit au bug”",
+    "body": "Un élu propose un “droit au bug” : chaque citoyen accepte 1 bug par mois. Tes devs demandent si c’est cumulable.",
+    "choices": {
+      "A": "Améliorer qualité + transparence sur incidents.",
+      "B": "Exploiter la règle : “bug mensuel, c’est légal”.",
+      "C": "Lancer un programme bug bounty public."
+    }
+  },
+  "mcc_404": {
+    "title": "Le QR code sur le front",
+    "body": "Le service com’ veut imprimer un QR code sur le front des employés pour “l’esprit startup”. Les RH hurlent.",
+    "choices": {
+      "A": "Interdire direct : respect et bon sens.",
+      "B": "Autoriser sur des stickers… volontaires.",
+      "C": "Remplacer par un badge digital optionnel."
+    }
+  },
+  "mcc_405": {
+    "title": "Le conseil d’administration… en ASMR",
+    "body": "Un administrateur dit que les réunions doivent être en ASMR pour baisser le stress. Il chuchote déjà “marge… marge…”.",
+    "choices": {
+      "A": "Refuser : réunions normales.",
+      "B": "Tester sur 1 réunion (pour le fun).",
+      "C": "Réduire la durée des réunions : vrai anti-stress."
+    }
+  },
+  "mcc_406": {
+    "title": "Le débat sur les “captchas patriotiques”",
+    "body": "Un député veut des captchas “culturels” (ex : “clique sur la baguette”). Les étrangers sont perdus. Les français aussi.",
+    "choices": {
+      "A": "Refuser : accessibilité internationale.",
+      "B": "Appliquer : captchas baguette partout.",
+      "C": "Proposer des captchas neutres et inclusifs."
+    }
+  },
+  "mcc_407": {
+    "title": "Le “plan moustache”",
+    "body": "Pour soutenir une cause, on te propose un plan moustache corporate. Ton image de marque tremble.",
+    "choices": {
+      "A": "Soutenir via dons et actions, pas par moustaches.",
+      "B": "Moustaches pour tous : viral assuré.",
+      "C": "Moustaches volontaires + message sobre."
+    }
+  },
+  "mcc_408": {
+    "title": "Le débat sur le “silence des notifications”",
+    "body": "Une loi veut imposer une heure quotidienne sans notifications. Ton produit vit de notifications. Ton marketing pleure.",
+    "choices": {
+      "A": "Mode calme par défaut + respect utilisateur.",
+      "B": "Contourner : notifications “essentielles” partout.",
+      "C": "Mode calme, mais opt-out possible (équilibre)."
+    }
+  },
+  "mcc_409": {
+    "title": "Le lobby des chaises ergonomiques",
+    "body": "Un lobby exige des chaises ergonomiques “certifiées République”. Tes bureaux ont des chaises… de 2009.",
+    "choices": {
+      "A": "Investir dans ergonomie (santé) + preuve.",
+      "B": "Acheter des coussins et espérer.",
+      "C": "Télétravail plus large pour réduire le besoin."
+    }
+  },
+  "mcc_410": {
+    "title": "Le spot TV… tourné dans ton frigo",
+    "body": "Une agence propose une pub tournée dans ton frigo “pour montrer la fraîcheur”. Ton frigo contient 12 sauces et un citron triste.",
+    "choices": {
+      "A": "Refuser : garder une image pro.",
+      "B": "Accepter : pub WTF assumée.",
+      "C": "Accepter mais tourner dans une cuisine propre."
+    }
+  },
+  "mcc_411": {
+    "title": "Le débat “anti-anglais”",
+    "body": "Un élu critique l’anglais au travail. Ton entreprise parle en acronyms : KPI, OKR, ROI. Même ton chien comprend.",
+    "choices": {
+      "A": "Revenir à un vocabulaire simple en français (en interne).",
+      "B": "Ignorer : business global.",
+      "C": "Bilingue propre : termes expliqués et accessibles."
+    }
+  },
+  "mcc_412": {
+    "title": "Le “référendum de la cantine”",
+    "body": "Les employés lancent un référendum : kebab ou salade. Les investisseurs demandent : “et la marge ?”.",
+    "choices": {
+      "A": "Option équilibrée : choix + nutrition.",
+      "B": "Kebab tous les jours (ambiance).",
+      "C": "Salade obligatoire (révolte)."
+    }
+  },
+  "mcc_413": {
+    "title": "Le député veut tester ton service en live",
+    "body": "Un député veut tester ton service en direct au Parlement. Il ne sait pas cliquer. L’écran est à l’envers.",
+    "choices": {
+      "A": "L’aider gentiment + guide ultra simple.",
+      "B": "Le laisser galérer (bad PR).",
+      "C": "Proposer une démo pré-enregistrée claire."
+    }
+  },
+  "mcc_414": {
+    "title": "Le badge “Entreprise qui écoute”",
+    "body": "Une asso propose un badge “Entreprise qui écoute”… si tu payes. Ton CEO intérieur crie “non”.",
+    "choices": {
+      "A": "Refuser et investir dans de vraies mesures internes.",
+      "B": "Payer : badge immédiat.",
+      "C": "Négocier : audit réel, badge seulement si résultats."
+    }
+  },
+  "mcc_415": {
+    "title": "Le débat sur les “mails de relance”",
+    "body": "Un projet veut limiter les mails de relance. Ton CRM en envoie 14 par jour. Par personne. Par minute (presque).",
+    "choices": {
+      "A": "Réduire drastiquement + préférences utilisateur.",
+      "B": "Ignorer : ventes d’abord.",
+      "C": "Garder mais rendre la désinscription ultra simple."
+    }
+  },
+  "mcc_416": {
+    "title": "Le “fonds de solidarité pour startups tristes”",
+    "body": "Un ministre lance un fonds pour startups tristes. Ton CFO demande si une multinationale peut être “triste fiscalement”.",
+    "choices": {
+      "A": "Refuser : pas éthique.",
+      "B": "Tenter : argent facile.",
+      "C": "Participer en donateur, pas en bénéficiaire."
+    }
+  },
+  "mcc_417": {
+    "title": "La panne du site… à cause d’un chat",
+    "body": "Un chat s’assoit sur un clavier au datacenter et coupe un service. Un élu parle de “fragilité nationale”.",
+    "choices": {
+      "A": "Renforcer procédures + communiquer honnêtement.",
+      "B": "Cacher l’histoire du chat.",
+      "C": "Assumer le chat + investir dans redondance."
+    }
+  },
+  "mcc_418": {
+    "title": "Le “plan d’urgence : stickers”",
+    "body": "En crise, ton équipe propose des stickers “On lâche rien”. Les régulateurs veulent un plan, pas des stickers.",
+    "choices": {
+      "A": "Plan concret + pas de stickers.",
+      "B": "Stickers partout : moral boost.",
+      "C": "Plan concret + un sticker discret (ok)."
+    }
+  },
+  "mcc_419": {
+    "title": "Le débat sur les “files prioritaires”",
+    "body": "Une loi interdit les files prioritaires payantes. Ton service VIP est… exactement ça.",
+    "choices": {
+      "A": "Supprimer VIP et renforcer le support global.",
+      "B": "Renommer VIP en “confort” (lol).",
+      "C": "Garder VIP mais créer un support standard très rapide aussi."
+    }
+  },
+  "mcc_420": {
+    "title": "La “semaine du compliment aux régulateurs”",
+    "body": "On te suggère d’envoyer des compliments aux régulateurs. Ton juriste : “non, non, non”.",
+    "choices": {
+      "A": "Rester neutre, juste coopérer correctement.",
+      "B": "Envoyer des compliments (risque de malaise).",
+      "C": "Envoyer un rapport clair et utile (meilleur compliment)."
+    }
+  },
+  "mcc_421": {
+    "title": "Le débat “anti-croissance infinie”",
+    "body": "Une émission te demande si tu crois en la croissance infinie. Ton CFO dit “oui”. Ton responsable RSE dit “euh”.",
+    "choices": {
+      "A": "Position équilibrée : croissance + sobriété + preuves.",
+      "B": "Croissance infinie assumée.",
+      "C": "Croissance limitée et focus stabilité."
+    }
+  },
+  "mcc_422": {
+    "title": "Le costume du CEO devient un mème",
+    "body": "Ton costume est devenu un mème politique. On te compare à un “ministre du profit”. Tu n’avais rien demandé.",
+    "choices": {
+      "A": "Ignorer et rester pro.",
+      "B": "Répondre avec humour.",
+      "C": "Changer de style + se recentrer sur actions."
+    }
+  },
+  "mcc_423": {
+    "title": "La “réforme des ascenseurs”",
+    "body": "Une loi veut des ascenseurs plus inclusifs. Ton siège a un ascenseur qui parle… en latin.",
+    "choices": {
+      "A": "Moderniser : accessibilité + conformité.",
+      "B": "Garder : “c’est du patrimoine”.",
+      "C": "Moderniser partiellement (vocal + signalétique)."
+    }
+  },
+  "mcc_424": {
+    "title": "Le débat sur le “droit à la pause”",
+    "body": "On veut imposer 10 minutes de pause toutes les heures. Ton service client dit “merci”, ton CFO dit “non”.",
+    "choices": {
+      "A": "Appliquer + réorganiser les plannings.",
+      "B": "Refuser : productivité d’abord.",
+      "C": "Appliquer seulement aux métiers les plus stressants."
+    }
+  },
+  "mcc_425": {
+    "title": "Le “budget confettis”",
+    "body": "Ton marketing demande un budget confettis “pour la visibilité”. Tes investisseurs demandent un budget… bénéfices.",
+    "choices": {
+      "A": "Refuser et investir dans produit/service.",
+      "B": "Accepter : confettis = hype.",
+      "C": "Micro budget confettis + gros budget qualité."
+    }
+  },
+  "mcc_426": {
+    "title": "Le débat sur les “noms de projets”",
+    "body": "Une commission critique tes noms de projets : “Nébuleuse”, “Hydre”, “Phoenix”. On croit à une invasion alien.",
+    "choices": {
+      "A": "Renommer en noms simples et clairs.",
+      "B": "Garder : c’est stylé.",
+      "C": "Garder mais ajouter une description lisible."
+    }
+  },
+  "mcc_427": {
+    "title": "Le “jour sans jargon”",
+    "body": "Une journée nationale sans jargon arrive. Ton équipe dit “on fait comment sans dire roadmap ?”. Panique.",
+    "choices": {
+      "A": "Former à parler simple : succès.",
+      "B": "Ignorer : jargon à vie.",
+      "C": "Autoriser 3 mots de jargon max (lol)."
+    }
+  },
+  "mcc_428": {
+    "title": "Le député veut un “bouton anti-stress”",
+    "body": "Un député veut que les sites aient un bouton “anti-stress” qui affiche un chat. Ton UX dit “ça se fait”.",
+    "choices": {
+      "A": "Ajouter un bouton bien-être optionnel.",
+      "B": "Refuser : hors sujet.",
+      "C": "Mettre le bouton… mais il ouvre la page de paiement (non)."
+    }
+  },
+  "mcc_429": {
+    "title": "Le débat sur les “couleurs politiques”",
+    "body": "On t’accuse d’utiliser une couleur “d’un camp”. Ton logo est bleu. La moitié du pays s’énerve pour… du bleu.",
+    "choices": {
+      "A": "Rester neutre et ne pas changer.",
+      "B": "Changer de couleur (risque d’autre polémique).",
+      "C": "Rappeler la neutralité + focus sur produit."
+    }
+  },
+  "mcc_430": {
+    "title": "La “taxe sur les mots longs”",
+    "body": "Un élu propose une taxe sur les mots de plus de 12 lettres. Ton service juridique disparaît.",
+    "choices": {
+      "A": "Simplifier la communication partout.",
+      "B": "Laisser tomber : impossible.",
+      "C": "Créer des versions courtes + versions légales annexes."
+    }
+  },
+  "mcc_431": {
+    "title": "Le débat sur les “données sensibles”",
+    "body": "Un journaliste te demande si tu collectes des données sensibles. Ton data team dit “ça dépend du sens”.",
+    "choices": {
+      "A": "Audit et réduction des données collectées.",
+      "B": "Répondre flou (mauvais).",
+      "C": "Transparence + opt-in clair."
+    }
+  },
+  "mcc_432": {
+    "title": "La “journée du bug heureux”",
+    "body": "Ton équipe veut célébrer les bugs avec des gâteaux. Les régulateurs veulent… zéro bug. Les employés veulent des gâteaux.",
+    "choices": {
+      "A": "Gâteaux + sprint qualité (équilibre).",
+      "B": "Gâteaux sans corriger (non).",
+      "C": "Interdire les gâteaux : tristesse immédiate."
+    }
+  },
+  "mcc_433": {
+    "title": "Le plan “micro-écoute”",
+    "body": "Un ministre veut réduire le bruit en ville. Il te demande de développer un micro qui détecte les klaxons. Les gens crient “surveillance”.",
+    "choices": {
+      "A": "Refuser : trop sensible.",
+      "B": "Accepter : gros contrat public.",
+      "C": "Accepter mais avec anonymisation et transparence totale."
+    }
+  },
+  "mcc_434": {
+    "title": "Le débat sur les “cadeaux aux élus”",
+    "body": "On te propose d’envoyer des paniers gourmands aux élus. Ton juriste fait un malaise et ton com’ sort des chocolats.",
+    "choices": {
+      "A": "Refuser : politique anti-cadeaux stricte.",
+      "B": "Envoyer quand même (dangereux).",
+      "C": "Faire un don public à une asso à la place."
+    }
+  },
+  "mcc_435": {
+    "title": "Le “sommet mondial des PowerPoint”",
+    "body": "Tu es invité au sommet mondial des PowerPoint. On y débat de “l’animation de transition”. Tes investisseurs veulent… des résultats.",
+    "choices": {
+      "A": "Y aller pour réseauter (un peu).",
+      "B": "Refuser : inutile.",
+      "C": "Y aller mais envoyer quelqu’un, pas toi."
+    }
+  },
+  "mcc_436": {
+    "title": "La loi “anti-onglets”",
+    "body": "Un projet veut limiter le nombre d’onglets ouverts au travail (pour la santé mentale). Ton équipe en a 72 chacun.",
+    "choices": {
+      "A": "Former et réduire charge cognitive.",
+      "B": "Ignorer : impossible.",
+      "C": "Mettre des outils d’organisation (et laisser les onglets)."
+    }
+  },
+  "mcc_437": {
+    "title": "Le débat “week-end de 3 jours”",
+    "body": "Le week-end de 3 jours devient un sujet politique. Tes employés disent “oui”. Tes investisseurs disent “non”.",
+    "choices": {
+      "A": "Tester sur un service pilote.",
+      "B": "Refuser net.",
+      "C": "Compromis : horaires flexibles et jours off tournants."
+    }
+  },
+  "mcc_438": {
+    "title": "Le régulateur veut un “emoji officiel”",
+    "body": "Un régulateur demande un emoji officiel de conformité pour les applis. Ton designer propose : 🧾✨.",
+    "choices": {
+      "A": "Coopérer : mettre un symbole clair et neutre.",
+      "B": "Refuser : ridicule.",
+      "C": "Créer un label interne sérieux, pas un emoji."
+    }
+  },
+  "mcc_439": {
+    "title": "Le débat sur les “prix psychologiques”",
+    "body": "On t’accuse de “manipuler” avec des prix.99. Ton pricing dit “c’est de la science”. Le public dit “c’est du vice”.",
+    "choices": {
+      "A": "Passer à des prix simples et transparents.",
+      "B": "Garder les .99 et assumer.",
+      "C": "A/B test : certains marchés en prix ronds."
+    }
+  },
+  "mcc_440": {
+    "title": "La “commission des choses absurdes”",
+    "body": "Une commission parlementaire veut étudier “les choses absurdes en entreprise”. Ils te demandent ta liste. Elle fait 14 pages.",
+    "choices": {
+      "A": "Partager 5 exemples + solutions.",
+      "B": "Ne rien partager : trop risqué.",
+      "C": "Partager tout : transparence totale."
+    }
+  },
+  "mcc_441": {
+    "title": "Le débat sur la “pudeur des logos”",
+    "body": "On propose de cacher les logos trop visibles en public. Ton marketing demande des “logos discrets mais énormes”.",
+    "choices": {
+      "A": "Branding discret, qualité d’abord.",
+      "B": "Contourner avec logo géant “discret”.",
+      "C": "Réduire la présence logo sur les objets inutiles."
+    }
+  },
+  "mcc_442": {
+    "title": "La crise des “cartons trop solides”",
+    "body": "Tes cartons sont si solides qu’ils ne se plient pas. Les clients postent des vidéos de lutte contre ton carton.",
+    "choices": {
+      "A": "Changer packaging + excuses + test.",
+      "B": "Assumer : “carton premium”.",
+      "C": "Ajouter un guide simple “comment plier”."
+    }
+  },
+  "mcc_443": {
+    "title": "Le ministre veut un “tutoriel national”",
+    "body": "On te demande de faire un tutoriel national “comment créer un mot de passe”. Ton public : 8 à 88 ans.",
+    "choices": {
+      "A": "Faire un tuto simple, utile, inclusif.",
+      "B": "Refuser : pas ton rôle.",
+      "C": "Faire un tuto mais bourré de jargon (non)."
+    }
+  },
+  "mcc_444": {
+    "title": "Le débat sur la “productivité émotionnelle”",
+    "body": "Un élu parle de productivité émotionnelle. Ton RH propose des “KPI de bonheur”. Tes employés menacent de disparaître.",
+    "choices": {
+      "A": "Pas de KPI bonheur : vrai soutien bien-être.",
+      "B": "Mettre des KPI bonheur (bad).",
+      "C": "Sondage anonyme léger + actions concrètes."
+    }
+  },
+  "mcc_445": {
+    "title": "La loi “anti-surcharge cognitive”",
+    "body": "Une loi veut limiter les écrans trop chargés. Ton dashboard ressemble à un cockpit d’avion en 1997.",
+    "choices": {
+      "A": "Simplifier UI : moins mais mieux.",
+      "B": "Garder : power users d’abord.",
+      "C": "Ajouter un mode “simple” pour tous."
+    }
+  },
+  "mcc_446": {
+    "title": "Le “comité des réunions debout”",
+    "body": "Un comité impose les réunions debout. Ton CFO calcule que ça réduit les réunions de 80% parce que tout le monde fuit.",
+    "choices": {
+      "A": "Réunions debout courtes : ok.",
+      "B": "Refuser : trop pénible.",
+      "C": "Mix : debout pour daily, assis pour sujets lourds."
+    }
+  },
+  "mcc_447": {
+    "title": "Le débat sur les “drones silencieux”",
+    "body": "On veut interdire les drones bruyants. Ton drone est silencieux… mais il fait un bruit de “miaulement” pour prévenir.",
+    "choices": {
+      "A": "Corriger : drone neutre et conforme.",
+      "B": "Garder le miaulement : c’est adorable.",
+      "C": "Limiter les drones aux zones industrielles."
+    }
+  },
+  "mcc_448": {
+    "title": "Le scandale du stylo connecté",
+    "body": "Ton stylo connecté envoie des données. Des gens pensent qu’il espionne les pensées. Il écrit pourtant mal.",
+    "choices": {
+      "A": "Transparence + opt-in + stopper la collecte inutile.",
+      "B": "Ignorer : “personne n’utilise un stylo”.",
+      "C": "Retirer le produit du marché."
+    }
+  },
+  "mcc_449": {
+    "title": "Le débat sur le “droit de râler”",
+    "body": "Un parti propose un droit de râler officiel. Ton support reçoit déjà 10 000 râleries/jour. Ça change quoi ?",
+    "choices": {
+      "A": "Améliorer support + canal feedback propre.",
+      "B": "Ignorer : c’est juste du bruit.",
+      "C": "Créer un bouton “râler” qui ouvre un formulaire court."
+    }
+  },
+  "mcc_450": {
+    "title": "Le Parlement veut ton GIF officiel",
+    "body": "Le Parlement te demande un GIF officiel pour annoncer une réforme. Ton designer propose un lama qui danse. Sérieusement.",
+    "choices": {
+      "A": "Refuser : rester sobre.",
+      "B": "Accepter : lama dance, buzz énorme.",
+      "C": "Proposer un visuel simple et pro (sans lama)."
+    }
+  }
+}

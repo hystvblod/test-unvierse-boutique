@@ -1,0 +1,59 @@
+{
+  "id": "heaven_king",
+  "gauges": [
+    {
+      "id": "prayers",
+      "label_fr": "Prières",
+      "label_en": "Prayers",
+      "label_de": "Gebete",
+      "label_es": "Oraciones",
+      "label_pt": "Orações",
+      "label_ptbr": "Orações",
+      "label_ko": "기도",
+      "label_ja": "祈り",
+      "label_id": "Doa"
+    },
+    {
+      "id": "cults",
+      "label_fr": "Culte",
+      "label_en": "Cult",
+      "label_de": "Kult",
+      "label_es": "Culto",
+      "label_pt": "Culto",
+      "label_ptbr": "Culto",
+      "label_ko": "숭배",
+      "label_ja": "崇拝",
+      "label_id": "Kultus"
+    },
+    {
+      "id": "free_will",
+      "label_fr": "Libre arbitre",
+      "label_en": "Free will",
+      "label_de": "Freier Wille",
+      "label_es": "Libre albedrío",
+      "label_pt": "Livre-arbítrio",
+      "label_ptbr": "Livre-arbítrio",
+      "label_ko": "자유 의지",
+      "label_ja": "自由意志",
+      "label_id": "Kehendak bebas"
+    },
+    {
+      "id": "interventions",
+      "label_fr": "Intervention",
+      "label_en": "Intervention",
+      "label_de": "Eingriff",
+      "label_es": "Intervención",
+      "label_pt": "Intervenção",
+      "label_ptbr": "Intervenção",
+      "label_ko": "개입",
+      "label_ja": "介入",
+      "label_id": "Intervensi"
+    }
+  ],
+  "initialGauges": {
+    "prayers": 50,
+    "cults": 50,
+    "free_will": 50,
+    "interventions": 50
+  }
+}

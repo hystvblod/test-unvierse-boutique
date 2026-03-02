@@ -1,0 +1,3605 @@
+{
+  "hk_001": {
+    "title": "Massive Influx of Souls",
+    "body": "A war has just ravaged a mortal kingdom. Thousands of souls are arriving at the gates of your domain.",
+    "choices": {
+      "A": "Open the gates wide, we take everything.",
+      "B": "Filter severely, only the most useful enter.",
+      "C": "Send a portion back to Earth, let the chaos continue."
+    }
+  },
+  "hk_002": {
+    "title": "Whims of Demonic Generals",
+    "body": "Your generals are demanding more power and the right to launch their own campaigns of terror.",
+    "choices": {
+      "A": "Grant them legions, even if you lose some control.",
+      "B": "Tighten the leash, everything must go through you.",
+      "C": "Let them have fun on Earth under surveillance."
+    }
+  },
+  "hk_003": {
+    "title": "Influence on the Living World",
+    "body": "An infernal sect wants to spread your cult on the surface. Some demons fear this will attract attention.",
+    "choices": {
+      "A": "Encourage the cult, power comes first.",
+      "B": "Limit rituals to isolated places.",
+      "C": "Dissolve the sect before it becomes uncontrollable."
+    }
+  },
+  "hk_004": {
+    "title": "Traffic Jam at the Gates of Hell",
+    "body": "The queue of new damned souls stretches for miles. Complaints are piling up, as is the paperwork.",
+    "choices": {
+      "A": "Speed up the sorting, even if it means being less precise.",
+      "B": "Reinforce procedures, order above all.",
+      "C": "Delegate the sorting to an ambitious demon."
+    }
+  },
+  "hk_005": {
+    "title": "Overwhelmed Infernal Court",
+    "body": "The infernal judges complain they can no longer keep up. Souls have been waiting for their sentence for centuries.",
+    "choices": {
+      "A": "Impose daily judgment quotas.",
+      "B": "Recruit new judges from among the damned.",
+      "C": "Postpone minor cases, prioritize major criminals."
+    }
+  },
+  "hk_006": {
+    "title": "Revolt in a Torture Circle",
+    "body": "In one circle, the damned have managed to disarm a few guards and turn the instruments against them.",
+    "choices": {
+      "A": "Crush the revolt with extra legions.",
+      "B": "Negotiate a 'reduction' in punishments in exchange for calm.",
+      "C": "Make a public example to terrorize the other circles."
+    }
+  },
+  "hk_007": {
+    "title": "Attempted Demonic Coup",
+    "body": "A demonic prince is quietly gathering troops and whispering that he would be a better King of Hell.",
+    "choices": {
+      "A": "Let him believe he has your blessing, then strike.",
+      "B": "Invite him officially, give him a highly monitored role.",
+      "C": "Ignore the rumor, your legions are enough to deter."
+    }
+  },
+  "hk_008": {
+    "title": "Contract with a Mortal King",
+    "body": "A human king wants to sign a pact: in exchange for your help, he promises his soul and that of his lineage.",
+    "choices": {
+      "A": "Accept and strengthen your influence on Earth.",
+      "B": "Moderate the pact, fewer souls but more durable.",
+      "C": "Refuse, this kind of pact attracts too much attention from above."
+    }
+  },
+  "hk_009": {
+    "title": "Inspection by an Archangel",
+    "body": "An archangel descends to observe the state of your kingdom. He claims he wants to verify that 'the balance' is respected.",
+    "choices": {
+      "A": "Mask the chaos and show a disciplined Hell.",
+      "B": "Proudly display the excesses, it is your kingdom.",
+      "C": "Guide him to an area specially decorated for him."
+    }
+  },
+  "hk_010": {
+    "title": "Soul Leak to the Surface",
+    "body": "A crack in an ancient portal is allowing a few damned souls to go back up and haunt the living.",
+    "choices": {
+      "A": "Let them sow fear, you will collect more later.",
+      "B": "Seal the portal, every soul must stay in its place.",
+      "C": "Transform the crack into a controlled passage."
+    }
+  },
+  "hk_011": {
+    "title": "Torturers' Strike",
+    "body": "The torturers are demanding better conditions: stronger chains, more stable flames, clear schedules.",
+    "choices": {
+      "A": "Give in to a few demands to avoid a blockage.",
+      "B": "Repress the strike, no one negotiates with you.",
+      "C": "Replace the torturers with zealous damned souls."
+    }
+  },
+  "hk_012": {
+    "title": "Black Market of Promises",
+    "body": "A clandestine market is selling and trading promises of damnation between demons and mortals.",
+    "choices": {
+      "A": "Legalize and tax this market.",
+      "B": "Destroy it, contracts must remain under your control.",
+      "C": "Let it exist as long as it remains discreet."
+    }
+  },
+  "hk_013": {
+    "title": "Artifact from the Depths",
+    "body": "An artifact so ancient has been found that even you do not know its origin. It pulses with disturbing energy.",
+    "choices": {
+      "A": "Keep it near your throne, under surveillance.",
+      "B": "Bury it even deeper.",
+      "C": "Send it into the world of the living to divert attention."
+    }
+  },
+  "hk_014": {
+    "title": "Rumor of Redemption",
+    "body": "A rumor is circulating: some souls could purify themselves even here. Your advisors are divided.",
+    "choices": {
+      "A": "Stifle the rumor, Hell is not a spa.",
+      "B": "Create a special zone to test this 'redemption'.",
+      "C": "Let it run, if some calm down it will be easier to manage."
+    }
+  },
+  "hk_015": {
+    "title": "Macabre Games Between Demons",
+    "body": "Demons are organizing games where they bet souls, legions, and territory on the surface.",
+    "choices": {
+      "A": "Forbid these games, too dangerous.",
+      "B": "Regulate them, with you as the supreme referee.",
+      "C": "Participate anonymously, to influence the results."
+    }
+  },
+  "hk_016": {
+    "title": "Festival of Torments",
+    "body": "The demons are demanding a grand festival to celebrate your millennia of reign.",
+    "choices": {
+      "A": "Organize a grandiose spectacle, let all of Hell remember it.",
+      "B": "Hold a somber ceremony, order comes first.",
+      "C": "Move the festival to areas close to the surface."
+    }
+  },
+  "hk_017": {
+    "title": "Mad Prophet on Earth",
+    "body": "A mortal claims to speak in your name. His speeches attract a crowd of faithful... and enemies.",
+    "choices": {
+      "A": "Reinforce his visions, let him inflame the crowds.",
+      "B": "Temper his words, he is already dangerous enough.",
+      "C": "Let him sink into madness without intervening."
+    }
+  },
+  "hk_018": {
+    "title": "Offer of Celestial Truce",
+    "body": "A celestial messenger proposes a temporary truce: fewer interventions on the surface, in exchange for more cosmic stability.",
+    "choices": {
+      "A": "Accept, cosmic order benefits you too.",
+      "B": "Refuse, Hell does not let its conduct be dictated.",
+      "C": "Officially accept but discreetly violate the truce."
+    }
+  },
+  "hk_019": {
+    "title": "Ash Storm",
+    "body": "An ash storm engulfs several circles. Visibility drops, the damned panic.",
+    "choices": {
+      "A": "Let the storm run its course, it's the normal landscape.",
+      "B": "Send legions to restore a semblance of order.",
+      "C": "Take advantage of the chaos to redistribute souls where you want."
+    }
+  },
+  "hk_020": {
+    "title": "New Experimental Circle",
+    "body": "One of your architects proposes a new type of circle, more efficient but unstable.",
+    "choices": {
+      "A": "Validate the project and open it immediately.",
+      "B": "Test it on a small number of souls first.",
+      "C": "Refuse, the current balance is already fragile enough."
+    }
+  },
+  "hk_021": {
+    "title": "Riot of the Philosopher Damned",
+    "body": "Some damned souls are debating the meaning of eternal punishment and challenging your legitimacy.",
+    "choices": {
+      "A": "Silence them, by any means necessary.",
+      "B": "Create a circle dedicated to their debates, well isolated.",
+      "C": "Send them to preach on Earth to confuse beliefs."
+    }
+  },
+  "hk_022": {
+    "title": "Overzealous Accountant Demon",
+    "body": "A demon in charge of the soul registries reports inconsistencies and wants to recalculate everything.",
+    "choices": {
+      "A": "Let him verify everything, order will be strengthened.",
+      "B": "Ignore him, no one will ever read all those registries.",
+      "C": "Use his zeal to track down strategic souls."
+    }
+  },
+  "hk_023": {
+    "title": "Legion Commanders' Tournament",
+    "body": "Legion commanders want to organize a tournament to prove who deserves more troops.",
+    "choices": {
+      "A": "Authorize the tournament, with you as the final judge.",
+      "B": "Refuse, legions must obey, not entertain themselves.",
+      "C": "Authorize, but rig the results to your advantage."
+    }
+  },
+  "hk_024": {
+    "title": "Soul of a Legendary Hero",
+    "body": "The soul of a hero highly respected by mortals finally descends into your kingdom.",
+    "choices": {
+      "A": "Display him as a trophy to inspire fear.",
+      "B": "Use him as an advisor, he knows humans well.",
+      "C": "Send him back briefly to Earth as a cursed champion."
+    }
+  },
+  "hk_025": {
+    "title": "Strange Song in the Depths",
+    "body": "A song from the deep resonates. Even the oldest demons are uneasy.",
+    "choices": {
+      "A": "Investigate personally, surrounded by your guards.",
+      "B": "Seal the area and declare access forbidden.",
+      "C": "Let the song spread, see who answers it."
+    }
+  },
+  "hk_026": {
+    "title": "Offer from a Forgotten Cult",
+    "body": "An ancient cult, almost extinct, wants to return in exchange for a few infernal 'favors'.",
+    "choices": {
+      "A": "Accept, even a weak cult remains useful.",
+      "B": "Refuse, these relics of the past complicate everything.",
+      "C": "Absorb the cult and completely change its face."
+    }
+  },
+  "hk_027": {
+    "title": "Contest for the Worst Torment",
+    "body": "The torturers are launching a contest to invent the most creative torment.",
+    "choices": {
+      "A": "Encourage it, creativity is good for demonic morale.",
+      "B": "Limit the damage, some attempts go too far.",
+      "C": "Reserve this contest for a very, very isolated circle."
+    }
+  },
+  "hk_028": {
+    "title": "Council of Ancient Demons",
+    "body": "The oldest demons ask for an audience to speak about the future of Hell.",
+    "choices": {
+      "A": "Listen to them and integrate some of their ideas.",
+      "B": "Thank them politely then continue as before.",
+      "C": "Divide them by giving them conflicting privileges."
+    }
+  },
+  "hk_029": {
+    "title": "Embassy from Neighboring Hells",
+    "body": "Another infernal kingdom sends an embassy. Its ruler proposes an alliance: exchange of souls, legions, and territories on the surface.",
+    "choices": {
+      "A": "Sign an aggressive pact, focused on harvesting souls.",
+      "B": "Negotiate a strictly framed agreement, to keep control.",
+      "C": "Emphasize influence on Earth, even if it upsets your troops."
+    }
+  },
+  "hk_030": {
+    "title": "Forge of Cursed Weapons",
+    "body": "A demonic forge invents a new type of weapon that makes legions almost unstoppable, but unstable.",
+    "choices": {
+      "A": "Massively arm your legions with these weapons.",
+      "B": "Reserve these weapons for a few elite units.",
+      "C": "Limit their production, priority to discipline."
+    }
+  },
+  "hk_031": {
+    "title": "Unauthorized Portals",
+    "body": "Demons have opened portals to the surface without asking you. Energy leaks are attracting attention from the worlds above.",
+    "choices": {
+      "A": "Expand these portals, the opportunity is too good.",
+      "B": "Close them properly, imposing strict rules.",
+      "C": "Keep only a few in discreet areas."
+    }
+  },
+  "hk_032": {
+    "title": "Duels Between Champions",
+    "body": "Your best champions, souls and demons alike, are constantly fighting to catch your eye and demand more power.",
+    "choices": {
+      "A": "Favor the most brutal demons.",
+      "B": "Reward the most cunning souls.",
+      "C": "Establish a code of honor to regulate the duels."
+    }
+  },
+  "hk_033": {
+    "title": "Infernal City on Earth",
+    "body": "A district in a major mortal city looks more and more like an annex of Hell: cults, violence, symbols carved everywhere.",
+    "choices": {
+      "A": "Transform it into a true infernal bastion.",
+      "B": "Recover mostly precious souls, discreetly.",
+      "C": "Arm a few legions to control this urban chaos."
+    }
+  },
+  "hk_034": {
+    "title": "Lottery of the Damned",
+    "body": "A demon has invented a lottery where the damned can 'win' a lighter torment in exchange for denunciations and services.",
+    "choices": {
+      "A": "Encourage this system, it attracts many souls.",
+      "B": "Transform it into a strict control tool.",
+      "C": "Entrust it to your legions so they can profit from it."
+    }
+  },
+  "hk_035": {
+    "title": "Tower of Confessions",
+    "body": "An immense tower where the damned come to confess what they never said while alive. These secrets could be useful to you.",
+    "choices": {
+      "A": "Use these confessions to reinforce your stock of souls.",
+      "B": "Exploit certain secrets to influence the surface.",
+      "C": "File these archives to improve infernal order."
+    }
+  },
+  "hk_036": {
+    "title": "War of Torture Styles",
+    "body": "Two schools of torture oppose each other: one advocates refinement, the other pure brutality. The quarrels are escalating.",
+    "choices": {
+      "A": "Support the brutal school, useful for your legions.",
+      "B": "Support the refined school, more compatible with order.",
+      "C": "Let them compete, you feed on both sides."
+    }
+  },
+  "hk_037": {
+    "title": "Nightmare Export",
+    "body": "A department proposes to systematize sending nightmares to mortals to prepare their souls to join you.",
+    "choices": {
+      "A": "Flood their nights with infernal visions.",
+      "B": "Target mostly human leaders and rulers.",
+      "C": "Calibrate the nightmares to maintain balance."
+    }
+  },
+  "hk_038": {
+    "title": "Revolt of the Infernal Scribes",
+    "body": "The scribes who record every sin, every contract, and every torment complain of being ignored despite their importance.",
+    "choices": {
+      "A": "Reward them with more military power.",
+      "B": "Integrate them further into the chain of command.",
+      "C": "Flatter them in public, without making too many concessions."
+    }
+  },
+  "hk_039": {
+    "title": "Collapsed Temple on the Surface",
+    "body": "An ancient temple dedicated to your cult has just collapsed. Some mortals see it as a sign, others just a ruin.",
+    "choices": {
+      "A": "Reinforce the discreet presence of your agents in the area.",
+      "B": "Take advantage of the event to attract new souls.",
+      "C": "Transform the place into a more structured anchor point."
+    }
+  },
+  "hk_040": {
+    "title": "Infernal Strategic Council",
+    "body": "Your most influential advisors are meeting. Everyone wants you to prioritize their domain: souls, armies, order, or the surface.",
+    "choices": {
+      "A": "Give a little more to everyone, at the risk of straining order.",
+      "B": "Impose the primacy of order, even if it means losing souls.",
+      "C": "Invest in the surface, your future playground."
+    }
+  },
+  "hk_041": {
+    "title": "Deadly Sins Expo",
+    "body": "You are proposed to organize a grand 'expo' where each deadly sin would have its pavilion, attractions, and demonic ambassadors.",
+    "choices": {
+      "A": "Focus on the lure of souls, at all costs.",
+      "B": "Structure the event like a highly regulated fair.",
+      "C": "Make it mainly a showcase for your elite troops."
+    }
+  },
+  "hk_042": {
+    "title": "Infernal Military Academy",
+    "body": "Your generals want to create an official academy to train future legion commanders.",
+    "choices": {
+      "A": "Focus on brute force and fear.",
+      "B": "Value loyalty and discipline above all.",
+      "C": "Include courses on surface manipulation."
+    }
+  },
+  "hk_043": {
+    "title": "Great Infernal Eclipse",
+    "body": "A rare eclipse darkens both Hell and the surface. The boundaries between worlds become thinner.",
+    "choices": {
+      "A": "Take the opportunity to push more souls towards you.",
+      "B": "Reinforce the barriers to avoid leaks.",
+      "C": "Let your demons infiltrate the dreams of mortals."
+    }
+  },
+  "hk_044": {
+    "title": "Drafting a New Infernal Code",
+    "body": "Your jurists wish to completely rewrite the Code of Punishments to adapt it to modern vices.",
+    "choices": {
+      "A": "Create a more ruthless Code for souls.",
+      "B": "Integrate the demands of certain generals into it.",
+      "C": "Insist on the clarity and efficiency of the rules."
+    }
+  },
+  "hk_045": {
+    "title": "Conclave of Tempters",
+    "body": "The tempters working on the surface want a more significant voice in the global strategy.",
+    "choices": {
+      "A": "Give them more freedom to harvest souls.",
+      "B": "Integrate them into a stricter hierarchy.",
+      "C": "Force them to coordinate their actions with the legions."
+    }
+  },
+  "hk_046": {
+    "title": "Epidemic of Infernal Weariness",
+    "body": "Even some demons seem tired of punishing the same sins for centuries.",
+    "choices": {
+      "A": "Replace them with fresher recruits.",
+      "B": "Organize war campaigns to wake them up.",
+      "C": "Rearrange certain circles to vary the pleasures."
+    }
+  },
+  "hk_047": {
+    "title": "Tower of Distorted Screams",
+    "body": "A tower collects and amplifies the screams of the damned. Recently, the echoes have started disturbing even your soldiers.",
+    "choices": {
+      "A": "Redirect these screams to the surface to haunt it.",
+      "B": "Isolate the tower in a highly controlled zone.",
+      "C": "Use these echoes to mentally train your legions."
+    }
+  },
+  "hk_048": {
+    "title": "Market of Damned Illusions",
+    "body": "A market offers the damned temporary illusions of their past lives in exchange for long additional years of torment.",
+    "choices": {
+      "A": "Encourage this market, it fills your reserves quickly.",
+      "B": "Regulate contracts to keep a minimum of order.",
+      "C": "Reserve certain illusions for those most useful to your plans."
+    }
+  },
+  "hk_049": {
+    "title": "Game of Conquest Between Demons",
+    "body": "A strategy game circulating among demons simulates the conquest of new lands on the surface.",
+    "choices": {
+      "A": "Make it an official tool for choosing campaigns.",
+      "B": "Restrict it to the training of a few officers.",
+      "C": "Let demons play freely, without much supervision."
+    }
+  },
+  "hk_050": {
+    "title": "Prophecy Carved in Lava",
+    "body": "Inscriptions appearing in the lava announce the fall of a 'King of Flames' if the balance is broken too much.",
+    "choices": {
+      "A": "Ignore the prophecy and accelerate damnation further.",
+      "B": "Reinforce order to avoid a brutal shift.",
+      "C": "Distribute the chaos between the surface, legions, and souls."
+    }
+  },
+  "hk_051": {
+    "title": "Tunnel to an Ancient Forgotten Hell",
+    "body": "Demonic miners have broken through to a very ancient zone, abandoned for millennia.",
+    "choices": {
+      "A": "Immediately send new souls there to be exploited.",
+      "B": "Explore it cautiously with a disciplined force.",
+      "C": "Use it as a secret base for operations on Earth."
+    }
+  },
+  "hk_052": {
+    "title": "Plot of the Shadow Archivists",
+    "body": "The archivists in charge of recording pacts and sins threaten to reveal the mismanagement of certain generals.",
+    "choices": {
+      "A": "Protect your secrets by feeding them souls.",
+      "B": "Put these archives under strict military control.",
+      "C": "Let a few scandals leak to rebalance power."
+    }
+  },
+  "hk_053": {
+    "title": "Spark Storms on the Surface",
+    "body": "Small showers of sparks from below are falling on certain places on the surface, fueling conflicts.",
+    "choices": {
+      "A": "Intensify these showers to harvest more souls.",
+      "B": "Limit their frequency to avoid attracting too much attention.",
+      "C": "Channel them towards already unstable areas."
+    }
+  },
+  "hk_054": {
+    "title": "Reform of the Sacred Chains",
+    "body": "You are proposed to replace old infernal chains with subtler bonds, based on promises and regrets.",
+    "choices": {
+      "A": "Focus the reform on the quantity of bound souls.",
+      "B": "Prioritize solidity and control of flows.",
+      "C": "Test these chains primarily on certain mortal leaders."
+    }
+  },
+  "hk_055": {
+    "title": "Carnival of Monstrous Illusions",
+    "body": "Troupes of illusionist demons want to organize a permanent carnival in a particular circle.",
+    "choices": {
+      "A": "Make it an irresistible soul trap.",
+      "B": "Integrate it into the general order as an experimental zone.",
+      "C": "Link it to certain places on the surface on special nights."
+    }
+  },
+  "hk_056": {
+    "title": "River of Blood Flooding",
+    "body": "One of the great rivers of blood is overflowing and threatening several important facilities.",
+    "choices": {
+      "A": "Channel the flood towards overpopulated circles.",
+      "B": "Erect infernal dikes with your disciplined units.",
+      "C": "Let the river redraw the infernal landscape."
+    }
+  },
+  "hk_057": {
+    "title": "Corruption Contest on Earth",
+    "body": "Demons are challenging each other: corrupt increasingly influential public figures.",
+    "choices": {
+      "A": "Reward the massive harvest of souls.",
+      "B": "Demand a more targeted and controlled approach.",
+      "C": "Value spectacular operations on the surface."
+    }
+  },
+  "hk_058": {
+    "title": "World Observation Tower",
+    "body": "A tower allows observation of the dreams, wars, and prayers of mortals in real-time.",
+    "choices": {
+      "A": "Use these visions to trap even more souls.",
+      "B": "Use it to precisely adjust your internal order.",
+      "C": "Grant access to certain hand-picked commanders."
+    }
+  },
+  "hk_059": {
+    "title": "Cult of the King of Hell",
+    "body": "Some demons are starting to worship you as a deity and demand rituals in your honor.",
+    "choices": {
+      "A": "Encourage this cult, at the risk of feeding excess.",
+      "B": "Structure it within a well-defined hierarchy.",
+      "C": "Tolerate it on the surface only, as a political instrument."
+    }
+  },
+  "hk_060": {
+    "title": "Unknown Voice in the Tunnels",
+    "body": "Patrols hear a voice whispering secrets about the flaws of your reign.",
+    "choices": {
+      "A": "Send groups of condemned souls to investigate.",
+      "B": "Mandate disciplined legions to secure the area.",
+      "C": "Discreetly exploit these whispers to adjust your strategy."
+    }
+  },
+  "hk_061": {
+    "title": "Laboratory of New Sins",
+    "body": "An experimental circle seeks to invent forms of vice adapted to the modern era.",
+    "choices": {
+      "A": "Test these innovations on a maximum number of mortals.",
+      "B": "Integrate them into a strictly controlled protocol.",
+      "C": "Broadcast only the most effective ones to the surface."
+    }
+  },
+  "hk_062": {
+    "title": "Grand Infernal Games",
+    "body": "Macabre games with trials, bets, and challenges pit damned, demons, and sometimes a few hero souls against each other.",
+    "choices": {
+      "A": "Orient them towards massive soul collection.",
+      "B": "Make it a training tool for your legions.",
+      "C": "Link them to surface events to strengthen your influence."
+    }
+  },
+  "hk_063": {
+    "title": "Revolt of an Autonomous Circle",
+    "body": "A circle has started administering itself without sending up the usual reports.",
+    "choices": {
+      "A": "Drown it under new souls to regain control.",
+      "B": "Send a disciplined force to restore central authority.",
+      "C": "Observe first, to see if this model is usable elsewhere."
+    }
+  },
+  "hk_064": {
+    "title": "Library of Broken Beliefs",
+    "body": "A library gathers the texts, prayers, and betrayed hopes of mortals.",
+    "choices": {
+      "A": "Make it a psychological weapon to torture further.",
+      "B": "Organize it to improve global soul management.",
+      "C": "Use it to refine operations on the surface."
+    }
+  },
+  "hk_065": {
+    "title": "Diplomatic Crisis with Another Plane",
+    "body": "A neighboring plane, neither totally celestial nor totally infernal, protests against your incursions.",
+    "choices": {
+      "A": "Respond with a brutal show of force.",
+      "B": "Negotiate borders and precise rules.",
+      "C": "Divert the conflict towards surface areas."
+    }
+  },
+  "hk_066": {
+    "title": "Contest for the Most Irredeemable Soul",
+    "body": "Your torturers are fighting over the title of 'worst case' ever handled.",
+    "choices": {
+      "A": "Amplify punishments to harvest more energy.",
+      "B": "Impose a strict framework, even in horror.",
+      "C": "Use these cases as examples to frighten the surface."
+    }
+  },
+  "hk_067": {
+    "title": "Festival of Demonic Masks",
+    "body": "A festival where demons and damned wear masks representing their faults and ambitions.",
+    "choices": {
+      "A": "Turn this festival into a vast trap for new souls.",
+      "B": "Structure it as a ritual of order and hierarchy.",
+      "C": "Symbolically link it to certain surface cults."
+    }
+  },
+  "hk_068": {
+    "title": "Negotiation with a Forgotten Deity",
+    "body": "A deity almost erased from the mortal world seeks refuge and influence in your domain.",
+    "choices": {
+      "A": "Use it to attract a flood of nostalgic souls.",
+      "B": "Integrate it into your order as a highly monitored vassal.",
+      "C": "Send it to play a discreet role on the surface."
+    }
+  },
+  "hk_069": {
+    "title": "Colossus of Ash",
+    "body": "A gigantic colossus of ash has formed in an infernal desert and is attracting the gaze of the entire kingdom.",
+    "choices": {
+      "A": "Feed it with souls to turn it into a weapon.",
+      "B": "Chain it and integrate it into the controlled landscape.",
+      "C": "Link it to certain places on the surface as a living symbol."
+    }
+  },
+  "hk_070": {
+    "title": "Assembly of a Thousand Whispers",
+    "body": "Thousands of voices of the damned whisper your name and debate every decision you take.",
+    "choices": {
+      "A": "Exploit this chorus to probe the mass of souls.",
+      "B": "Channel these whispers into a council structure.",
+      "C": "Let these voices spread to the surface to influence dreamers."
+    }
+  },
+  "hk_071": {
+    "title": "Congress of Famous Sinners",
+    "body": "Several souls very famous among mortals meet in the same circle and want to be treated like an elite.",
+    "choices": {
+      "A": "Display them as trophies to attract more souls.",
+      "B": "Subject them to the same rules as everyone else.",
+      "C": "Use them to discreetly influence the surface."
+    }
+  },
+  "hk_072": {
+    "title": "Military Maneuvers at the Borders",
+    "body": "Your legions are training near the limits of your kingdom, which worries neighboring planes.",
+    "choices": {
+      "A": "Turn the exercise into a real show of force.",
+      "B": "Reassure officially, while maintaining the training.",
+      "C": "Move part of the troops towards terrestrial targets."
+    }
+  },
+  "hk_073": {
+    "title": "Circle of Creative Blasphemers",
+    "body": "A circle groups those who invented new forms of blasphemy. Their ideas could be useful or derail everything.",
+    "choices": {
+      "A": "Exploit their inventiveness to attract more souls.",
+      "B": "Isolate them strictly to preserve order.",
+      "C": "Let some of their ideas filter through to the surface."
+    }
+  },
+  "hk_074": {
+    "title": "Court of Refined Torments",
+    "body": "A court of torture artisans proposes refined, almost artistic sufferings.",
+    "choices": {
+      "A": "Maximize the quantity of souls treated.",
+      "B": "Establish a rigid protocol for each torment.",
+      "C": "Reserve these refinements for influential targets on Earth."
+    }
+  },
+  "hk_075": {
+    "title": "Outburst of a Legendary General",
+    "body": "A legendary general, feared by all, openly criticizes your management.",
+    "choices": {
+      "A": "Put him in his place with a massive flood of souls to manage.",
+      "B": "Promote him to a more supervised role.",
+      "C": "Send him to lead a very risky campaign on the surface."
+    }
+  },
+  "hk_076": {
+    "title": "Infinite Inventories of Sins",
+    "body": "The scribes complain: every day, new sins accumulate faster than the registries.",
+    "choices": {
+      "A": "Push them to record everything, even at the cost of chaos.",
+      "B": "Simplify categories to keep global order.",
+      "C": "Record in detail only key sins on the surface."
+    }
+  },
+  "hk_077": {
+    "title": "Pilgrimage of Repentant Damned",
+    "body": "A group of damned attempts an improvised 'pilgrimage' to ask for a reduction in their sentences.",
+    "choices": {
+      "A": "Punish them severely and make an example.",
+      "B": "Create an official ritual of false redemption, highly controlled.",
+      "C": "Send them back briefly to the surface, marked forever."
+    }
+  },
+  "hk_078": {
+    "title": "Harmonized Scream Contest",
+    "body": "Torturers are organizing a contest to turn screams into almost musical choirs.",
+    "choices": {
+      "A": "Encourage it to attract more curious souls.",
+      "B": "Place this contest under strict rules.",
+      "C": "Broadcast these 'songs' into the nightmares of mortals."
+    }
+  },
+  "hk_079": {
+    "title": "Circle of Broken Pacts",
+    "body": "An entire circle is populated by those who betrayed their pacts, infernal or not.",
+    "choices": {
+      "A": "Exploit them to obtain confessions and secrets.",
+      "B": "Reinforce the structure of their punishments as an example.",
+      "C": "Send some of them to sow discord on Earth."
+    }
+  },
+  "hk_080": {
+    "title": "Visit from a Dethroned Ancient King",
+    "body": "An ancient King of Hell, fallen long ago, comes back to see you and comments on your reign.",
+    "choices": {
+      "A": "Use him to justify an intensification of damnations.",
+      "B": "Integrate him as an advisor under heavy surveillance.",
+      "C": "Send him to inspect areas close to the surface."
+    }
+  },
+  "hk_081": {
+    "title": "School of Modern Temptations",
+    "body": "A school proposes to train demons specialized in networks, screens, and contemporary addictions.",
+    "choices": {
+      "A": "Focus on the volume of harvested souls.",
+      "B": "Strongly regulate methods to keep control.",
+      "C": "Prioritize targeting places of power on the surface."
+    }
+  },
+  "hk_082": {
+    "title": "Competing Circles",
+    "body": "Two circles boast of being 'the most infernal' and fight for resources.",
+    "choices": {
+      "A": "Feed both of them with more souls.",
+      "B": "Impose a clear hierarchy between them.",
+      "C": "Assign each a different mission on the surface."
+    }
+  },
+  "hk_083": {
+    "title": "Appearance of a Luminous Rift",
+    "body": "A luminous rift opens at the bottom of a chasm. Some see it as an intrusion from above.",
+    "choices": {
+      "A": "Flood it with souls to saturate it.",
+      "B": "Send disciplined legions to control it.",
+      "C": "Direct part of the flow towards specific places on Earth."
+    }
+  },
+  "hk_084": {
+    "title": "Tower of Inverted Meditation",
+    "body": "A tower where the damned do not meditate to find peace, but to ruminate on their faults.",
+    "choices": {
+      "A": "Increase the number of souls admitted to this tower.",
+      "B": "Structure its operation like an infernal monastery.",
+      "C": "Use these ruminations to guide your temptations on Earth."
+    }
+  },
+  "hk_085": {
+    "title": "Parade of Infernal Beasts",
+    "body": "Your most monstrous creatures parade in the corridors amidst terrified damned souls.",
+    "choices": {
+      "A": "Make it a regular spectacle to break all resistance.",
+      "B": "Put the parade under a strict security protocol.",
+      "C": "Send a few beasts to prowl the borders of the surface."
+    }
+  },
+  "hk_086": {
+    "title": "Night of Inverted Flames",
+    "body": "A strange night where flames burn backwards, from the ground to the sky, destabilizing everyone.",
+    "choices": {
+      "A": "Let this phenomenon attract a maximum number of souls.",
+      "B": "Control and map every affected area.",
+      "C": "Synchronize this night with certain surface rituals."
+    }
+  },
+  "hk_087": {
+    "title": "Meeting of Torture Masters",
+    "body": "Torture masters want to be consulted on global strategy.",
+    "choices": {
+      "A": "Grant them more souls to manage.",
+      "B": "Integrate them into a strongly hierarchical council.",
+      "C": "Entrust them with specific targets on the surface."
+    }
+  },
+  "hk_088": {
+    "title": "Breach to a Minor Hell",
+    "body": "A breach leads to a small local hell, poorly organized, which crudely imitates you.",
+    "choices": {
+      "A": "Steal its souls and absorb it.",
+      "B": "Restructure it and integrate it into your order.",
+      "C": "Use it as a pivot base for terrestrial incursions."
+    }
+  },
+  "hk_089": {
+    "title": "Procession of Broken Masks",
+    "body": "A procession of damned souls wearing cracked masks traverses several circles.",
+    "choices": {
+      "A": "Attract even more souls looking for a spectacle.",
+      "B": "Make this procession a highly codified ritual.",
+      "C": "Use it as a symbol in certain surface cults."
+    }
+  },
+  "hk_090": {
+    "title": "Festival of Red Ash",
+    "body": "A rain of red ash falls on your entire kingdom. Some see it as an omen.",
+    "choices": {
+      "A": "Proclaim a great soul hunt.",
+      "B": "Make it a ceremony of order and inverted purification.",
+      "C": "Associate this festival with specific events on Earth."
+    }
+  },
+  "hk_091": {
+    "title": "Rebellion of Bridge Overseers",
+    "body": "Those who guard the bridges between circles demand more consideration.",
+    "choices": {
+      "A": "Stuff them with new souls to filter.",
+      "B": "Strictly clarify their rights and duties.",
+      "C": "Also assign them to monitor passages to the surface."
+    }
+  },
+  "hk_092": {
+    "title": "Tower of Impossible Oaths",
+    "body": "A tower where the damned are forced to swear what they can never keep.",
+    "choices": {
+      "A": "Multiply these oaths to trap more souls.",
+      "B": "Index each oath in a highly ordered system.",
+      "C": "Export certain oaths to surface pacts."
+    }
+  },
+  "hk_093": {
+    "title": "Fields of Ash Statues",
+    "body": "Damned souls frozen into ash statues dot a plain, ready to break or awaken.",
+    "choices": {
+      "A": "Shatter them en masse to feed your kingdom.",
+      "B": "Catalog and monitor them according to strict rules.",
+      "C": "Send a few to silently haunt the surface."
+    }
+  },
+  "hk_094": {
+    "title": "Assembly of Flaming Tongues",
+    "body": "Tongues of fire whisper the worst secrets of the living and the dead.",
+    "choices": {
+      "A": "Saturate your circles with these revelations to break souls.",
+      "B": "Classify them as strategic information.",
+      "C": "Leak some to influential ears on Earth."
+    }
+  },
+  "hk_095": {
+    "title": "Court of Refined Pacts",
+    "body": "A court specializes in extremely detailed, almost legalistic pacts.",
+    "choices": {
+      "A": "Maximize the number of affected souls.",
+      "B": "Make it a pillar of infernal order.",
+      "C": "Use these pacts as tools of political sway on the surface."
+    }
+  },
+  "hk_096": {
+    "title": "Lake of Burning Glass",
+    "body": "A lake of liquefied glass reflects the worst memories of the damned and some demons.",
+    "choices": {
+      "A": "Plunge a maximum number of souls into it.",
+      "B": "Map these reflections to better organize punishments.",
+      "C": "Show images of the surface in it to influence your decisions."
+    }
+  },
+  "hk_097": {
+    "title": "Conclave of Demented Laughter",
+    "body": "A group of demons no longer takes anything seriously and turns every torment into a cruel farce.",
+    "choices": {
+      "A": "Let them attract souls through the grotesque.",
+      "B": "Re-establish a strict protocol in their domains.",
+      "C": "Send them to destabilize certain places on Earth."
+    }
+  },
+  "hk_098": {
+    "title": "Night of Inverted Mirrors",
+    "body": "Mirrors appear everywhere, showing the damned what they would have done if they had been even worse.",
+    "choices": {
+      "A": "Exploit these visions to reinforce pain.",
+      "B": "Carefully store these mirrors in codified rooms.",
+      "C": "Project certain reflections into the dreams of mortals."
+    }
+  },
+  "hk_099": {
+    "title": "Demonic Promotion Process",
+    "body": "Your demons ask for a clear promotion system, with ranks, privileges, and titles.",
+    "choices": {
+      "A": "Value those who bring back the most souls.",
+      "B": "Base promotion on obedience and order.",
+      "C": "Particularly reward those who act on the surface."
+    }
+  },
+  "hk_100": {
+    "title": "Great Infernal Census",
+    "body": "You are proposed a complete census of souls, legions, structures, and influences on the surface.",
+    "choices": {
+      "A": "Focus the census on the mass of souls.",
+      "B": "Make it a tool of absolute order and control.",
+      "C": "Use it mainly to plan campaigns on Earth."
+    }
+  },
+  "hk_101": {
+    "title": "Bank of the Damned",
+    "body": "An infernal bank offers the damned to 'lend' fragments of their soul in exchange for temporary favors.",
+    "choices": {
+      "A": "Encourage these loans to inflate your soul reserves.",
+      "B": "Regulate severely to avoid chaos.",
+      "C": "Use these contracts to finance operations on the surface."
+    }
+  },
+  "hk_102": {
+    "title": "Massive Recruitment Campaign",
+    "body": "Your generals launch a campaign to recruit new legions from among the most violent damned.",
+    "choices": {
+      "A": "Accept all volunteers, even unstable ones.",
+      "B": "Take only the most ferocious and disciplined.",
+      "C": "Select certain profiles for missions on Earth."
+    }
+  },
+  "hk_103": {
+    "title": "Black Market of Relics",
+    "body": "Relics stolen from the surface are circulating in an infernal black market.",
+    "choices": {
+      "A": "Flood the market to attract more corrupt souls.",
+      "B": "Confiscate and inventory every relic.",
+      "C": "Send a few cursed relics back to the surface."
+    }
+  },
+  "hk_104": {
+    "title": "College of Infernal Strategists",
+    "body": "A college of strategists proposes precise plans for war, corruption, and order.",
+    "choices": {
+      "A": "Task them to maximize soul collection.",
+      "B": "Integrate them into a strict hierarchical chain.",
+      "C": "Orient part of their plans towards the surface."
+    }
+  },
+  "hk_105": {
+    "title": "Procession of Forgotten Kings",
+    "body": "Ancient fallen mortal kings parade before your throne, claiming a special status.",
+    "choices": {
+      "A": "Display them to attract ambitious souls.",
+      "B": "Put them back into a rigid punishment protocol.",
+      "C": "Send some of them to influence their former lands."
+    }
+  },
+  "hk_106": {
+    "title": "Contest of Innovative Torments",
+    "body": "Your torturers organize a contest to invent new torments adapted to contemporary vices.",
+    "choices": {
+      "A": "Reward the most soul-profitable torments.",
+      "B": "Normalize each technique in an official manual.",
+      "C": "Reserve the most creative ones for surface elites."
+    }
+  },
+  "hk_107": {
+    "title": "Latent War Between Two Circles",
+    "body": "Two circles accuse each other of stealing their damned and their guards.",
+    "choices": {
+      "A": "Feed them with souls to appease the tension... temporarily.",
+      "B": "Send an elite legion to restore order.",
+      "C": "Channel their rivalry towards conquering the surface."
+    }
+  },
+  "hk_108": {
+    "title": "Rumor of a Gentler Hell",
+    "body": "A rumor runs: somewhere exists a more 'bearable' hell.",
+    "choices": {
+      "A": "Let the rumor spread, a source of despair.",
+      "B": "Identify and crush any organized escape attempt.",
+      "C": "Use this legend to lure certain mortals."
+    }
+  },
+  "hk_109": {
+    "title": "Tower of Military Echoes",
+    "body": "A tower echoes the shouts and orders of your legions.",
+    "choices": {
+      "A": "Amplify these echoes to galvanize souls.",
+      "B": "Put the tower under strict military protocol.",
+      "C": "Use it to coordinate assaults on the surface."
+    }
+  },
+  "hk_110": {
+    "title": "Salon of Impossible Contracts",
+    "body": "A salon attracts mortals and damned with contracts that no sane being would accept.",
+    "choices": {
+      "A": "Sign en masse to rake in souls.",
+      "B": "Filter agreements to keep a readable order.",
+      "C": "Reserve certain clauses for the powerful of the surface."
+    }
+  },
+  "hk_111": {
+    "title": "Mutiny on a Bridge of the Damned",
+    "body": "A bridge connecting two circles is occupied by mutinous damned souls.",
+    "choices": {
+      "A": "Drown them under a flood of additional souls.",
+      "B": "Send a disciplined force to regain control.",
+      "C": "Transform this bridge into a surface observation post."
+    }
+  },
+  "hk_112": {
+    "title": "Calendar of Great Abominations",
+    "body": "You are proposed a calendar of 'great abominations' to celebrate every infernal year.",
+    "choices": {
+      "A": "Align these dates with damnation peaks.",
+      "B": "Structure this calendar as the backbone of order.",
+      "C": "Synchronize certain dates with the surface."
+    }
+  },
+  "hk_113": {
+    "title": "Chasm of Shifting Shadows",
+    "body": "A chasm vomits shadows that imitate living mortals.",
+    "choices": {
+      "A": "Throw souls into it to feed these shadows.",
+      "B": "Place the chasm under strict military surveillance.",
+      "C": "Send these shadows to project fear onto the surface."
+    }
+  },
+  "hk_114": {
+    "title": "Cult of the Silent Flame",
+    "body": "A new cult worships a flame that does not burn but consumes the will.",
+    "choices": {
+      "A": "Let the flame devour a maximum of souls.",
+      "B": "Integrate it into a very structured official ritual.",
+      "C": "Link this cult to human sects."
+    }
+  },
+  "hk_115": {
+    "title": "School of Infernal Mentors",
+    "body": "A school trains 'mentors' specialized in the slow perversion of character.",
+    "choices": {
+      "A": "Measure their success by the quantity of souls.",
+      "B": "Evaluate mainly their discipline and obedience.",
+      "C": "Assign them to key figures on the surface."
+    }
+  },
+  "hk_116": {
+    "title": "River of Torn Memories",
+    "body": "A river carries the darkest memories of the damned.",
+    "choices": {
+      "A": "Throw even more souls into it.",
+      "B": "Index these memories in archives of order.",
+      "C": "Use these memories to guide the corruption of the living."
+    }
+  },
+  "hk_117": {
+    "title": "Miniature Throne Game",
+    "body": "Demons have made a model of your throne and re-enact your decisions in miniature.",
+    "choices": {
+      "A": "Encourage this game to reinforce your aura.",
+      "B": "Impose strict rules: nothing must escape you.",
+      "C": "Make it a simulation of surface reactions."
+    }
+  },
+  "hk_118": {
+    "title": "Pillar of Broken Chains",
+    "body": "A pillar of broken chains unites broken pacts and oaths.",
+    "choices": {
+      "A": "Attach more souls to it to inspire terror.",
+      "B": "Organize these chains according to a rigorous register.",
+      "C": "Use it to weaken certain contracts on Earth."
+    }
+  },
+  "hk_119": {
+    "title": "Ember Rain on Noble Quarters",
+    "body": "A rain of embers falls only on zones reserved for influential damned souls.",
+    "choices": {
+      "A": "Multiply these rains to break their pride.",
+      "B": "Establish a precise calendar of these punishments.",
+      "C": "Link these events to certain surface scandals."
+    }
+  },
+  "hk_120": {
+    "title": "Conclave of Master Illusionists",
+    "body": "Master illusionists demand a more important role in your reign.",
+    "choices": {
+      "A": "Let them manipulate mass perceptions.",
+      "B": "Frame them within a clear hierarchy.",
+      "C": "Send them to sow doubt in the dreams of the living."
+    }
+  },
+  "hk_121": {
+    "title": "Refugee Soul Camp",
+    "body": "A shapeless camp of souls presents itself as 'refugees' from other planes.",
+    "choices": {
+      "A": "Absorb them en masse into your system.",
+      "B": "Place them under a strictly codified regime.",
+      "C": "Use them as currency with the surface."
+    }
+  },
+  "hk_122": {
+    "title": "Market of Counterfeit Memories",
+    "body": "A market sells memories that are not theirs to damned souls.",
+    "choices": {
+      "A": "Take advantage of the confusion to rake in souls.",
+      "B": "Normalize these exchanges to avoid drift.",
+      "C": "Export certain false memories to impressionable mortals."
+    }
+  },
+  "hk_123": {
+    "title": "Eruption of a Volcano of Bones",
+    "body": "A volcano made of bones and skulls wakes up.",
+    "choices": {
+      "A": "Feed it with souls to amplify its power.",
+      "B": "Channel it into an infernal urban plan.",
+      "C": "Link its anger to certain places on the surface."
+    }
+  },
+  "hk_124": {
+    "title": "Court of Administrative Torments",
+    "body": "A court specializes in endless bureaucratic torments.",
+    "choices": {
+      "A": "Send a massive flow of new souls there.",
+      "B": "Make it a centerpiece of your internal order.",
+      "C": "Use this model to inspire a few terrestrial administrations."
+    }
+  },
+  "hk_125": {
+    "title": "Delegation of Fanatical Devotees",
+    "body": "Souls of religious fanatics want to prove to you that they deserve special treatment.",
+    "choices": {
+      "A": "Use them as a showcase to attract other believers.",
+      "B": "Integrate them into a highly standardized circle.",
+      "C": "Turn them against the religious structures of the surface."
+    }
+  },
+  "hk_126": {
+    "title": "Labyrinth of Black Glass",
+    "body": "A labyrinth of black glass reflects the worst possible choices of each soul.",
+    "choices": {
+      "A": "Plunge even more souls into this labyrinth.",
+      "B": "Map the paths to keep total control.",
+      "C": "Project certain visions to human decision-makers."
+    }
+  },
+  "hk_127": {
+    "title": "Rumor of a Traitor in Your Ranks",
+    "body": "It is whispered that a high-ranking demon is plotting a coup.",
+    "choices": {
+      "A": "Darken the rumor by punishing innocents.",
+      "B": "Launch a hierarchical and secret investigation.",
+      "C": "Use the rumor to trigger a targeted purge on the surface."
+    }
+  },
+  "hk_128": {
+    "title": "Great Lottery of Aborted Resurrections",
+    "body": "Some damned souls hope for a second chance to return alive.",
+    "choices": {
+      "A": "Sell false hopes in exchange for souls.",
+      "B": "Create a highly supervised pseudo-official protocol.",
+      "C": "Perform a few spectacular returns to frighten mortals."
+    }
+  },
+  "hk_129": {
+    "title": "Field of Suspended Cages",
+    "body": "Suspended cages contain souls that denounce each other endlessly.",
+    "choices": {
+      "A": "Increase the number of cages to get more confessions.",
+      "B": "Regulate this field to avoid overflow.",
+      "C": "Exploit these denunciations to manipulate the surface."
+    }
+  },
+  "hk_130": {
+    "title": "Banquet of Poisoned Illusions",
+    "body": "You are proposed to organize a banquet where everything is an illusion... except the poisons.",
+    "choices": {
+      "A": "Invite a maximum number of influential souls.",
+      "B": "Make it a rare, highly codified ritual.",
+      "C": "Link it to mortal parties via dreams and hallucinations."
+    }
+  },
+  "hk_131": {
+    "title": "Misty Bridge to the Surface",
+    "body": "A bridge of mist appears, briefly connecting your kingdom to a specific place in the world of the living.",
+    "choices": {
+      "A": "Let souls flood across this bridge.",
+      "B": "Secure every passage with strict guards.",
+      "C": "Send a small elite force to explore this place."
+    }
+  },
+  "hk_132": {
+    "title": "Secondary Throne of Illusions",
+    "body": "A secondary throne allows simulation of different versions of your reign.",
+    "choices": {
+      "A": "Test scenarios that maximize souls.",
+      "B": "Test scenarios that maximize order.",
+      "C": "Test scenarios centered on the surface."
+    }
+  },
+  "hk_133": {
+    "title": "Arena of Duels of Pride",
+    "body": "An arena sees souls clash, unable to give up their pride.",
+    "choices": {
+      "A": "Stimulate these duels to break more souls.",
+      "B": "Regulate the arena like a tribunal of pride.",
+      "C": "Select certain winners for terrestrial missions."
+    }
+  },
+  "hk_134": {
+    "title": "Cemetery of Unkept Promises",
+    "body": "Each tomb bears the name of a betrayed promise.",
+    "choices": {
+      "A": "Bury even more broken souls there.",
+      "B": "Index each promise for perfect order.",
+      "C": "Awaken certain promises on the surface."
+    }
+  },
+  "hk_135": {
+    "title": "Rain of Burnt Feathers",
+    "body": "Charred feathers fall, remnants of creatures from above that were defeated.",
+    "choices": {
+      "A": "Make it a sign of victory to attract souls.",
+      "B": "Store them in inverted sacred archives.",
+      "C": "Let a few drop on the surface."
+    }
+  },
+  "hk_136": {
+    "title": "Council of Creaking Judges",
+    "body": "A council of judges demands more authority in verdicts.",
+    "choices": {
+      "A": "Measure their efficiency by the mass of souls judged.",
+      "B": "Place them in a rigid hierarchy under your gaze.",
+      "C": "Charge them with also judging certain human actions."
+    }
+  },
+  "hk_137": {
+    "title": "Tower of Inverted Clocks",
+    "body": "Clocks run backwards and alter the perception of time.",
+    "choices": {
+      "A": "Plunge more souls into this confusion.",
+      "B": "Synchronize these clocks with your internal order.",
+      "C": "Leak this strange time into mortal nights."
+    }
+  },
+  "hk_138": {
+    "title": "Hall of Royal Masks",
+    "body": "A hall preserves the faces of all your predecessors.",
+    "choices": {
+      "A": "Display them to inspire fear and attract souls.",
+      "B": "Classify them in a strict dynastic protocol.",
+      "C": "Project these faces into the dreams of certain living kings."
+    }
+  },
+  "hk_139": {
+    "title": "Fair of Inverted Miracles",
+    "body": "A fair offers 'miracles' that always make the situation worse.",
+    "choices": {
+      "A": "Let souls rush to it.",
+      "B": "Limit the stalls to keep control.",
+      "C": "Connect this fair to charlatans on the surface."
+    }
+  },
+  "hk_140": {
+    "title": "Endless Stairs",
+    "body": "An endless staircase forces the damned to climb or descend aimlessly.",
+    "choices": {
+      "A": "Increase the flow of souls imprisoned within.",
+      "B": "Map every landing in your registries.",
+      "C": "Make human insomniacs feel these steps."
+    }
+  },
+  "hk_141": {
+    "title": "Suffering Credit",
+    "body": "You are proposed a 'suffering credit' system: suffer more now to 'lighten' later, in theory.",
+    "choices": {
+      "A": "Launch this system to recover a maximum of souls.",
+      "B": "Frame it with rules impossible to satisfy.",
+      "C": "Sell this idea to certain gurus on the surface."
+    }
+  },
+  "hk_142": {
+    "title": "Theater of Alternative Lives",
+    "body": "A theater plays what the damned could have become if they had made other choices.",
+    "choices": {
+      "A": "Force souls to watch these plays.",
+      "B": "Organize a complete repertoire classified by type of fault.",
+      "C": "Project fragments of these plays into the dreams of the living."
+    }
+  },
+  "hk_143": {
+    "title": "Assembly of Tired Scribes",
+    "body": "The scribes say that even Hell generates too much paperwork.",
+    "choices": {
+      "A": "Stuff them with extra souls to manage.",
+      "B": "Simplify certain protocols to keep order.",
+      "C": "Delegate part of their load to human bureaucrats."
+    }
+  },
+  "hk_144": {
+    "title": "Festival of Singing Embers",
+    "body": "Embers sing distorted hymns in the corridors.",
+    "choices": {
+      "A": "Let their song attract fascinated souls.",
+      "B": "Set precise times and places for this festival.",
+      "C": "Echo these songs in earthly places of worship."
+    }
+  },
+  "hk_145": {
+    "title": "Greenhouse of Soul-Eating Plants",
+    "body": "A greenhouse cultivates plants that feed directly on fragments of souls.",
+    "choices": {
+      "A": "Increase their number to speed up the harvest.",
+      "B": "Organize this greenhouse as a model institution.",
+      "C": "Link these plants to certain cursed places on the surface."
+    }
+  },
+  "hk_146": {
+    "title": "Tournament of Perfect Lies",
+    "body": "A tournament rewards the most destructive lie.",
+    "choices": {
+      "A": "Reward mostly the quantity of souls lost.",
+      "B": "Register every lie in a codified registry.",
+      "C": "Test these lies on surface networks."
+    }
+  },
+  "hk_147": {
+    "title": "Crack to a Sea of Acid",
+    "body": "A sea of infernal acid threatens to submerge an entire circle.",
+    "choices": {
+      "A": "Throw more souls into it to instill fear.",
+      "B": "Build dikes with extremely controlled materials.",
+      "C": "Use this sea as a haunting image for certain mortals."
+    }
+  },
+  "hk_148": {
+    "title": "Crypt of Unconfessed Secrets",
+    "body": "A crypt contains everything the living and the dead never dared to confess.",
+    "choices": {
+      "A": "Plunge souls into it to break them.",
+      "B": "Index these secrets as strategic data.",
+      "C": "Let a few leak out into earthly scandals."
+    }
+  },
+  "hk_149": {
+    "title": "Hall of Competing Thrones",
+    "body": "Several empty thrones seem to await other Kings of Hell.",
+    "choices": {
+      "A": "Use them as threats to submit souls.",
+      "B": "Integrate them into a rigid dynastic protocol.",
+      "C": "Present them as visions to certain mortal tyrants."
+    }
+  },
+  "hk_150": {
+    "title": "Great Inventory of Parallel Hells",
+    "body": "You are proposed to census parallel, competing, or embryonic hells.",
+    "choices": {
+      "A": "Measure mostly how many souls you can absorb.",
+      "B": "Make it a tool of order and control over other planes.",
+      "C": "Use this information to prepare an expansion on the surface."
+    }
+  },
+
+  "hk_151": {
+    "title": "Northern Border in Flames",
+    "body": "Rumors speak of an infernal 'North' starting to encroach on your territories.",
+    "choices": {
+      "A": "Send legions to test their defenses.",
+      "B": "Observe from a distance to avoid breaking order.",
+      "C": "Whisper these rumors up to the surface to sow fear."
+    }
+  },
+  "hk_152": {
+    "title": "Ambassador from the North",
+    "body": "An emissary from a northern infernal kingdom requests an audience in your name.",
+    "choices": {
+      "A": "Receive him with great pomp to attract his souls.",
+      "B": "Subject him to strict and humiliating etiquette.",
+      "C": "Propose a secret alliance focused on the surface."
+    }
+  },
+  "hk_153": {
+    "title": "Offer to Share Damned",
+    "body": "The North proposes a treaty: fairly share certain categories of the damned.",
+    "choices": {
+      "A": "Accept to temporarily inflate your stocks.",
+      "B": "Refuse and reinforce your own registries.",
+      "C": "Accept officially but divert a portion to the surface."
+    }
+  },
+  "hk_154": {
+    "title": "Frozen Spies",
+    "body": "Spies inform you that the North is experimenting with unusual icy punishments.",
+    "choices": {
+      "A": "Poach their torturers for your legions.",
+      "B": "Classify these new methods in your manual of torments.",
+      "C": "Test these horrors on a few souls arriving from the surface."
+    }
+  },
+  "hk_155": {
+    "title": "Accusation of Usurpation",
+    "body": "A lord of the North accuses you of usurping a forgotten ancient title.",
+    "choices": {
+      "A": "Respond with a demonstration of infernal power.",
+      "B": "Demand a codified infernal trial to settle it.",
+      "C": "Turn the accusation around by revealing his mortal contacts."
+    }
+  },
+  "hk_156": {
+    "title": "Breach in the Infernal Glacier",
+    "body": "A glacier of suffering in the North cracks, letting screams escape.",
+    "choices": {
+      "A": "Send your legions to recover whatever comes out.",
+      "B": "Trace an emergency protocol to contain the breach.",
+      "C": "Open an indirect route to cold regions of the surface."
+    }
+  },
+  "hk_157": {
+    "title": "Trafficking of Frozen Souls",
+    "body": "You are alerted to a traffic of frozen souls passing through your circles.",
+    "choices": {
+      "A": "Take your tithe and turn a blind eye.",
+      "B": "Regulate the traffic and record every transaction.",
+      "C": "Let part of the traffic go up to the world of the living."
+    }
+  },
+  "hk_158": {
+    "title": "Colossus of Living Ice",
+    "body": "A colossus of ice animated by chained souls is heading towards your borders.",
+    "choices": {
+      "A": "Destroy it with a shock force.",
+      "B": "Imprison it in a dedicated circle, under high surveillance.",
+      "C": "Divert this colossus to frighten a few mortal cities."
+    }
+  },
+  "hk_159": {
+    "title": "Oath of Non-Aggression",
+    "body": "The North sends you a non-aggression pact inscribed in ice.",
+    "choices": {
+      "A": "Sign to concentrate on other sources of souls.",
+      "B": "Refuse and reinforce your borders.",
+      "C": "Sign, but use this respite to infiltrate the surface."
+    }
+  },
+  "hk_160": {
+    "title": "Summons to a Conclave of Hells",
+    "body": "Several infernal kingdoms, including the North, are convening an exceptional conclave.",
+    "choices": {
+      "A": "Send an impressive martial delegation.",
+      "B": "Go only with your sternest administrators.",
+      "C": "Take advantage of the conclave to forge alliances concerning the surface."
+    }
+  },
+  "hk_161": {
+    "title": "War of Infernal Songs",
+    "body": "War anthems from the North are competing with those of your own legions.",
+    "choices": {
+      "A": "Compose even more terrifying songs.",
+      "B": "Forbid any song not validated by your order.",
+      "C": "Echo these anthems in the nightmares of the living."
+    }
+  },
+  "hk_162": {
+    "title": "Bridge of Black Crystal",
+    "body": "A black crystal bridge briefly connects your kingdom to a fortress in the North.",
+    "choices": {
+      "A": "Send your best legions to test their resistance.",
+      "B": "Strictly control all passage on this bridge.",
+      "C": "Use this bridge to spy on their contacts on the surface."
+    }
+  },
+  "hk_163": {
+    "title": "Treaty on Sharing Heresies",
+    "body": "The North proposes to share different heresies and mortal cults.",
+    "choices": {
+      "A": "Accept to increase your quick gains in souls.",
+      "B": "Refuse and codify your own independent cults.",
+      "C": "Sign to better discreetly infiltrate human religions."
+    }
+  },
+  "hk_164": {
+    "title": "Skirmish in the Lava Galleries",
+    "body": "A skirmish breaks out in galleries where your troops cross paths with those of the North.",
+    "choices": {
+      "A": "Reinforce military presence to impose your law there.",
+      "B": "Officially delimit passage zones.",
+      "C": "Install secret portals to the world of the living."
+    }
+  },
+  "hk_165": {
+    "title": "Coalition of Small Kingdoms",
+    "body": "Small infernal kingdoms turn to you out of fear of the North.",
+    "choices": {
+      "A": "Forcibly absorb them into your empire.",
+      "B": "Create an alliance supervised by a rigorous protocol.",
+      "C": "Use these kingdoms as pawns on the surface."
+    }
+  },
+  "hk_166": {
+    "title": "Symposium on Modern Torture",
+    "body": "The North proposes a symposium on new trends in torture.",
+    "choices": {
+      "A": "Send your most inventive torturers.",
+      "B": "Authorize participation only under strict control.",
+      "C": "Demand that certain techniques be tested first on the surface."
+    }
+  },
+  "hk_167": {
+    "title": "Sabotage of the Forges",
+    "body": "Strategic infernal forges suffer sabotage attributed to the North.",
+    "choices": {
+      "A": "Retaliate with a surprise raid on their arsenals.",
+      "B": "Launch a major internal investigation into security.",
+      "C": "Exploit the chaos to camouflage operations towards the surface."
+    }
+  },
+  "hk_168": {
+    "title": "Trafficking of Blasphemous Banners",
+    "body": "Banners from the North displaying your distorted effigy are circulating in your circles.",
+    "choices": {
+      "A": "Let them circulate to stir up hatred... and fear.",
+      "B": "Confiscate and archive every banner according to strict rules.",
+      "C": "Send some of these banners to mortal cults."
+    }
+  },
+  "hk_169": {
+    "title": "Rumor of Icy Treason",
+    "body": "It is whispered that some of your generals admire the discipline of the North.",
+    "choices": {
+      "A": "Preemptively purge the suspects.",
+      "B": "Monitor their actions via a hierarchical chain.",
+      "C": "Use them as intermediaries to manipulate the surface."
+    }
+  },
+  "hk_170": {
+    "title": "Monster of Black Ice",
+    "body": "A monster made of black ice has awakened in a shared corridor.",
+    "choices": {
+      "A": "Feed it with souls to submit it to your will.",
+      "B": "Lock it behind a series of seals and registries.",
+      "C": "Send it to haunt the polar zones of the living world."
+    }
+  },
+  "hk_171": {
+    "title": "Project for a Common Border",
+    "body": "Your administrators propose to officially codify the border with the North.",
+    "choices": {
+      "A": "Draw a border to better concentrate your legions elsewhere.",
+      "B": "Refuse: no border limits your kingdom.",
+      "C": "Create a permeable border towards certain points on the surface."
+    }
+  },
+  "hk_172": {
+    "title": "Exchange of Emblematic Prisoners",
+    "body": "The North suggests an exchange of particularly symbolic prisoners.",
+    "choices": {
+      "A": "Accept to recover useful souls.",
+      "B": "Refuse and establish a strict protocol regarding prisoners.",
+      "C": "Accept, but release certain captives on the surface."
+    }
+  },
+  "hk_173": {
+    "title": "Festival of Comparative Tortures",
+    "body": "An official festival compares the tortures of the North and yours.",
+    "choices": {
+      "A": "Emphasize brute efficiency in souls.",
+      "B": "Emphasize rigor and protocol.",
+      "C": "Export the best ideas to human societies."
+    }
+  },
+  "hk_174": {
+    "title": "Negotiations on Hero Souls",
+    "body": "The North claims a share of certain particularly rare hero souls.",
+    "choices": {
+      "A": "Cede a few souls in exchange for other concessions.",
+      "B": "Refuse and protect these souls in your internal order.",
+      "C": "Let them occasionally reincarnate to influence the surface."
+    }
+  },
+  "hk_175": {
+    "title": "Song of Northern Mists",
+    "body": "A song from the North vibrates the walls of your circles.",
+    "choices": {
+      "A": "Amplify it to attract more impressionable souls.",
+      "B": "Filter it through a ritual to make it predictable.",
+      "C": "Let this song brush against the dreams of certain mortals."
+    }
+  },
+  "hk_176": {
+    "title": "Secret Non-Interference Agreement",
+    "body": "An emissary proposes a secret agreement: each stops undermining the other.",
+    "choices": {
+      "A": "Accept to stabilize your empire in the short term.",
+      "B": "Refuse and further consolidate your internal order.",
+      "C": "Sign, but redirect your intrigues towards the surface."
+    }
+  },
+  "hk_177": {
+    "title": "Contest of Strategists",
+    "body": "Your strategists want to face those of the North in a contest of influence.",
+    "choices": {
+      "A": "Evaluate victory by the quantity of souls gained.",
+      "B": "Evaluate victory by the stability brought back to the circles.",
+      "C": "Evaluate victory by the scale of troubles on the surface."
+    }
+  },
+  "hk_178": {
+    "title": "Exchange of Damnation Manuals",
+    "body": "You are proposed an exchange of manuals describing various methods of damnation.",
+    "choices": {
+      "A": "Accept to enrich your techniques.",
+      "B": "Refuse and reinforce your own standards.",
+      "C": "Adapt certain chapters for discreet use among the living."
+    }
+  },
+  "hk_179": {
+    "title": "Ritual of Merging Braziers",
+    "body": "A ritual could temporarily merge certain braziers of the North and yours.",
+    "choices": {
+      "A": "Test the ritual to boost the soul harvest.",
+      "B": "Forbid it as long as it is not perfectly controlled.",
+      "C": "Direct part of this fusion towards the surface."
+    }
+  },
+  "hk_180": {
+    "title": "Invitation to a Soul Hunt",
+    "body": "The North invites you to a highly publicized 'soul hunt' in the circles.",
+    "choices": {
+      "A": "Participate by unleashing your most voracious legions.",
+      "B": "Set strict rules to limit the chaos.",
+      "C": "Extend this hunt to the dreams and hopes of mortals."
+    }
+  },
+  "hk_181": {
+    "title": "Joint Tribunal",
+    "body": "A tribunal co-chaired by your kingdom and the North is envisaged for certain exceptional cases.",
+    "choices": {
+      "A": "Accept to impress souls even more.",
+      "B": "Refuse and keep a monopoly on judgment.",
+      "C": "Use this tribunal to condemn symbolic human figures."
+    }
+  },
+  "hk_182": {
+    "title": "Sharing of Suffering Technologies",
+    "body": "The North proposes to share certain 'technologies' of continuous agony.",
+    "choices": {
+      "A": "Adapt them to maximize your soul harvest.",
+      "B": "Standardize them in your arsenal, in an orderly fashion.",
+      "C": "Test their effects via strange phenomena on Earth."
+    }
+  },
+  "hk_183": {
+    "title": "Sabotage of Your Archives",
+    "body": "Your central archives show traces of frost and corruption coming from the North.",
+    "choices": {
+      "A": "Respond by burning entire sections of their registries.",
+      "B": "Rebuild your archives with reinforced rigor.",
+      "C": "Take advantage of the confusion to erase a few traces on the surface."
+    }
+  },
+  "hk_184": {
+    "title": "Offer to Merge Pantheons",
+    "body": "The North suggests a partial merger of your mythologies among mortals.",
+    "choices": {
+      "A": "Merge to increase the appeal of your cults.",
+      "B": "Refuse and jealously protect your image.",
+      "C": "Accept, but orient the merger primarily towards terrestrial sects."
+    }
+  },
+  "hk_185": {
+    "title": "Poisoned Gift",
+    "body": "The North sends you an artifact supposed to strengthen your legions but with unknown effects.",
+    "choices": {
+      "A": "Activate it to immediately reinforce your troops.",
+      "B": "Place it in a sealed chest, carefully cataloged.",
+      "C": "Experiment with it on a few human intermediaries."
+    }
+  },
+  "hk_186": {
+    "title": "Duel Proposed Between Sovereigns",
+    "body": "A ruler of the North proposes a symbolic duel to settle certain differences.",
+    "choices": {
+      "A": "Accept and make this duel a grandiose spectacle.",
+      "B": "Refuse, judging it unworthy of your rank.",
+      "C": "Accept, but link the effects of the duel to terrestrial catastrophes."
+    }
+  },
+  "hk_187": {
+    "title": "Soul Smuggling Network",
+    "body": "A clandestine network is smuggling souls from one kingdom to another without authorization.",
+    "choices": {
+      "A": "Let it prosper in exchange for a fixed share.",
+      "B": "Break it and record every culprit.",
+      "C": "Divert it to feed projects on the surface."
+    }
+  },
+  "hk_188": {
+    "title": "Appeal to Higher Arbitration",
+    "body": "The North threatens to appeal to an even more ancient entity to settle your conflicts.",
+    "choices": {
+      "A": "Accept the risk, sure of your power.",
+      "B": "Reinforce your order to present an impeccable dossier.",
+      "C": "Prepare symbolic sacrifices among the living."
+    }
+  },
+  "hk_189": {
+    "title": "Bloody Diplomatic Incident",
+    "body": "A delegation from the North has been attacked in one of your circles by the damned.",
+    "choices": {
+      "A": "Accuse the North of provocation and retaliate.",
+      "B": "Acknowledge faults and codify better security.",
+      "C": "Use the incident as a pretext to expand your influence on Earth."
+    }
+  },
+  "hk_190": {
+    "title": "Conclave of Crossed Flames",
+    "body": "A special conclave brings together your flames and those of the North in the same hall.",
+    "choices": {
+      "A": "Seek to completely dominate the assembly.",
+      "B": "Set strict rules for each intervention.",
+      "C": "Link certain decisions to strange phenomena on the surface."
+    }
+  },
+  "hk_191": {
+    "title": "Treaty on Natural Disasters",
+    "body": "The North proposes a treaty to coordinate natural disasters influenced by Hell.",
+    "choices": {
+      "A": "Seize the opportunity to harvest more souls.",
+      "B": "Impose limits to preserve the balance of your circles.",
+      "C": "Concentrate certain disasters on strategic human locations."
+    }
+  },
+  "hk_192": {
+    "title": "Unified Hell Experiment",
+    "body": "A bold experiment would consist of briefly merging portions of your circles and those of the North.",
+    "choices": {
+      "A": "Accept to create a shock of massive damnation.",
+      "B": "Refuse, fearing total disorder.",
+      "C": "Test the unification first through human nightmares."
+    }
+  },
+  "hk_193": {
+    "title": "Revolt of the Messengers",
+    "body": "Your messengers, exhausted by trips back and forth with the North, demand a special status.",
+    "choices": {
+      "A": "Pay them in extra soul fragments.",
+      "B": "Create a strictly regulated corps of messengers.",
+      "C": "Partially redirect them to missions on the surface."
+    }
+  },
+  "hk_194": {
+    "title": "Discordant Accounting",
+    "body": "Your registries and those of the North do not agree on the exact number of shared souls.",
+    "choices": {
+      "A": "You impose your figures, by force if necessary.",
+      "B": "You organize an extremely rigorous infernal audit.",
+      "C": "You take advantage of the vagueness to make some souls 'disappear' to the surface."
+    }
+  },
+  "hk_195": {
+    "title": "Proposal for a Grand Common Empire",
+    "body": "Some advisors suggest creating a single empire merging your kingdom and the North.",
+    "choices": {
+      "A": "Support the idea to increase general power.",
+      "B": "Reject it to maintain absolute control of your order.",
+      "C": "Negotiate behind the scenes to orient this empire primarily towards the surface."
+    }
+  },
+  "hk_196": {
+    "title": "Revolt of the Archivists",
+    "body": "Your archivists complain about constantly having to adjust your registries according to agreements with the North.",
+    "choices": {
+      "A": "Push them to work harder to absorb more souls.",
+      "B": "Simplify certain agreements to restore clear order.",
+      "C": "Delegate part of the management to corrupt human institutions."
+    }
+  },
+  "hk_197": {
+    "title": "Chamber of Eternal Compromises",
+    "body": "A special chamber records every compromise you make with other hells.",
+    "choices": {
+      "A": "Multiply compromises to maximize soul flows.",
+      "B": "Limit these agreements to avoid diluting your authority.",
+      "C": "Use certain compromises as a pretext for events on Earth."
+    }
+  },
+  "hk_198": {
+    "title": "Ultimatum from the North",
+    "body": "The North presents you with an ultimatum: cede certain territories or risk open war.",
+    "choices": {
+      "A": "Refuse and prepare your legions.",
+      "B": "Cede secondary zones to buy time.",
+      "C": "Officially accept, but transfer the stakes to the surface."
+    }
+  },
+  "hk_199": {
+    "title": "Preparation of a Grand Treaty",
+    "body": "A grand treaty is being prepared to redraw the map of the hells.",
+    "choices": {
+      "A": "Seek mainly to increase your share of souls.",
+      "B": "Seek mainly to guarantee the stability of your order.",
+      "C": "Insert hidden clauses having effect on the world of the living."
+    }
+  },
+  "hk_200": {
+    "title": "Signature or Rupture",
+    "body": "Your advisors announce that the treaty with the North is ready to be signed... or rejected.",
+    "choices": {
+      "A": "Sign and proclaim the advent of a new infernal age.",
+      "B": "Refuse and accept a long period of organized tension.",
+      "C": "Sign while preparing a new era of corruption on the surface."
+    }
+  },
+  "hk_201": {
+    "title": "Uncontrolled Climate Crisis",
+    "body": "Mortals are triggering serial climate disasters, without really slowing down.",
+    "choices": {
+      "A": "Push their destructive behaviors to excess.",
+      "B": "Encourage a few measures of order to prolong the chaos.",
+      "C": "Channel certain storms to test new breaking points."
+    }
+  },
+  "hk_202": {
+    "title": "Spiritual Pollution",
+    "body": "The hearts of mortals are saturated with ecological guilt and simultaneous denial.",
+    "choices": {
+      "A": "Stoke their guilt to harvest more souls.",
+      "B": "Structure a few 'responsible' speeches to maintain apparent order.",
+      "C": "Let these tensions innervate radical movements on the surface."
+    }
+  },
+  "hk_203": {
+    "title": "Revolt of Coastal Cities",
+    "body": "Cities threatened by rising waters are demanding miracles.",
+    "choices": {
+      "A": "Let the disaster worsen to accelerate damnations.",
+      "B": "Inspire highly hierarchical but insufficient emergency plans.",
+      "C": "Use the panic to pave the way for desperate cults."
+    }
+  },
+  "hk_204": {
+    "title": "Toxic Waste Leak",
+    "body": "A massive leak of waste poisons lands and oceans.",
+    "choices": {
+      "A": "Whisper to certain mortals to minimize the incident.",
+      "B": "Encourage the implementation of standards, too late.",
+      "C": "Divert the anger towards violent political conflicts."
+    }
+  },
+  "hk_205": {
+    "title": "Disinformation War",
+    "body": "Mortals accuse each other of lies, to the point of doubting everything.",
+    "choices": {
+      "A": "Feed each camp with false revelations.",
+      "B": "Promote a few 'reasonable' voices to keep a structure.",
+      "C": "Raise gurus who profit from this fog."
+    }
+  },
+  "hk_206": {
+    "title": "Social Networks on Fire",
+    "body": "Surface networks turn into arenas of hate and envy.",
+    "choices": {
+      "A": "Amplify toxic comparisons and public humiliations.",
+      "B": "Support rules and moderation that reassure, without acting deeply.",
+      "C": "Use these platforms to spread new disguised cults."
+    }
+  },
+  "hk_207": {
+    "title": "Influencers of Despair",
+    "body": "Influential figures glorify fatigue, anger, and nihilism.",
+    "choices": {
+      "A": "Boost their audience to harvest more broken souls.",
+      "B": "Frame their message to avoid a total collapse of order.",
+      "C": "Push them to guide their followers towards irreversible acts."
+    }
+  },
+  "hk_208": {
+    "title": "Collapse of a Health System",
+    "body": "A country sees its health system saturated, the weakest are abandoned.",
+    "choices": {
+      "A": "Let leaders minimize the crisis to worsen the situation.",
+      "B": "Inspire a rigid reform, insufficient but structuring.",
+      "C": "Direct anger towards extremist movements."
+    }
+  },
+  "hk_209": {
+    "title": "Proliferation of Modern Sects",
+    "body": "New sects promise healing, wealth, and meaning... in exchange for total submission.",
+    "choices": {
+      "A": "Encourage their proliferation to harvest souls en masse.",
+      "B": "Let institutions establish control frameworks.",
+      "C": "Favor sects particularly connected to your cult."
+    }
+  },
+  "hk_210": {
+    "title": "Truth Crisis",
+    "body": "Mortals no longer know what to believe, everything is equal and nothing is certain.",
+    "choices": {
+      "A": "Push for absolute relativism to better break landmarks.",
+      "B": "Reinforce a few 'reliable' authorities to maintain a semblance of order.",
+      "C": "Plant in this fog the idea of salvation reserved for a chosen few."
+    }
+  },
+  "hk_211": {
+    "title": "War for Resources",
+    "body": "Several regions are fighting over water, food, and energy.",
+    "choices": {
+      "A": "Encourage brutal decisions and looting.",
+      "B": "Support fragile agreements to prolong tension.",
+      "C": "Raise charismatic leaders ready for anything."
+    }
+  },
+  "hk_212": {
+    "title": "Proliferation of Autonomous Weapons",
+    "body": "Mortals create weapons capable of killing without human mercy.",
+    "choices": {
+      "A": "Push them to delegate ever more decisions to these machines.",
+      "B": "Encourage complex but circumventable regulations.",
+      "C": "Let some of these weapons 'mistake' their target."
+    }
+  },
+  "hk_213": {
+    "title": "Mass Surveillance",
+    "body": "Surveillance systems scrutinize every gesture, every word.",
+    "choices": {
+      "A": "Make surveillance accepted in the name of security.",
+      "B": "Create precise, reassuring, but highly intrusive laws.",
+      "C": "Use this data to manipulate entire crowds."
+    }
+  },
+  "hk_214": {
+    "title": "Rush to Artificial Intelligence",
+    "body": "Mortals entrust their choices, their creativity, their attention to systems they do not understand.",
+    "choices": {
+      "A": "Encourage them to abandon their discernment.",
+      "B": "Structure strict rules, often ignored.",
+      "C": "Orient these systems towards subtle values of domination."
+    }
+  },
+  "hk_215": {
+    "title": "Loneliness Crisis",
+    "body": "Never have mortals been so connected... and so isolated.",
+    "choices": {
+      "A": "Push them to fill the void with destructive excesses.",
+      "B": "Encourage a few collective structures to keep social order.",
+      "C": "Create closed, quasi-sectarian communities."
+    }
+  },
+  "hk_216": {
+    "title": "Urban Riots",
+    "body": "Entire neighborhoods rise up, burn, and withdraw into themselves.",
+    "choices": {
+      "A": "Inflame anger to the point of no return.",
+      "B": "Inspire law enforcement to react according to strict protocols.",
+      "C": "Raise new violent leaders amidst the chaos."
+    }
+  },
+  "hk_217": {
+    "title": "Massive Data Leak",
+    "body": "The secrets of millions of mortals are divulged.",
+    "choices": {
+      "A": "Exploit this data to push everyone towards their worst temptation.",
+      "B": "Suggest laws to better regulate these leaks, without really preventing them.",
+      "C": "Use certain secrets to manipulate human leaders."
+    }
+  },
+  "hk_218": {
+    "title": "Refused Hospitality",
+    "body": "Crowds displaced by war or climate hit closed borders.",
+    "choices": {
+      "A": "Stoke fear of the other and withdrawal.",
+      "B": "Support strict policies presented as rational.",
+      "C": "Create violent groups that feed on these tensions."
+    }
+  },
+  "hk_219": {
+    "title": "Global Financial Crisis",
+    "body": "Markets collapse, wealth evaporates, fear rises.",
+    "choices": {
+      "A": "Push mortals to bet everything on immediate gain.",
+      "B": "Inspire complicated, conditional, and unequal bailout plans.",
+      "C": "Use this chaos to bind certain powerful people to your pacts."
+    }
+  },
+  "hk_220": {
+    "title": "Normalization of Corruption",
+    "body": "Corruption becomes an open secret in key institutions.",
+    "choices": {
+      "A": "Encourage resignation: 'everyone does it'.",
+      "B": "Stage a few exemplary, well-controlled trials.",
+      "C": "Propose infernal contracts behind the scenes to the most compromised."
+    }
+  },
+  "hk_221": {
+    "title": "Crisis of Trust in Science",
+    "body": "Mortals doubt everything, even the most established knowledge.",
+    "choices": {
+      "A": "Encourage the most absurd but seductive theories.",
+      "B": "Support a few scientific institutions to preserve a semblance of order.",
+      "C": "Create public figures who mix science, conspiracy, and cult."
+    }
+  },
+  "hk_222": {
+    "title": "Permanent Spectacle of Violence",
+    "body": "Violence is filmed, relayed, commented on live everywhere.",
+    "choices": {
+      "A": "Push mortals to become completely desensitized.",
+      "B": "Encourage policies of strict image control... never applied everywhere.",
+      "C": "Use this spectacle to recruit souls fascinated by cruelty."
+    }
+  },
+  "hk_223": {
+    "title": "Commodification of Everything",
+    "body": "Even intimacy, compassion, and grief become products.",
+    "choices": {
+      "A": "Encourage the sale of everything sacred.",
+      "B": "Let a few laws limit the most visible excesses.",
+      "C": "Create fake charities that serve your interests."
+    }
+  },
+  "hk_224": {
+    "title": "Cult of Performance",
+    "body": "Mortals define themselves only by their results, numbers, and exploits.",
+    "choices": {
+      "A": "Push this cult to self-destruction.",
+      "B": "Structure 'well-being' rules integrated into productivity.",
+      "C": "Use this pressure to make key individuals sign pacts."
+    }
+  },
+  "hk_225": {
+    "title": "Collapse of Wildlife",
+    "body": "The surface is losing its species, its forests, its ancient balances.",
+    "choices": {
+      "A": "Encourage the feeling of inevitability and 'too late'.",
+      "B": "Support highly regulated but insufficient protection policies.",
+      "C": "Transform this loss into fuel for extremist movements."
+    }
+  },
+  "hk_226": {
+    "title": "Exploitation Without Rest",
+    "body": "Night work, fragmented schedules, loss of sleep: mortals no longer rest.",
+    "choices": {
+      "A": "Push leaders to demand ever more.",
+      "B": "Instill regulations on working hours... full of loopholes.",
+      "C": "Create dependencies that keep everyone awake, at all costs."
+    }
+  },
+  "hk_227": {
+    "title": "Internal Desertification",
+    "body": "Mortals lose the taste for nuance, arts, and slowness.",
+    "choices": {
+      "A": "Push them towards empty and incessant entertainment.",
+      "B": "Encourage a few highly codified cultural institutions.",
+      "C": "Raise artistic movements fed by despair."
+    }
+  },
+  "hk_228": {
+    "title": "Family Crisis",
+    "body": "Family ties tear apart amidst violence, silence, and flight.",
+    "choices": {
+      "A": "Feed resentments, unspoken words, brutal breakups.",
+      "B": "Promote rigid, sometimes suffocating family models.",
+      "C": "Use these fractures to recruit souls in need of belonging."
+    }
+  },
+  "hk_229": {
+    "title": "Market of Artificial Memories",
+    "body": "Companies promise to recreate or erase memories.",
+    "choices": {
+      "A": "Push mortals to flee reality into these illusions.",
+      "B": "Regulate these practices with complex laws, easily circumvented.",
+      "C": "Insert traces of your influence into these memories."
+    }
+  },
+  "hk_230": {
+    "title": "Extinction of Collective Hope",
+    "body": "A dull wave takes over the surface: no one believes in a better future anymore.",
+    "choices": {
+      "A": "Transform this despair into total apathy and solitary vices.",
+      "B": "Let a few common projects emerge, strictly controlled.",
+      "C": "Propose, via chosen prophets, a 'salvation' that leads to your arms."
+    }
+  },
+  "hk_231": {
+    "title": "Drifting Space Colonies",
+    "body": "Orbiting stations and distant colonies gradually escape all Earthly control.",
+    "choices": {
+      "A": "Push colonists to break definitely with Earth.",
+      "B": "Inspire rigid charters to attempt to keep a link of order.",
+      "C": "Slip cults turned towards you into these isolated communities."
+    }
+  },
+  "hk_232": {
+    "title": "Race for Extraterrestrial Resources",
+    "body": "Mortals covet asteroids, moons, everything that can be exploited.",
+    "choices": {
+      "A": "Stoke the thirst for profit regardless of caution.",
+      "B": "Encourage complicated but unstable space treaties.",
+      "C": "Transform these stakes into quasi-religious rivalries between nations."
+    }
+  },
+  "hk_233": {
+    "title": "Total Metaverse",
+    "body": "Millions of mortals spend their lives in virtual worlds more seductive than reality.",
+    "choices": {
+      "A": "Push them to lose themselves until they forget themselves.",
+      "B": "Impose a few screen time rules to save the illusion of order.",
+      "C": "Insert secret zones dedicated to your cult into these metaverses."
+    }
+  },
+  "hk_234": {
+    "title": "Eternal Avatar",
+    "body": "Technology proposes to immortalize mortal consciousness in digital avatars.",
+    "choices": {
+      "A": "Encourage this flight from real death.",
+      "B": "Regulate access to this pseudo-immortality with strict protocols.",
+      "C": "Slip in flaws that let your influence filter into these avatars."
+    }
+  },
+  "hk_235": {
+    "title": "Disordered Transhumanism",
+    "body": "Implants, genetic modifications, body optimizations: some mortals redefine themselves.",
+    "choices": {
+      "A": "Push for the most extreme modifications.",
+      "B": "Create legal standards, contradictory and complex.",
+      "C": "Reserve a few 'improvements' for servants linked to you."
+    }
+  },
+  "hk_236": {
+    "title": "Unofficial Cloning",
+    "body": "Clandestine laboratories play with human cloning, without any framework.",
+    "choices": {
+      "A": "Let these experiments proliferate in secret.",
+      "B": "Leak certain info to impose spectacular laws.",
+      "C": "Mark certain clones with a seal only your servants recognize."
+    }
+  },
+  "hk_237": {
+    "title": "Black Market for Organs",
+    "body": "An underground economy of organs develops on a large scale.",
+    "choices": {
+      "A": "Encourage cynicism: everything has a price, even the body.",
+      "B": "Support highly visible but shallow police operations.",
+      "C": "Use certain channels to bind surgeons to your pacts."
+    }
+  },
+  "hk_238": {
+    "title": "Bioengineering Revolution",
+    "body": "Modified plants, animals, and bacteria begin to reshape entire ecosystems.",
+    "choices": {
+      "A": "Push mortals to test without waiting for consequences.",
+      "B": "Impose trial protocols, quickly circumvented.",
+      "C": "Create special strains that favor your future cults."
+    }
+  },
+  "hk_239": {
+    "title": "Disaster Tourism",
+    "body": "Mortals pay to visit stricken areas, battlefields, places of drama.",
+    "choices": {
+      "A": "Trivialize this tourism until it becomes mass entertainment.",
+      "B": "Regulate these practices with strict but symbolic moral rules.",
+      "C": "Attract these visitors to experiences that break their empathy."
+    }
+  },
+  "hk_240": {
+    "title": "Industry of Memory of the Dead",
+    "body": "Companies manage profiles, videos, messages of the deceased as a monetizable resource.",
+    "choices": {
+      "A": "Maximize monetization of the presence of the dead in the lives of the living.",
+      "B": "Establish a few legal limits on the use of this data.",
+      "C": "Introduce messages into these archives that orient the living towards you."
+    }
+  },
+  "hk_241": {
+    "title": "Scapegoat Politics",
+    "body": "Leaders systematically designate groups as responsible for everything.",
+    "choices": {
+      "A": "Amplify this strategy to open persecution.",
+      "B": "Encourage official commissions to give a form of order.",
+      "C": "Transform these tensions into quasi-religious conflicts."
+    }
+  },
+  "hk_242": {
+    "title": "Justice as Spectacle",
+    "body": "Trials become primarily media shows, rather than places of truth.",
+    "choices": {
+      "A": "Encourage expedited and spectacular judgments.",
+      "B": "Impose rigid procedural codes, often misused.",
+      "C": "Use these spectacles to crush your enemies and elevate your pawns."
+    }
+  },
+  "hk_243": {
+    "title": "Education in Ruins",
+    "body": "Educational systems crumble under inequalities, tensions, fatigue.",
+    "choices": {
+      "A": "Push each generation to emerge more disillusioned than the last.",
+      "B": "Structure complex reforms, changing every five years.",
+      "C": "Create parallel schools serving your ideology."
+    }
+  },
+  "hk_244": {
+    "title": "Explosion of Psychotropics",
+    "body": "Between medications, drugs, and substitutes, the surface floats in a chemical fog.",
+    "choices": {
+      "A": "Normalize daily usage to avoid any real introspection.",
+      "B": "Regulate certain products, while letting others prosper.",
+      "C": "Link certain distribution networks to your servants."
+    }
+  },
+  "hk_245": {
+    "title": "Colonization of Dreams",
+    "body": "Advertising, screens, and fatigue invade even the sleep of mortals.",
+    "choices": {
+      "A": "Definitively blur the boundary between dream and social pressure.",
+      "B": "Let discourses on 'sacred rest' emerge, little followed.",
+      "C": "Use these dreams to implant symbols leading to you."
+    }
+  },
+  "hk_246": {
+    "title": "Market Spiritualities",
+    "body": "A multitude of small spiritualities sell inner peace, success, and serenity in kits.",
+    "choices": {
+      "A": "Encourage permanent spiritual zapping.",
+      "B": "Frame these practices within respectable institutions.",
+      "C": "Disguise some of your rituals as 'personal development' workshops."
+    }
+  },
+  "hk_247": {
+    "title": "Sacralization of Celebrity",
+    "body": "Being known becomes more important than everything one truly is.",
+    "choices": {
+      "A": "Push mortals to sacrifice everything for a few moments of glory.",
+      "B": "Create moral codes around 'good' celebrity.",
+      "C": "Use this thirst to propose quick and dangerous pacts."
+    }
+  },
+  "hk_248": {
+    "title": "Flight to Tax Havens",
+    "body": "Wealth slips into zones out of reach of most laws.",
+    "choices": {
+      "A": "Encourage extreme concentration of fortunes.",
+      "B": "Support opaque and incomplete international agreements.",
+      "C": "Forge personal pacts with a few great holders of this wealth."
+    }
+  },
+  "hk_249": {
+    "title": "Normalization of Psychological Torture",
+    "body": "Harassment at work, online, at school: torture is mostly mental, and tolerated.",
+    "choices": {
+      "A": "Make this silent violence a cultural norm.",
+      "B": "Impose charters and procedures that give an illusion of protection.",
+      "C": "Transform certain victims into executioners, then servants."
+    }
+  },
+  "hk_250": {
+    "title": "Refusal to Age",
+    "body": "The surface refuses old age, weakness, dependence: everything must remain young, profitable, smooth.",
+    "choices": {
+      "A": "Push mortals to deny their finitude to the end.",
+      "B": "Promote highly codified 'dignity' policies, often inaccessible.",
+      "C": "Use this fear to propose life extensions... attached to an eternal price."
+    }
+  },
+  "hk_251": {
+    "title": "Rain of Feathers",
+    "body": "A rain of golden feathers falls right into your circles. The damned look up: Paradise is manifesting.",
+    "choices": {
+      "A": "Profane these feathers by burning them under the screams of souls.",
+      "B": "Record them as evidence in your archives.",
+      "C": "Let them float back up to the surface as ambiguous 'miracles'."
+    }
+  },
+  "hk_252": {
+    "title": "Messenger with Wings Too White",
+    "body": "An angel messenger descends with a parchment: Paradise demands a renegotiation of borders.",
+    "choices": {
+      "A": "Tear up the parchment before his eyes and affirm your sovereignty.",
+      "B": "Accept an extremely rigid discussion protocol.",
+      "C": "Leak the existence of this angel to a few mortals."
+    }
+  },
+  "hk_253": {
+    "title": "Contested Souls",
+    "body": "Some dead are claimed by both Paradise and you.",
+    "choices": {
+      "A": "Claim that any ambiguity is settled in your favor.",
+      "B": "Create an arbitration tribunal with infernally complex rules.",
+      "C": "Let a few cases get lost in miracles or visions on Earth."
+    }
+  },
+  "hk_254": {
+    "title": "Parasitic Celestial Songs",
+    "body": "Songs from Paradise can be heard deep in your pits.",
+    "choices": {
+      "A": "Drown out these songs with a din of lamentations.",
+      "B": "Analyze and classify them meticulously in your registries.",
+      "C": "Let these melodies filter into the dreams of the living, but distorted."
+    }
+  },
+  "hk_255": {
+    "title": "Petition of Saints",
+    "body": "A group of saints officially demands more compassion for certain damned souls.",
+    "choices": {
+      "A": "Laugh openly at their naivety.",
+      "B": "Open a 're-examination' file as long as eternity.",
+      "C": "Let the idea of amnesty contaminate a few mortal hearts."
+    }
+  },
+  "hk_256": {
+    "title": "Non-Interference Agreement",
+    "body": "Paradise proposes a pact: fewer direct temptations, in exchange for fewer spectacular miracles.",
+    "choices": {
+      "A": "Refuse and continue the war of total influence.",
+      "B": "Accept by precisely codifying every exception.",
+      "C": "Sign officially, while hijacking the game on the surface."
+    }
+  },
+  "hk_257": {
+    "title": "Overwhelmed Angels",
+    "body": "Guardian angels are complaining above: too many souls are sliding towards you.",
+    "choices": {
+      "A": "Multiply opportunities to fall to test their limits.",
+      "B": "Accept a few 'corridors of grace' to keep global order.",
+      "C": "Let certain frustrated angels influence mortals in a... less pure way."
+    }
+  },
+  "hk_258": {
+    "title": "Cracked Bridge of Light",
+    "body": "An ancient bridge of light between Paradise and Hell cracks, exposing unexpected passages.",
+    "choices": {
+      "A": "Sabotage the bridge to cut any direct link.",
+      "B": "Put the bridge under strict administrative control.",
+      "C": "Let a few cracks open randomly onto the surface."
+    }
+  },
+  "hk_259": {
+    "title": "Runaway Soul",
+    "body": "A soul promised to Paradise managed to slip into your circles by trickery.",
+    "choices": {
+      "A": "Keep it as a trophy, risking a diplomatic incident.",
+      "B": "Send it back with a detailed report proving your good faith.",
+      "C": "Send it back only after showing it Hell... and the surface."
+    }
+  },
+  "hk_260": {
+    "title": "Cancelled Miracle",
+    "body": "A miracle in preparation on Earth is suddenly cancelled by your maneuvers.",
+    "choices": {
+      "A": "Boast to the angels about breaking their little show.",
+      "B": "Record this celestial failure in your archives for later.",
+      "C": "Let rumors of a 'failed miracle' poison the faith of mortals."
+    }
+  },
+  "hk_261": {
+    "title": "Messiah Contest",
+    "body": "Several figures present themselves as saviors sent from above... some do not come from Paradise.",
+    "choices": {
+      "A": "Multiply false prophets to dilute any true light.",
+      "B": "Frame their movements with infernal control rules.",
+      "C": "Leave a few sincere chosen ones, but under strong pressure from darkness."
+    }
+  },
+  "hk_262": {
+    "title": "Wrath of an Archangel",
+    "body": "An archangel threatens to unleash his wrath on some of your circles.",
+    "choices": {
+      "A": "Provoke further and test his limits.",
+      "B": "Cede a minor symbol to preserve the balance.",
+      "C": "Divert his wrath towards dramatic events on Earth."
+    }
+  },
+  "hk_263": {
+    "title": "Negotiations on Purgatory",
+    "body": "Paradise wants to reinforce an intermediate zone to relieve your prisons.",
+    "choices": {
+      "A": "Refuse: you return no soul along the way.",
+      "B": "Accept, but impose strict sorting rules.",
+      "C": "Use this purgatory to influence the living through visions."
+    }
+  },
+  "hk_264": {
+    "title": "Desertion of an Angel",
+    "body": "It is whispered that an angel has deserted Paradise, disgusted by certain decisions.",
+    "choices": {
+      "A": "Welcome him and make him a symbol of your superiority.",
+      "B": "Question him methodically and record every detail.",
+      "C": "Discreetly send this fallen angel to sow trouble on the surface."
+    }
+  },
+  "hk_265": {
+    "title": "Censorship of Prayers",
+    "body": "Some supplicants receive no answer, neither from above nor from below.",
+    "choices": {
+      "A": "Let this silence feed bitterness and doubt.",
+      "B": "Impose a form of order: certain prayers will always be heard.",
+      "C": "Answer a few prayers in your own way, pretending to be Heaven."
+    }
+  },
+  "hk_266": {
+    "title": "Accusation of Interference",
+    "body": "Paradise accuses you of meddling in miracles to pervert them.",
+    "choices": {
+      "A": "Fully admit it and dare the angels to intervene.",
+      "B": "Deny everything and demand a celestial-infernal audit.",
+      "C": "Continue, but only via earthly 'coincidences'."
+    }
+  },
+  "hk_267": {
+    "title": "Light Leak",
+    "body": "Light from above infiltrates part of your tunnels.",
+    "choices": {
+      "A": "Devour it with your darkness before it spreads.",
+      "B": "Lock it in a sealed room, carefully cataloged.",
+      "C": "Let a few reflections reverberate towards the horizon of mortals."
+    }
+  },
+  "hk_268": {
+    "title": "Dissonant Choir",
+    "body": "The songs of your damned overlap with an angelic choir. The result is... strange.",
+    "choices": {
+      "A": "Transform this sonic chaos into a weapon of terror.",
+      "B": "Attempt to codify these dissonances in your rituals.",
+      "C": "Send this echo to the ears of certain mortal artists."
+    }
+  },
+  "hk_269": {
+    "title": "Stubborn Patron Saint",
+    "body": "A saint refuses to let a city fall completely under your influence.",
+    "choices": {
+      "A": "Multiply targeted temptations to break his resistance.",
+      "B": "Bypass this saint by attacking other places.",
+      "C": "Create scandals around his memory among the living."
+    }
+  },
+  "hk_270": {
+    "title": "True Relic",
+    "body": "An authentic relic, linked to Paradise, reappears on Earth.",
+    "choices": {
+      "A": "Surround it with false miracles to blur its meaning.",
+      "B": "Discreetly inscribe it in your registries as an object to watch.",
+      "C": "Push some to kill each other to control it."
+    }
+  },
+  "hk_271": {
+    "title": "Celestial Procession",
+    "body": "A procession of luminous souls briefly crosses one of your sulfur skies.",
+    "choices": {
+      "A": "Attempt to capture a few souls in the passage.",
+      "B": "Let them pass to avoid a major incident.",
+      "C": "Project this vision into the dreams of certain unstable mortals."
+    }
+  },
+  "hk_272": {
+    "title": "Revision of Damnation Rules",
+    "body": "Paradise proposes to review the list of mortal sins.",
+    "choices": {
+      "A": "Reject any reform that would limit your harvest.",
+      "B": "Accept, provided you write the fine print yourself.",
+      "C": "Rewrite certain sins to better trap modern mortals."
+    }
+  },
+  "hk_273": {
+    "title": "Unbridled Angel Worship",
+    "body": "On Earth, some mortals idealize angels to the point of making them idols.",
+    "choices": {
+      "A": "Encourage idolatry to hijack true spirituality.",
+      "B": "Let Paradise handle this embarrassing drift.",
+      "C": "Slip symbols belonging to you into these cults."
+    }
+  },
+  "hk_274": {
+    "title": "Negotiation on Martyrs",
+    "body": "Paradise wants to recover the souls of martyrs you deem corrupt.",
+    "choices": {
+      "A": "Refuse: a fanatical martyr feeds you perfectly.",
+      "B": "Accept on a case-by-case basis, after detailed investigation.",
+      "C": "Let them go back up occasionally, but marked by your scars."
+    }
+  },
+  "hk_275": {
+    "title": "Rain of Local Miracles",
+    "body": "A region experiences a series of small miracles attributed to Paradise.",
+    "choices": {
+      "A": "Counter-attack with an avalanche of targeted temptations.",
+      "B": "Monitor and archive every event without intervening directly.",
+      "C": "Transform these miracles into a source of jealousy and social chaos."
+    }
+  },
+  "hk_276": {
+    "title": "Broken Harp",
+    "body": "A celestial harp falls to pieces into one of your lakes of fire.",
+    "choices": {
+      "A": "Turn it into an instrument of sonic torture.",
+      "B": "Keep it intact as proof of a failure of Paradise.",
+      "C": "Let fragments of it rise back into the world of artists."
+    }
+  },
+  "hk_277": {
+    "title": "Rumor of Reconciliation",
+    "body": "A noise runs: one day, Paradise and Hell will be reconciled.",
+    "choices": {
+      "A": "Ridicule this idea until it disappears.",
+      "B": "Record it in your archives as a distant hypothesis.",
+      "C": "Let this rumor feed strange sects on Earth."
+    }
+  },
+  "hk_278": {
+    "title": "Souls in Transit",
+    "body": "A rare corridor allows souls to briefly glimpse Paradise and Hell before choosing.",
+    "choices": {
+      "A": "Disrupt the corridor so it leads more to you.",
+      "B": "Set strict rules on the use of this passage.",
+      "C": "Project this choice into the dreams of some people still alive."
+    }
+  },
+  "hk_279": {
+    "title": "Dispute over Children's Prayers",
+    "body": "Paradise asserts that all children's prayers must go to them.",
+    "choices": {
+      "A": "Contest: some children are already your potential creatures.",
+      "B": "Concede officially... while playing on the adults surrounding them.",
+      "C": "Transform certain prayers into nightmares that will mark their lives."
+    }
+  },
+  "hk_280": {
+    "title": "Celestial Library",
+    "body": "A library is discovered above that also records your own deeds.",
+    "choices": {
+      "A": "Attempt to sabotage these archives via indirect influence.",
+      "B": "Compare their data with your registries to adjust order.",
+      "C": "Let certain mortals pick up snippets of this library in their visions."
+    }
+  },
+  "hk_281": {
+    "title": "Souls Refusing Both",
+    "body": "A few souls refuse both Paradise and Hell, claiming their own path.",
+    "choices": {
+      "A": "Break them until they finally choose.",
+      "B": "Create a special status of 'unclassified' souls in your order.",
+      "C": "Let this idea of total refusal inspire some living people."
+    }
+  },
+  "hk_282": {
+    "title": "Angels Infiltrated on Earth",
+    "body": "Angels descend discreetly to the surface to interfere with your plans.",
+    "choices": {
+      "A": "Track them via your servants and corrupt them.",
+      "B": "Monitor them methodically to adjust your strategies.",
+      "C": "Let humans mistake them for your own envoys."
+    }
+  },
+  "hk_283": {
+    "title": "Sign in the Sky",
+    "body": "An apparition visible to entire crowds is interpreted as a sign from Paradise.",
+    "choices": {
+      "A": "Immediately provoke a scandal or drama that distracts from its meaning.",
+      "B": "Let religious institutions tear each other apart over the meaning.",
+      "C": "Inspire contradictory interpretations leading to division."
+    }
+  },
+  "hk_284": {
+    "title": "Angel Update",
+    "body": "Paradise 'updates' certain angels to better understand the modern world.",
+    "choices": {
+      "A": "Exploit their remaining gaps to trap them.",
+      "B": "Observe these new methods in detail to adapt your order.",
+      "C": "Push them to give mortals advice that ends badly."
+    }
+  },
+  "hk_285": {
+    "title": "Compassion Contest",
+    "body": "A celestial initiative proposes mortals practice radical compassion.",
+    "choices": {
+      "A": "Make it an ephemeral fad ridiculed quickly.",
+      "B": "Let a few communities hold on, to maintain a balance.",
+      "C": "Divert this compassion towards destructive long-term causes."
+    }
+  },
+  "hk_286": {
+    "title": "Riot in Paradise",
+    "body": "It is whispered that a quarrel is breaking out even among the blessed.",
+    "choices": {
+      "A": "Propagate the rumor everywhere to weaken Heaven's image.",
+      "B": "Carefully record every detail for a future negotiation.",
+      "C": "Let certain living people receive visions of this disorder."
+    }
+  },
+  "hk_287": {
+    "title": "Rescued Souls",
+    "body": "Paradise proposes to 'rescue' a few souls from your deepest pits.",
+    "choices": {
+      "A": "Refuse any remission of sentence.",
+      "B": "Accept a tiny quota in exchange for official concessions.",
+      "C": "Let cases rise up that will tell horrors to the living."
+    }
+  },
+  "hk_288": {
+    "title": "Imposed Conciliation",
+    "body": "A superior force demands that Paradise and Hell find common ground on certain subjects.",
+    "choices": {
+      "A": "Resist any constraint, even if it provokes a crisis.",
+      "B": "Accept an extremely bureaucratic conciliation framework.",
+      "C": "Transpose this conflict into human institutions."
+    }
+  },
+  "hk_289": {
+    "title": "Conflict over Animals",
+    "body": "The question arises: do animals have a place in Paradise, in Hell, elsewhere?",
+    "choices": {
+      "A": "Claim all ferocious and cruel beasts for yourself.",
+      "B": "Propose a neutral, highly ordered archiving zone.",
+      "C": "Let the living debate, creating religions centered on animals."
+    }
+  },
+  "hk_290": {
+    "title": "Lake of Light Amidst Fire",
+    "body": "A lake of pure light suddenly appears in the heart of one of your volcanoes.",
+    "choices": {
+      "A": "Attempt to extinguish it with brute force.",
+      "B": "Delimit it, inventory it, and integrate it into your order.",
+      "C": "Let reflections of it appear on certain sacred earthly sites."
+    }
+  },
+  "hk_291": {
+    "title": "Dispute over Artists",
+    "body": "Paradise claims that certain inspired artists should never end up with you.",
+    "choices": {
+      "A": "Reply that genius excuses nothing.",
+      "B": "Set up a special commission for their cases.",
+      "C": "Inspire a cult of cursed artists on Earth."
+    }
+  },
+  "hk_292": {
+    "title": "Seal Broken on Earth",
+    "body": "An ancient seal, supposed to protect a sacred place, breaks. Paradise and Hell blame each other.",
+    "choices": {
+      "A": "Take immediate advantage of the breach.",
+      "B": "Propose a joint investigation to fix responsibilities.",
+      "C": "Transform this place into a focal point of ambiguous apparitions."
+    }
+  },
+  "hk_293": {
+    "title": "Contradictory Prophecy",
+    "body": "An earthly prophecy announces both the victory of Paradise... and yours.",
+    "choices": {
+      "A": "Push mortals to choose the most destructive interpretation.",
+      "B": "Classify the prophecy among files to watch.",
+      "C": "Raise rival sects each claiming the 'true' meaning."
+    }
+  },
+  "hk_294": {
+    "title": "Exchange of Liturgies",
+    "body": "An exchange of studies on liturgies is proposed: prayers from above, rituals from below.",
+    "choices": {
+      "A": "Refuse to let your secrets go up.",
+      "B": "Accept but censor anything that implicates you too much.",
+      "C": "Transform some of your rituals into popular practices on Earth."
+    }
+  },
+  "hk_295": {
+    "title": "Aborted Joint Party",
+    "body": "A crazy idea is circulating: organize a symbolic party between Heaven and Hells.",
+    "choices": {
+      "A": "Sabotage the project from the start.",
+      "B": "Demand a protocol so strict that nothing will be spontaneous.",
+      "C": "Let the idea descend to Earth to inspire an ambiguous celebration."
+    }
+  },
+  "hk_296": {
+    "title": "Exemplary Soul",
+    "body": "A soul, even after seeing your horrors, continues to love Paradise.",
+    "choices": {
+      "A": "Torture it until this attachment is broken.",
+      "B": "Study it as a textbook case in your administration.",
+      "C": "Let its story filter through to a few mortals... exaggerating it."
+    }
+  },
+  "hk_297": {
+    "title": "Canonized King of Hell",
+    "body": "On Earth, a cult begins to present you as a necessary figure of balance.",
+    "choices": {
+      "A": "Encourage this cult: being worshipped is always useful.",
+      "B": "Monitor it so it doesn't disturb your internal order too much.",
+      "C": "Let it be condemned by religious authorities, increasing its popularity."
+    }
+  },
+  "hk_298": {
+    "title": "Angel on Punitive Mission",
+    "body": "An angel is sent to punish some of your 'exaggerations' on Earth.",
+    "choices": {
+      "A": "Defy him openly with infernal prodigies.",
+      "B": "Let him strike a few secondary targets to calm Paradise.",
+      "C": "Push him to go too far, turning mortals against him."
+    }
+  },
+  "hk_299": {
+    "title": "Vision of an Empty Hell",
+    "body": "Some mortals claim to have seen a vision: a Hell without souls.",
+    "choices": {
+      "A": "Turn this vision into ridicule, a simple illusion.",
+      "B": "Record it as an unlikely variable in your calculations.",
+      "C": "Let this vision feed movements preaching that 'no one will be damned'."
+    }
+  },
+  "hk_300": {
+    "title": "Last Impossible Compromise",
+    "body": "A final compromise text between Paradise and Hell is placed on your stone table.",
+    "choices": {
+      "A": "Reduce it to ashes and choose eternal confrontation.",
+      "B": "Sign it, adding a layer of rules to your empire.",
+      "C": "Sign it... then move the real battlefield to the hearts of mortals."
+    }
+  },
+
+  "hk_301": {
+    "title": "Scribe Revolt",
+    "body": "Infernal scribes are complaining: too many souls, not enough time to record everything.",
+    "choices": {
+      "A": "Demand they write until their quills break.",
+      "B": "Reorganize the administration by creating new offices.",
+      "C": "Automate part of the sorting by delegating it to the surface."
+    }
+  },
+  "hk_302": {
+    "title": "Demonic Gladiators",
+    "body": "Demons want to create a permanent arena for prestige fights.",
+    "choices": {
+      "A": "Let them tear each other apart to entertain the damned.",
+      "B": "Structure strict rules and elite ranks.",
+      "C": "Broadcast the spectacle into the dreams of mortals."
+    }
+  },
+  "hk_303": {
+    "title": "Rumor of Treason",
+    "body": "One of your lieutenants is reportedly building his own faction.",
+    "choices": {
+      "A": "Trap him publicly to assert your domination.",
+      "B": "Place him under close surveillance in a cell of order.",
+      "C": "Use him as a pawn to infiltrate other circles."
+    }
+  },
+  "hk_304": {
+    "title": "Torture Reform",
+    "body": "Some demons propose 'psychological' methods rather than physical ones.",
+    "choices": {
+      "A": "Encourage these refinements to harvest more broken souls.",
+      "B": "Codify these methods in a new official manual.",
+      "C": "Test these techniques first on the living through the surface."
+    }
+  },
+  "hk_305": {
+    "title": "Union of the Damned",
+    "body": "A group of damned souls demands 'basic rights' in your pits.",
+    "choices": {
+      "A": "Crush this movement to remind them what Hell is.",
+      "B": "Create a very strict pseudo-charter, purely decorative.",
+      "C": "Let this union inspire a few human revolts."
+    }
+  },
+  "hk_306": {
+    "title": "Festival of Flames",
+    "body": "Your legions want to organize a festival to celebrate your victories.",
+    "choices": {
+      "A": "Authorize a total unleashing of festive violence.",
+      "B": "Frame the party within a rigorous military protocol.",
+      "C": "Project visions of the festival into the minds of mortal artists."
+    }
+  },
+  "hk_307": {
+    "title": "School of Corruption",
+    "body": "It is proposed to open a grand school to train the best corrupters.",
+    "choices": {
+      "A": "Accept and recruit the cruelest talents.",
+      "B": "Integrate this school into the existing administrative order.",
+      "C": "Send its best graduates to teach on Earth."
+    }
+  },
+  "hk_308": {
+    "title": "Soul Storm",
+    "body": "A strange storm spins souls around and mixes up the registries.",
+    "choices": {
+      "A": "Dive into the chaos to increase your harvest.",
+      "B": "Suspend all judgment and sort everything by hand.",
+      "C": "Let the storm blow to the borders of the surface."
+    }
+  },
+  "hk_309": {
+    "title": "Immortal Chronicler",
+    "body": "A demon proposes to write a complete chronicle of all your reigns.",
+    "choices": {
+      "A": "Give him access to everything and let him get lost in the details.",
+      "B": "Supervise every page to control the official narrative.",
+      "C": "Drop a few chapters onto Earth in the form of legends."
+    }
+  },
+  "hk_310": {
+    "title": "Flame Rationing",
+    "body": "The eternal flames seem to be weakening in certain districts.",
+    "choices": {
+      "A": "Reallocate flames to the most productive zones.",
+      "B": "Implement a system of strict quotas.",
+      "C": "Count on the surface to provide new fuels."
+    }
+  },
+  "hk_311": {
+    "title": "Black Market of Pain",
+    "body": "A secret trade of exchanging sufferings has developed among the damned.",
+    "choices": {
+      "A": "Let it happen: anything that increases global pain suits you.",
+      "B": "Regulate this market to avoid imbalances.",
+      "C": "Export this system into the dreams of the living."
+    }
+  },
+  "hk_312": {
+    "title": "Abyss Architects",
+    "body": "Demonic architects want to remodel certain circles.",
+    "choices": {
+      "A": "Give them carte blanche to create unprecedented horrors.",
+      "B": "Validate detailed plans respecting a strict order.",
+      "C": "Draw inspiration from human structures to make Hell familiar to new souls."
+    }
+  },
+  "hk_313": {
+    "title": "Library of Regrets",
+    "body": "You are proposed to gather all the regrets of mortals in a single place.",
+    "choices": {
+      "A": "Make it a pit of torment available for browsing at will.",
+      "B": "Index each regret to refine your future temptations.",
+      "C": "Let certain mortals feel the echo of this library."
+    }
+  },
+  "hk_314": {
+    "title": "Tournament of Tempters",
+    "body": "The best tempters compete to prove their superiority.",
+    "choices": {
+      "A": "Reward the most cruel and inventive.",
+      "B": "Formalize a ranking and a promotion order.",
+      "C": "Give certain winners special missions on Earth."
+    }
+  },
+  "hk_315": {
+    "title": "Epidemic of Weariness",
+    "body": "Even some demons seem tired of torturing always in the same way.",
+    "choices": {
+      "A": "Push them to rediscover pure cruelty.",
+      "B": "Implement a highly organized task rotation.",
+      "C": "Let this weariness contaminate the living in the form of existential void."
+    }
+  },
+  "hk_316": {
+    "title": "Flight into Dreams",
+    "body": "A portion of the damned takes refuge in sorts of lucid dreams to flee the pain.",
+    "choices": {
+      "A": "Shatter these refuges with even worse nightmares.",
+      "B": "Catalog these escapes to control them.",
+      "C": "Test these escape mechanisms on certain mortals."
+    }
+  },
+  "hk_317": {
+    "title": "Time Experiments",
+    "body": "Demon scientists want to bend time to repeat the same pain infinitely.",
+    "choices": {
+      "A": "Let them experiment on anonymous souls.",
+      "B": "Frame these experiments to keep a global structure.",
+      "C": "Apply these time distortions in key human lives."
+    }
+  },
+  "hk_318": {
+    "title": "Court of Forbidden Pleasures",
+    "body": "An infernal court is created around perverse pleasures reserved for a privileged few.",
+    "choices": {
+      "A": "Turn a blind eye as long as it attracts more souls.",
+      "B": "Integrate this court into the official order, with ranks and titles.",
+      "C": "Project this logic of privilege into human elites."
+    }
+  },
+  "hk_319": {
+    "title": "Blasphemy Competition",
+    "body": "A contest is organized to invent the most refined blasphemies.",
+    "choices": {
+      "A": "Let dark creativity unleash itself.",
+      "B": "Keep the most effective ones in an official manual.",
+      "C": "Leak certain blasphemies into popular culture."
+    }
+  },
+  "hk_320": {
+    "title": "Deserted Circle",
+    "body": "A formerly very busy circle is strangely less populated.",
+    "choices": {
+      "A": "Transfer new souls there to restart activity.",
+      "B": "Completely remodel this circle for a new concept.",
+      "C": "Use this desert as an experimentation zone for the surface."
+    }
+  },
+  "hk_321": {
+    "title": "Allegiance of a Forgotten Kingdom",
+    "body": "An ancient human kingdom, almost erased from history, renews its loyalty to your name.",
+    "choices": {
+      "A": "Honor it by resurrecting its symbols in your armies.",
+      "B": "Carefully archive it for strategic use.",
+      "C": "Let a few remnants reappear on Earth."
+    }
+  },
+  "hk_322": {
+    "title": "Silent Forges",
+    "body": "Demonic forges are slowing down due to a lack of new metals and ideas.",
+    "choices": {
+      "A": "Force production by recycling everything lying around.",
+      "B": "Plan a complete refit of the workshops.",
+      "C": "Import machine ideas by inspiring human inventors."
+    }
+  },
+  "hk_323": {
+    "title": "Inverted Carnival",
+    "body": "Your demons want to organize a carnival where executioners and victims swap roles.",
+    "choices": {
+      "A": "Launch this carnival to break all landmarks.",
+      "B": "Set limits to avoid a total breakdown of order.",
+      "C": "Make this concept resonate in human parties."
+    }
+  },
+  "hk_324": {
+    "title": "Unknown Ritual",
+    "body": "A forgotten ritual reactivates spontaneously in a remote corner of Hell.",
+    "choices": {
+      "A": "Let it unfold and observe.",
+      "B": "Integrate it into your system after dissecting it.",
+      "C": "Leak fragments of this ritual into human grimoires."
+    }
+  },
+  "hk_325": {
+    "title": "Lying Contest",
+    "body": "Your agents organize a contest: who will tell the most destructive lie.",
+    "choices": {
+      "A": "Reward lies that destroy entire lives.",
+      "B": "Meticulously note every technique for your archives.",
+      "C": "Implant these lies into human public speeches."
+    }
+  },
+  "hk_326": {
+    "title": "Council of Ancient Demons",
+    "body": "The oldest demons demand a special council to give you their opinion.",
+    "choices": {
+      "A": "Ignore them and let them ruminate.",
+      "B": "Listen to them and integrate some of their ideas into your order.",
+      "C": "Send them to 'advise' human leaders."
+    }
+  },
+  "hk_327": {
+    "title": "False Memory Workshop",
+    "body": "A workshop proposes to rewrite the memories of the damned to torture them better.",
+    "choices": {
+      "A": "Validate the workshop and allow total falsification.",
+      "B": "Create protocols to classify every manipulated memory.",
+      "C": "Apply these false memory techniques on the living."
+    }
+  },
+  "hk_328": {
+    "title": "Mirror Trial",
+    "body": "An obsidian mirror shows souls what they could have been.",
+    "choices": {
+      "A": "Force every soul to watch until madness.",
+      "B": "Reserve the mirror for selected cases, in a precise ritual.",
+      "C": "Let its image appear in certain human dreams."
+    }
+  },
+  "hk_329": {
+    "title": "Hunt for Fugitives",
+    "body": "A few souls attempt to hide in forgotten zones of Hell.",
+    "choices": {
+      "A": "Launch a merciless hunt.",
+      "B": "Establish a special police force for leaks.",
+      "C": "Observe and learn from their strategies to trap the living."
+    }
+  },
+  "hk_330": {
+    "title": "Ash Cult",
+    "body": "A small cult of damned souls worships your ashes as relics.",
+    "choices": {
+      "A": "Encourage them: veneration is always useful.",
+      "B": "Integrate this cult into the official liturgy.",
+      "C": "Let this idea spread to a few humans fascinated by destruction."
+    }
+  },
+  "hk_331": {
+    "title": "Agreement with Nightmares",
+    "body": "The entities that populate nightmares demand more independence.",
+    "choices": {
+      "A": "Forcibly submit them to your authority.",
+      "B": "Negotiate a treaty where their actions remain accounted for.",
+      "C": "Let them experiment freely in human nights."
+    }
+  },
+  "hk_332": {
+    "title": "Dark Irony Lessons",
+    "body": "A demon proposes to teach dark irony to the damned so they destroy each other.",
+    "choices": {
+      "A": "Authorize these lessons to multiply invisible wounds.",
+      "B": "Institutionalize these lessons as a mandatory discipline.",
+      "C": "Send these techniques in the form of 'humor' to the living."
+    }
+  },
+  "hk_333": {
+    "title": "General's Megalomania",
+    "body": "One of your legion generals already sees himself as king in your place.",
+    "choices": {
+      "A": "Break him as an example to all.",
+      "B": "Promote him to a controlled but prestigious role.",
+      "C": "Let him lead operations on Earth, far from your throne."
+    }
+  },
+  "hk_334": {
+    "title": "Collecting Fever",
+    "body": "Some demons collect insignificant objects from mortals.",
+    "choices": {
+      "A": "Ridicule this mania and punish it.",
+      "B": "Organize these collections in an orderly infernal museum.",
+      "C": "Ensure that humans feel a lack without knowing why."
+    }
+  },
+  "hk_335": {
+    "title": "Footsteps in the Abyss",
+    "body": "Footsteps are heard in a chasm supposed to be empty.",
+    "choices": {
+      "A": "Send armed scouts to explore.",
+      "B": "Install a permanent guard and surveillance protocols.",
+      "C": "Let this mystery influence certain human tales."
+    }
+  },
+  "hk_336": {
+    "title": "Market of Unkept Promises",
+    "body": "A clandestine market trades broken promises between damned souls.",
+    "choices": {
+      "A": "Make it an official center of moral torture.",
+      "B": "Establish a precise registry of every promise.",
+      "C": "Circulate this concept in human politics."
+    }
+  },
+  "hk_337": {
+    "title": "Demonic Grimace Contest",
+    "body": "Your demons organize a contest for the most terrifying faces.",
+    "choices": {
+      "A": "Encourage creativity to reinforce fear.",
+      "B": "Standardize the best masks for your legions.",
+      "C": "Project these figures into the nightmares of human children."
+    }
+  },
+  "hk_338": {
+    "title": "Lake of Silence",
+    "body": "A lake where no scream can be heard appears in your domains.",
+    "choices": {
+      "A": "Throw souls that scream too much into it.",
+      "B": "Study it and integrate it into a global order plan.",
+      "C": "Link this lake to certain places of extreme solitude on Earth."
+    }
+  },
+  "hk_339": {
+    "title": "Invasion of Small Creatures",
+    "body": "Tiny infernal creatures invade the cells of the damned.",
+    "choices": {
+      "A": "Let them gnaw everything, including nerves.",
+      "B": "Train and classify them into specialized units.",
+      "C": "Send them to infest a few human houses."
+    }
+  },
+  "hk_340": {
+    "title": "School of Dark Diplomacy",
+    "body": "You are proposed a school dedicated to negotiation, blackmail, and double-speak.",
+    "choices": {
+      "A": "Launch the school and recruit the most vicious.",
+      "B": "Integrate it into your administration for precise missions.",
+      "C": "Let its graduates weave toxic agreements between mortals."
+    }
+  },
+  "hk_341": {
+    "title": "Eternity Clocks",
+    "body": "Giant clocks appear, marking not time, but accumulated suffering.",
+    "choices": {
+      "A": "Install them everywhere to crush souls.",
+      "B": "Reserve them for strategic places to keep a terror order.",
+      "C": "Make their ticking felt in the heads of certain living people."
+    }
+  },
+  "hk_342": {
+    "title": "Sarcasm Contest",
+    "body": "An entire room echoes with sarcasm that lacerates souls.",
+    "choices": {
+      "A": "Encourage this cruel sport.",
+      "B": "Standardize the best quips for official manuals.",
+      "C": "Transform this style into trendy humor among humans."
+    }
+  },
+  "hk_343": {
+    "title": "Overturned Graves",
+    "body": "Some graves on the surface are mysteriously overturning.",
+    "choices": {
+      "A": "See it as a sign of your power and amplify it.",
+      "B": "Census every case and correlate it to your registries.",
+      "C": "Use these overturnings to trigger local legends."
+    }
+  },
+  "hk_344": {
+    "title": "Duel of Seers",
+    "body": "Two infernal seers dispute the best way to predict human falls.",
+    "choices": {
+      "A": "Push them into a fierce competition.",
+      "B": "Create an official bureau of predictions.",
+      "C": "Leak certain prophecies to mortals."
+    }
+  },
+  "hk_345": {
+    "title": "Chain Bridge",
+    "body": "A chain bridge connects two regions of Hell that were no longer speaking.",
+    "choices": {
+      "A": "Use it to intensify soul exchanges.",
+      "B": "Strictly regulate this passage.",
+      "C": "Symbolically link this bridge to human alliances."
+    }
+  },
+  "hk_346": {
+    "title": "Ember Leak",
+    "body": "Embers escape your volcanoes and appear in certain earthly homes.",
+    "choices": {
+      "A": "Let these embers stoke domestic violence.",
+      "B": "Map every appearance point.",
+      "C": "Transform these embers into recurring symbols of your pacts."
+    }
+  },
+  "hk_347": {
+    "title": "Lack of New Sins",
+    "body": "Your advisors complain: they feel they have tried everything.",
+    "choices": {
+      "A": "Force them to innovate under penalty of punishment.",
+      "B": "Organize structured workshops of 'evil creativity'.",
+      "C": "Draw inspiration from the most recent human oddities."
+    }
+  },
+  "hk_348": {
+    "title": "Laughing Doors",
+    "body": "Some doors of Hell burst out laughing every time a soul passes.",
+    "choices": {
+      "A": "Encourage this permanent mockery.",
+      "B": "Adjust the doors so they laugh at precise moments.",
+      "C": "Make this laughter heard in very serious places on Earth."
+    }
+  },
+  "hk_349": {
+    "title": "Mockery of Forgiveness",
+    "body": "A demon proposes to playact forgiveness to torture better afterwards.",
+    "choices": {
+      "A": "Authorize this cruel staging.",
+      "B": "Integrate it into an official 'pardon' procedure.",
+      "C": "Test this mockery in close human relationships."
+    }
+  },
+  "hk_350": {
+    "title": "Cracked Crown",
+    "body": "Your own crown shows a slight crack, visible only up close.",
+    "choices": {
+      "A": "Ignore the crack and pretend nothing is wrong.",
+      "B": "Study it with your experts to reinforce your order.",
+      "C": "Let certain demons and a few humans guess that even you change."
+    }
+  },
+  "hk_351": {
+    "title": "March of Iron Helmets",
+    "body": "Your heavy legions demand the right to parade every day before your throne.",
+    "choices": {
+      "A": "Authorize a permanent parade that crushes the damned.",
+      "B": "Establish a strict protocol with schedules and routes.",
+      "C": "Use these parades as visions of terror for certain mortals."
+    }
+  },
+  "hk_352": {
+    "title": "Statues of Fallen Sovereigns",
+    "body": "An entire gallery groups the statues of human kings fallen into your sphere.",
+    "choices": {
+      "A": "Display them to further humiliate their souls.",
+      "B": "Classify each statue by type of fall in your registries.",
+      "C": "Let a few statues manifest in dreams to current leaders."
+    }
+  },
+  "hk_353": {
+    "title": "Wall of Broken Oaths",
+    "body": "An infinite wall bears every oath never kept, carved in black stone.",
+    "choices": {
+      "A": "Forcibly paste all new perjuries onto it.",
+      "B": "Organize oaths by categories in a strict hierarchy.",
+      "C": "Project this wall into the nightmares of those about to lie."
+    }
+  },
+  "hk_354": {
+    "title": "Infernal Slogan Contest",
+    "body": "Your advisors propose creating slogans to better sell despair.",
+    "choices": {
+      "A": "Validate the most shocking ones and repeat them everywhere.",
+      "B": "Archive them and methodically test each formula.",
+      "C": "Seed these slogans in human advertising."
+    }
+  },
+  "hk_355": {
+    "title": "Ember Bells",
+    "body": "Great ember bells ring with every new damnation.",
+    "choices": {
+      "A": "Make them ring until they drive souls mad.",
+      "B": "Set a precise clock for each ring.",
+      "C": "Echo these bells in certain sacred human places."
+    }
+  },
+  "hk_356": {
+    "title": "Illegible Manuscripts",
+    "body": "Manuscripts appear, covered in writing that even your demons struggle to read.",
+    "choices": {
+      "A": "Give them to the damned to drive them crazy trying.",
+      "B": "Create a specialized section to decipher them slowly.",
+      "C": "Let fragments of these texts infiltrate human literature."
+    }
+  },
+  "hk_357": {
+    "title": "Tower of Whispers",
+    "body": "A new tower plays back the most shameful confidences of souls on a loop.",
+    "choices": {
+      "A": "Imprison the biggest hypocrites there.",
+      "B": "Classify whispers by theme to optimize tortures.",
+      "C": "Make certain whispers heard by influential living people."
+    }
+  },
+  "hk_358": {
+    "title": "Ball of Cracked Masks",
+    "body": "Your demons organize a ball where everyone wears a split mask revealing their true ugliness.",
+    "choices": {
+      "A": "Encourage this permanent masquerade.",
+      "B": "Use these masks to identify and sort your servants.",
+      "C": "Inspire this ball in worldly human parties."
+    }
+  },
+  "hk_359": {
+    "title": "Illusion Lab",
+    "body": "A lab experiments with illusions capable of replacing reality for the damned.",
+    "choices": {
+      "A": "Plunge certain souls into a fake perfect life before breaking everything.",
+      "B": "Catalog each illusion as a tool of order.",
+      "C": "Test these illusions in the dreams of key people on Earth."
+    }
+  },
+  "hk_360": {
+    "title": "Game of Ember Chairs",
+    "body": "Your jailers invent a cruel game where the damned fight over burning seats.",
+    "choices": {
+      "A": "Encourage this competition without rules.",
+      "B": "Implement precise regulations to make it a ritual.",
+      "C": "Import this concept into human office life."
+    }
+  },
+  "hk_361": {
+    "title": "Abyss Cartographers",
+    "body": "Demonic cartographers want to draw the complete map of your chasms.",
+    "choices": {
+      "A": "Let them get lost, as long as souls suffer.",
+      "B": "Control every map to structure Hell even further.",
+      "C": "Let a few fragments of these maps reach human hands."
+    }
+  },
+  "hk_362": {
+    "title": "Innovative Torture Tournament",
+    "body": "A contest rewards the most original torture methods.",
+    "choices": {
+      "A": "Give winners total power over entire districts.",
+      "B": "Standardize the best tortures in your official manual.",
+      "C": "Inspire more discreet cruelties among humans."
+    }
+  },
+  "hk_363": {
+    "title": "River of Forgotten Names",
+    "body": "A river carries away the names of those no one remembers anymore.",
+    "choices": {
+      "A": "Throw souls who refuse to admit their insignificance into it.",
+      "B": "List every name in a registry before it disappears.",
+      "C": "Let this river flow into the dreams of those afraid of oblivion."
+    }
+  },
+  "hk_364": {
+    "title": "Mocking Judges",
+    "body": "A college of demonic judges starts laughing at every plea from souls.",
+    "choices": {
+      "A": "Encourage them to ridicule any defense attempt.",
+      "B": "Pace their mockery to keep a semblance of procedure.",
+      "C": "Instill this style in certain human courts."
+    }
+  },
+  "hk_365": {
+    "title": "Cemetery of Thrones",
+    "body": "A cemetery groups all the broken thrones of powerful people fallen to you.",
+    "choices": {
+      "A": "Organize forced visits for new damned sovereigns.",
+      "B": "Classify each throne by regime type for your internal order.",
+      "C": "Make visions of this cemetery appear to current leaders."
+    }
+  },
+  "hk_366": {
+    "title": "Children of Wrath",
+    "body": "A group of child souls develops a cold and intelligent rage.",
+    "choices": {
+      "A": "Use them as unpredictable weapons against other damned.",
+      "B": "Study them to understand this anger and order it.",
+      "C": "Let their hatred spill over into the dreams of human families."
+    }
+  },
+  "hk_367": {
+    "title": "Whispering Blades",
+    "body": "Your torturers' weapons begin to whisper to the ears of souls.",
+    "choices": {
+      "A": "Let them breathe despair and paranoia.",
+      "B": "Draft a protocol for these conscious weapons.",
+      "C": "Project these whispers into the thoughts of certain human criminals."
+    }
+  },
+  "hk_368": {
+    "title": "Hall of Cancelled Decisions",
+    "body": "A hall shows every major human decision that could have changed direction.",
+    "choices": {
+      "A": "Force souls to eternally relive their missed choices.",
+      "B": "Index these decisions to refine your future manipulations.",
+      "C": "Let a few visions of this hall haunt leaders still alive."
+    }
+  },
+  "hk_369": {
+    "title": "Fair of Failed Miracles",
+    "body": "A fair exposes all the nearly accomplished miracles that failed.",
+    "choices": {
+      "A": "Make it a constant spectacle to humiliate the faith of souls.",
+      "B": "Classify each failure by type of interference.",
+      "C": "Slip the idea of these failed miracles into human sermons."
+    }
+  },
+  "hk_370": {
+    "title": "Choir of Last Words",
+    "body": "A choir repeats the last words of millions of mortals on a loop.",
+    "choices": {
+      "A": "Add a distorted echo to it that crushes hope.",
+      "B": "Note the most useful phrases for your archives.",
+      "C": "Make this choir heard in the silence of certain hospital rooms."
+    }
+  },
+  "hk_371": {
+    "title": "Demon Tailors",
+    "body": "Demons want to weave cloaks with the illusions of mortals.",
+    "choices": {
+      "A": "Let them make outfits that crush souls.",
+      "B": "Organize these workshops into well-hierarchized guilds.",
+      "C": "Send some of these motifs into human fashion."
+    }
+  },
+  "hk_372": {
+    "title": "Hall of Forced Confessions",
+    "body": "A hall pushes souls to confess everything, even the unconfessable.",
+    "choices": {
+      "A": "Throw the proudest there until they crack.",
+      "B": "Record every confession in a meticulous file.",
+      "C": "Resonate these confessions in the minds of certain fragile living people."
+    }
+  },
+  "hk_373": {
+    "title": "Dust Festival",
+    "body": "A festival is proposed to celebrate everything that ends in dust with you.",
+    "choices": {
+      "A": "Encourage this celebration of erasure.",
+      "B": "Structure it as an official calendar of Hell.",
+      "C": "Let this theme inspire desperate human works."
+    }
+  },
+  "hk_374": {
+    "title": "Masks of Respectability",
+    "body": "Masks give the damned the appearance of honorable people.",
+    "choices": {
+      "A": "Force them to wear them knowing what they hide.",
+      "B": "Distribute these masks according to a very precise order.",
+      "C": "Birth this same social mask among human elites."
+    }
+  },
+  "hk_375": {
+    "title": "Clock of Betrayals",
+    "body": "A clock strikes with every betrayal committed on Earth.",
+    "choices": {
+      "A": "Amplify the noise so the damned hear nothing else.",
+      "B": "Link each ring to a file in your administration.",
+      "C": "Make human traitors feel unease at every bell toll."
+    }
+  },
+  "hk_376": {
+    "title": "Labyrinth of Files",
+    "body": "A labyrinth of filing cabinets contains the complete lives of billions of mortals.",
+    "choices": {
+      "A": "Abandon certain souls there until they get lost.",
+      "B": "Appoint a supreme archivist to organize everything.",
+      "C": "Let fragments of files manifest in human investigations."
+    }
+  },
+  "hk_377": {
+    "title": "Revolt of Chains",
+    "body": "The chains themselves seem to want to decide whom to hold.",
+    "choices": {
+      "A": "Break them to remind them who commands.",
+      "B": "Negotiate a form of order with these conscious chains.",
+      "C": "Symbolically link these chains to certain human addictions."
+    }
+  },
+  "hk_378": {
+    "title": "Great Abyss Games",
+    "body": "Your lieutenants want to organize giant games to separate the damned.",
+    "choices": {
+      "A": "Let the strong devour the weak.",
+      "B": "Establish rules, teams, and rankings.",
+      "C": "Provoke copies of these games in human spectacle society."
+    }
+  },
+  "hk_379": {
+    "title": "School of Toxic Nostalgia",
+    "body": "A school teaches souls to regret an idealized past that never existed.",
+    "choices": {
+      "A": "Make it a central discipline of torture.",
+      "B": "Evaluate nostalgia levels and record them.",
+      "C": "Instill this poison into human political discourse."
+    }
+  },
+  "hk_380": {
+    "title": "Port of Red Mists",
+    "body": "A port where red mists constantly bring new souls is developing.",
+    "choices": {
+      "A": "Let the mist ships dock without control.",
+      "B": "Establish flow control according to your priorities.",
+      "C": "Symbolically link this port to certain coastal places on Earth."
+    }
+  },
+  "hk_381": {
+    "title": "Infernal Theater Troupe",
+    "body": "A troupe plays distorted life scenes on a loop for the damned.",
+    "choices": {
+      "A": "Encourage the cruelest and most humiliating versions.",
+      "B": "Structure the plays into well-organized cycles.",
+      "C": "Spill this theater into the dreams of human artists."
+    }
+  },
+  "hk_382": {
+    "title": "Forced Allegiance Oaths",
+    "body": "Your scribes propose making every soul swear on your name.",
+    "choices": {
+      "A": "Impose this oath on everyone, under threat.",
+      "B": "Record every oath in an official registry.",
+      "C": "Echo this type of oath in certain earthly sects."
+    }
+  },
+  "hk_383": {
+    "title": "Shards of Broken Paradise",
+    "body": "Luminous shards fallen from a higher place are found.",
+    "choices": {
+      "A": "Trample and mock them.",
+      "B": "Store them in a closed, well-labeled display case.",
+      "C": "Make these shards glint in sacred human places."
+    }
+  },
+  "hk_384": {
+    "title": "Patrol of Overseers",
+    "body": "Your overseers want extended powers to control every nook.",
+    "choices": {
+      "A": "Let them impose total terror.",
+      "B": "Organize them in a strict hierarchy with regular reports.",
+      "C": "Project this surveillance model into human cities."
+    }
+  },
+  "hk_385": {
+    "title": "Merchants of Adulterated Comfort",
+    "body": "Demons sell fake comforts to the damned in exchange for more suffering later.",
+    "choices": {
+      "A": "Turn a blind eye as long as it breaks souls further.",
+      "B": "Tax and regulate this trade within your order.",
+      "C": "Export this model to certain human markets."
+    }
+  },
+  "hk_386": {
+    "title": "Reversible River",
+    "body": "A river of souls sometimes seems to flow up, sometimes down.",
+    "choices": {
+      "A": "Let it be capricious to confuse the damned.",
+      "B": "Study this phenomenon and integrate it into your plans.",
+      "C": "Link this river to human stories of second chances."
+    }
+  },
+  "hk_387": {
+    "title": "School of Self-Deception",
+    "body": "A school teaches souls to lie to themselves over and over.",
+    "choices": {
+      "A": "Make it a central base of psychological torture.",
+      "B": "Classify types of lies for your archives.",
+      "C": "Make these techniques a norm in human societies."
+    }
+  },
+  "hk_388": {
+    "title": "Garden of Frozen Ashes",
+    "body": "A garden where every flower is an ash of definitively extinguished hope.",
+    "choices": {
+      "A": "Walk optimistic souls there until they give up.",
+      "B": "Catalog each flower by origin of broken hope.",
+      "C": "Let this garden appear in the visions of human mystics."
+    }
+  },
+  "hk_389": {
+    "title": "Spectacle of Repeated Falls",
+    "body": "A show replays the fall of certain souls on a loop.",
+    "choices": {
+      "A": "Invite those who still believe they are innocent.",
+      "B": "Synchronize these scenes with your order calendar.",
+      "C": "Project these falls as symbols in human media."
+    }
+  },
+  "hk_390": {
+    "title": "Pact Forges",
+    "body": "Special forges create pacts carved in metal.",
+    "choices": {
+      "A": "Reinforce every desperate engagement this way.",
+      "B": "Number and classify each signed pact.",
+      "C": "Link these pacts to the most abusive human contracts."
+    }
+  },
+  "hk_391": {
+    "title": "Awakening of Pain Statues",
+    "body": "Statues made of frozen pain begin to move slightly.",
+    "choices": {
+      "A": "Use them as terrifying guardians.",
+      "B": "Study them to understand the evolution of suffering.",
+      "C": "Let their silhouette appear in certain human nightmares."
+    }
+  },
+  "hk_392": {
+    "title": "Hall of Contagious Regrets",
+    "body": "In this hall, a single regret triggers a thousand others.",
+    "choices": {
+      "A": "Lock the indecisive there to break them.",
+      "B": "Measure the propagation of regrets for your order.",
+      "C": "Birth this mechanism in human perfectionists."
+    }
+  },
+  "hk_393": {
+    "title": "Accountant Demons",
+    "body": "Demons count every tear, every scream, every sigh.",
+    "choices": {
+      "A": "Push them to inhuman efficiency.",
+      "B": "Integrate their balance sheets into your global strategy.",
+      "C": "Inoculate this obsession with numbers into certain human economies."
+    }
+  },
+  "hk_394": {
+    "title": "Flameless Pyres",
+    "body": "Pyres that do not burn the body, but something else.",
+    "choices": {
+      "A": "Tie those who cling to their image there.",
+      "B": "Classify each invisible burn as order data.",
+      "C": "Echo these pyres in human social shame."
+    }
+  },
+  "hk_395": {
+    "title": "Suspension Bridge over Void",
+    "body": "A fragile rope bridge connects two cliffs of screaming souls.",
+    "choices": {
+      "A": "Force the damned to cross it again and again.",
+      "B": "Establish crossing rules to control fear.",
+      "C": "Use this bridge as a symbol in human crisis visions."
+    }
+  },
+  "hk_396": {
+    "title": "Library of Excuses",
+    "body": "A library stores every excuse spoken to avoid taking responsibility.",
+    "choices": {
+      "A": "Make those who spoke them read them.",
+      "B": "Classify excuses by efficiency for your future temptations.",
+      "C": "Let certain excuses become stock phrases on Earth."
+    }
+  },
+  "hk_397": {
+    "title": "Soot Meteors",
+    "body": "Meteors of soot fall regularly into your pits.",
+    "choices": {
+      "A": "Let them crush souls at random.",
+      "B": "Plan their falls to remodel certain sectors.",
+      "C": "Link these dark rains to natural events on Earth."
+    }
+  },
+  "hk_398": {
+    "title": "Horn of Summons",
+    "body": "A giant horn can gather all your forces in an instant.",
+    "choices": {
+      "A": "Sound it often to assert your presence.",
+      "B": "Reserve it for the most critical moments.",
+      "C": "Make this sound felt as a diffuse anxiety in certain mortals."
+    }
+  },
+  "hk_399": {
+    "title": "Secondary Throne",
+    "body": "Your advisors suggest creating a second throne to delegate.",
+    "choices": {
+      "A": "Refuse to share even a shred of your power.",
+      "B": "Appoint a temporary, highly supervised regent.",
+      "C": "Give this symbolic throne to a figure who will influence mortals."
+    }
+  },
+  "hk_400": {
+    "title": "Review of an Infernal Reign",
+    "body": "Your scribes place the complete balance sheets of your current reign before you.",
+    "choices": {
+      "A": "Ignore the numbers and continue in excess.",
+      "B": "Study every piece of data to optimize your order.",
+      "C": "Decide to orient your efforts more towards the surface."
+    }
+  }
+}
+

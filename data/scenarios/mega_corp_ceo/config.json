@@ -1,0 +1,59 @@
+{
+  "id": "mega_corp_ceo",
+  "gauges": [
+    {
+      "id": "investors",
+      "label_fr": "Investisseurs",
+      "label_en": "Investors",
+      "label_de": "Investoren",
+      "label_es": "Inversores",
+      "label_pt": "Investidores",
+      "label_ptbr": "Investidores",
+      "label_ko": "투자자",
+      "label_ja": "投資家",
+      "label_id": "Investor"
+    },
+    {
+      "id": "employees",
+      "label_fr": "Employés",
+      "label_en": "Employees",
+      "label_de": "Mitarbeiter",
+      "label_es": "Empleados",
+      "label_pt": "Funcionários",
+      "label_ptbr": "Funcionários",
+      "label_ko": "직원",
+      "label_ja": "従業員",
+      "label_id": "Karyawan"
+    },
+    {
+      "id": "regulators",
+      "label_fr": "Régulateurs",
+      "label_en": "Regulators",
+      "label_de": "Aufsichtsbehörden",
+      "label_es": "Reguladores",
+      "label_pt": "Reguladores",
+      "label_ptbr": "Reguladores",
+      "label_ko": "규제 당국",
+      "label_ja": "規制当局",
+      "label_id": "Regulator"
+    },
+    {
+      "id": "brand_image",
+      "label_fr": "Image de marque",
+      "label_en": "Brand image",
+      "label_de": "Markenimage",
+      "label_es": "Imagen de marca",
+      "label_pt": "Imagem de marca",
+      "label_ptbr": "Imagem da marca",
+      "label_ko": "브랜드 이미지",
+      "label_ja": "ブランドイメージ",
+      "label_id": "Citra merek"
+    }
+  ],
+  "initialGauges": {
+    "investors": 50,
+    "employees": 50,
+    "regulators": 50,
+    "brand_image": 50
+  }
+}

@@ -1,0 +1,657 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Vuniverse</title>
+  <link rel="stylesheet" href="css/style.css" />
+
+  <style>
+    :root{
+      --gapAfterBtn: 42px;
+
+      --badgeGap: 10px;
+      --badgeMin: 56px;
+      --badgeMax: 100px;
+      --badgePad: 7%;
+
+      --badgeModalMax: 78vmin;
+      --badgeModalPad: 14px;
+      --badgeModalRadius: 20px;
+
+      --vr-bg: radial-gradient(circle at top, #f6e7cf 0, #1b6688 62%, #03279e 100%);
+      --vr-overlay: none;
+
+      --vr-text: rgba(255,255,255,.92);
+      --vr-muted: rgba(255,255,255,.70);
+    --vr-text-shadow: 0 3px 16px rgba(0,0,0,.45);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { width: 100%; max-width: 100%; overflow-x: hidden; }
+    img { display:block; max-width:100%; height:auto; }
+
+    body.vr-body{
+      margin: 0;
+      min-height: 100vh;
+      background: var(--vr-bg);
+      color: var(--vr-text);
+      position: relative;
+    }
+
+    .vr-overlay{
+      display: none !important;
+    }
+
+    .vr-header{
+      position: relative;
+      z-index: 10;
+      width: 100%;
+    }
+
+    .vr-top-actions{
+      position: relative;
+      z-index: 10;
+      width: 100%;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap: 10px;
+      padding: calc(10px + env(safe-area-inset-top)) 12px 8px;
+    }
+
+    .vr-top-slot{
+      flex: 1 1 0;
+      display:flex;
+      align-items:center;
+    }
+
+    .vr-top-left{ justify-content:flex-start; }
+    .vr-top-center{ justify-content:center; }
+    .vr-top-right{ justify-content:flex-end; gap:10px; }
+
+    .vr-icon-button{
+      width:44px;
+      height:44px;
+      border-radius:999px;
+      border: 1px solid rgba(255,255,255,0.18);
+      background: rgba(0,0,0,0.26);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      box-shadow: 0 10px 22px rgba(0,0,0,0.22);
+      padding:0;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      cursor:pointer;
+      text-decoration:none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .vr-icon-button:active{ transform: scale(.98); }
+
+    .vr-icon-button svg{
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,.65));
+    }
+
+    .vr-icon-image{
+      width:30px;
+      height:30px;
+      display:block;
+      background-size: contain;
+      background-repeat:no-repeat;
+      background-position:center;
+      pointer-events:none;
+      user-select:none;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,0.65)) contrast(1.15) brightness(1.08);
+    }
+
+    /* ✅ supprimé: vr-icon-profile */
+
+    .vr-icon-settings{
+      background-image: url("assets/img/ui/btn_settings.webp");
+    }
+
+    .vr-icon-shop{
+      background-image: url("assets/img/ui/btn_shop.webp");
+    }
+
+    .vr-main{
+      position:relative;
+      z-index:1;
+      padding: 0 12px 22px;
+    }
+
+    .vr-view{
+      display:block;
+    }
+
+    .vr-section-title{
+      margin: 10px 0 0;
+      font-weight: 950;
+      letter-spacing:.2px;
+      font-size: 18px;
+      text-align:center;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-page-sub{
+      display:none !important;
+    }
+
+    .vr-profile-grid{
+      margin: 14px 0 0;
+    }
+
+    .vr-profile-card{
+      border: none;
+      background: transparent;
+      box-shadow: none;
+      overflow: visible;
+      padding: 0;
+      margin: 0;
+    }
+
+    .vr-balances{
+      margin-top: 10px;
+      display:flex;
+      justify-content:center;
+      width:100%;
+    }
+
+    .vr-balances-row{
+      width: min(520px, 100%);
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap: 14px;
+    }
+
+    .vr-pill{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 0;
+      border: none;
+      background: transparent;
+      min-width: 0;
+    }
+
+    .vr-pill img{
+      width:30px;
+      height:30px;
+      object-fit:contain;
+      filter: drop-shadow(0 2px 10px rgba(0,0,0,.5));
+    }
+
+    .vr-pill .k{ display:none !important; }
+
+    .vr-pill .v{
+      display:block;
+      font-weight: 950;
+      font-size: 18px;
+      letter-spacing:.2px;
+      line-height:1;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-username-block{
+      margin-top: 16px;
+      text-align:center;
+    }
+
+    .vr-row-head{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      margin-bottom: 8px;
+    }
+
+    .vr-row-head .lbl{
+      font-size: 12px;
+      color: var(--vr-muted);
+      font-weight: 900;
+      letter-spacing: .2px;
+      text-align:center;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-username-display{
+      border: none;
+      background: transparent;
+      padding: 0;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      text-align:center;
+    }
+
+    .vr-username-display .name{
+      overflow:hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 18px;
+      font-weight: 950;
+      letter-spacing: .2px;
+      max-width: 100%;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-actions-under{
+      margin-top: 10px !important;
+      margin-bottom: var(--gapAfterBtn) !important;
+      display:flex;
+      justify-content:center;
+    }
+
+    .vr-mini-btn{
+      border-radius: 999px;
+      border: none;
+      background: rgba(255,255,255,.07);
+      color:#fff;
+      padding: 10px 14px;
+      font-weight: 950;
+      cursor:pointer;
+      -webkit-tap-highlight-color: transparent;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-mini-btn:active{ transform: scale(.99); }
+
+    .vr-edit-wrap{
+      display:none;
+      margin-top: 10px;
+    }
+
+    .vr-edit-wrap.is-open{
+      display:block;
+    }
+
+    .vr-username-row{
+      display:flex;
+      gap:10px;
+      align-items:stretch;
+      flex-wrap:wrap;
+      margin-top: 10px;
+      justify-content:center;
+    }
+
+    .vr-input{
+      flex: 1 1 220px;
+      min-width: 180px;
+      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,.14);
+      background: rgba(0,0,0,.22);
+      color: #fff;
+      padding: 12px 12px;
+      outline: none;
+      font-weight: 800;
+      letter-spacing: .2px;
+    }
+
+    .vr-btn{
+      flex: 0 0 auto;
+      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,.16);
+      background: rgba(255,255,255,.10);
+      color: #fff;
+      padding: 12px 14px;
+      font-weight: 950;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-btn:active{ transform: scale(.99); }
+
+    .vr-hint{
+      margin-top: 10px;
+      font-size: 12px;
+      color: var(--vr-muted);
+      line-height:1.35;
+      text-align:center;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-msg{
+      margin-top: 10px;
+      font-size: 12px;
+      line-height:1.35;
+      display:none;
+      text-align:center;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-msg.ok{ color: rgba(220,255,230,.95); }
+    .vr-msg.err{ color: rgba(255,220,220,.95); }
+
+    .vr-section-head{
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      margin: 0;
+    }
+
+    .vr-section-subtitle{
+      margin:0;
+      font-weight: 950;
+      font-size: 16px;
+      letter-spacing: .2px;
+      text-align:center;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-universe-grid{
+      margin: 12px 0 0;
+      display:grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 28px 14px;
+      align-items:start;
+      width:100%;
+      max-width: 100%;
+    }
+
+    .vr-universe-card{
+      border: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      overflow: visible !important;
+      padding: 0 4px !important;
+      min-width: 0 !important;
+      text-align:center;
+      opacity: 1 !important;
+      filter: none !important;
+
+      --badgeSize: clamp(
+        var(--badgeMin),
+        calc((100% - (2 * var(--badgeGap))) / 3),
+        var(--badgeMax)
+      );
+    }
+
+    .vr-universe-inner{
+      padding: 0 !important;
+      min-width:0;
+    }
+
+    .vr-universe-name{
+      margin:0;
+      font-weight: 950;
+      font-size: 13px;
+      letter-spacing:.2px;
+      overflow:hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      text-align:center;
+      color: var(--vr-text) !important;
+      opacity: 1 !important;
+      text-shadow: var(--vr-text-shadow);
+    }
+
+    .vr-universe-badges{
+      margin-top: 10px;
+      width: 100%;
+      display:grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: clamp(6px, 1.8vw, var(--badgeGap));
+      align-items:center;
+      justify-items:center;
+      overflow: visible;
+    }
+
+    .vr-badge{
+      width: 100% !important;
+      aspect-ratio: 1 / 1 !important;
+      max-width: var(--badgeSize) !important;
+      border: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      position: relative !important;
+      overflow: hidden !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      line-height: 0 !important;
+      filter: none !important;
+      opacity: 1 !important;
+      cursor: pointer !important;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .vr-badge:active{ transform: scale(.99); }
+
+    .vr-badge img{
+      position:absolute !important;
+      inset:0 !important;
+      width:100% !important;
+      height:100% !important;
+      object-fit: contain !important;
+      padding: var(--badgePad) !important;
+      box-sizing: border-box !important;
+      border:0 !important;
+      outline:0 !important;
+      background: transparent !important;
+      box-shadow:none !important;
+      filter:none !important;
+      opacity: 1;
+      pointer-events:none;
+      user-select:none;
+    }
+
+    .vr-badge .full{
+      opacity:0 !important;
+      transition: opacity .18s ease;
+    }
+
+    .vr-badge.unlocked .full{
+      opacity:1 !important;
+    }
+
+    .vr-modal{
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: calc(14px + env(safe-area-inset-top)) 14px calc(14px + env(safe-area-inset-bottom));
+    }
+
+    .vr-modal.is-open{
+      display:flex;
+    }
+
+    .vr-modal__backdrop{
+      position:absolute;
+      inset:0;
+      background: rgba(0,0,0,.62);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+
+    .vr-modal__panel{
+      position: relative;
+      width: min(520px, 96vw);
+      border-radius: var(--badgeModalRadius);
+      border: 1px solid rgba(255,255,255,.12);
+      background: rgba(10,12,18,.72);
+      box-shadow: 0 24px 80px rgba(0,0,0,.55);
+      overflow: hidden;
+      transform: translateZ(0);
+    }
+
+    .vr-modal__top{
+      display:flex;
+      align-items:center;
+      justify-content:flex-end;
+      padding: 10px 10px 0;
+    }
+
+    .vr-modal__close{
+      width: 42px;
+      height: 42px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,.16);
+      background: rgba(255,255,255,.08);
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      cursor:pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .vr-modal__close:active{ transform: scale(.99); }
+
+    .vr-modal__close svg{
+      width: 22px;
+      height: 22px;
+      filter: drop-shadow(0 2px 10px rgba(0,0,0,.55));
+    }
+
+    .vr-modal__content{
+      padding: var(--badgeModalPad);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+
+    .vr-modal__img{
+      width: min(var(--badgeModalMax), 460px);
+      height: auto;
+      aspect-ratio: 1 / 1;
+      object-fit: contain;
+      border-radius: 18px;
+      background: radial-gradient(60% 60% at 50% 40%, rgba(255,255,255,.06), transparent 70%);
+      filter: drop-shadow(0 18px 46px rgba(0,0,0,.55));
+      user-select:none;
+      pointer-events:none;
+    }
+  </style>
+</head>
+<body class="vr-body">
+
+  <header class="vr-header" aria-label="Top actions">
+    <div class="vr-top-actions">
+      <div class="vr-top-slot vr-top-left">
+        <a id="btn-back-home" class="vr-icon-button" href="index.html" data-i18n-aria="common.back">
+          <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" focusable="false">
+            <path d="M15.5 5l-7 7 7 7"
+                  fill="none"
+                  stroke="white"
+                  stroke-width="2.4"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+
+      <div class="vr-top-slot vr-top-center">
+        <a id="btn-settings" class="vr-icon-button" href="settings.html" data-i18n-aria="common.settings">
+          <span class="vr-icon-image vr-icon-settings"></span>
+        </a>
+      </div>
+
+      <div class="vr-top-slot vr-top-right">
+        <a id="btn-shop" class="vr-icon-button" href="shop.html" data-i18n-aria="common.shop">
+          <span class="vr-icon-image vr-icon-shop"></span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <div class="vr-overlay"></div>
+
+  <main class="vr-main">
+    <section id="view-profile" class="vr-view vr-view-active">
+      <h2 class="vr-section-title" data-i18n="profile.title"></h2>
+      <p class="vr-page-sub" data-i18n="profile.subtitle"></p>
+
+      <div class="vr-profile-grid">
+        <div class="vr-profile-card">
+
+          <div class="vr-balances">
+            <div class="vr-balances-row">
+              <div class="vr-pill vr-pill--left">
+                <img src="assets/img/ui/vcoins.webp" alt="" />
+                <div>
+                  <span class="k" data-i18n="profile.vcoins"></span>
+                  <span class="v" id="pf_vcoins">0</span>
+                </div>
+              </div>
+
+              <div class="vr-pill vr-pill--right">
+                <div>
+                  <span class="k" data-i18n="shop.jetons_title"></span>
+                  <span class="v" id="pf_jetons">0</span>
+                </div>
+                <img src="assets/img/ui/jeton.webp" alt="" />
+              </div>
+            </div>
+          </div>
+
+          <div class="vr-username-block">
+            <div class="vr-row-head">
+              <div class="lbl" data-i18n="auth.username.label"></div>
+            </div>
+
+            <div class="vr-username-display">
+              <div class="name" id="pf_username_text">—</div>
+            </div>
+
+            <div class="vr-actions-under">
+              <button class="vr-mini-btn" id="pf_edit_toggle" type="button" data-i18n="profile.edit_username"></button>
+            </div>
+
+            <div class="vr-edit-wrap" id="pf_edit_wrap">
+              <div class="vr-username-row">
+                <input
+                  class="vr-input"
+                  id="pf_username_input"
+                  type="text"
+                  inputmode="text"
+                  autocomplete="off"
+                  spellcheck="false"
+                  data-i18n-placeholder="auth.username.placeholder"
+                />
+                <button class="vr-btn" id="pf_save" type="button" data-i18n="profile.save_username"></button>
+                <button class="vr-mini-btn" id="pf_cancel" type="button" data-i18n="common.cancel"></button>
+              </div>
+
+              <div class="vr-hint" id="pf_hint" data-i18n="auth.username.rules"></div>
+              <div class="vr-msg" id="pf_msg"></div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="vr-section-head">
+        <h2 class="vr-section-subtitle" data-i18n="profile.universes_title"></h2>
+      </div>
+
+      <section class="vr-universe-grid" id="pf_universes"></section>
+    </section>
+  </main>
+
+  <div class="vr-modal" id="badgeModal" aria-hidden="true">
+    <div class="vr-modal__backdrop" id="badgeModalBackdrop"></div>
+    <div class="vr-modal__panel" role="dialog" aria-modal="true" data-i18n-aria="ui.aria_badge_modal">
+      <div class="vr-modal__top">
+        <button class="vr-modal__close" id="badgeModalClose" type="button" data-i18n-aria="common.close">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path fill="white" d="M18.3 5.7a1 1 0 0 1 0 1.4L13.4 12l4.9 4.9a1 1 0 1 1-1.4 1.4L12 13.4l-4.9 4.9a1 1 0 1 1-1.4-1.4l4.9-4.9-4.9-4.9a1 1 0 1 1 1.4-1.4L12 10.6l4.9-4.9a1 1 0 0 1 1.4 0z"/>
+          </svg>
+        </button>
+      </div>
+      <div class="vr-modal__content">
+        <img class="vr-modal__img" id="badgeModalImg" alt="" draggable="false" />
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script src="js/supabaseBootstrap.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/userData.js"></script>
+  <script src="js/profile.js"></script>
+</body>
+</html>

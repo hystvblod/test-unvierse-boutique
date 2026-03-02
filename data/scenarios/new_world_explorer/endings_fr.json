@@ -1,0 +1,34 @@
+{
+  "nw_end_conquered_territory_0": {
+    "title": "Terre perdue",
+    "body": "Tes cartes se vident de leurs routes. Les drapeaux restent dans les caisses, et l’équipage parle surtout… du retour."
+  },
+  "nw_end_conquered_territory_100": {
+    "title": "Empire sur la carte",
+    "body": "Tes frontières s’étirent comme un trait d’encre. Même le cartographe sourit (c’est rare)."
+  },
+  "nw_end_found_wealth_0": {
+    "title": "Poches vides",
+    "body": "Pas d’or, pas d’épices, pas même un coquillage rare. Au moins, tu as des histoires… à raconter sans budget."
+  },
+  "nw_end_found_wealth_100": {
+    "title": "Coffres pleins",
+    "body": "Les cales débordent. Chaque découverte sonne comme une pièce. Ton intendant pleure de joie (et compte deux fois)."
+  },
+  "nw_end_converted_population_0": {
+    "title": "Convictions personnelles",
+    "body": "Personne ne suit tes sermons, mais tout le monde t’offre du thé. Au fond, c’est peut-être mieux comme ça."
+  },
+  "nw_end_converted_population_100": {
+    "title": "Chorale mondiale",
+    "body": "Les chants résonnent jusqu’au port. Ton missionnaire demande déjà un rappel… et un micro."
+  },
+  "nw_end_royal_treasury_0": {
+    "title": "La cour fait la grimace",
+    "body": "À la couronne, on parle de “mesures d’économie”. Ton chapeau n’est plus invité aux banquets."
+  },
+  "nw_end_royal_treasury_100": {
+    "title": "Favori de la couronne",
+    "body": "Le trésor royal gonfle, les médailles pleuvent. On te demande même ton avis… sur la couleur des rideaux."
+  }
+}
